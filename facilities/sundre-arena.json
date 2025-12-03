@@ -1,0 +1,324 @@
+{
+  "version": "1.0",
+  "generated_at": "2025-12-03T06:58:49.493793Z",
+  "facility": {
+    "id": "sundre-arena",
+    "name": "Sundre Arena",
+    "city": "Sundre",
+    "source_url": "https://www.sundre.com/p/arena"
+  },
+  "week": {
+    "start_date": "2025-12-01",
+    "end_date": "2025-12-07"
+  },
+  "slots": [
+    {
+      "type": "practice",
+      "start": "2025-12-01",
+      "end": "2025-12-01",
+      "label": "Private Ice",
+      "notes": "7:30 AM - 8:15 AM"
+    },
+    {
+      "type": "shinny",
+      "start": "2025-12-02",
+      "end": "2025-12-02",
+      "label": "Adult Shinny",
+      "notes": "1:00 PM - 2:45 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-02",
+      "end": "2025-12-02",
+      "label": "Sticks N Pucks",
+      "notes": "3:00 PM - 4:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-02",
+      "end": "2025-12-02",
+      "label": "SMH- Practice U9",
+      "notes": "4:30 PM - 5:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-02",
+      "end": "2025-12-02",
+      "label": "SMH- Practice U11",
+      "notes": "5:30 PM - 6:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-02",
+      "end": "2025-12-02",
+      "label": "SMH- Practice U13",
+      "notes": "6:30 PM - 7:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-02",
+      "end": "2025-12-02",
+      "label": "Sundre Skating Club Star Skate",
+      "notes": "6:30 PM - 8:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-02",
+      "end": "2025-12-02",
+      "label": "SMH- Practice U15",
+      "notes": "7:30 PM - 8:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-02",
+      "end": "2025-12-02",
+      "label": "SMH- Practice U18",
+      "notes": "8:30 PM - 9:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-02",
+      "end": "2025-12-02",
+      "label": "Mens Hockey- Bombers",
+      "notes": "9:30 PM - 11:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-03",
+      "end": "2025-12-03",
+      "label": "Adult Public Skating",
+      "notes": "1:00 PM - 2:45 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-03",
+      "end": "2025-12-03",
+      "label": "Public Skating",
+      "notes": "3:00 PM - 4:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-03",
+      "end": "2025-12-03",
+      "label": "SMH- Practice U7",
+      "notes": "4:30 PM - 5:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-03",
+      "end": "2025-12-03",
+      "label": "SMH- Practice U11",
+      "notes": "5:30 PM - 6:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-03",
+      "end": "2025-12-03",
+      "label": "Sundre Skating Club Learn to Skate",
+      "notes": "5:30 PM - 6:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-03",
+      "end": "2025-12-03",
+      "label": "SMH- Practice U13",
+      "notes": "6:30 PM - 7:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-03",
+      "end": "2025-12-03",
+      "label": "SMH- Practice U15",
+      "notes": "7:30 PM - 8:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-03",
+      "end": "2025-12-03",
+      "label": "Women's Hockey- Shooters",
+      "notes": "8:00 PM - 9:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-03",
+      "end": "2025-12-03",
+      "label": "SMH- Practice U18",
+      "notes": "8:30 PM - 9:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-04",
+      "end": "2025-12-04",
+      "label": "Ice Maintenance",
+      "notes": "7:00 AM - 12:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-04",
+      "end": "2025-12-04",
+      "label": "Rec Hockey",
+      "notes": "2:30 PM - 6:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-04",
+      "end": "2025-12-04",
+      "label": "SMH- Practice U7",
+      "notes": "4:00 PM - 5:50 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-04",
+      "end": "2025-12-04",
+      "label": "Sundre Skating Club Star Skate",
+      "notes": "6:00 PM - 8:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-04",
+      "end": "2025-12-04",
+      "label": "Mens Hockey- Rhinos vs Rams",
+      "notes": "8:00 PM - 9:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-05",
+      "end": "2025-12-05",
+      "label": "SMH Tournament U11",
+      "notes": "7:00 AM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-05",
+      "end": "2025-12-05",
+      "label": "Clubroom Private Event",
+      "notes": "4:00 PM - 11:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-05",
+      "end": "2025-12-05",
+      "label": "SMH Tournament- Didsbury Ramblers vs Springbank",
+      "notes": "1:00 PM - 5:45 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-05",
+      "end": "2025-12-05",
+      "label": "SMH Tournament- Red Deer Chiefs vs Olds Grizzly's",
+      "notes": "6:45 PM - 7:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-05",
+      "end": "2025-12-05",
+      "label": "SMH Tournament- Sundre vs SA-412 Raptors",
+      "notes": "7:45 PM - 9:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-06",
+      "end": "2025-12-06",
+      "label": "Sundre Skating Club",
+      "notes": "6:30 AM - 7:50 AM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-06",
+      "end": "2025-12-06",
+      "label": "SMH Tournament- Okotoks vs Beaverlodge",
+      "notes": "8:00 AM - 9:45 AM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-06",
+      "end": "2025-12-06",
+      "label": "SMH Tournament- Winner A vs Winner B",
+      "notes": "9:45 AM - 11:30 AM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-06",
+      "end": "2025-12-06",
+      "label": "SMH Tournament- Winner C vs Winner D",
+      "notes": "11:45 AM - 1:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-06",
+      "end": "2025-12-06",
+      "label": "SMH Tournament- Loser A vs Loser B",
+      "notes": "1:30 PM - 3:15 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-06",
+      "end": "2025-12-06",
+      "label": "SMH Tournament- Loser C vs Loser D",
+      "notes": "3:30 PM - 5:15 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-06",
+      "end": "2025-12-06",
+      "label": "SMH Tournament- Winner E vs Winner F",
+      "notes": "5:15 PM - 7:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-06",
+      "end": "2025-12-06",
+      "label": "SMH Tournament- Winner G vs Winner H",
+      "notes": "7:15 PM - 9:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-07",
+      "end": "2025-12-07",
+      "label": "SMH Tournament- Loser E vs Loser F",
+      "notes": "8:00 AM - 9:45 AM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-07",
+      "end": "2025-12-07",
+      "label": "SMH Tournament- Loser G vs Loser H",
+      "notes": "9:45 AM - 11:30 AM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-07",
+      "end": "2025-12-07",
+      "label": "SMH Tournament- Loser I vs Loser J",
+      "notes": "11:45 AM - 1:45 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-07",
+      "end": "2025-12-07",
+      "label": "SMH Tournament- Loser K vs Loser L",
+      "notes": "1:45 PM - 3:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-07",
+      "end": "2025-12-07",
+      "label": "SMH Tournament- Winner K vs Winner L",
+      "notes": "3:45 PM - 5:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-07",
+      "end": "2025-12-07",
+      "label": "SMH Tournament- Winner I vs Winner J",
+      "notes": "5:30 PM - 7:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-07",
+      "end": "2025-12-07",
+      "label": "Mens Hockey- Ice Men's vs Bombers",
+      "notes": "8:00 PM - 9:30 PM"
+    }
+  ]
+}
