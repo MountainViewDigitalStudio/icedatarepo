@@ -1,0 +1,58 @@
+{
+  "version": "1.0",
+  "generated_at": "2025-12-08T02:28:39.065927Z",
+  "facility": {
+    "id": "olds-sportsplex",
+    "name": "Olds Sportsplex",
+    "city": "Olds",
+    "source_url": "https://app.univerusrec.com/oldsrecreationpub/calendars/facilities/index.asp"
+  },
+  "week": {
+    "start_date": "T00:00:00",
+    "end_date": "T00:00:00"
+  },
+  "slots": [
+    {
+      "type": "practice",
+      "start": "T00:00:00",
+      "end": "T00:00:00",
+      "label": "",
+      "notes": "FacilityDayWeekMonthList ViewGrid ViewPrint CalendarView PDF"
+    },
+    {
+      "type": "practice",
+      "start": "T00:00:00",
+      "end": "T00:00:00",
+      "label": "Day",
+      "notes": "Week - Month"
+    },
+    {
+      "type": "practice",
+      "start": "T00:00:00",
+      "end": "T00:00:00",
+      "label": "",
+      "notes": ""
+    },
+    {
+      "type": "practice",
+      "start": "T00:00:00",
+      "end": "T00:00:00",
+      "label": "",
+      "notes": "FacilityDayWeekMonthList ViewGrid ViewPrint CalendarView PDF"
+    },
+    {
+      "type": "practice",
+      "start": "T00:00:00",
+      "end": "T00:00:00",
+      "label": "Day",
+      "notes": "Week - Month"
+    },
+    {
+      "type": "practice",
+      "start": "T00:00:00",
+      "end": "T00:00:00",
+      "label": "",
+      "notes": ""
+    }
+  ]
+}
