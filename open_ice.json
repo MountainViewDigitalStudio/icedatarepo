@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-08T04:29:11.916400Z",
+  "generated_at": "2025-12-08T09:08:42.181185Z",
   "week": {
     "start_date": "2025-12-01",
     "end_date": "2025-12-07"
@@ -12,8 +12,8 @@
       "facility_name": "Sundre Arena",
       "city": "Sundre",
       "type": "shinny",
-      "start": "2025-12-01T13:00:00",
-      "end": "2025-12-01T14:45:00",
+      "start": "2025-12-02T13:00:00",
+      "end": "2025-12-02T14:45:00",
       "label": "Adult Shinny",
       "notes": "",
       "source_url": "https://www.sundre.com/p/arena"
@@ -23,8 +23,8 @@
       "facility_name": "Sundre Arena",
       "city": "Sundre",
       "type": "stick_and_puck",
-      "start": "2025-12-01T15:00:00",
-      "end": "2025-12-01T16:00:00",
+      "start": "2025-12-02T15:00:00",
+      "end": "2025-12-02T16:00:00",
       "label": "Sticks N Pucks",
       "notes": "",
       "source_url": "https://www.sundre.com/p/arena"

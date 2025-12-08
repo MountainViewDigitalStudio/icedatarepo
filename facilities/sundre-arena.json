@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-08T04:29:11.807936Z",
+  "generated_at": "2025-12-08T09:08:42.025723Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena",
@@ -21,65 +21,30 @@
     },
     {
       "type": "shinny",
-      "start": "2025-12-01T13:00:00",
-      "end": "2025-12-01T14:45:00",
+      "start": "2025-12-02T13:00:00",
+      "end": "2025-12-02T14:45:00",
       "label": "Adult Shinny",
       "notes": ""
     },
     {
       "type": "stick_and_puck",
-      "start": "2025-12-01T15:00:00",
-      "end": "2025-12-01T16:00:00",
+      "start": "2025-12-02T15:00:00",
+      "end": "2025-12-02T16:00:00",
       "label": "Sticks N Pucks",
-      "notes": ""
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-01T16:30:00",
-      "end": "2025-12-01T17:30:00",
-      "label": "SMH- Practice U9",
-      "notes": ""
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-01T17:30:00",
-      "end": "2025-12-01T18:20:00",
-      "label": "SMH- Practice U11",
-      "notes": ""
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-01T18:30:00",
-      "end": "2025-12-01T19:20:00",
-      "label": "SMH- Practice U13",
-      "notes": ""
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-01T19:30:00",
-      "end": "2025-12-01T20:20:00",
-      "label": "SMH- Practice U15",
-      "notes": ""
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-01T20:30:00",
-      "end": "2025-12-01T21:20:00",
-      "label": "SMH- Practice U18",
-      "notes": ""
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-01T21:30:00",
-      "end": "2025-12-01T23:00:00",
-      "label": "Mens Hockey- Bombers",
       "notes": ""
     },
     {
       "type": "practice",
       "start": "2025-12-02T16:30:00",
       "end": "2025-12-02T17:20:00",
-      "label": "SMH-Practice U7",
+      "label": "SMH- Practice U7",
+      "notes": ""
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-02T17:30:00",
+      "end": "2025-12-02T18:20:00",
+      "label": "SMH- Practice U11",
       "notes": ""
     },
     {
@@ -92,8 +57,29 @@
     {
       "type": "practice",
       "start": "2025-12-02T18:30:00",
+      "end": "2025-12-02T19:20:00",
+      "label": "SMH- Practice U13",
+      "notes": ""
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-02T18:30:00",
       "end": "2025-12-02T20:00:00",
       "label": "Sundre Skating Club Star Skate",
+      "notes": ""
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-02T19:30:00",
+      "end": "2025-12-02T20:20:00",
+      "label": "SMH- Practice U15",
+      "notes": ""
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-02T20:30:00",
+      "end": "2025-12-02T21:20:00",
+      "label": "SMH- Practice U18",
       "notes": ""
     },
     {
@@ -101,6 +87,13 @@
       "start": "2025-12-02T20:00:00",
       "end": "2025-12-02T21:30:00",
       "label": "Women's Hockey- Shooters",
+      "notes": ""
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-02T21:30:00",
+      "end": "2025-12-02T23:00:00",
+      "label": "Mens Hockey- Bombers",
       "notes": ""
     },
     {
@@ -121,7 +114,7 @@
       "type": "practice",
       "start": "2025-12-03T16:30:00",
       "end": "2025-12-03T17:20:00",
-      "label": "SMH- Practice U9",
+      "label": "SMH- Practice UP",
       "notes": ""
     },
     {
@@ -168,7 +161,7 @@
     },
     {
       "type": "practice",
-      "start": "2025-12-04T18:00:00",
+      "start": "2025-12-04T16:00:00",
       "end": "2025-12-04T17:50:00",
       "label": "SMH-Practice U7",
       "notes": ""
@@ -210,22 +203,22 @@
     },
     {
       "type": "practice",
-      "start": "2025-12-05T17:45:00",
+      "start": "2025-12-05T09:45:00",
       "end": "2025-12-05T19:30:00",
-      "label": "SMH Tournament- Red Deer Chiefs vs Olds Grizzlys",
+      "label": "SMH Tournament- Red Deer Chiefs vs Olds Grizzly's",
       "notes": ""
     },
     {
       "type": "practice",
       "start": "2025-12-05T19:45:00",
       "end": "2025-12-05T21:30:00",
-      "label": "SMH Tournament- Sundre vs SA-412 Raptors",
+      "label": "SMH Tournament- Sundre vs SA-J12 Raptors",
       "notes": ""
     },
     {
       "type": "practice",
       "start": "2025-12-06T06:30:00",
-      "end": "2025-12-06T07:30:00",
+      "end": "2025-12-06T07:50:00",
       "label": "Sundre Skating Club",
       "notes": ""
     },
@@ -233,7 +226,7 @@
       "type": "practice",
       "start": "2025-12-06T08:00:00",
       "end": "2025-12-06T09:45:00",
-      "label": "SMH Tournament-Okotoks vs Beaverlodge",
+      "label": "SMH Tournament-Okotoks vs Beiseker/Rockyview",
       "notes": ""
     },
     {
@@ -310,7 +303,7 @@
       "type": "practice",
       "start": "2025-12-07T15:45:00",
       "end": "2025-12-07T17:30:00",
-      "label": "SMH Tournament- Winner K vs Winner",
+      "label": "SMH Tournament- Winner K vs Winner L",
       "notes": ""
     },
     {
