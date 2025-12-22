@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-22T15:28:40.120286Z",
+  "generated_at": "2025-12-22T15:31:21.632089Z",
   "week": {
     "start_date": "2025-12-22",
     "end_date": "2025-12-28"
@@ -12,10 +12,10 @@
       "facility_name": "Sundre Arena",
       "city": "Sundre",
       "type": "shinny",
-      "start": "2025-12-22T13:00:00",
-      "end": "2025-12-22T14:45:00",
+      "start": "2025-12-22",
+      "end": "2025-12-22",
       "label": "Adult Shinny",
-      "notes": "",
+      "notes": "1 - 2:45pm",
       "source_url": "https://www.sundre.com/p/arena"
     },
     {
@@ -23,10 +23,10 @@
       "facility_name": "Sundre Arena",
       "city": "Sundre",
       "type": "stick_and_puck",
-      "start": "2025-12-22T15:00:00",
-      "end": "2025-12-22T16:20:00",
+      "start": "2025-12-22",
+      "end": "2025-12-22",
       "label": "Sticks N Pucks",
-      "notes": "",
+      "notes": "3 - 4:20pm",
       "source_url": "https://www.sundre.com/p/arena"
     },
     {
@@ -34,10 +34,10 @@
       "facility_name": "Sundre Arena",
       "city": "Sundre",
       "type": "public_skate",
-      "start": "2025-12-23T09:00:00",
-      "end": "2025-12-23T10:15:00",
+      "start": "2025-12-23",
+      "end": "2025-12-23",
       "label": "Public Skating",
-      "notes": "",
+      "notes": "9 - 10:15am",
       "source_url": "https://www.sundre.com/p/arena"
     },
     {
@@ -45,10 +45,10 @@
       "facility_name": "Sundre Arena",
       "city": "Sundre",
       "type": "family_skate",
-      "start": "2025-12-23T12:00:00",
-      "end": "2025-12-23T13:30:00",
+      "start": "2025-12-23",
+      "end": "2025-12-23",
       "label": "Family Skate Private",
-      "notes": "",
+      "notes": "12 - 12:50pm",
       "source_url": "https://www.sundre.com/p/arena"
     }
   ]
