@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-22T15:31:21.522592Z",
+  "generated_at": "2025-12-22T15:36:00.242997Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena",
@@ -49,7 +49,7 @@
       "notes": "5:30 - 6:20pm"
     },
     {
-      "type": "practice",
+      "type": "skating_club",
       "start": "2025-12-22",
       "end": "2025-12-22",
       "label": "Sundre Skating Club Learn to Skate",
@@ -63,7 +63,7 @@
       "notes": "6:30 - 7:20pm"
     },
     {
-      "type": "practice",
+      "type": "skating_club",
       "start": "2025-12-22",
       "end": "2025-12-22",
       "label": "Sundre Skating Club Star Skate",
@@ -84,7 +84,7 @@
       "notes": "8:30 - 9:20pm"
     },
     {
-      "type": "practice",
+      "type": "adult_rec",
       "start": "2025-12-22",
       "end": "2025-12-22",
       "label": "Mens Hockey- Bombers",
@@ -109,14 +109,14 @@
       "start": "2025-12-23",
       "end": "2025-12-23",
       "label": "Family Skate Private",
-      "notes": "12 - 12:50pm"
+      "notes": "12 - 6:50pm"
     },
     {
       "type": "practice",
       "start": "2025-12-23",
       "end": "2025-12-23",
       "label": "Arena Closed",
-      "notes": "5pm - 12am"
+      "notes": "8pm - 12am"
     },
     {
       "type": "practice",
