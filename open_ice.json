@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-22T16:11:51.624847Z",
+  "generated_at": "2025-12-22T17:33:02.418698Z",
   "week": {
     "start_date": "2025-12-22",
     "end_date": "2025-12-28"
@@ -11,33 +11,11 @@
       "facility_id": "sundre-arena",
       "facility_name": "Sundre Arena",
       "city": "Sundre",
-      "type": "shinny",
-      "start": "2025-12-22",
-      "end": "2025-12-22",
-      "label": "Adult Shinny",
-      "notes": "1:00 PM - 2:45 PM",
-      "source_url": "https://www.sundre.com/p/arena"
-    },
-    {
-      "facility_id": "sundre-arena",
-      "facility_name": "Sundre Arena",
-      "city": "Sundre",
-      "type": "stick_and_puck",
-      "start": "2025-12-22",
-      "end": "2025-12-22",
-      "label": "Sticks N Pucks",
-      "notes": "3:00 PM - 4:20 PM",
-      "source_url": "https://www.sundre.com/p/arena"
-    },
-    {
-      "facility_id": "sundre-arena",
-      "facility_name": "Sundre Arena",
-      "city": "Sundre",
       "type": "public_skate",
       "start": "2025-12-23",
       "end": "2025-12-23",
       "label": "Public Skating",
-      "notes": "9:00 AM - 10:15 AM",
+      "notes": "9 - 10:15am",
       "source_url": "https://www.sundre.com/p/arena"
     },
     {
@@ -48,7 +26,29 @@
       "start": "2025-12-23",
       "end": "2025-12-23",
       "label": "Family Skate Private",
-      "notes": "12:00 PM - 5:00 PM",
+      "notes": "12 - 12:50pm",
+      "source_url": "https://www.sundre.com/p/arena"
+    },
+    {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": "Sundre",
+      "type": "shinny",
+      "start": "2025-12-23",
+      "end": "2025-12-23",
+      "label": "Adult Shinny",
+      "notes": "1 - 2:45pm",
+      "source_url": "https://www.sundre.com/p/arena"
+    },
+    {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": "Sundre",
+      "type": "stick_and_puck",
+      "start": "2025-12-23",
+      "end": "2025-12-23",
+      "label": "Sticks N Pucks",
+      "notes": "3 - 4:20pm",
       "source_url": "https://www.sundre.com/p/arena"
     }
   ]
