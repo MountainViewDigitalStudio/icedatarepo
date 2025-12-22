@@ -1,0 +1,158 @@
+{
+  "version": "1.0",
+  "generated_at": "2025-12-22T18:27:43.309002Z",
+  "facility": {
+    "id": "sundre-arena",
+    "name": "Sundre Arena",
+    "city": "Sundre",
+    "address": "Sundre Arena#1, 101-2 Avenue NW",
+    "source_url": "https://www.sundre.com/p/arena"
+  },
+  "week": {
+    "start_date": "2025-12-15",
+    "end_date": "2025-12-21",
+    "monday": "2025-12-15"
+  },
+  "slots": [
+    {
+      "type": "maintenance",
+      "start": "2025-12-18T07:00:00",
+      "end": "2025-12-18T12:00:00",
+      "label": "Ice Maintenance",
+      "notes": "7:00 AM - 12:00 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": "2025-12-20T08:00:00",
+      "end": "2025-12-20T09:00:00",
+      "label": "Sundre Skating Club",
+      "notes": "8:00 AM - 9:00 AM"
+    },
+    {
+      "type": "skating_club",
+      "start": "2025-12-20T09:00:00",
+      "end": "2025-12-20T10:00:00",
+      "label": "Sundre Skating Club",
+      "notes": "9:00 AM - 10:00 AM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-20T09:15:00",
+      "end": "2025-12-20T11:05:00",
+      "label": "SMH U18",
+      "notes": "9:15 AM - 11:05 AM"
+    },
+    {
+      "type": "game",
+      "start": "2025-12-21T08:15:00",
+      "end": "2025-12-21T09:30:00",
+      "label": "SMH-Game U7 Black",
+      "notes": "8:15 AM - 9:30 AM"
+    },
+    {
+      "type": "game",
+      "start": "2025-12-21T09:45:00",
+      "end": "2025-12-21T11:00:00",
+      "label": "SMH-Game U7 White",
+      "notes": "9:45 AM - 11:00 AM"
+    },
+    {
+      "type": "game",
+      "start": "2025-12-21T11:00:00",
+      "end": "2025-12-21T12:25:00",
+      "label": "SMH-Game U9B",
+      "notes": "11:00 AM - 12:25 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-19T12:00:00",
+      "end": "2025-12-19T15:00:00",
+      "label": "Sundre High School Hockey (White Contract) Invoice",
+      "notes": "12:00 PM - 3:00 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2025-12-20T12:00:00",
+      "end": "2025-12-20T18:00:00",
+      "label": "Rec Hockey Christmas",
+      "notes": "12:00 PM - 6:00 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2025-12-20T12:00:00",
+      "end": "2025-12-20T13:30:00",
+      "label": "Rec Hockey U8",
+      "notes": "12:00 PM - 1:30 PM"
+    },
+    {
+      "type": "game",
+      "start": "2025-12-21T12:35:00",
+      "end": "2025-12-21T13:50:00",
+      "label": "SMH-Game U9W",
+      "notes": "12:35 PM - 1:50 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-20T13:30:00",
+      "end": "2025-12-20T15:00:00",
+      "label": "Rec U11",
+      "notes": "1:30 PM - 3:00 PM"
+    },
+    {
+      "type": "game",
+      "start": "2025-12-21T14:00:00",
+      "end": "2025-12-21T15:50:00",
+      "label": "SMH-Game U11",
+      "notes": "2:00 PM - 3:50 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-20T15:00:00",
+      "end": "2025-12-20T16:30:00",
+      "label": "Rec U15 Red vs Rocky Eagles",
+      "notes": "3:00 PM - 4:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-21T15:50:00",
+      "end": "2025-12-21T17:35:00",
+      "label": "SMH U11- Clubroom",
+      "notes": "3:50 PM - 5:35 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-20T16:30:00",
+      "end": "2025-12-20T17:50:00",
+      "label": "Rec U15",
+      "notes": "4:30 PM - 5:50 PM"
+    },
+    {
+      "type": "game",
+      "start": "2025-12-21T16:00:00",
+      "end": "2025-12-21T17:50:00",
+      "label": "SMH-Game U13",
+      "notes": "4:00 PM - 5:50 PM"
+    },
+    {
+      "type": "game",
+      "start": "2025-12-20T18:00:00",
+      "end": "2025-12-20T20:20:00",
+      "label": "SMH-Game U15",
+      "notes": "6:00 PM - 8:20 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2025-12-20T18:15:00",
+      "end": "2025-12-20T19:40:00",
+      "label": "Drop in Rec Hockey 18+",
+      "notes": "6:15 PM - 7:40 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2025-12-21T20:00:00",
+      "end": "2025-12-21T21:30:00",
+      "label": "Mens Hockey- Ice Men's vs Rhinos",
+      "notes": "8:00 PM - 9:30 PM"
+    }
+  ]
+}
