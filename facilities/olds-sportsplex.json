@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-23T04:23:16.787226Z",
+  "generated_at": "2025-12-23T04:35:07.135285Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -8,10 +8,73 @@
     "source_url": "https://app.univerusrec.com/oldsrecreationpub/calendars/facilities/index.asp"
   },
   "week": {
-    "start_date": "2025-12-22",
-    "end_date": "2025-12-28"
+    "start_date": "2025-12-21",
+    "end_date": "2025-12-27"
   },
   "slots": [
+    {
+      "type": "practice",
+      "start": "2025-12-21T08:15:00-07:00",
+      "end": "2025-12-21T09:30:00-07:00",
+      "label": "OMHA Dec 2025",
+      "notes": "8:15-9:30 U7 Yellow vs Cremona 8:45-9:30 Pre Hock - Sportsplex - Auxiliary Ice Surface"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-21T08:30:00-07:00",
+      "end": "2025-12-21T10:30:00-07:00",
+      "label": "OMHA Dec 2025",
+      "notes": "U11 fem vs Airdrie - Sportsplex - Main Ice Surface"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-21T09:45:00-07:00",
+      "end": "2025-12-21T11:45:00-07:00",
+      "label": "OMHA Dec 2025",
+      "notes": "U11C vs West Country - Sportsplex - Auxiliary Ice Surface"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-21T10:45:00-07:00",
+      "end": "2025-12-21T12:00:00-07:00",
+      "label": "OMHA Dec 2025",
+      "notes": "U7 Black vs Crossfield/  U9B vs Carstairs - Sportsplex - Main Ice Surface"
+    },
+    {
+      "type": "public_skate",
+      "start": "2025-12-21T12:00:00-07:00",
+      "end": "2025-12-21T13:15:00-07:00",
+      "label": "Public Skating",
+      "notes": "Sportsplex - Auxiliary Ice Surface"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-21T12:15:00-07:00",
+      "end": "2025-12-21T14:15:00-07:00",
+      "label": "OMHA Dec 2025",
+      "notes": "U11B vs Hanna - Sportsplex - Main Ice Surface"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-21T14:30:00-07:00",
+      "end": "2025-12-21T16:30:00-07:00",
+      "label": "OMHA Dec 2025",
+      "notes": "U15B vs Strathmore - Sportsplex - Main Ice Surface"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-21T17:00:00-07:00",
+      "end": "2025-12-21T19:30:00-07:00",
+      "label": "OMHA Dec 2025",
+      "notes": "U18AA vs Airdrie - Sportsplex - Main Ice Surface"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-21T18:00:00-07:00",
+      "end": "2025-12-21T19:30:00-07:00",
+      "label": "Wilde December 2026",
+      "notes": "Sportsplex - Auxiliary Ice Surface"
+    },
     {
       "type": "practice",
       "start": "2025-12-22T10:00:00-07:00",
@@ -186,55 +249,6 @@
       "end": "2025-12-27T14:30:00-07:00",
       "label": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description",
       "notes": "Stick and Puck $5 each - Sportsplex - Auxiliary Ice Surface"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-28T10:30:00-07:00",
-      "end": "2025-12-28T11:30:00-07:00",
-      "label": "OMHA Dec 2025",
-      "notes": "U11C - Sportsplex - Main Ice Surface"
-    },
-    {
-      "type": "public_skate",
-      "start": "2025-12-28T10:45:00-07:00",
-      "end": "2025-12-28T11:45:00-07:00",
-      "label": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description",
-      "notes": "Youth and Parent Stick and Puck $5 each - Sportsplex - Auxiliary Ice Surface"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-28T11:45:00-07:00",
-      "end": "2025-12-28T12:45:00-07:00",
-      "label": "OMHA Dec 2025",
-      "notes": "U13C - Sportsplex - Main Ice Surface"
-    },
-    {
-      "type": "public_skate",
-      "start": "2025-12-28T12:00:00-07:00",
-      "end": "2025-12-28T13:15:00-07:00",
-      "label": "Public Skating",
-      "notes": "Sportsplex - Auxiliary Ice Surface"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-28T13:00:00-07:00",
-      "end": "2025-12-28T14:00:00-07:00",
-      "label": "OMHA Dec 2025",
-      "notes": "U9B - Sportsplex - Main Ice Surface"
-    },
-    {
-      "type": "public_skate",
-      "start": "2025-12-28T13:30:00-07:00",
-      "end": "2025-12-28T15:00:00-07:00",
-      "label": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description",
-      "notes": "Stick and Puck $5 each - Sportsplex - Auxiliary Ice Surface"
-    },
-    {
-      "type": "public_skate",
-      "start": "2025-12-28T14:15:00-07:00",
-      "end": "2025-12-28T15:15:00-07:00",
-      "label": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description",
-      "notes": "Figure Skating - Sportsplex - Main Ice Surface"
     }
   ]
 }
