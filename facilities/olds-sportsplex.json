@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-23T04:04:21.787117Z",
+  "generated_at": "2025-12-23T04:13:51.440479Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -11,5 +11,48 @@
     "start_date": "2025-12-23",
     "end_date": "2025-12-23"
   },
-  "slots": []
+  "slots": [
+    {
+      "type": "public_skate",
+      "start": "2025-12-23T10:30:00-07:00",
+      "end": "2025-12-23T11:30:00-07:00",
+      "label": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description",
+      "notes": "Youth and Parent Sticks and Pucks $5 each - Sportsplex - Main Ice Surface"
+    },
+    {
+      "type": "public_skate",
+      "start": "2025-12-23T12:00:00-07:00",
+      "end": "2025-12-23T13:00:00-07:00",
+      "label": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description",
+      "notes": "Sticks and Pucks $5 each - Sportsplex - Main Ice Surface"
+    },
+    {
+      "type": "public_skate",
+      "start": "2025-12-23T12:00:00-07:00",
+      "end": "2025-12-23T14:00:00-07:00",
+      "label": "Public Skating",
+      "notes": "Sportsplex - Auxiliary Ice Surface"
+    },
+    {
+      "type": "public_skate",
+      "start": "2025-12-23T13:15:00-07:00",
+      "end": "2025-12-23T14:15:00-07:00",
+      "label": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description",
+      "notes": "Figure Skating - Free - Sportsplex - Main Ice Surface"
+    },
+    {
+      "type": "family_skate",
+      "start": "2025-12-23T14:15:00-07:00",
+      "end": "2025-12-23T15:15:00-07:00",
+      "label": "Weir family skate",
+      "notes": "Sportsplex - Auxiliary Ice Surface"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-23T14:30:00-07:00",
+      "end": "2025-12-23T15:30:00-07:00",
+      "label": "Norrie",
+      "notes": "Sportsplex - Main Ice Surface"
+    }
+  ]
 }
