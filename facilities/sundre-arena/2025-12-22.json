@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-23T06:17:02.852007Z",
+  "generated_at": "2025-12-23T06:26:39.721957Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena",
@@ -108,9 +108,9 @@
     {
       "type": "family_skate",
       "start": "2025-12-23T12:00:00",
-      "end": "2025-12-23T13:45:00",
+      "end": "2025-12-23T13:50:00",
       "label": "Family Skate Private",
-      "notes": "12 - 1:45pm"
+      "notes": "12 - 1:50pm"
     },
     {
       "type": "practice",
@@ -118,34 +118,6 @@
       "end": "2025-12-23T00:00:00",
       "label": "Arena Closed",
       "notes": "3pm - 12am"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-24",
-      "end": "2025-12-24",
-      "label": "Arena Closed",
-      "notes": "8am"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-24T07:00:00",
-      "end": "2025-12-24T00:00:00",
-      "label": "Arena Closed",
-      "notes": "7am - 12am"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-25T07:00:00",
-      "end": "2025-12-25T00:00:00",
-      "label": "Arena Closed",
-      "notes": "7am - 12am"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-26T07:00:00",
-      "end": "2025-12-26T22:00:00",
-      "label": "Arena Closed",
-      "notes": "7am - 10pm"
     },
     {
       "type": "practice",
