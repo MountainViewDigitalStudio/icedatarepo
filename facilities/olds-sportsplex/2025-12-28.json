@@ -1,0 +1,763 @@
+{
+  "version": "1.0",
+  "generated_at": "2025-12-23T06:42:24.006971Z",
+  "facility": {
+    "id": "olds-sportsplex",
+    "name": "Olds Sportsplex",
+    "city": "Olds",
+    "address": "5133 52 St, Olds, AB",
+    "source_url": "https://app.univerusrec.com/oldsrecreationpub/calendars/facilities/index.asp"
+  },
+  "week": {
+    "start_date": "2025-12-28",
+    "end_date": "2026-01-03",
+    "sunday": "2025-12-28"
+  },
+  "ice_surfaces": {
+    "main": {
+      "name": "Main Ice Surface",
+      "slots": [
+        {
+          "type": "practice",
+          "start": "2025-12-28T10:30:00-07:00",
+          "end": "2025-12-28T11:30:00-07:00",
+          "label": "U11C",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-28T11:45:00-07:00",
+          "end": "2025-12-28T12:45:00-07:00",
+          "label": "U13C",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-28T13:00:00-07:00",
+          "end": "2025-12-28T14:00:00-07:00",
+          "label": "U9B",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "public_skate",
+          "start": "2025-12-28T14:15:00-07:00",
+          "end": "2025-12-28T15:15:00-07:00",
+          "label": "Figure Skating",
+          "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-29T10:00:00-07:00",
+          "end": "2025-12-29T11:00:00-07:00",
+          "label": "Practice",
+          "notes": "Grizzlys 2025/26"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-29T11:15:00-07:00",
+          "end": "2025-12-29T12:15:00-07:00",
+          "label": "Practice",
+          "notes": "Grizzlys 2025/26"
+        },
+        {
+          "type": "public_skate",
+          "start": "2025-12-29T12:30:00-07:00",
+          "end": "2025-12-29T13:30:00-07:00",
+          "label": "Figure Skating",
+          "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-29T14:45:00-07:00",
+          "end": "2025-12-29T15:45:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-29T16:00:00-07:00",
+          "end": "2025-12-29T16:45:00-07:00",
+          "label": "U9C Yellow U9C Black",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-29T16:45:00-07:00",
+          "end": "2025-12-29T17:30:00-07:00",
+          "label": "U11C",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-29T17:30:00-07:00",
+          "end": "2025-12-29T18:15:00-07:00",
+          "label": "U11B",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-29T18:30:00-07:00",
+          "end": "2025-12-29T19:30:00-07:00",
+          "label": "U13A fem",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-29T19:45:00-07:00",
+          "end": "2025-12-29T20:45:00-07:00",
+          "label": "U18 fem",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-29T21:00:00-07:00",
+          "end": "2025-12-29T22:00:00-07:00",
+          "label": "U18AA",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-30T10:00:00-07:00",
+          "end": "2025-12-30T11:00:00-07:00",
+          "label": "Practice",
+          "notes": "Grizzlys 2025/26"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-30T11:15:00-07:00",
+          "end": "2025-12-30T12:15:00-07:00",
+          "label": "Practice",
+          "notes": "Grizzlys 2025/26"
+        },
+        {
+          "type": "public_skate",
+          "start": "2025-12-30T13:00:00-07:00",
+          "end": "2025-12-30T14:00:00-07:00",
+          "label": "Sticks and Pucks",
+          "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description"
+        },
+        {
+          "type": "public_skate",
+          "start": "2025-12-30T14:15:00-07:00",
+          "end": "2025-12-30T15:15:00-07:00",
+          "label": "Youth and Parent Sticks and Pucks",
+          "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-30T16:00:00-07:00",
+          "end": "2025-12-30T16:45:00-07:00",
+          "label": "U7 Black/ Yellow/Red",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-30T16:45:00-07:00",
+          "end": "2025-12-30T17:30:00-07:00",
+          "label": "U11fem",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-30T17:30:00-07:00",
+          "end": "2025-12-30T18:15:00-07:00",
+          "label": "U13C",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-30T18:30:00-07:00",
+          "end": "2025-12-30T19:30:00-07:00",
+          "label": "U15AA",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-30T19:45:00-07:00",
+          "end": "2025-12-30T20:45:00-07:00",
+          "label": "U15B",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-30T21:00:00-07:00",
+          "end": "2025-12-30T22:00:00-07:00",
+          "label": "U18A",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-31T10:00:00-07:00",
+          "end": "2025-12-31T11:00:00-07:00",
+          "label": "Practice",
+          "notes": "Grizzlys 2025/26"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-31T11:15:00-07:00",
+          "end": "2025-12-31T12:15:00-07:00",
+          "label": "Practice",
+          "notes": "Grizzlys 2025/26"
+        },
+        {
+          "type": "public_skate",
+          "start": "2025-12-31T12:30:00-07:00",
+          "end": "2025-12-31T13:30:00-07:00",
+          "label": "Public Skating",
+          "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-01T12:00:00-07:00",
+          "end": "2026-01-01T13:00:00-07:00",
+          "label": "Practice",
+          "notes": "Grizzlys 2025/26"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-01T13:15:00-07:00",
+          "end": "2026-01-01T14:15:00-07:00",
+          "label": "Practice",
+          "notes": "Grizzlys 2025/26"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-01T15:00:00-07:00",
+          "end": "2026-01-01T17:15:00-07:00",
+          "label": "Olds Grizzlys vs KC Voyageurs",
+          "notes": "Grizzly U15AA Tournament"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T08:45:00-07:00",
+          "end": "2026-01-02T09:00:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-02T09:00:00-07:00",
+          "end": "2026-01-02T11:15:00-07:00",
+          "label": "Wainwright vs La Crete",
+          "notes": "Grizzly U15AA Tournament"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T11:15:00-07:00",
+          "end": "2026-01-02T11:30:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-02T11:30:00-07:00",
+          "end": "2026-01-02T13:45:00-07:00",
+          "label": "Olds vs Calgary Gold",
+          "notes": "Grizzly U15AA Tournament"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T13:45:00-07:00",
+          "end": "2026-01-02T14:00:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-02T14:00:00-07:00",
+          "end": "2026-01-02T16:15:00-07:00",
+          "label": "Wainwright vs Calgary White",
+          "notes": "Grizzly U15AA Tournament"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T16:15:00-07:00",
+          "end": "2026-01-02T16:30:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T17:15:00-07:00",
+          "end": "2026-01-02T17:30:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T17:30:00-07:00",
+          "end": "2026-01-02T18:45:00-07:00",
+          "label": "U7",
+          "notes": "OMHA Jan 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T18:45:00-07:00",
+          "end": "2026-01-02T19:00:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T19:00:00-07:00",
+          "end": "2026-01-02T21:30:00-07:00",
+          "label": "U18AA vs CNHA Gold",
+          "notes": "OMHA Jan 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T21:30:00-07:00",
+          "end": "2026-01-02T21:45:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-03T08:45:00-07:00",
+          "end": "2026-01-03T09:00:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-03T09:00:00-07:00",
+          "end": "2026-01-03T11:15:00-07:00",
+          "label": "La Crete vs Calgary WHITE",
+          "notes": "Grizzly U15AA Tournament"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-03T11:15:00-07:00",
+          "end": "2026-01-03T11:30:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-03T11:30:00-07:00",
+          "end": "2026-01-03T13:45:00-07:00",
+          "label": "Olds vs Fort Sask",
+          "notes": "Grizzly U15AA Tournament"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-03T13:45:00-07:00",
+          "end": "2026-01-03T14:00:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-03T14:00:00-07:00",
+          "end": "2026-01-03T15:15:00-07:00",
+          "label": "U9",
+          "notes": "OMHA Jan 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-03T15:15:00-07:00",
+          "end": "2026-01-03T15:30:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-03T15:30:00-07:00",
+          "end": "2026-01-03T17:45:00-07:00",
+          "label": "La Crete vs Medicine Hat",
+          "notes": "Grizzly U15AA Tournament"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-03T18:00:00-07:00",
+          "end": "2026-01-03T20:00:00-07:00",
+          "label": "U13 fem",
+          "notes": "OMHA Jan 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-03T20:00:00-07:00",
+          "end": "2026-01-03T20:15:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-03T20:15:00-07:00",
+          "end": "2026-01-03T22:15:00-07:00",
+          "label": "U15B vs Sylvan Lake",
+          "notes": "OMHA Jan 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-03T22:15:00-07:00",
+          "end": "2026-01-03T22:30:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        }
+      ]
+    },
+    "auxiliary": {
+      "name": "Auxiliary Ice Surface",
+      "slots": [
+        {
+          "type": "public_skate",
+          "start": "2025-12-28T10:45:00-07:00",
+          "end": "2025-12-28T11:45:00-07:00",
+          "label": "Youth and Parent Stick and Puck $5 each",
+          "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description"
+        },
+        {
+          "type": "public_skate",
+          "start": "2025-12-28T12:00:00-07:00",
+          "end": "2025-12-28T13:15:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating"
+        },
+        {
+          "type": "public_skate",
+          "start": "2025-12-28T13:30:00-07:00",
+          "end": "2025-12-28T15:00:00-07:00",
+          "label": "Stick and Puck $5 each",
+          "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-29T06:30:00-07:00",
+          "end": "2025-12-29T07:30:00-07:00",
+          "label": "HC",
+          "notes": "HC"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-29T10:00:00-07:00",
+          "end": "2025-12-29T11:00:00-07:00",
+          "label": "Olds Figure Skating Club Dec 2025",
+          "notes": "Olds Figure Skating Club Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-29T12:00:00-07:00",
+          "end": "2025-12-29T13:00:00-07:00",
+          "label": "Sticks and Pucks",
+          "notes": "Sticks and Pucks"
+        },
+        {
+          "type": "public_skate",
+          "start": "2025-12-29T13:15:00-07:00",
+          "end": "2025-12-29T14:15:00-07:00",
+          "label": "Youth and Parent Sticks and Pucks",
+          "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description"
+        },
+        {
+          "type": "public_skate",
+          "start": "2025-12-29T14:30:00-07:00",
+          "end": "2025-12-29T15:30:00-07:00",
+          "label": "Public Skating",
+          "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-29T16:00:00-07:00",
+          "end": "2025-12-29T16:45:00-07:00",
+          "label": "U11A",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-29T17:00:00-07:00",
+          "end": "2025-12-29T18:00:00-07:00",
+          "label": "U11AA",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-29T18:15:00-07:00",
+          "end": "2025-12-29T19:15:00-07:00",
+          "label": "U13AA",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-29T19:30:00-07:00",
+          "end": "2025-12-29T20:30:00-07:00",
+          "label": "U13B fem",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-29T20:45:00-07:00",
+          "end": "2025-12-29T21:45:00-07:00",
+          "label": "U18B",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "public_skate",
+          "start": "2025-12-30T12:00:00-07:00",
+          "end": "2025-12-30T13:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating"
+        },
+        {
+          "type": "public_skate",
+          "start": "2025-12-30T13:15:00-07:00",
+          "end": "2025-12-30T14:15:00-07:00",
+          "label": "Figure Skating",
+          "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-30T16:00:00-07:00",
+          "end": "2025-12-30T16:45:00-07:00",
+          "label": "U9A U9B",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-30T17:00:00-07:00",
+          "end": "2025-12-30T17:45:00-07:00",
+          "label": "U13A",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-30T18:00:00-07:00",
+          "end": "2025-12-30T18:45:00-07:00",
+          "label": "U13B",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-30T19:00:00-07:00",
+          "end": "2025-12-30T20:00:00-07:00",
+          "label": "U15A",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-30T20:15:00-07:00",
+          "end": "2025-12-30T21:15:00-07:00",
+          "label": "U18AA",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "public_skate",
+          "start": "2025-12-31T10:45:00-07:00",
+          "end": "2025-12-31T11:45:00-07:00",
+          "label": "Figure Skating",
+          "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-31T12:00:00-07:00",
+          "end": "2025-12-31T13:00:00-07:00",
+          "label": "Sticks and Pucks",
+          "notes": "Sticks and Pucks"
+        },
+        {
+          "type": "public_skate",
+          "start": "2026-01-01T12:00:00-07:00",
+          "end": "2026-01-01T13:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-01T15:15:00-07:00",
+          "end": "2026-01-01T17:30:00-07:00",
+          "label": "Calgary Royals GOLD vs Fort Sask.",
+          "notes": "Grizzly U15AA Tournament"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T06:30:00-07:00",
+          "end": "2026-01-02T07:30:00-07:00",
+          "label": "Knutson",
+          "notes": "Knutson"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T07:30:00-07:00",
+          "end": "2026-01-02T07:45:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T09:00:00-07:00",
+          "end": "2026-01-02T09:15:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-02T09:15:00-07:00",
+          "end": "2026-01-02T11:30:00-07:00",
+          "label": "Calgary Royals WHITE vs Medicine Hat",
+          "notes": "Grizzly U15AA Tournament"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T11:30:00-07:00",
+          "end": "2026-01-02T11:45:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-02T11:45:00-07:00",
+          "end": "2026-01-02T14:00:00-07:00",
+          "label": "KC Voyageurs vs Fort Sask",
+          "notes": "Grizzly U15AA Tournament"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T14:00:00-07:00",
+          "end": "2026-01-02T14:15:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T14:30:00-07:00",
+          "end": "2026-01-02T15:45:00-07:00",
+          "label": "Sticks and Pucks",
+          "notes": "Sticks and Pucks"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T15:45:00-07:00",
+          "end": "2026-01-02T16:00:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T16:00:00-07:00",
+          "end": "2026-01-02T16:45:00-07:00",
+          "label": "U7 Black U7 Red",
+          "notes": "OMHA Jan 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T16:45:00-07:00",
+          "end": "2026-01-02T17:30:00-07:00",
+          "label": "U7 Yellow",
+          "notes": "OMHA Jan 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T17:30:00-07:00",
+          "end": "2026-01-02T17:45:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T17:45:00-07:00",
+          "end": "2026-01-02T19:45:00-07:00",
+          "label": "U13B vs Cremona",
+          "notes": "OMHA Jan 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T19:45:00-07:00",
+          "end": "2026-01-02T20:00:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T20:00:00-07:00",
+          "end": "2026-01-02T22:15:00-07:00",
+          "label": "U18A vs Canmore",
+          "notes": "OMHA Jan 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-02T22:15:00-07:00",
+          "end": "2026-01-02T22:30:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-03T07:45:00-07:00",
+          "end": "2026-01-03T09:00:00-07:00",
+          "label": "Airdrie Stars",
+          "notes": "Airdrie Stars"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-03T09:00:00-07:00",
+          "end": "2026-01-03T09:15:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-03T09:15:00-07:00",
+          "end": "2026-01-03T11:30:00-07:00",
+          "label": "Medicine Hat vs Wainwright",
+          "notes": "Grizzly U15AA Tournament"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-03T11:30:00-07:00",
+          "end": "2026-01-03T11:45:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-03T11:45:00-07:00",
+          "end": "2026-01-03T14:00:00-07:00",
+          "label": "Calgary Gold vs KC Voyageurs",
+          "notes": "Grizzly U15AA Tournament"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-03T14:00:00-07:00",
+          "end": "2026-01-03T14:15:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-03T14:15:00-07:00",
+          "end": "2026-01-03T16:15:00-07:00",
+          "label": "U13C vs Lacombe",
+          "notes": "OMHA Jan 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-03T16:15:00-07:00",
+          "end": "2026-01-03T16:30:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-03T16:30:00-07:00",
+          "end": "2026-01-03T18:30:00-07:00",
+          "label": "U11A vs Cochrane",
+          "notes": "OMHA Jan 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-03T18:30:00-07:00",
+          "end": "2026-01-03T18:45:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-03T18:45:00-07:00",
+          "end": "2026-01-03T20:00:00-07:00",
+          "label": "Airdrie Stars",
+          "notes": "Airdrie Stars"
+        }
+      ]
+    }
+  }
+}

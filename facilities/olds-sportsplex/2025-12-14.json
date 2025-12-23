@@ -1,0 +1,672 @@
+{
+  "version": "1.0",
+  "generated_at": "2025-12-23T06:42:24.006971Z",
+  "facility": {
+    "id": "olds-sportsplex",
+    "name": "Olds Sportsplex",
+    "city": "Olds",
+    "address": "5133 52 St, Olds, AB",
+    "source_url": "https://app.univerusrec.com/oldsrecreationpub/calendars/facilities/index.asp"
+  },
+  "week": {
+    "start_date": "2025-12-14",
+    "end_date": "2025-12-20",
+    "sunday": "2025-12-14"
+  },
+  "ice_surfaces": {
+    "main": {
+      "name": "Main Ice Surface",
+      "slots": [
+        {
+          "type": "game",
+          "start": "2025-12-14T09:00:00-07:00",
+          "end": "2025-12-14T11:15:00-07:00",
+          "label": "B div 3rd vs 4th  ( Flood 2nd)",
+          "notes": "OMHA 2025/26 Tournaments"
+        },
+        {
+          "type": "game",
+          "start": "2025-12-14T11:15:00-07:00",
+          "end": "2025-12-14T13:30:00-07:00",
+          "label": "C div 1st vs 2nd  ( Flood 1st/3rd)",
+          "notes": "OMHA 2025/26 Tournaments"
+        },
+        {
+          "type": "game",
+          "start": "2025-12-14T13:30:00-07:00",
+          "end": "2025-12-14T15:45:00-07:00",
+          "label": "B div 1st vs 2nd  ( Flood 2nd)",
+          "notes": "OMHA 2025/26 Tournaments"
+        },
+        {
+          "type": "game",
+          "start": "2025-12-14T15:45:00-07:00",
+          "end": "2025-12-14T18:00:00-07:00",
+          "label": "A div 1st vs 2nd   (Flood 1st/3rd)",
+          "notes": "OMHA 2025/26 Tournaments"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-14T21:30:00-07:00",
+          "end": "2025-12-14T23:00:00-07:00",
+          "label": "Wilde December 2026",
+          "notes": "Wilde December 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-15T10:00:00-07:00",
+          "end": "2025-12-15T11:00:00-07:00",
+          "label": "Practice",
+          "notes": "Grizzlys 2025/26"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-15T11:15:00-07:00",
+          "end": "2025-12-15T12:15:00-07:00",
+          "label": "Practice",
+          "notes": "Grizzlys 2025/26"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-15T14:00:00-07:00",
+          "end": "2025-12-15T15:00:00-07:00",
+          "label": "chairs, skate aids, cart with toys",
+          "notes": "Sylvia Martens grade 3"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-15T16:00:00-07:00",
+          "end": "2025-12-15T16:45:00-07:00",
+          "label": "U9C Yellow U9C Black",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-15T16:45:00-07:00",
+          "end": "2025-12-15T17:15:00-07:00",
+          "label": "U11B",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-15T17:15:00-07:00",
+          "end": "2025-12-15T17:45:00-07:00",
+          "label": "U11B/U11C",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-15T17:45:00-07:00",
+          "end": "2025-12-15T18:15:00-07:00",
+          "label": "U11C",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-15T18:30:00-07:00",
+          "end": "2025-12-15T19:15:00-07:00",
+          "label": "U13B fem",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-15T19:30:00-07:00",
+          "end": "2025-12-15T20:15:00-07:00",
+          "label": "U13A fem",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-15T20:30:00-07:00",
+          "end": "2025-12-15T21:30:00-07:00",
+          "label": "U18AA",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-16T10:00:00-07:00",
+          "end": "2025-12-16T11:00:00-07:00",
+          "label": "Practice",
+          "notes": "Grizzlys 2025/26"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-16T11:15:00-07:00",
+          "end": "2025-12-16T12:15:00-07:00",
+          "label": "Practice",
+          "notes": "Grizzlys 2025/26"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-16T13:00:00-07:00",
+          "end": "2025-12-16T14:30:00-07:00",
+          "label": "Turnbull Grade 4",
+          "notes": "Turnbull Grade 4"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-16T16:00:00-07:00",
+          "end": "2025-12-16T16:45:00-07:00",
+          "label": "U7 Black/ Yellow/Red",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-16T16:45:00-07:00",
+          "end": "2025-12-16T17:30:00-07:00",
+          "label": "U11fem",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-16T17:45:00-07:00",
+          "end": "2025-12-16T18:45:00-07:00",
+          "label": "U15 fem",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-16T19:00:00-07:00",
+          "end": "2025-12-16T20:00:00-07:00",
+          "label": "U15B",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-16T20:15:00-07:00",
+          "end": "2025-12-16T21:15:00-07:00",
+          "label": "U15A",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "game",
+          "start": "2025-12-17T10:00:00-07:00",
+          "end": "2025-12-17T11:00:00-07:00",
+          "label": "Pre-Game Skate",
+          "notes": "Grizzlys 2025/26"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-17T17:00:00-07:00",
+          "end": "2025-12-17T18:00:00-07:00",
+          "label": "U13AA",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-17T18:30:00-07:00",
+          "end": "2025-12-17T21:30:00-07:00",
+          "label": "Grizzlys vs Grande Prairie",
+          "notes": "Grizzlys 2025/26"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T06:45:00-07:00",
+          "end": "2025-12-18T07:45:00-07:00",
+          "label": "Haaland - Hockey",
+          "notes": "Haaland - Hockey"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T10:00:00-07:00",
+          "end": "2025-12-18T11:00:00-07:00",
+          "label": "Practice",
+          "notes": "Grizzlys 2025/26"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T11:15:00-07:00",
+          "end": "2025-12-18T12:15:00-07:00",
+          "label": "Practice",
+          "notes": "Grizzlys 2025/26"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T13:15:00-07:00",
+          "end": "2025-12-18T14:15:00-07:00",
+          "label": "need chairs, skate aids, cart of toys",
+          "notes": "Latimer- Grade 3"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T15:00:00-07:00",
+          "end": "2025-12-18T15:45:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T16:00:00-07:00",
+          "end": "2025-12-18T16:45:00-07:00",
+          "label": "U9A U9B",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T17:00:00-07:00",
+          "end": "2025-12-18T17:30:00-07:00",
+          "label": "U13 A fem",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T17:30:00-07:00",
+          "end": "2025-12-18T18:00:00-07:00",
+          "label": "U13AF/U13BF",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T18:00:00-07:00",
+          "end": "2025-12-18T18:30:00-07:00",
+          "label": "U13B fem",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T18:45:00-07:00",
+          "end": "2025-12-18T19:15:00-07:00",
+          "label": "U13B",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T19:45:00-07:00",
+          "end": "2025-12-18T20:15:00-07:00",
+          "label": "U13C",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T20:30:00-07:00",
+          "end": "2025-12-18T21:30:00-07:00",
+          "label": "U18B",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T21:45:00-07:00",
+          "end": "2025-12-18T23:15:00-07:00",
+          "label": "SIR 2025-2026",
+          "notes": "SIR 2025-2026"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-19T07:00:00-07:00",
+          "end": "2025-12-19T08:00:00-07:00",
+          "label": "Rich McDonald Dec 2025 PD",
+          "notes": "Rich McDonald Dec 2025 PD"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-19T10:00:00-07:00",
+          "end": "2025-12-19T11:00:00-07:00",
+          "label": "Practice",
+          "notes": "Grizzlys 2025/26"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-19T11:15:00-07:00",
+          "end": "2025-12-19T12:15:00-07:00",
+          "label": "Practice",
+          "notes": "Grizzlys 2025/26"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-19T16:00:00-07:00",
+          "end": "2025-12-19T16:45:00-07:00",
+          "label": "U7 Yellow U7 Red",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-19T16:45:00-07:00",
+          "end": "2025-12-19T17:30:00-07:00",
+          "label": "U7 Black U9A",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-19T17:45:00-07:00",
+          "end": "2025-12-19T19:45:00-07:00",
+          "label": "U13B fem vs Red Deer",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-19T20:00:00-07:00",
+          "end": "2025-12-19T22:00:00-07:00",
+          "label": "U11A vs Airdrie",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-20T08:30:00-07:00",
+          "end": "2025-12-20T09:45:00-07:00",
+          "label": "U9C Black vs Sylvan U9C Yellow vs Delburne",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-20T10:00:00-07:00",
+          "end": "2025-12-20T12:00:00-07:00",
+          "label": "U13A vs Canmore",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-20T12:15:00-07:00",
+          "end": "2025-12-20T14:30:00-07:00",
+          "label": "U18A vs Indus",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-20T14:45:00-07:00",
+          "end": "2025-12-20T17:00:00-07:00",
+          "label": "U13AA vs Foothills",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-20T17:30:00-07:00",
+          "end": "2025-12-20T20:30:00-07:00",
+          "label": "Grizzlys vs Fort McMurray",
+          "notes": "Grizzlys 2025/26"
+        }
+      ]
+    },
+    "auxiliary": {
+      "name": "Auxiliary Ice Surface",
+      "slots": [
+        {
+          "type": "practice",
+          "start": "2025-12-14T08:30:00-07:00",
+          "end": "2025-12-14T09:15:00-07:00",
+          "label": "Pre Hockey",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "game",
+          "start": "2025-12-14T09:30:00-07:00",
+          "end": "2025-12-14T11:45:00-07:00",
+          "label": "C div 3rd  vs 4th",
+          "notes": "OMHA 2025/26 Tournaments"
+        },
+        {
+          "type": "game",
+          "start": "2025-12-14T13:30:00-07:00",
+          "end": "2025-12-14T15:45:00-07:00",
+          "label": "A div 3rd  vs 4th  ( Flood 1st)",
+          "notes": "OMHA 2025/26 Tournaments"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-14T16:00:00-07:00",
+          "end": "2025-12-14T17:45:00-07:00",
+          "label": "Wilde December 2026",
+          "notes": "Wilde December 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-15T12:00:00-07:00",
+          "end": "2025-12-15T13:00:00-07:00",
+          "label": "Sticks and Pucks",
+          "notes": "Sticks and Pucks"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-15T15:45:00-07:00",
+          "end": "2025-12-15T16:45:00-07:00",
+          "label": "Olds Figure Skating Club Dec 2025",
+          "notes": "Olds Figure Skating Club Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-15T17:00:00-07:00",
+          "end": "2025-12-15T19:45:00-07:00",
+          "label": "Olds Figure Skating Club Dec 2025",
+          "notes": "Olds Figure Skating Club Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-15T20:00:00-07:00",
+          "end": "2025-12-15T20:45:00-07:00",
+          "label": "U18 fem",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-15T21:00:00-07:00",
+          "end": "2025-12-15T22:00:00-07:00",
+          "label": "U18B",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-16T06:45:00-07:00",
+          "end": "2025-12-16T07:45:00-07:00",
+          "label": "U11A",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-16T10:00:00-07:00",
+          "end": "2025-12-16T11:30:00-07:00",
+          "label": "Turnbull Grade 4",
+          "notes": "Turnbull Grade 4"
+        },
+        {
+          "type": "public_skate",
+          "start": "2025-12-16T12:00:00-07:00",
+          "end": "2025-12-16T13:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-16T13:30:00-07:00",
+          "end": "2025-12-16T14:30:00-07:00",
+          "label": "Female and male room needed",
+          "notes": "Grizzlys Academy- Nov/ Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-16T16:00:00-07:00",
+          "end": "2025-12-16T16:45:00-07:00",
+          "label": "U9A U9B",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-16T16:45:00-07:00",
+          "end": "2025-12-16T17:30:00-07:00",
+          "label": "U13A",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-16T18:00:00-07:00",
+          "end": "2025-12-16T19:00:00-07:00",
+          "label": "U13B",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-16T19:15:00-07:00",
+          "end": "2025-12-16T20:15:00-07:00",
+          "label": "U13C",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-16T20:30:00-07:00",
+          "end": "2025-12-16T21:30:00-07:00",
+          "label": "U18A",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-17T06:45:00-07:00",
+          "end": "2025-12-17T07:45:00-07:00",
+          "label": "U11B",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-17T12:00:00-07:00",
+          "end": "2025-12-17T13:00:00-07:00",
+          "label": "Sticks and Pucks",
+          "notes": "Sticks and Pucks"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-17T15:45:00-07:00",
+          "end": "2025-12-17T16:45:00-07:00",
+          "label": "Olds Figure Skating Club Dec 2025",
+          "notes": "Olds Figure Skating Club Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-17T20:00:00-07:00",
+          "end": "2025-12-17T20:45:00-07:00",
+          "label": "U15A",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-17T21:00:00-07:00",
+          "end": "2025-12-17T21:45:00-07:00",
+          "label": "U15B",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "public_skate",
+          "start": "2025-12-18T12:00:00-07:00",
+          "end": "2025-12-18T13:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T13:30:00-07:00",
+          "end": "2025-12-18T14:30:00-07:00",
+          "label": "Female and male room needed",
+          "notes": "Grizzlys Academy- Nov/ Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T16:00:00-07:00",
+          "end": "2025-12-18T16:30:00-07:00",
+          "label": "U11A",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T16:30:00-07:00",
+          "end": "2025-12-18T17:00:00-07:00",
+          "label": "U11A/U11F",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T17:00:00-07:00",
+          "end": "2025-12-18T17:30:00-07:00",
+          "label": "U11 fem",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T17:45:00-07:00",
+          "end": "2025-12-18T18:45:00-07:00",
+          "label": "U11AA",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T19:00:00-07:00",
+          "end": "2025-12-18T19:45:00-07:00",
+          "label": "U13A/ U11C",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T20:00:00-07:00",
+          "end": "2025-12-18T21:00:00-07:00",
+          "label": "U18A",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-18T21:15:00-07:00",
+          "end": "2025-12-18T22:15:00-07:00",
+          "label": "U18 fem",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-19T06:30:00-07:00",
+          "end": "2025-12-19T07:30:00-07:00",
+          "label": "Knutson Nov Dec 2025 inv",
+          "notes": "Knutson Nov Dec 2025 inv"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-19T12:00:00-07:00",
+          "end": "2025-12-19T13:00:00-07:00",
+          "label": "Sticks and Pucks",
+          "notes": "Sticks and Pucks"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-19T15:45:00-07:00",
+          "end": "2025-12-19T17:15:00-07:00",
+          "label": "Olds Figure Skating Club Dec 2025",
+          "notes": "Olds Figure Skating Club Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-19T17:30:00-07:00",
+          "end": "2025-12-19T19:30:00-07:00",
+          "label": "U11B vs Didsbury",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-20T08:15:00-07:00",
+          "end": "2025-12-20T10:15:00-07:00",
+          "label": "U11A vs Red Deer",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-20T10:30:00-07:00",
+          "end": "2025-12-20T12:30:00-07:00",
+          "label": "U13A fem vs Okotoks",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-20T12:45:00-07:00",
+          "end": "2025-12-20T14:45:00-07:00",
+          "label": "U13B fem vs 3 C's",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-20T15:00:00-07:00",
+          "end": "2025-12-20T17:15:00-07:00",
+          "label": "U18 fem vs Stettler",
+          "notes": "OMHA Dec 2025"
+        },
+        {
+          "type": "practice",
+          "start": "2025-12-20T17:30:00-07:00",
+          "end": "2025-12-20T19:30:00-07:00",
+          "label": "U15 fem vs 3 C's",
+          "notes": "OMHA Dec 2025"
+        }
+      ]
+    }
+  }
+}
