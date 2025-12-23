@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-23T09:29:34.767697Z",
+  "generated_at": "2025-12-23T09:33:32.015298Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -193,7 +193,7 @@
           "notes": "OMHA Dec 2025"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2025-12-17T18:30:00-07:00",
           "end": "2025-12-17T21:30:00-07:00",
           "label": "Grizzlys vs Grande Prairie",
@@ -326,49 +326,49 @@
           "notes": "OMHA Dec 2025"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2025-12-19T17:45:00-07:00",
           "end": "2025-12-19T19:45:00-07:00",
           "label": "U13B fem vs Red Deer",
           "notes": "OMHA Dec 2025"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2025-12-19T20:00:00-07:00",
           "end": "2025-12-19T22:00:00-07:00",
           "label": "U11A vs Airdrie",
           "notes": "OMHA Dec 2025"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2025-12-20T08:30:00-07:00",
           "end": "2025-12-20T09:45:00-07:00",
           "label": "U9C Black vs Sylvan U9C Yellow vs Delburne",
           "notes": "OMHA Dec 2025"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2025-12-20T10:00:00-07:00",
           "end": "2025-12-20T12:00:00-07:00",
           "label": "U13A vs Canmore",
           "notes": "OMHA Dec 2025"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2025-12-20T12:15:00-07:00",
           "end": "2025-12-20T14:30:00-07:00",
           "label": "U18A vs Indus",
           "notes": "OMHA Dec 2025"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2025-12-20T14:45:00-07:00",
           "end": "2025-12-20T17:00:00-07:00",
           "label": "U13AA vs Foothills",
           "notes": "OMHA Dec 2025"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2025-12-20T17:30:00-07:00",
           "end": "2025-12-20T20:30:00-07:00",
           "label": "Grizzlys vs Fort McMurray",
@@ -625,42 +625,42 @@
           "notes": "Olds Figure Skating Club Dec 2025"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2025-12-19T17:30:00-07:00",
           "end": "2025-12-19T19:30:00-07:00",
           "label": "U11B vs Didsbury",
           "notes": "OMHA Dec 2025"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2025-12-20T08:15:00-07:00",
           "end": "2025-12-20T10:15:00-07:00",
           "label": "U11A vs Red Deer",
           "notes": "OMHA Dec 2025"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2025-12-20T10:30:00-07:00",
           "end": "2025-12-20T12:30:00-07:00",
           "label": "U13A fem vs Okotoks",
           "notes": "OMHA Dec 2025"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2025-12-20T12:45:00-07:00",
           "end": "2025-12-20T14:45:00-07:00",
           "label": "U13B fem vs 3 C's",
           "notes": "OMHA Dec 2025"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2025-12-20T15:00:00-07:00",
           "end": "2025-12-20T17:15:00-07:00",
           "label": "U18 fem vs Stettler",
           "notes": "OMHA Dec 2025"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2025-12-20T17:30:00-07:00",
           "end": "2025-12-20T19:30:00-07:00",
           "label": "U15 fem vs 3 C's",
