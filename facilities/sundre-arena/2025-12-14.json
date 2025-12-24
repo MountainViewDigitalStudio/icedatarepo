@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-24T15:04:03.070428Z",
+  "generated_at": "2025-12-24T15:08:01.866014Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena",
@@ -29,18 +29,53 @@
       "notes": "8:00 AM - 9:00 AM"
     },
     {
-      "type": "skating_club",
-      "start": "2025-12-20T09:00:00",
-      "end": "2025-12-20T10:00:00",
-      "label": "Sundre Skating Club",
-      "notes": "9:00 AM - 10:00 AM"
-    },
-    {
       "type": "practice",
       "start": "2025-12-20T09:15:00",
       "end": "2025-12-20T11:05:00",
       "label": "SMH U18",
       "notes": "9:15 AM - 11:05 AM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2025-12-20T12:00:00",
+      "end": "2025-12-20T18:00:00",
+      "label": "Rec Hockey Christmas",
+      "notes": "12:00 PM - 6:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-20T13:30:00",
+      "end": "2025-12-20T15:00:00",
+      "label": "Rec U11",
+      "notes": "1:30 PM - 3:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-20T15:00:00",
+      "end": "2025-12-20T16:30:00",
+      "label": "Rec U15 Red vs Rocky Eagles",
+      "notes": "3:00 PM - 4:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-20T16:30:00",
+      "end": "2025-12-20T17:50:00",
+      "label": "Rec U15",
+      "notes": "4:30 PM - 5:50 PM"
+    },
+    {
+      "type": "game",
+      "start": "2025-12-20T18:00:00",
+      "end": "2025-12-20T20:20:00",
+      "label": "SMH-Game U15",
+      "notes": "6:00 PM - 8:20 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2025-12-20T18:15:00",
+      "end": "2025-12-20T19:40:00",
+      "label": "Drop in Rec Hockey 18+",
+      "notes": "6:15 PM - 7:40 PM"
     },
     {
       "type": "game",
@@ -58,29 +93,15 @@
     },
     {
       "type": "game",
-      "start": "2025-12-21T11:10:00",
+      "start": "2025-12-21T11:00:00",
       "end": "2025-12-21T12:25:00",
       "label": "SMH-Game U9B",
-      "notes": "11:10 AM - 12:25 PM"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-19T12:00:00",
-      "end": "2025-12-19T15:00:00",
-      "label": "Sundre High School Hockey (White Contract) Invoice",
-      "notes": "12:00 PM - 3:00 PM"
+      "notes": "11:00 AM - 12:25 PM"
     },
     {
       "type": "adult_rec",
-      "start": "2025-12-20T12:00:00",
-      "end": "2025-12-20T18:00:00",
-      "label": "Rec Hockey Christmas",
-      "notes": "12:00 PM - 6:00 PM"
-    },
-    {
-      "type": "adult_rec",
-      "start": "2025-12-20T12:00:00",
-      "end": "2025-12-20T13:30:00",
+      "start": "2025-12-21T12:00:00",
+      "end": "2025-12-21T13:30:00",
       "label": "Rec Hockey U8",
       "notes": "12:00 PM - 1:30 PM"
     },
@@ -92,13 +113,6 @@
       "notes": "12:35 PM - 1:50 PM"
     },
     {
-      "type": "practice",
-      "start": "2025-12-20T13:30:00",
-      "end": "2025-12-20T15:00:00",
-      "label": "Rec U11",
-      "notes": "1:30 PM - 3:00 PM"
-    },
-    {
       "type": "game",
       "start": "2025-12-21T14:00:00",
       "end": "2025-12-21T15:50:00",
@@ -106,207 +120,18 @@
       "notes": "2:00 PM - 3:50 PM"
     },
     {
-      "type": "shinny",
-      "start": "2025-12-16T13:00:00",
-      "end": "2025-12-16T14:45:00",
-      "label": "Adult Shinny",
-      "notes": "1:00 PM - 2:45 PM"
-    },
-    {
-      "type": "stick_and_puck",
-      "start": "2025-12-16T15:00:00",
-      "end": "2025-12-16T16:20:00",
-      "label": "Sticks N Pucks",
-      "notes": "3:00 PM - 4:20 PM"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-20T15:00:00",
-      "end": "2025-12-20T16:30:00",
-      "label": "Rec U15 Red vs Rocky Eagles",
-      "notes": "3:00 PM - 4:30 PM"
+      "type": "game",
+      "start": "2025-12-21T16:00:00",
+      "end": "2025-12-21T17:50:00",
+      "label": "SMH-Game U13",
+      "notes": "4:00 PM - 5:50 PM"
     },
     {
       "type": "practice",
       "start": "2025-12-21T16:30:00",
-      "end": "2025-12-21T17:30:00",
-      "label": "SMH-U11-Clubroom",
-      "notes": "4:30 PM - 5:30 PM"
-    },
-    {
-      "type": "public_skate",
-      "start": "2025-12-17T13:00:00",
-      "end": "2025-12-17T14:45:00",
-      "label": "Adult Public Skating",
-      "notes": "1:00 PM - 2:45 PM"
-    },
-    {
-      "type": "public_skate",
-      "start": "2025-12-17T15:00:00",
-      "end": "2025-12-17T16:20:00",
-      "label": "Public Skating",
-      "notes": "3:00 PM - 4:20 PM"
-    },
-    {
-      "type": "adult_rec",
-      "start": "2025-12-18T14:30:00",
-      "end": "2025-12-18T17:00:00",
-      "label": "Rec Hockey",
-      "notes": "2:30 PM - 5:00 PM"
-    },
-    {
-      "type": "stick_and_puck",
-      "start": "2025-12-19T15:15:00",
-      "end": "2025-12-19T17:15:00",
-      "label": "Sticks N Pucks",
-      "notes": "3:15 PM - 5:15 PM"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-20T16:30:00",
-      "end": "2025-12-20T17:50:00",
-      "label": "Rec U15",
+      "end": "2025-12-21T17:50:00",
+      "label": "SMH U11- Clubroom",
       "notes": "4:30 PM - 5:50 PM"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-15T16:30:00",
-      "end": "2025-12-15T17:20:00",
-      "label": "SMH- Practice U9",
-      "notes": "4:30 PM - 5:20 PM"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-16T16:30:00",
-      "end": "2025-12-16T17:20:00",
-      "label": "SMH-Practice U7",
-      "notes": "4:30 PM - 5:20 PM"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-17T16:30:00",
-      "end": "2025-12-17T17:20:00",
-      "label": "SMH- Practice U9",
-      "notes": "4:30 PM - 5:20 PM"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-18T17:00:00",
-      "end": "2025-12-18T17:50:00",
-      "label": "SMH-Practice U7",
-      "notes": "5:00 PM - 5:50 PM"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-15T17:30:00",
-      "end": "2025-12-15T18:20:00",
-      "label": "SMH- Practice U11",
-      "notes": "5:30 PM - 6:20 PM"
-    },
-    {
-      "type": "skating_club",
-      "start": "2025-12-16T17:30:00",
-      "end": "2025-12-16T18:30:00",
-      "label": "Sundre Skating Club Learn to Skate",
-      "notes": "5:30 PM - 6:30 PM"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-17T17:30:00",
-      "end": "2025-12-17T18:20:00",
-      "label": "SMH- Practice U11",
-      "notes": "5:30 PM - 6:20 PM"
-    },
-    {
-      "type": "skating_club",
-      "start": "2025-12-18T18:00:00",
-      "end": "2025-12-18T20:00:00",
-      "label": "Sundre Skating Club Star Skate",
-      "notes": "6:00 PM - 8:00 PM"
-    },
-    {
-      "type": "adult_rec",
-      "start": "2025-12-19T17:30:00",
-      "end": "2025-12-19T18:50:00",
-      "label": "Rec Hockey U8",
-      "notes": "5:30 PM - 6:50 PM"
-    },
-    {
-      "type": "game",
-      "start": "2025-12-20T18:00:00",
-      "end": "2025-12-20T20:20:00",
-      "label": "SMH-Game U15",
-      "notes": "6:00 PM - 8:20 PM"
-    },
-    {
-      "type": "adult_rec",
-      "start": "2025-12-21T18:15:00",
-      "end": "2025-12-21T19:40:00",
-      "label": "Drop in Rec Hockey 18+",
-      "notes": "6:15 PM - 7:40 PM"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-15T18:30:00",
-      "end": "2025-12-15T19:20:00",
-      "label": "SMH- Practice U13",
-      "notes": "6:30 PM - 7:20 PM"
-    },
-    {
-      "type": "skating_club",
-      "start": "2025-12-16T18:30:00",
-      "end": "2025-12-16T20:00:00",
-      "label": "Sundre Skating Club Star Skate",
-      "notes": "6:30 PM - 8:00 PM"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-17T18:30:00",
-      "end": "2025-12-17T19:20:00",
-      "label": "SMH- Practice U13",
-      "notes": "6:30 PM - 7:20 PM"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-19T18:30:00",
-      "end": "2025-12-19T22:00:00",
-      "label": "Clubroom Private Function (AR)",
-      "notes": "6:30 PM - 10:00 PM"
-    },
-    {
-      "type": "game",
-      "start": "2025-12-18T19:00:00",
-      "end": "2025-12-18T21:20:00",
-      "label": "SMH-Game U18",
-      "notes": "7:00 PM - 9:20 PM"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-15T19:30:00",
-      "end": "2025-12-15T20:20:00",
-      "label": "SMH- Practice U15",
-      "notes": "7:30 PM - 8:20 PM"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-17T19:30:00",
-      "end": "2025-12-17T20:20:00",
-      "label": "SMH- Practice U15",
-      "notes": "7:30 PM - 8:20 PM"
-    },
-    {
-      "type": "adult_rec",
-      "start": "2025-12-16T20:00:00",
-      "end": "2025-12-16T21:30:00",
-      "label": "Woman's Hockey- Shooters",
-      "notes": "8:00 PM - 9:30 PM"
-    },
-    {
-      "type": "adult_rec",
-      "start": "2025-12-18T20:00:00",
-      "end": "2025-12-18T21:30:00",
-      "label": "Men's Hockey-Rhinos vs Cremona Eagles",
-      "notes": "8:00 PM - 9:30 PM"
     },
     {
       "type": "adult_rec",
@@ -314,34 +139,6 @@
       "end": "2025-12-21T21:30:00",
       "label": "Mens Hockey- Ice Men's vs Rhinos",
       "notes": "8:00 PM - 9:30 PM"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-15T20:30:00",
-      "end": "2025-12-15T21:20:00",
-      "label": "SMH- Practice U18",
-      "notes": "8:30 PM - 9:20 PM"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-17T20:30:00",
-      "end": "2025-12-17T21:20:00",
-      "label": "SMH- Practice U18",
-      "notes": "8:30 PM - 9:20 PM"
-    },
-    {
-      "type": "adult_rec",
-      "start": "2025-12-15T21:30:00",
-      "end": "2025-12-15T23:00:00",
-      "label": "Mens Hockey- Bombers",
-      "notes": "9:30 PM - 11:00 PM"
-    },
-    {
-      "type": "adult_rec",
-      "start": "2025-12-19T21:30:00",
-      "end": "2025-12-19T23:00:00",
-      "label": "Men's Hockey- Rant Ice",
-      "notes": "9:30 PM - 11:00 PM"
     }
   ]
 }
