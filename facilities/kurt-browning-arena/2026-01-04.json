@@ -1,0 +1,225 @@
+{
+  "facility_name": "Kurt Browning Arena",
+  "week_start": "2026-01-04",
+  "week_end": "2026-01-10",
+  "last_updated": "2025-12-24T12:21:54.622242-07:00",
+  "slots": [
+    {
+      "start_time": "2026-01-04T09:15:00-07:00",
+      "end_time": "2026-01-04T10:15:00-07:00",
+      "type": "game",
+      "label": "U9 vs TBA",
+      "notes": "GAMES - U9 vs TBA"
+    },
+    {
+      "start_time": "2026-01-04T11:00:00-07:00",
+      "end_time": "2026-01-04T13:00:00-07:00",
+      "type": "game",
+      "label": "U11-B vs Carstairs",
+      "notes": "GAMES - U11-B vs Carstairs"
+    },
+    {
+      "start_time": "2026-01-04T13:15:00-07:00",
+      "end_time": "2026-01-04T15:15:00-07:00",
+      "type": "game",
+      "label": "U13 West Country vs Camrose",
+      "notes": "GAMES - U13 West Country vs Camrose"
+    },
+    {
+      "start_time": "2026-01-04T15:30:00-07:00",
+      "end_time": "2026-01-04T17:30:00-07:00",
+      "type": "game",
+      "label": "U11A vs Airdrie",
+      "notes": "GAMES - U11A vs Airdrie"
+    },
+    {
+      "start_time": "2026-01-04T18:00:00-07:00",
+      "end_time": "2026-01-04T19:00:00-07:00",
+      "type": "public_skate",
+      "label": "Public Skating",
+      "notes": "Public Skating"
+    },
+    {
+      "start_time": "2026-01-04T19:15:00-07:00",
+      "end_time": "2026-01-04T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Gmen",
+      "notes": "Mens Hockey - Gmen"
+    },
+    {
+      "start_time": "2026-01-04T20:30:00-07:00",
+      "end_time": "2026-01-04T22:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Stray Cats",
+      "notes": "Mens Hockey - Stray Cats"
+    },
+    {
+      "start_time": "2026-01-05T17:45:00-07:00",
+      "end_time": "2026-01-05T18:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U11 C",
+      "notes": "PRACTICES - U11 C"
+    },
+    {
+      "start_time": "2026-01-05T19:00:00-07:00",
+      "end_time": "2026-01-05T20:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U11 A",
+      "notes": "PRACTICES - U11 A"
+    },
+    {
+      "start_time": "2026-01-05T20:15:00-07:00",
+      "end_time": "2026-01-05T21:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U15",
+      "notes": "PRACTICES - U15"
+    },
+    {
+      "start_time": "2026-01-05T21:30:00-07:00",
+      "end_time": "2026-01-05T22:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U18",
+      "notes": "PRACTICES - U18"
+    },
+    {
+      "start_time": "2026-01-06T16:30:00-07:00",
+      "end_time": "2026-01-06T17:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Learn to Skate",
+      "notes": "Practice Ice - Learn to Skate"
+    },
+    {
+      "start_time": "2026-01-06T17:30:00-07:00",
+      "end_time": "2026-01-06T18:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Preliminary Skate",
+      "notes": "Practice Ice - Preliminary Skate"
+    },
+    {
+      "start_time": "2026-01-06T19:00:00-07:00",
+      "end_time": "2026-01-06T20:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Junior Skate",
+      "notes": "Practice Ice - Junior Skate"
+    },
+    {
+      "start_time": "2026-01-07T17:45:00-07:00",
+      "end_time": "2026-01-07T18:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U11 B",
+      "notes": "PRACTICES - U11 B"
+    },
+    {
+      "start_time": "2026-01-07T19:00:00-07:00",
+      "end_time": "2026-01-07T20:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U13",
+      "notes": "PRACTICES - U13"
+    },
+    {
+      "start_time": "2026-01-07T20:15:00-07:00",
+      "end_time": "2026-01-07T21:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Mens Adult  Good Timers",
+      "notes": "Mens Adult Hockey - Good Timers"
+    },
+    {
+      "start_time": "2026-01-08T16:30:00-07:00",
+      "end_time": "2026-01-08T17:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Learn to Skate",
+      "notes": "Practice Ice - Learn to Skate"
+    },
+    {
+      "start_time": "2026-01-08T17:30:00-07:00",
+      "end_time": "2026-01-08T18:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Preliminary Skate",
+      "notes": "Practice Ice - Preliminary Skate"
+    },
+    {
+      "start_time": "2026-01-08T19:00:00-07:00",
+      "end_time": "2026-01-08T20:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Junior Skate",
+      "notes": "Practice Ice - Junior Skate"
+    },
+    {
+      "start_time": "2026-01-08T19:00:00-07:00",
+      "end_time": "2026-01-08T21:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Time",
+      "notes": "Caroline Dance West Meeting"
+    },
+    {
+      "start_time": "2026-01-08T20:45:00-07:00",
+      "end_time": "2026-01-08T22:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Jr Wranglers",
+      "notes": "Mens Hockey - Jr Wranglers"
+    },
+    {
+      "start_time": "2026-01-09T17:00:00-07:00",
+      "end_time": "2026-01-09T18:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Time",
+      "notes": "Sticks & Pucks"
+    },
+    {
+      "start_time": "2026-01-09T19:15:00-07:00",
+      "end_time": "2026-01-09T20:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Stauffer Pond Scratchers",
+      "notes": "Mens Hockey - Stauffer Pond Scratchers"
+    },
+    {
+      "start_time": "2026-01-09T21:00:00-07:00",
+      "end_time": "2026-01-09T22:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Woodland Wilds",
+      "notes": "Mens Hockey - Woodland Wilds"
+    },
+    {
+      "start_time": "2026-01-10T09:00:00-07:00",
+      "end_time": "2026-01-10T10:00:00-07:00",
+      "type": "game",
+      "label": "U9 Tournament - Caroline vs Calahoo",
+      "notes": "U9 Tournament - Caroline vs Calahoo"
+    },
+    {
+      "start_time": "2026-01-10T09:00:00-07:00",
+      "end_time": "2026-01-10T17:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Time",
+      "notes": "U9 Tournament - Kurt Room Rental"
+    },
+    {
+      "start_time": "2026-01-10T10:30:00-07:00",
+      "end_time": "2026-01-10T11:30:00-07:00",
+      "type": "game",
+      "label": "U9 Tournament - FireHawks 1 vs High Country & FireHawks 2 vs North Fork",
+      "notes": "U9 Tournament - FireHawks 1 vs High Country & FireHawks 2 vs North Fork"
+    },
+    {
+      "start_time": "2026-01-10T12:00:00-07:00",
+      "end_time": "2026-01-10T13:00:00-07:00",
+      "type": "game",
+      "label": "U9 Tournament - Calahoo vs High Country & Caroline vs North Fork",
+      "notes": "U9 Tournament - Calahoo vs High Country & Caroline vs North Fork"
+    },
+    {
+      "start_time": "2026-01-10T14:00:00-07:00",
+      "end_time": "2026-01-10T15:00:00-07:00",
+      "type": "game",
+      "label": "U9 Tournament - FireHawks 1 vs Caroline & FireHawks 2 vs Calahoo",
+      "notes": "U9 Tournament - FireHawks 1 vs Caroline & FireHawks 2 vs Calahoo"
+    },
+    {
+      "start_time": "2026-01-10T15:30:00-07:00",
+      "end_time": "2026-01-10T16:30:00-07:00",
+      "type": "game",
+      "label": "U9 Tournament - North Fork vs High Country & Firehawks 1 vs Firehawks 2",
+      "notes": "U9 Tournament - North Fork vs High Country & Firehawks 1 vs Firehawks 2"
+    }
+  ]
+}

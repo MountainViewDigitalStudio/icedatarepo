@@ -1,0 +1,71 @@
+{
+  "facility_name": "Kurt Browning Arena",
+  "week_start": "2025-12-21",
+  "week_end": "2025-12-27",
+  "last_updated": "2025-12-24T12:21:54.012090-07:00",
+  "slots": [
+    {
+      "start_time": "2025-12-21T11:45:00-07:00",
+      "end_time": "2025-12-21T12:45:00-07:00",
+      "type": "game",
+      "label": "U9 vs RMH-White",
+      "notes": "GAMES - U9 vs RMH-White"
+    },
+    {
+      "start_time": "2025-12-21T18:00:00-07:00",
+      "end_time": "2025-12-21T19:00:00-07:00",
+      "type": "public_skate",
+      "label": "Public Skating",
+      "notes": "Public Skating"
+    },
+    {
+      "start_time": "2025-12-21T19:15:00-07:00",
+      "end_time": "2025-12-21T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Gmen",
+      "notes": "Mens Hockey - Gmen"
+    },
+    {
+      "start_time": "2025-12-21T20:30:00-07:00",
+      "end_time": "2025-12-21T22:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Stray Cats",
+      "notes": "Mens Hockey - Stray Cats"
+    },
+    {
+      "start_time": "2025-12-22T12:00:00-07:00",
+      "end_time": "2025-12-22T14:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Playschool Skating - Play School Ice"
+    },
+    {
+      "start_time": "2025-12-24T10:00:00-07:00",
+      "end_time": "2025-12-24T11:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "skating"
+    },
+    {
+      "start_time": "2025-12-26T11:30:00-07:00",
+      "end_time": "2025-12-26T13:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Private skate"
+    },
+    {
+      "start_time": "2025-12-26T13:00:00-07:00",
+      "end_time": "2025-12-26T15:15:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Private Skate"
+    },
+    {
+      "start_time": "2025-12-26T16:00:00-07:00",
+      "end_time": "2025-12-26T18:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Private Skate"
+    }
+  ]
+}
