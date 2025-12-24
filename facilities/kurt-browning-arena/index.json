@@ -1,0 +1,12 @@
+{
+  "facility": {
+    "id": "kurt-browning-arena",
+    "name": "Kurt Browning Arena",
+    "city": "Caroline",
+    "address": "5032 50 Ave, Caroline, AB T0M 0M0"
+  },
+  "available_weeks": [],
+  "weeks": [],
+  "generated_at": "2025-12-24T17:19:23.268930Z",
+  "status": "placeholder - testing phase"
+}
