@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-24T19:22:24.117999Z",
+  "generated_at": "2025-12-24T19:48:52.231626Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena",
@@ -16,143 +16,108 @@
   "slots": [
     {
       "type": "practice",
-      "start": "2025-12-22T09:00:00",
+      "start": "2025-12-22T09:30:00",
       "end": "2025-12-22T10:30:00",
       "label": "Private Ice Time",
-      "notes": "9 - 10:30am"
+      "notes": "9:30 AM - 10:30 AM"
+    },
+    {
+      "type": "shinny",
+      "start": "2025-12-22T13:00:00",
+      "end": "2025-12-22T14:45:00",
+      "label": "Adult Shinny",
+      "notes": "1:00 PM - 2:45 PM"
+    },
+    {
+      "type": "stick_and_puck",
+      "start": "2025-12-22T15:00:00",
+      "end": "2025-12-22T16:20:00",
+      "label": "Sticks N Pucks",
+      "notes": "3:00 PM - 4:20 PM"
     },
     {
       "type": "practice",
       "start": "2025-12-22T16:30:00",
       "end": "2025-12-22T17:20:00",
       "label": "SMH- Practice U9",
-      "notes": "4:30 - 5:20pm"
+      "notes": "4:30 PM - 5:20 PM"
     },
     {
       "type": "practice",
       "start": "2025-12-22T17:30:00",
       "end": "2025-12-22T18:20:00",
       "label": "SMH- Practice U11",
-      "notes": "5:30 - 6:20pm"
+      "notes": "5:30 PM - 6:20 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": "2025-12-22T17:30:00",
+      "end": "2025-12-22T18:30:00",
+      "label": "Sundre Skating Club Learn to Skate",
+      "notes": "5:30 PM - 6:30 PM"
     },
     {
       "type": "practice",
       "start": "2025-12-22T18:30:00",
       "end": "2025-12-22T19:20:00",
       "label": "SMH- Practice U13",
-      "notes": "6:30 - 7:20pm"
+      "notes": "6:30 PM - 7:20 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": "2025-12-22T18:30:00",
+      "end": "2025-12-22T20:00:00",
+      "label": "Sundre Skating Club Star Skate",
+      "notes": "6:30 PM - 8:00 PM"
     },
     {
       "type": "practice",
       "start": "2025-12-22T19:30:00",
       "end": "2025-12-22T20:20:00",
       "label": "SMH-Practice U15",
-      "notes": "7:30 - 8:20pm"
+      "notes": "7:30 PM - 8:20 PM"
     },
     {
       "type": "practice",
       "start": "2025-12-22T20:30:00",
       "end": "2025-12-22T21:20:00",
       "label": "SMH- Practice U18",
-      "notes": "8:30 - 9:20pm"
+      "notes": "8:30 PM - 9:20 PM"
     },
     {
       "type": "adult_rec",
       "start": "2025-12-22T21:30:00",
       "end": "2025-12-22T23:00:00",
       "label": "Mens Hockey- Bombers",
-      "notes": "9:30 - 11pm"
+      "notes": "9:30 PM - 11:00 PM"
     },
     {
       "type": "public_skate",
       "start": "2025-12-23T09:00:00",
       "end": "2025-12-23T10:15:00",
       "label": "Public Skating",
-      "notes": "9 - 10:15am"
+      "notes": "9:00 AM - 10:15 AM"
     },
     {
       "type": "practice",
       "start": "2025-12-23T10:30:00",
       "end": "2025-12-23T11:45:00",
       "label": "Sticks & Pucks",
-      "notes": "10:30 - 11:45am"
+      "notes": "10:30 AM - 11:45 AM"
     },
     {
       "type": "family_skate",
       "start": "2025-12-23T12:00:00",
-      "end": "2025-12-23T13:45:00",
+      "end": "2025-12-23T17:00:00",
       "label": "Family Skate Private",
-      "notes": "12 - 1:45pm"
-    },
-    {
-      "type": "shinny",
-      "start": "2025-12-23T13:00:00",
-      "end": "2025-12-23T14:45:00",
-      "label": "Adult Shinny",
-      "notes": "1 - 2:45pm"
-    },
-    {
-      "type": "stick_and_puck",
-      "start": "2025-12-23T15:00:00",
-      "end": "2025-12-23T16:20:00",
-      "label": "Sticks N Pucks",
-      "notes": "3 - 4:20pm"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-23T15:00:00",
-      "end": "2025-12-23T00:00:00",
-      "label": "Arena Closed",
-      "notes": "3pm - 12am"
-    },
-    {
-      "type": "skating_club",
-      "start": "2025-12-23T17:30:00",
-      "end": "2025-12-23T18:30:00",
-      "label": "Sundre Skating Club Learn to Skate",
-      "notes": "5:30 - 6:30pm"
-    },
-    {
-      "type": "skating_club",
-      "start": "2025-12-23T18:30:00",
-      "end": "2025-12-23T20:00:00",
-      "label": "Sundre Skating Club Star Skate",
-      "notes": "6:30 - 8pm"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-25",
-      "end": "2025-12-25",
-      "label": "Arena Closed",
-      "notes": "8am"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-25T07:00:00",
-      "end": "2025-12-25T00:00:00",
-      "label": "Arena Closed",
-      "notes": "7am - 12am"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-26T07:00:00",
-      "end": "2025-12-26T00:00:00",
-      "label": "Arena Closed",
-      "notes": "7am - 12am"
-    },
-    {
-      "type": "practice",
-      "start": "2025-12-27T07:00:00",
-      "end": "2025-12-27T22:00:00",
-      "label": "Arena Closed",
-      "notes": "7am - 10pm"
+      "notes": "12:00 PM - 5:00 PM"
     },
     {
       "type": "practice",
       "start": "2025-12-28T10:00:00",
       "end": "2025-12-28T11:00:00",
       "label": "Private Ice",
-      "notes": "10 - 11am"
+      "notes": "10:00 AM - 11:00 AM"
     }
   ]
 }
