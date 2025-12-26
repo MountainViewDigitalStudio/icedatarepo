@@ -1,0 +1,158 @@
+{
+  "version": "1.0",
+  "generated_at": "2025-12-26T18:53:09.565949Z",
+  "facility": {
+    "id": "open-ice",
+    "name": "Open Ice (Public & Shinny)"
+  },
+  "week": {
+    "start_date": "2025-12-14",
+    "end_date": "2025-12-20"
+  },
+  "view": "open_ice",
+  "slots": [
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "public",
+      "start": "2025-12-14T18:00:00-07:00",
+      "end": "2025-12-14T19:00:00-07:00",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "source_url": null,
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "public",
+      "start": "2025-12-14T19:00:00-07:00",
+      "end": "2025-12-14T19:15:00-07:00",
+      "label": "Public Skating",
+      "notes": "Public Skating - FLOOD",
+      "source_url": null,
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2025-12-15T12:00:00-07:00",
+      "end": "2025-12-15T13:00:00-07:00",
+      "label": "Sticks and Pucks",
+      "notes": "Sticks and Pucks",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2025-12-16T12:00:00-07:00",
+      "end": "2025-12-16T13:00:00-07:00",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "source_url": null,
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2025-12-16T20:45:00-07:00",
+      "end": "2025-12-16T22:15:00-07:00",
+      "label": "Hockey - Mens Hockey- Mighty Pucks",
+      "notes": "Mens Hockey- Mighty Pucks",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2025-12-16T22:15:00-07:00",
+      "end": "2025-12-16T22:30:00-07:00",
+      "label": "Hockey - Mens Hockey- Mighty Pucks - Flood",
+      "notes": "Mens Hockey- Mighty Pucks - Flood",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2025-12-17T12:00:00-07:00",
+      "end": "2025-12-17T13:00:00-07:00",
+      "label": "Sticks and Pucks",
+      "notes": "Sticks and Pucks",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2025-12-18T12:00:00-07:00",
+      "end": "2025-12-18T13:00:00-07:00",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "source_url": null,
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2025-12-19T12:00:00-07:00",
+      "end": "2025-12-19T13:00:00-07:00",
+      "label": "Sticks and Pucks",
+      "notes": "Sticks and Pucks",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2025-12-19T17:00:00-07:00",
+      "end": "2025-12-19T18:00:00-07:00",
+      "label": "Sticks & Pucks",
+      "notes": "Sticks & Pucks",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2025-12-19T18:00:00-07:00",
+      "end": "2025-12-19T18:15:00-07:00",
+      "label": "Maintenance",
+      "notes": "Sticks & Pucks - FLOOD",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    }
+  ]
+}

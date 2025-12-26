@@ -1,0 +1,145 @@
+{
+  "version": "1.0",
+  "generated_at": "2025-12-26T18:53:09.567038Z",
+  "facility": {
+    "id": "open-ice",
+    "name": "Open Ice (Public & Shinny)"
+  },
+  "week": {
+    "start_date": "2026-01-04",
+    "end_date": "2026-01-10"
+  },
+  "view": "open_ice",
+  "slots": [
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "public",
+      "start": "2026-01-04T18:00:00-07:00",
+      "end": "2026-01-04T19:00:00-07:00",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "source_url": null,
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "public",
+      "start": "2026-01-04T19:00:00-07:00",
+      "end": "2026-01-04T19:15:00-07:00",
+      "label": "Public Skating",
+      "notes": "Public Skating - FLOOD",
+      "source_url": null,
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-01-05T12:00:00-07:00",
+      "end": "2026-01-05T13:00:00-07:00",
+      "label": "Sticks and Pucks",
+      "notes": "Sticks and Pucks",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-01-06T12:00:00-07:00",
+      "end": "2026-01-06T13:00:00-07:00",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "source_url": null,
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-01-07T12:00:00-07:00",
+      "end": "2026-01-07T13:00:00-07:00",
+      "label": "Sticks and Pucks",
+      "notes": "Sticks and Pucks",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-01-08T12:00:00-07:00",
+      "end": "2026-01-08T13:00:00-07:00",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "source_url": null,
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-01-09T12:00:00-07:00",
+      "end": "2026-01-09T13:00:00-07:00",
+      "label": "Sticks and Pucks",
+      "notes": "Sticks and Pucks",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-01-09T17:00:00-07:00",
+      "end": "2026-01-09T18:00:00-07:00",
+      "label": "Sticks & Pucks",
+      "notes": "Sticks & Pucks",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-01-09T18:00:00-07:00",
+      "end": "2026-01-09T18:15:00-07:00",
+      "label": "Maintenance",
+      "notes": "Sticks & Pucks - FLOOD",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-01-10T13:00:00-07:00",
+      "end": "2026-01-10T14:00:00-07:00",
+      "label": "Maintenance",
+      "notes": "U9 Tournament - Flood & Puck Toss",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    }
+  ]
+}
