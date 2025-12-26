@@ -1,0 +1,351 @@
+{
+  "facility_name": "Kurt Browning Arena",
+  "week_start": "2025-12-14",
+  "week_end": "2025-12-20",
+  "last_updated": "2025-12-25T23:02:47.360893-07:00",
+  "slots": [
+    {
+      "start_time": "2025-12-14T09:00:00-07:00",
+      "end_time": "2025-12-14T10:30:00-07:00",
+      "type": "other",
+      "label": "U13 Trails West Tournament - U13 Game 7 - B FINAL",
+      "notes": "U13 Trails West Tournament - U13 Game 7 - B FINAL"
+    },
+    {
+      "start_time": "2025-12-14T10:30:00-07:00",
+      "end_time": "2025-12-14T10:45:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "U13 Trails West Tournament - U13 FLOOD"
+    },
+    {
+      "start_time": "2025-12-14T10:45:00-07:00",
+      "end_time": "2025-12-14T12:15:00-07:00",
+      "type": "other",
+      "label": "U13 Trails West Tournament - U13 Game 8 - A FINAL",
+      "notes": "U13 Trails West Tournament - U13 Game 8 - A FINAL"
+    },
+    {
+      "start_time": "2025-12-14T12:00:00-07:00",
+      "end_time": "2025-12-14T20:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Christmas Party - McCaulder Christmas Party - Private Function"
+    },
+    {
+      "start_time": "2025-12-14T12:15:00-07:00",
+      "end_time": "2025-12-14T12:30:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "U13 Trails West Tournament - U13 FLOOD"
+    },
+    {
+      "start_time": "2025-12-14T13:30:00-07:00",
+      "end_time": "2025-12-14T15:30:00-07:00",
+      "type": "game",
+      "label": "U11-C West Country vs Battle River",
+      "notes": "GAMES - U11-C West Country vs Battle River"
+    },
+    {
+      "start_time": "2025-12-14T15:30:00-07:00",
+      "end_time": "2025-12-14T15:45:00-07:00",
+      "type": "game",
+      "label": "GAMES - FLOOD U11-C",
+      "notes": "GAMES - FLOOD U11-C"
+    },
+    {
+      "start_time": "2025-12-14T15:45:00-07:00",
+      "end_time": "2025-12-14T17:45:00-07:00",
+      "type": "game",
+      "label": "U11-B West Country vs Olds",
+      "notes": "GAMES - U11-B West Country vs Olds"
+    },
+    {
+      "start_time": "2025-12-14T17:45:00-07:00",
+      "end_time": "2025-12-14T18:00:00-07:00",
+      "type": "game",
+      "label": "GAMES - FLOOD U11-B",
+      "notes": "GAMES - FLOOD U11-B"
+    },
+    {
+      "start_time": "2025-12-14T18:00:00-07:00",
+      "end_time": "2025-12-14T19:00:00-07:00",
+      "type": "public_skate",
+      "label": "Public Skating",
+      "notes": "Public Skating"
+    },
+    {
+      "start_time": "2025-12-14T19:00:00-07:00",
+      "end_time": "2025-12-14T19:15:00-07:00",
+      "type": "public_skate",
+      "label": "Public Skating",
+      "notes": "Public Skating - FLOOD"
+    },
+    {
+      "start_time": "2025-12-14T19:15:00-07:00",
+      "end_time": "2025-12-14T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Gmen",
+      "notes": "Mens Hockey - Gmen"
+    },
+    {
+      "start_time": "2025-12-14T20:15:00-07:00",
+      "end_time": "2025-12-14T20:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Flood",
+      "notes": "Mens Hockey - Flood"
+    },
+    {
+      "start_time": "2025-12-14T20:30:00-07:00",
+      "end_time": "2025-12-14T22:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Stray Cats",
+      "notes": "Mens Hockey - Stray Cats"
+    },
+    {
+      "start_time": "2025-12-14T22:00:00-07:00",
+      "end_time": "2025-12-14T22:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Flood",
+      "notes": "Mens Hockey - Flood"
+    },
+    {
+      "start_time": "2025-12-15T15:45:00-07:00",
+      "end_time": "2025-12-15T16:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U5/U7 No flood",
+      "notes": "PRACTICES - U5/U7 No flood"
+    },
+    {
+      "start_time": "2025-12-15T16:45:00-07:00",
+      "end_time": "2025-12-15T17:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U9 No flood",
+      "notes": "PRACTICES - U9 No flood"
+    },
+    {
+      "start_time": "2025-12-15T17:45:00-07:00",
+      "end_time": "2025-12-15T18:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U11 C",
+      "notes": "PRACTICES - U11 C"
+    },
+    {
+      "start_time": "2025-12-15T18:45:00-07:00",
+      "end_time": "2025-12-15T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood"
+    },
+    {
+      "start_time": "2025-12-15T19:00:00-07:00",
+      "end_time": "2025-12-15T20:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U11 A",
+      "notes": "PRACTICES - U11 A"
+    },
+    {
+      "start_time": "2025-12-15T20:00:00-07:00",
+      "end_time": "2025-12-15T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood"
+    },
+    {
+      "start_time": "2025-12-15T20:15:00-07:00",
+      "end_time": "2025-12-15T21:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U15",
+      "notes": "PRACTICES - U15"
+    },
+    {
+      "start_time": "2025-12-15T21:15:00-07:00",
+      "end_time": "2025-12-15T21:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood"
+    },
+    {
+      "start_time": "2025-12-16T16:30:00-07:00",
+      "end_time": "2025-12-16T17:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Learn to Skate",
+      "notes": "Practice Ice - Learn to Skate"
+    },
+    {
+      "start_time": "2025-12-16T17:15:00-07:00",
+      "end_time": "2025-12-16T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - FLOOD",
+      "notes": "Practice Ice - FLOOD"
+    },
+    {
+      "start_time": "2025-12-16T17:30:00-07:00",
+      "end_time": "2025-12-16T18:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Preliminary Skate",
+      "notes": "Practice Ice - Preliminary Skate"
+    },
+    {
+      "start_time": "2025-12-16T18:45:00-07:00",
+      "end_time": "2025-12-16T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - FLOOD",
+      "notes": "Practice Ice - FLOOD"
+    },
+    {
+      "start_time": "2025-12-16T19:00:00-07:00",
+      "end_time": "2025-12-16T20:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Junior Skate",
+      "notes": "Practice Ice - Junior Skate"
+    },
+    {
+      "start_time": "2025-12-16T20:30:00-07:00",
+      "end_time": "2025-12-16T20:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - FLOOD",
+      "notes": "Practice Ice - FLOOD"
+    },
+    {
+      "start_time": "2025-12-16T20:45:00-07:00",
+      "end_time": "2025-12-16T22:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Mens Hockey- Mighty Pucks",
+      "notes": "Mens Hockey- Mighty Pucks"
+    },
+    {
+      "start_time": "2025-12-16T22:15:00-07:00",
+      "end_time": "2025-12-16T22:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Mens Hockey- Mighty Pucks - Flood",
+      "notes": "Mens Hockey- Mighty Pucks - Flood"
+    },
+    {
+      "start_time": "2025-12-17T15:45:00-07:00",
+      "end_time": "2025-12-17T16:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U5 / U7 no flood",
+      "notes": "PRACTICES - U5 / U7 no flood"
+    },
+    {
+      "start_time": "2025-12-17T16:45:00-07:00",
+      "end_time": "2025-12-17T17:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U9 no flood",
+      "notes": "PRACTICES - U9 no flood"
+    },
+    {
+      "start_time": "2025-12-17T17:45:00-07:00",
+      "end_time": "2025-12-17T18:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U11 B",
+      "notes": "PRACTICES - U11 B"
+    },
+    {
+      "start_time": "2025-12-17T18:45:00-07:00",
+      "end_time": "2025-12-17T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood"
+    },
+    {
+      "start_time": "2025-12-17T19:00:00-07:00",
+      "end_time": "2025-12-17T20:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U13",
+      "notes": "PRACTICES - U13"
+    },
+    {
+      "start_time": "2025-12-17T20:00:00-07:00",
+      "end_time": "2025-12-17T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood"
+    },
+    {
+      "start_time": "2025-12-18T19:00:00-07:00",
+      "end_time": "2025-12-18T22:00:00-07:00",
+      "type": "other",
+      "label": "RCMP Meeting",
+      "notes": "RCMP Meeting"
+    },
+    {
+      "start_time": "2025-12-18T20:45:00-07:00",
+      "end_time": "2025-12-18T22:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Jr Wranglers",
+      "notes": "Mens Hockey - Jr Wranglers"
+    },
+    {
+      "start_time": "2025-12-18T22:15:00-07:00",
+      "end_time": "2025-12-18T22:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Flood",
+      "notes": "Mens Hockey - Flood"
+    },
+    {
+      "start_time": "2025-12-19T09:00:00-07:00",
+      "end_time": "2025-12-19T21:00:00-07:00",
+      "type": "other",
+      "label": "Christmas Baking",
+      "notes": "Christmas Baking"
+    },
+    {
+      "start_time": "2025-12-19T17:00:00-07:00",
+      "end_time": "2025-12-19T18:00:00-07:00",
+      "type": "other",
+      "label": "Sticks & Pucks",
+      "notes": "Sticks & Pucks"
+    },
+    {
+      "start_time": "2025-12-19T18:00:00-07:00",
+      "end_time": "2025-12-19T18:15:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "Sticks & Pucks - FLOOD"
+    },
+    {
+      "start_time": "2025-12-19T19:15:00-07:00",
+      "end_time": "2025-12-19T20:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Stauffer Pond Scratchers",
+      "notes": "Mens Hockey - Stauffer Pond Scratchers"
+    },
+    {
+      "start_time": "2025-12-19T20:45:00-07:00",
+      "end_time": "2025-12-19T21:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Flood",
+      "notes": "Mens Hockey - Flood"
+    },
+    {
+      "start_time": "2025-12-19T21:00:00-07:00",
+      "end_time": "2025-12-19T22:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Woodland Wilds",
+      "notes": "Mens Hockey - Woodland Wilds"
+    },
+    {
+      "start_time": "2025-12-19T22:15:00-07:00",
+      "end_time": "2025-12-19T22:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - FLOOD",
+      "notes": "Mens Hockey - FLOOD"
+    },
+    {
+      "start_time": "2025-12-20T11:45:00-07:00",
+      "end_time": "2025-12-20T12:45:00-07:00",
+      "type": "game",
+      "label": "U9 vs Innisfail",
+      "notes": "GAMES - U9 vs Innisfail"
+    },
+    {
+      "start_time": "2025-12-20T12:45:00-07:00",
+      "end_time": "2025-12-20T13:15:00-07:00",
+      "type": "game",
+      "label": "GAMES - U9 BOARDS + FLOOD",
+      "notes": "GAMES - U9 BOARDS + FLOOD"
+    }
+  ]
+}
