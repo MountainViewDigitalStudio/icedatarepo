@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-26T07:47:40.974732Z",
+  "generated_at": "2025-12-26T08:05:08.103916Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -16,354 +16,454 @@
       "name": "Main Ice Surface",
       "slots": [
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-07T08:15:00-07:00",
           "end": "2025-12-07T09:30:00-07:00",
           "label": "U7 Yellow vs Didsbury Black U7 Red vs Didsbury Green'",
-          "notes": "OMHA Dec 2025 - U7 Yellow vs Didsbury Black U7 Red vs Didsbury Green'"
+          "notes": "OMHA Dec 2025 - U7 Yellow vs Didsbury Black U7 Red vs Didsbury Green'",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-07T09:45:00-07:00",
           "end": "2025-12-07T11:45:00-07:00",
           "label": "U11 fem vs Stettler",
-          "notes": "OMHA Dec 2025 - U11 fem vs Stettler"
+          "notes": "OMHA Dec 2025 - U11 fem vs Stettler",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-07T12:00:00-07:00",
           "end": "2025-12-07T14:00:00-07:00",
           "label": "U13B vs Cremona",
-          "notes": "OMHA Dec 2025 - U13B vs Cremona"
+          "notes": "OMHA Dec 2025 - U13B vs Cremona",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-07T14:30:00-07:00",
           "end": "2025-12-07T17:30:00-07:00",
           "label": "Grizzlys vs Devon",
-          "notes": "Grizzlys 2025/26 - Grizzlys vs Devon"
+          "notes": "Grizzlys 2025/26 - Grizzlys vs Devon",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-07T17:45:00-07:00",
           "end": "2025-12-07T19:45:00-07:00",
           "label": "U15B vs Renegades",
-          "notes": "OMHA Dec 2025 - U15B vs Renegades"
+          "notes": "OMHA Dec 2025 - U15B vs Renegades",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "other",
           "start": "2025-12-07T21:30:00-07:00",
           "end": "2025-12-07T23:00:00-07:00",
           "label": "Wilde December 2026",
-          "notes": "Wilde December 2026"
+          "notes": "Wilde December 2026",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "practice",
           "start": "2025-12-08T16:00:00-07:00",
           "end": "2025-12-08T16:45:00-07:00",
           "label": "U9C Yellow U9C Black",
-          "notes": "OMHA Dec 2025 - U9C Yellow U9C Black"
+          "notes": "OMHA Dec 2025 - U9C Yellow U9C Black",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-08T16:45:00-07:00",
           "end": "2025-12-08T17:45:00-07:00",
           "label": "U11B U11C",
-          "notes": "OMHA Dec 2025 - U11B U11C"
+          "notes": "OMHA Dec 2025 - U11B U11C",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-08T18:00:00-07:00",
           "end": "2025-12-08T19:00:00-07:00",
           "label": "U13A fem",
-          "notes": "OMHA Dec 2025 - U13A fem"
+          "notes": "OMHA Dec 2025 - U13A fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-08T19:15:00-07:00",
           "end": "2025-12-08T20:15:00-07:00",
           "label": "U13B fem",
-          "notes": "OMHA Dec 2025 - U13B fem"
+          "notes": "OMHA Dec 2025 - U13B fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-08T20:30:00-07:00",
           "end": "2025-12-08T21:30:00-07:00",
           "label": "U18AA",
-          "notes": "OMHA Dec 2025 - U18AA"
+          "notes": "OMHA Dec 2025 - U18AA",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-09T10:00:00-07:00",
           "end": "2025-12-09T11:00:00-07:00",
           "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "notes": "Grizzlys 2025/26 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-09T11:15:00-07:00",
           "end": "2025-12-09T12:15:00-07:00",
           "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "notes": "Grizzlys 2025/26 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-09T16:00:00-07:00",
           "end": "2025-12-09T16:45:00-07:00",
           "label": "U7 Black/ Yellow/Red",
-          "notes": "OMHA Dec 2025 - U7 Black/ Yellow/Red"
+          "notes": "OMHA Dec 2025 - U7 Black/ Yellow/Red",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-09T16:45:00-07:00",
           "end": "2025-12-09T17:45:00-07:00",
           "label": "U13C",
-          "notes": "OMHA Dec 2025 - U13C"
+          "notes": "OMHA Dec 2025 - U13C",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-09T18:00:00-07:00",
           "end": "2025-12-09T19:00:00-07:00",
           "label": "U13A",
-          "notes": "OMHA Dec 2025 - U13A"
+          "notes": "OMHA Dec 2025 - U13A",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-09T19:15:00-07:00",
           "end": "2025-12-09T20:15:00-07:00",
           "label": "U15B",
-          "notes": "OMHA Dec 2025 - U15B"
+          "notes": "OMHA Dec 2025 - U15B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-09T20:30:00-07:00",
           "end": "2025-12-09T21:30:00-07:00",
           "label": "U15A",
-          "notes": "OMHA Dec 2025 - U15A"
+          "notes": "OMHA Dec 2025 - U15A",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-10T10:00:00-07:00",
           "end": "2025-12-10T11:00:00-07:00",
           "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "notes": "Grizzlys 2025/26 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-10T11:15:00-07:00",
           "end": "2025-12-10T12:15:00-07:00",
           "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "notes": "Grizzlys 2025/26 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-10T16:00:00-07:00",
           "end": "2025-12-10T16:45:00-07:00",
           "label": "U9C Yellow U9C Black",
-          "notes": "OMHA Dec 2025 - U9C Yellow U9C Black"
+          "notes": "OMHA Dec 2025 - U9C Yellow U9C Black",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-10T16:45:00-07:00",
           "end": "2025-12-10T17:30:00-07:00",
           "label": "U11B U11C",
-          "notes": "OMHA Dec 2025 - U11B U11C"
+          "notes": "OMHA Dec 2025 - U11B U11C",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-10T17:45:00-07:00",
           "end": "2025-12-10T18:45:00-07:00",
           "label": "U13AA",
-          "notes": "OMHA Dec 2025 - U13AA"
+          "notes": "OMHA Dec 2025 - U13AA",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-10T19:00:00-07:00",
           "end": "2025-12-10T20:00:00-07:00",
           "label": "U15B",
-          "notes": "OMHA Dec 2025 - U15B"
+          "notes": "OMHA Dec 2025 - U15B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-10T20:15:00-07:00",
           "end": "2025-12-10T21:00:00-07:00",
           "label": "U15 fem",
-          "notes": "OMHA Dec 2025 - U15 fem"
+          "notes": "OMHA Dec 2025 - U15 fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-10T21:15:00-07:00",
           "end": "2025-12-10T22:00:00-07:00",
           "label": "U18 fem",
-          "notes": "OMHA Dec 2025 - U18 fem"
+          "notes": "OMHA Dec 2025 - U18 fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
-          "type": "practice",
+          "type": "other",
           "start": "2025-12-11T06:45:00-07:00",
           "end": "2025-12-11T07:45:00-07:00",
           "label": "Haaland - Hockey",
-          "notes": "Haaland - Hockey"
+          "notes": "Haaland - Hockey",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "practice",
           "start": "2025-12-11T10:00:00-07:00",
           "end": "2025-12-11T11:00:00-07:00",
           "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "notes": "Grizzlys 2025/26 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-11T11:15:00-07:00",
           "end": "2025-12-11T12:15:00-07:00",
           "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "notes": "Grizzlys 2025/26 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-11T16:00:00-07:00",
           "end": "2025-12-11T16:45:00-07:00",
           "label": "U9A U9B",
-          "notes": "OMHA Dec 2025 - U9A U9B"
+          "notes": "OMHA Dec 2025 - U9A U9B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-11T16:45:00-07:00",
           "end": "2025-12-11T17:30:00-07:00",
           "label": "U13 A fem",
-          "notes": "OMHA Dec 2025 - U13 A fem"
+          "notes": "OMHA Dec 2025 - U13 A fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-11T17:45:00-07:00",
           "end": "2025-12-11T18:30:00-07:00",
           "label": "U13B fem",
-          "notes": "OMHA Dec 2025 - U13B fem"
+          "notes": "OMHA Dec 2025 - U13B fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-11T18:45:00-07:00",
           "end": "2025-12-11T19:15:00-07:00",
           "label": "U13A",
-          "notes": "OMHA Dec 2025 - U13A"
+          "notes": "OMHA Dec 2025 - U13A",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
-          "type": "practice",
+          "type": "other",
           "start": "2025-12-11T19:00:00-07:00",
           "end": "2025-12-11T21:00:00-07:00",
           "label": "Olds Lacrosse meeting",
-          "notes": "Olds Lacrosse meeting"
+          "notes": "Olds Lacrosse meeting",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "practice",
           "start": "2025-12-11T19:15:00-07:00",
           "end": "2025-12-11T19:45:00-07:00",
           "label": "U13A/U13C",
-          "notes": "OMHA Dec 2025 - U13A/U13C"
+          "notes": "OMHA Dec 2025 - U13A/U13C",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-11T19:45:00-07:00",
           "end": "2025-12-11T20:15:00-07:00",
           "label": "U13C",
-          "notes": "OMHA Dec 2025 - U13C"
+          "notes": "OMHA Dec 2025 - U13C",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-11T20:30:00-07:00",
           "end": "2025-12-11T21:30:00-07:00",
           "label": "U15A",
-          "notes": "OMHA Dec 2025 - U15A"
+          "notes": "OMHA Dec 2025 - U15A",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
-          "type": "practice",
+          "type": "other",
           "start": "2025-12-12T08:45:00-07:00",
           "end": "2025-12-12T09:45:00-07:00",
           "label": "Longhorns Nov/ Dec 2025 inv",
-          "notes": "Longhorns Nov/ Dec 2025 inv"
+          "notes": "Longhorns Nov/ Dec 2025 inv",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-12T10:00:00-07:00",
           "end": "2025-12-12T11:00:00-07:00",
           "label": "Pre-Game skate",
-          "notes": "Grizzlys 2025/26 - Pre-Game skate"
+          "notes": "Grizzlys 2025/26 - Pre-Game skate",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "skating_club",
           "start": "2025-12-12T11:15:00-07:00",
           "end": "2025-12-12T12:15:00-07:00",
           "label": "Olds Figure Skating Club Dec 2025",
-          "notes": "Olds Figure Skating Club Dec 2025"
+          "notes": "Olds Figure Skating Club Dec 2025",
+          "color": "#06B6D4",
+          "type_display": "Skating Club / Programs"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-12T13:00:00-07:00",
           "end": "2025-12-12T15:00:00-07:00",
           "label": "C div Olds U13C vs Devon (flood after 2nd)",
-          "notes": "OMHA 2025/26 Tournaments - C div Olds U13C vs Devon (flood after 2nd)"
+          "notes": "OMHA 2025/26 Tournaments - C div Olds U13C vs Devon (flood after 2nd)",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-12T15:00:00-07:00",
           "end": "2025-12-12T17:00:00-07:00",
           "label": "C div Sylvan Lake C vs Edmonton  Northstars( flood 1st)",
-          "notes": "OMHA 2025/26 Tournaments - C div Sylvan Lake C vs Edmonton  Northstars( flood 1st)"
+          "notes": "OMHA 2025/26 Tournaments - C div Sylvan Lake C vs Edmonton  Northstars( flood 1st)",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-12T17:00:00-07:00",
           "end": "2025-12-12T19:00:00-07:00",
           "label": "A div Sherwood Park vs North SEERA (flood after 2nd)",
-          "notes": "OMHA 2025/26 Tournaments - A div Sherwood Park vs North SEERA (flood after 2nd)"
+          "notes": "OMHA 2025/26 Tournaments - A div Sherwood Park vs North SEERA (flood after 2nd)",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-12T19:00:00-07:00",
           "end": "2025-12-12T21:00:00-07:00",
           "label": "A div Olds U13A vs Innisfail (flood after 1st)",
-          "notes": "OMHA 2025/26 Tournaments - A div Olds U13A vs Innisfail (flood after 1st)"
+          "notes": "OMHA 2025/26 Tournaments - A div Olds U13A vs Innisfail (flood after 1st)",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-13T08:30:00-07:00",
           "end": "2025-12-13T10:30:00-07:00",
           "label": "C div Olds U13C vs Edmonton  Northstars (Flood 2nd)",
-          "notes": "OMHA 2025/26 Tournaments - C div Olds U13C vs Edmonton  Northstars (Flood 2nd)"
+          "notes": "OMHA 2025/26 Tournaments - C div Olds U13C vs Edmonton  Northstars (Flood 2nd)",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-13T10:30:00-07:00",
           "end": "2025-12-13T12:30:00-07:00",
           "label": "Olds U13B vs Sylvan Lake B  (Flood 1st)",
-          "notes": "OMHA 2025/26 Tournaments - Olds U13B vs Sylvan Lake B  (Flood 1st)"
+          "notes": "OMHA 2025/26 Tournaments - Olds U13B vs Sylvan Lake B  (Flood 1st)",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-13T12:30:00-07:00",
           "end": "2025-12-13T14:30:00-07:00",
           "label": "B div Glenlake vs Magrath (flood after 2nd)",
-          "notes": "OMHA 2025/26 Tournaments - B div Glenlake vs Magrath (flood after 2nd)"
+          "notes": "OMHA 2025/26 Tournaments - B div Glenlake vs Magrath (flood after 2nd)",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-13T14:45:00-07:00",
           "end": "2025-12-13T16:45:00-07:00",
           "label": "C div Devon vs Edmonton Northstars (Flood 1st)",
-          "notes": "OMHA 2025/26 Tournaments - C div Devon vs Edmonton Northstars (Flood 1st)"
+          "notes": "OMHA 2025/26 Tournaments - C div Devon vs Edmonton Northstars (Flood 1st)",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-13T16:45:00-07:00",
           "end": "2025-12-13T18:45:00-07:00",
           "label": "B div Olds U13B vs Magrath (flood after 2nd)",
-          "notes": "OMHA 2025/26 Tournaments - B div Olds U13B vs Magrath (flood after 2nd)"
+          "notes": "OMHA 2025/26 Tournaments - B div Olds U13B vs Magrath (flood after 2nd)",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-13T18:45:00-07:00",
           "end": "2025-12-13T20:45:00-07:00",
           "label": "Olds U13A vs Sherwood Park )flood after 1st)",
-          "notes": "OMHA 2025/26 Tournaments - Olds U13A vs Sherwood Park )flood after 1st)"
+          "notes": "OMHA 2025/26 Tournaments - Olds U13A vs Sherwood Park )flood after 1st)",
+          "color": "#EF4444",
+          "type_display": "Games"
         }
       ]
     },
@@ -371,312 +471,400 @@
       "name": "Auxiliary Ice Surface",
       "slots": [
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-07T09:00:00-07:00",
           "end": "2025-12-07T10:15:00-07:00",
           "label": "U9C Yellow vs Hanna 9:30-10:15 Pre Hockey",
-          "notes": "OMHA Dec 2025 - U9C Yellow vs Hanna 9:30-10:15 Pre Hockey"
+          "notes": "OMHA Dec 2025 - U9C Yellow vs Hanna 9:30-10:15 Pre Hockey",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-07T10:30:00-07:00",
           "end": "2025-12-07T12:15:00-07:00",
           "label": "U11C vs Kneehill, no flood during game",
-          "notes": "OMHA Dec 2025 - U11C vs Kneehill, no flood during game"
+          "notes": "OMHA Dec 2025 - U11C vs Kneehill, no flood during game",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-07T15:00:00-07:00",
           "end": "2025-12-07T17:15:00-07:00",
           "label": "U15AA vs Medicine Hat",
-          "notes": "OMHA Dec 2025 - U15AA vs Medicine Hat"
+          "notes": "OMHA Dec 2025 - U15AA vs Medicine Hat",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "other",
           "start": "2025-12-07T17:30:00-07:00",
           "end": "2025-12-07T18:30:00-07:00",
           "label": "Santa skate",
-          "notes": "Grizzlys 2025/26 - Santa skate"
+          "notes": "Grizzlys 2025/26 - Santa skate",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
-          "type": "practice",
+          "type": "other",
           "start": "2025-12-07T18:45:00-07:00",
           "end": "2025-12-07T19:45:00-07:00",
           "label": "Winter 2025/26 ringettte",
-          "notes": "Winter 2025/26 ringettte"
+          "notes": "Winter 2025/26 ringettte",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
-          "type": "practice",
+          "type": "other",
           "start": "2025-12-08T06:30:00-07:00",
           "end": "2025-12-08T07:30:00-07:00",
           "label": "HC",
-          "notes": "HC"
+          "notes": "HC",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
-          "type": "practice",
+          "type": "shinny",
           "start": "2025-12-08T12:00:00-07:00",
           "end": "2025-12-08T13:00:00-07:00",
           "label": "Sticks and Pucks",
-          "notes": "Sticks and Pucks"
+          "notes": "Sticks and Pucks",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
         },
         {
-          "type": "practice",
+          "type": "skating_club",
           "start": "2025-12-08T15:45:00-07:00",
           "end": "2025-12-08T16:45:00-07:00",
           "label": "Olds Figure Skating Club Dec 2025",
-          "notes": "Olds Figure Skating Club Dec 2025"
+          "notes": "Olds Figure Skating Club Dec 2025",
+          "color": "#06B6D4",
+          "type_display": "Skating Club / Programs"
         },
         {
-          "type": "practice",
+          "type": "skating_club",
           "start": "2025-12-08T17:00:00-07:00",
           "end": "2025-12-08T19:45:00-07:00",
           "label": "Olds Figure Skating Club Dec 2025",
-          "notes": "Olds Figure Skating Club Dec 2025"
+          "notes": "Olds Figure Skating Club Dec 2025",
+          "color": "#06B6D4",
+          "type_display": "Skating Club / Programs"
         },
         {
           "type": "practice",
           "start": "2025-12-08T20:00:00-07:00",
           "end": "2025-12-08T20:45:00-07:00",
           "label": "U18B",
-          "notes": "OMHA Dec 2025 - U18B"
+          "notes": "OMHA Dec 2025 - U18B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-08T21:00:00-07:00",
           "end": "2025-12-08T22:00:00-07:00",
           "label": "U18 fem",
-          "notes": "OMHA Dec 2025 - U18 fem"
+          "notes": "OMHA Dec 2025 - U18 fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-09T06:45:00-07:00",
           "end": "2025-12-09T07:45:00-07:00",
           "label": "U18A",
-          "notes": "OMHA Dec 2025 - U18A"
+          "notes": "OMHA Dec 2025 - U18A",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
-          "type": "public_skate",
+          "type": "public",
           "start": "2025-12-09T12:00:00-07:00",
           "end": "2025-12-09T13:00:00-07:00",
           "label": "Public Skating",
-          "notes": "Public Skating"
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
         },
         {
-          "type": "practice",
+          "type": "other",
           "start": "2025-12-09T13:30:00-07:00",
           "end": "2025-12-09T14:30:00-07:00",
           "label": "Female and male room needed",
-          "notes": "Grizzlys Academy- Nov/ Dec 2025 - Female and male room needed"
+          "notes": "Grizzlys Academy- Nov/ Dec 2025 - Female and male room needed",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "practice",
           "start": "2025-12-09T16:00:00-07:00",
           "end": "2025-12-09T16:45:00-07:00",
           "label": "U9A U9B",
-          "notes": "OMHA Dec 2025 - U9A U9B"
+          "notes": "OMHA Dec 2025 - U9A U9B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-09T16:45:00-07:00",
           "end": "2025-12-09T17:30:00-07:00",
           "label": "U11A",
-          "notes": "OMHA Dec 2025 - U11A"
+          "notes": "OMHA Dec 2025 - U11A",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-09T17:45:00-07:00",
           "end": "2025-12-09T18:30:00-07:00",
           "label": "U11 fem",
-          "notes": "OMHA Dec 2025 - U11 fem"
+          "notes": "OMHA Dec 2025 - U11 fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-09T18:45:00-07:00",
           "end": "2025-12-09T19:45:00-07:00",
           "label": "U13B",
-          "notes": "OMHA Dec 2025 - U13B"
+          "notes": "OMHA Dec 2025 - U13B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-09T20:00:00-07:00",
           "end": "2025-12-09T21:00:00-07:00",
           "label": "U15 fem",
-          "notes": "OMHA Dec 2025 - U15 fem"
+          "notes": "OMHA Dec 2025 - U15 fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-10T06:45:00-07:00",
           "end": "2025-12-10T07:45:00-07:00",
           "label": "U18B",
-          "notes": "OMHA Dec 2025 - U18B"
+          "notes": "OMHA Dec 2025 - U18B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
-          "type": "practice",
+          "type": "shinny",
           "start": "2025-12-10T12:00:00-07:00",
           "end": "2025-12-10T13:00:00-07:00",
           "label": "Sticks and Pucks",
-          "notes": "Sticks and Pucks"
+          "notes": "Sticks and Pucks",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
         },
         {
-          "type": "practice",
+          "type": "skating_club",
           "start": "2025-12-10T15:45:00-07:00",
           "end": "2025-12-10T16:45:00-07:00",
           "label": "Olds Figure Skating Club Dec 2025",
-          "notes": "Olds Figure Skating Club Dec 2025"
+          "notes": "Olds Figure Skating Club Dec 2025",
+          "color": "#06B6D4",
+          "type_display": "Skating Club / Programs"
         },
         {
-          "type": "practice",
+          "type": "skating_club",
           "start": "2025-12-10T17:00:00-07:00",
           "end": "2025-12-10T19:45:00-07:00",
           "label": "Olds Figure Skating Club Dec 2025",
-          "notes": "Olds Figure Skating Club Dec 2025"
+          "notes": "Olds Figure Skating Club Dec 2025",
+          "color": "#06B6D4",
+          "type_display": "Skating Club / Programs"
         },
         {
           "type": "practice",
           "start": "2025-12-10T20:00:00-07:00",
           "end": "2025-12-10T21:00:00-07:00",
           "label": "U18A",
-          "notes": "OMHA Dec 2025 - U18A"
+          "notes": "OMHA Dec 2025 - U18A",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
-          "type": "practice",
+          "type": "other",
           "start": "2025-12-10T21:15:00-07:00",
           "end": "2025-12-10T22:45:00-07:00",
           "label": "04 2025/26",
-          "notes": "04 2025/26"
+          "notes": "04 2025/26",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
-          "type": "public_skate",
+          "type": "public",
           "start": "2025-12-11T12:00:00-07:00",
           "end": "2025-12-11T13:00:00-07:00",
           "label": "Public Skating",
-          "notes": "Public Skating"
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
         },
         {
-          "type": "practice",
+          "type": "other",
           "start": "2025-12-11T13:30:00-07:00",
           "end": "2025-12-11T14:30:00-07:00",
           "label": "Female and male room needed",
-          "notes": "Grizzlys Academy- Nov/ Dec 2025 - Female and male room needed"
+          "notes": "Grizzlys Academy- Nov/ Dec 2025 - Female and male room needed",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "practice",
           "start": "2025-12-11T16:00:00-07:00",
           "end": "2025-12-11T16:45:00-07:00",
           "label": "U11A U11 fem",
-          "notes": "OMHA Dec 2025 - U11A U11 fem"
+          "notes": "OMHA Dec 2025 - U11A U11 fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-11T17:00:00-07:00",
           "end": "2025-12-11T18:00:00-07:00",
           "label": "U11AA",
-          "notes": "OMHA Dec 2025 - U11AA"
+          "notes": "OMHA Dec 2025 - U11AA",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-11T18:15:00-07:00",
           "end": "2025-12-11T19:15:00-07:00",
           "label": "U13B",
-          "notes": "OMHA Dec 2025 - U13B"
+          "notes": "OMHA Dec 2025 - U13B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2025-12-11T19:30:00-07:00",
           "end": "2025-12-11T20:30:00-07:00",
           "label": "U15AA",
-          "notes": "OMHA Dec 2025 - U15AA"
+          "notes": "OMHA Dec 2025 - U15AA",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
-          "type": "practice",
+          "type": "other",
           "start": "2025-12-11T20:45:00-07:00",
           "end": "2025-12-11T22:15:00-07:00",
           "label": "SIR 2025-2026",
-          "notes": "SIR 2025-2026"
+          "notes": "SIR 2025-2026",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
-          "type": "practice",
+          "type": "other",
           "start": "2025-12-12T06:30:00-07:00",
           "end": "2025-12-12T07:30:00-07:00",
           "label": "Knutson Nov Dec 2025 inv",
-          "notes": "Knutson Nov Dec 2025 inv"
+          "notes": "Knutson Nov Dec 2025 inv",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
-          "type": "practice",
+          "type": "other",
           "start": "2025-12-12T10:00:00-07:00",
           "end": "2025-12-12T11:00:00-07:00",
           "label": "Rich McDonald Dec 2025 PD",
-          "notes": "Rich McDonald Dec 2025 PD"
+          "notes": "Rich McDonald Dec 2025 PD",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
-          "type": "practice",
+          "type": "shinny",
           "start": "2025-12-12T12:00:00-07:00",
           "end": "2025-12-12T13:00:00-07:00",
           "label": "Sticks and Pucks",
-          "notes": "Sticks and Pucks"
+          "notes": "Sticks and Pucks",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
         },
         {
-          "type": "practice",
+          "type": "skating_club",
           "start": "2025-12-12T15:45:00-07:00",
           "end": "2025-12-12T17:15:00-07:00",
           "label": "Olds Figure Skating Club Dec 2025",
-          "notes": "Olds Figure Skating Club Dec 2025"
+          "notes": "Olds Figure Skating Club Dec 2025",
+          "color": "#06B6D4",
+          "type_display": "Skating Club / Programs"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-12T17:30:00-07:00",
           "end": "2025-12-12T19:30:00-07:00",
           "label": "B div Magrath vs Sylvan Lake B (flood after 2nd)",
-          "notes": "OMHA 2025/26 Tournaments - B div Magrath vs Sylvan Lake B (flood after 2nd)"
+          "notes": "OMHA 2025/26 Tournaments - B div Magrath vs Sylvan Lake B (flood after 2nd)",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-12T19:30:00-07:00",
           "end": "2025-12-12T21:30:00-07:00",
           "label": "Olds U13B vs Glenlake  flood (after 1st)",
-          "notes": "OMHA 2025/26 Tournaments - Olds U13B vs Glenlake  flood (after 1st)"
+          "notes": "OMHA 2025/26 Tournaments - Olds U13B vs Glenlake  flood (after 1st)",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-13T08:15:00-07:00",
           "end": "2025-12-13T10:15:00-07:00",
           "label": "C div Sylvan Lake C vs Devon (Flood 2nd)",
-          "notes": "OMHA 2025/26 Tournaments - C div Sylvan Lake C vs Devon (Flood 2nd)"
+          "notes": "OMHA 2025/26 Tournaments - C div Sylvan Lake C vs Devon (Flood 2nd)",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-13T10:15:00-07:00",
           "end": "2025-12-13T12:15:00-07:00",
           "label": "A div Sherwood  Park vs Innisfail (Flood 1st/3rd)",
-          "notes": "OMHA 2025/26 Tournaments - A div Sherwood  Park vs Innisfail (Flood 1st/3rd)"
+          "notes": "OMHA 2025/26 Tournaments - A div Sherwood  Park vs Innisfail (Flood 1st/3rd)",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-13T12:15:00-07:00",
           "end": "2025-12-13T14:15:00-07:00",
           "label": "Olds U13A vs North SEERA (flood after 2nd)",
-          "notes": "OMHA 2025/26 Tournaments - Olds U13A vs North SEERA (flood after 2nd)"
+          "notes": "OMHA 2025/26 Tournaments - Olds U13A vs North SEERA (flood after 2nd)",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-13T14:30:00-07:00",
           "end": "2025-12-13T16:30:00-07:00",
           "label": "Olds U13C vs Sylvan Lake C  (Flood 1st/3rd)",
-          "notes": "OMHA 2025/26 Tournaments - Olds U13C vs Sylvan Lake C  (Flood 1st/3rd)"
+          "notes": "OMHA 2025/26 Tournaments - Olds U13C vs Sylvan Lake C  (Flood 1st/3rd)",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-13T16:30:00-07:00",
           "end": "2025-12-13T18:30:00-07:00",
           "label": "B div Glenlake vs Sylvan  Lake B (Flood 2nd)",
-          "notes": "OMHA 2025/26 Tournaments - B div Glenlake vs Sylvan  Lake B (Flood 2nd)"
+          "notes": "OMHA 2025/26 Tournaments - B div Glenlake vs Sylvan  Lake B (Flood 2nd)",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "game",
+          "type": "games",
           "start": "2025-12-13T18:30:00-07:00",
           "end": "2025-12-13T20:30:00-07:00",
           "label": "A div North SEERA vs Innisfail  (Flood 1st/3rd)",
-          "notes": "OMHA 2025/26 Tournaments - A div North SEERA vs Innisfail  (Flood 1st/3rd)"
+          "notes": "OMHA 2025/26 Tournaments - A div North SEERA vs Innisfail  (Flood 1st/3rd)",
+          "color": "#EF4444",
+          "type_display": "Games"
         }
       ]
     }
