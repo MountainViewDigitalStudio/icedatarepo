@@ -1,0 +1,30 @@
+{
+  "facility": {
+    "id": "sundre-arena",
+    "name": "Sundre Arena",
+    "city": "Sundre",
+    "address": "Sundre Arena#1, 101-2 Avenue NW",
+    "source_url": "https://www.sundre.com/p/arena"
+  },
+  "available_weeks": [
+    "2025-12-14",
+    "2025-12-21"
+  ],
+  "weeks": [
+    {
+      "sunday": "2025-12-14",
+      "start_date": "2025-12-15",
+      "end_date": "2025-12-21",
+      "file": "2025-12-14.json",
+      "is_current": false
+    },
+    {
+      "sunday": "2025-12-21",
+      "start_date": "2025-12-22",
+      "end_date": "2025-12-28",
+      "file": "2025-12-21.json",
+      "is_current": true
+    }
+  ],
+  "generated_at": "2025-12-26T06:03:17.083899Z"
+}
