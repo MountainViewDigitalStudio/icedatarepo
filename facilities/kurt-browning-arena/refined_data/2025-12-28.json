@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-26T16:29:08.520272Z",
+  "generated_at": "2025-12-26T17:34:12.111072Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena"
@@ -9,5 +9,78 @@
     "start_date": "2025-12-28",
     "end_date": "2026-01-03"
   },
-  "slots": []
+  "slots": [
+    {
+      "start": "2025-12-28T16:15:00-07:00",
+      "end": "2025-12-28T18:00:00-07:00",
+      "type": "public",
+      "label": "Ice Rental",
+      "notes": "Family Skate Birthday Party",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "start": "2025-12-28T18:00:00-07:00",
+      "end": "2025-12-28T19:00:00-07:00",
+      "type": "public",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "start": "2025-12-28T19:00:00-07:00",
+      "end": "2025-12-28T19:15:00-07:00",
+      "type": "public",
+      "label": "Public Skating",
+      "notes": "Public Skating - FLOOD",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "start": "2025-12-29T15:45:00-07:00",
+      "end": "2025-12-29T16:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U7",
+      "notes": "PRACTICES - U7",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2025-12-29T16:45:00-07:00",
+      "end": "2025-12-29T17:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U9",
+      "notes": "PRACTICES - U9",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2025-12-29T18:00:00-07:00",
+      "end": "2025-12-29T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U11 A",
+      "notes": "PRACTICES - U11 A",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2025-12-29T19:15:00-07:00",
+      "end": "2025-12-29T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U15",
+      "notes": "PRACTICES - U15",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2025-12-29T20:30:00-07:00",
+      "end": "2025-12-29T21:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U18",
+      "notes": "PRACTICES - U18",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    }
+  ]
 }
