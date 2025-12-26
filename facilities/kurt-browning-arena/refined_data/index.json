@@ -1,0 +1,33 @@
+{
+  "facility": {
+    "id": "kurt-browning-arena",
+    "name": "Kurt Browning Arena"
+  },
+  "weeks": [
+    {
+      "sunday": "2025-12-07",
+      "file": "2025-12-07.json",
+      "is_current": false
+    },
+    {
+      "sunday": "2025-12-14",
+      "file": "2025-12-14.json",
+      "is_current": false
+    },
+    {
+      "sunday": "2025-12-21",
+      "file": "2025-12-21.json",
+      "is_current": true
+    },
+    {
+      "sunday": "2025-12-28",
+      "file": "2025-12-28.json",
+      "is_current": false
+    },
+    {
+      "sunday": "2026-01-04",
+      "file": "2026-01-04.json",
+      "is_current": false
+    }
+  ]
+}

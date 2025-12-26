@@ -1,17 +1,15 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-26T07:00:39.284948Z",
+  "generated_at": "2025-12-26T06:59:18.190703Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
     "city": "Olds",
-    "address": "5133 52 St, Olds, AB",
-    "source_url": "https://app.univerusrec.com/oldsrecreationpub/calendars/facilities/index.asp"
+    "address": "5133 52 St, Olds, AB"
   },
   "week": {
     "start_date": "2025-12-07",
-    "end_date": "2025-12-13",
-    "sunday": "2025-12-07"
+    "end_date": "2025-12-13"
   },
   "ice_surfaces": {
     "main": {
