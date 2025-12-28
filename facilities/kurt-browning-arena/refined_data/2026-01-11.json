@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "generated_at": "2025-12-28T15:44:15.190178Z",
+  "facility": {
+    "id": "kurt-browning-arena",
+    "name": "Kurt Browning Arena"
+  },
+  "week": {
+    "start_date": "2026-01-11",
+    "end_date": "2026-01-17"
+  },
+  "slots": []
+}
