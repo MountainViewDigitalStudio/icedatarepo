@@ -1,8 +1,10 @@
 {
   "facility_name": "Kurt Browning Arena",
+  "facility_id": "kurt-browning-arena",
+  "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2025-12-28",
   "week_end": "2026-01-03",
-  "last_updated": "2025-12-28T11:04:24.236902-07:00",
+  "last_updated": "2025-12-28T11:19:23.641609-07:00",
   "slots": [
     {
       "start": "2025-12-01T10:00:00-07:00",
