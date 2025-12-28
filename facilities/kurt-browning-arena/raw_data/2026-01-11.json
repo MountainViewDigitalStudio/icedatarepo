@@ -1,0 +1,435 @@
+{
+  "facility_name": "Kurt Browning Arena",
+  "week_start": "2026-01-11",
+  "week_end": "2026-01-17",
+  "last_updated": "2025-12-28T10:19:47.956296-07:00",
+  "slots": [
+    {
+      "start": "2026-01-11T09:00:00-07:00",
+      "end": "2026-01-11T10:00:00-07:00",
+      "type": "game",
+      "label": "U9 Tournament - High Country vs Caroline",
+      "notes": "U9 Tournament - High Country vs Caroline"
+    },
+    {
+      "start": "2026-01-11T10:00:00-07:00",
+      "end": "2026-01-11T10:30:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "U9 Tournament - Flood"
+    },
+    {
+      "start": "2026-01-11T10:30:00-07:00",
+      "end": "2026-01-11T11:30:00-07:00",
+      "type": "game",
+      "label": "U9 Tournament - FireHawks 2 vs Caroline & Firehawks 1 vs North Fork",
+      "notes": "U9 Tournament - FireHawks 2 vs Caroline & Firehawks 1 vs North Fork"
+    },
+    {
+      "start": "2026-01-11T11:30:00-07:00",
+      "end": "2026-01-11T12:30:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "U9 Tournament - Flood & Puck Toss"
+    },
+    {
+      "start": "2026-01-11T12:30:00-07:00",
+      "end": "2026-01-11T13:30:00-07:00",
+      "type": "game",
+      "label": "U9 Tournament - North Fork vs Calahoo",
+      "notes": "U9 Tournament - North Fork vs Calahoo"
+    },
+    {
+      "start": "2026-01-11T14:00:00-07:00",
+      "end": "2026-01-11T15:00:00-07:00",
+      "type": "game",
+      "label": "U9 Tournament - FireHawks 1 vs Calahoo & Firehawks 2 vs High Country",
+      "notes": "U9 Tournament - FireHawks 1 vs Calahoo & Firehawks 2 vs High Country"
+    },
+    {
+      "start": "2026-01-11T15:00:00-07:00",
+      "end": "2026-01-11T15:15:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "U9 Tournament - Flood"
+    },
+    {
+      "start": "2026-01-11T18:00:00-07:00",
+      "end": "2026-01-11T19:00:00-07:00",
+      "type": "public_skate",
+      "label": "Public Skating",
+      "notes": "Public Skating"
+    },
+    {
+      "start": "2026-01-11T19:00:00-07:00",
+      "end": "2026-01-11T19:15:00-07:00",
+      "type": "public_skate",
+      "label": "Public Skating",
+      "notes": "Public Skating - FLOOD"
+    },
+    {
+      "start": "2026-01-11T19:15:00-07:00",
+      "end": "2026-01-11T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Gmen",
+      "notes": "Mens Hockey - Gmen"
+    },
+    {
+      "start": "2026-01-11T20:15:00-07:00",
+      "end": "2026-01-11T20:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Flood",
+      "notes": "Mens Hockey - Flood"
+    },
+    {
+      "start": "2026-01-11T20:30:00-07:00",
+      "end": "2026-01-11T22:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Stray Cats",
+      "notes": "Mens Hockey - Stray Cats"
+    },
+    {
+      "start": "2026-01-11T22:00:00-07:00",
+      "end": "2026-01-11T22:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Flood",
+      "notes": "Mens Hockey - Flood"
+    },
+    {
+      "start": "2026-01-12T15:45:00-07:00",
+      "end": "2026-01-12T16:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U5/U7 No flood",
+      "notes": "PRACTICES - U5/U7 No flood"
+    },
+    {
+      "start": "2026-01-12T16:45:00-07:00",
+      "end": "2026-01-12T17:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U9 No flood",
+      "notes": "PRACTICES - U9 No flood"
+    },
+    {
+      "start": "2026-01-12T17:00:00-07:00",
+      "end": "2026-01-12T20:00:00-07:00",
+      "type": "other",
+      "label": "Monthly Meeting Ag Board 2026",
+      "notes": "Monthly Meeting Ag Board 2026"
+    },
+    {
+      "start": "2026-01-12T17:45:00-07:00",
+      "end": "2026-01-12T18:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U11 C",
+      "notes": "PRACTICES - U11 C"
+    },
+    {
+      "start": "2026-01-12T18:45:00-07:00",
+      "end": "2026-01-12T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood"
+    },
+    {
+      "start": "2026-01-12T19:00:00-07:00",
+      "end": "2026-01-12T20:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U11 A",
+      "notes": "PRACTICES - U11 A"
+    },
+    {
+      "start": "2026-01-12T20:00:00-07:00",
+      "end": "2026-01-12T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood"
+    },
+    {
+      "start": "2026-01-12T20:15:00-07:00",
+      "end": "2026-01-12T21:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U15",
+      "notes": "PRACTICES - U15"
+    },
+    {
+      "start": "2026-01-12T21:15:00-07:00",
+      "end": "2026-01-12T21:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood"
+    },
+    {
+      "start": "2026-01-12T21:30:00-07:00",
+      "end": "2026-01-12T22:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U18",
+      "notes": "PRACTICES - U18"
+    },
+    {
+      "start": "2026-01-12T22:45:00-07:00",
+      "end": "2026-01-12T23:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood"
+    },
+    {
+      "start": "2026-01-13T16:30:00-07:00",
+      "end": "2026-01-13T17:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Learn to Skate",
+      "notes": "Practice Ice - Learn to Skate"
+    },
+    {
+      "start": "2026-01-13T17:15:00-07:00",
+      "end": "2026-01-13T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - FLOOD",
+      "notes": "Practice Ice - FLOOD"
+    },
+    {
+      "start": "2026-01-13T17:30:00-07:00",
+      "end": "2026-01-13T18:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Preliminary Skate",
+      "notes": "Practice Ice - Preliminary Skate"
+    },
+    {
+      "start": "2026-01-13T18:45:00-07:00",
+      "end": "2026-01-13T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - FLOOD",
+      "notes": "Practice Ice - FLOOD"
+    },
+    {
+      "start": "2026-01-13T19:00:00-07:00",
+      "end": "2026-01-13T20:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Junior Skate",
+      "notes": "Practice Ice - Junior Skate"
+    },
+    {
+      "start": "2026-01-13T20:30:00-07:00",
+      "end": "2026-01-13T20:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - FLOOD",
+      "notes": "Practice Ice - FLOOD"
+    },
+    {
+      "start": "2026-01-13T20:45:00-07:00",
+      "end": "2026-01-13T22:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Mens Hockey- Mighty Pucks",
+      "notes": "Mens Hockey- Mighty Pucks"
+    },
+    {
+      "start": "2026-01-13T22:15:00-07:00",
+      "end": "2026-01-13T22:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Mens Hockey- Mighty Pucks - Flood",
+      "notes": "Mens Hockey- Mighty Pucks - Flood"
+    },
+    {
+      "start": "2026-01-14T15:45:00-07:00",
+      "end": "2026-01-14T16:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U5 / U7 no flood",
+      "notes": "PRACTICES - U5 / U7 no flood"
+    },
+    {
+      "start": "2026-01-14T16:45:00-07:00",
+      "end": "2026-01-14T17:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U9 no flood",
+      "notes": "PRACTICES - U9 no flood"
+    },
+    {
+      "start": "2026-01-14T17:45:00-07:00",
+      "end": "2026-01-14T18:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U11 B",
+      "notes": "PRACTICES - U11 B"
+    },
+    {
+      "start": "2026-01-14T18:45:00-07:00",
+      "end": "2026-01-14T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood"
+    },
+    {
+      "start": "2026-01-14T19:00:00-07:00",
+      "end": "2026-01-14T20:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U13",
+      "notes": "PRACTICES - U13"
+    },
+    {
+      "start": "2026-01-14T20:00:00-07:00",
+      "end": "2026-01-14T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood"
+    },
+    {
+      "start": "2026-01-14T20:15:00-07:00",
+      "end": "2026-01-14T21:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Cowboys",
+      "notes": "Mens Hockey - Cowboys"
+    },
+    {
+      "start": "2026-01-14T21:30:00-07:00",
+      "end": "2026-01-14T21:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Flood",
+      "notes": "Mens Hockey - Flood"
+    },
+    {
+      "start": "2026-01-15T16:30:00-07:00",
+      "end": "2026-01-15T17:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Learn to Skate",
+      "notes": "Practice Ice - Learn to Skate"
+    },
+    {
+      "start": "2026-01-15T17:15:00-07:00",
+      "end": "2026-01-15T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - FLOOD",
+      "notes": "Practice Ice - FLOOD"
+    },
+    {
+      "start": "2026-01-15T17:30:00-07:00",
+      "end": "2026-01-15T18:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Preliminary Skate",
+      "notes": "Practice Ice - Preliminary Skate"
+    },
+    {
+      "start": "2026-01-15T18:45:00-07:00",
+      "end": "2026-01-15T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - FLOOD",
+      "notes": "Practice Ice - FLOOD"
+    },
+    {
+      "start": "2026-01-15T19:00:00-07:00",
+      "end": "2026-01-15T20:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Junior Skate",
+      "notes": "Practice Ice - Junior Skate"
+    },
+    {
+      "start": "2026-01-15T19:00:00-07:00",
+      "end": "2026-01-15T21:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Caroline Minor Hockey Meeting 2025/26",
+      "notes": "Caroline Minor Hockey Meeting 2025/26"
+    },
+    {
+      "start": "2026-01-15T20:30:00-07:00",
+      "end": "2026-01-15T20:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - FLOOD",
+      "notes": "Practice Ice - FLOOD"
+    },
+    {
+      "start": "2026-01-16T17:00:00-07:00",
+      "end": "2026-01-16T18:00:00-07:00",
+      "type": "other",
+      "label": "Sticks & Pucks",
+      "notes": "Sticks & Pucks"
+    },
+    {
+      "start": "2026-01-16T18:00:00-07:00",
+      "end": "2026-01-16T18:15:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "Sticks & Pucks - FLOOD"
+    },
+    {
+      "start": "2026-01-16T19:15:00-07:00",
+      "end": "2026-01-16T20:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Stauffer Pond Scratchers",
+      "notes": "Mens Hockey - Stauffer Pond Scratchers"
+    },
+    {
+      "start": "2026-01-16T20:45:00-07:00",
+      "end": "2026-01-16T21:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Flood",
+      "notes": "Mens Hockey - Flood"
+    },
+    {
+      "start": "2026-01-16T21:00:00-07:00",
+      "end": "2026-01-16T22:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Woodland Wilds",
+      "notes": "Mens Hockey - Woodland Wilds"
+    },
+    {
+      "start": "2026-01-16T22:15:00-07:00",
+      "end": "2026-01-16T22:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - FLOOD",
+      "notes": "Mens Hockey - FLOOD"
+    },
+    {
+      "start": "2026-01-17T09:30:00-07:00",
+      "end": "2026-01-17T10:30:00-07:00",
+      "type": "game",
+      "label": "U9 vs TBA",
+      "notes": "GAMES - U9 vs TBA"
+    },
+    {
+      "start": "2026-01-17T10:30:00-07:00",
+      "end": "2026-01-17T11:00:00-07:00",
+      "type": "game",
+      "label": "GAMES - U9 BOARDS + FLOOD",
+      "notes": "GAMES - U9 BOARDS + FLOOD"
+    },
+    {
+      "start": "2026-01-17T11:15:00-07:00",
+      "end": "2026-01-17T13:15:00-07:00",
+      "type": "game",
+      "label": "U11-C West Country vs Maskwacis",
+      "notes": "GAMES - U11-C West Country vs Maskwacis"
+    },
+    {
+      "start": "2026-01-17T13:15:00-07:00",
+      "end": "2026-01-17T13:30:00-07:00",
+      "type": "game",
+      "label": "GAMES - FLOOD U11-C",
+      "notes": "GAMES - FLOOD U11-C"
+    },
+    {
+      "start": "2026-01-17T13:30:00-07:00",
+      "end": "2026-01-17T15:30:00-07:00",
+      "type": "game",
+      "label": "U13 West Country vs Stettler",
+      "notes": "GAMES - U13 West Country vs Stettler"
+    },
+    {
+      "start": "2026-01-17T15:30:00-07:00",
+      "end": "2026-01-17T15:45:00-07:00",
+      "type": "game",
+      "label": "GAMES - FLOOD U13",
+      "notes": "GAMES - FLOOD U13"
+    },
+    {
+      "start": "2026-01-17T15:45:00-07:00",
+      "end": "2026-01-17T18:00:00-07:00",
+      "type": "game",
+      "label": "Season Games - U13AA vs Lethbridge",
+      "notes": "Season Games - U13AA vs Lethbridge"
+    },
+    {
+      "start": "2026-01-17T18:00:00-07:00",
+      "end": "2026-01-17T18:15:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "Season Games - U13AA FLOOD"
+    }
+  ]
+}
