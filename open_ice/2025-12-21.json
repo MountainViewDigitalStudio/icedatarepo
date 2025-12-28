@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-28T18:05:53.540521Z",
+  "generated_at": "2025-12-28T18:20:17.956796Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
@@ -20,7 +20,6 @@
       "end": "2025-12-21T13:15:00-07:00",
       "label": "Public Skating",
       "notes": "Public Skating",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -33,9 +32,9 @@
       "end": "2025-12-21T19:00:00-07:00",
       "label": "Public Skating",
       "notes": "Public Skating",
-      "source_url": null,
       "color": "#10B981",
-      "type_display": "Public / Family"
+      "type_display": "Public / Family",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     },
     {
       "facility_id": "kurt-browning-arena",
@@ -46,9 +45,9 @@
       "end": "2025-12-21T19:15:00-07:00",
       "label": "Public Skating",
       "notes": "Public Skating - FLOOD",
-      "source_url": null,
       "color": "#10B981",
-      "type_display": "Public / Family"
+      "type_display": "Public / Family",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     },
     {
       "facility_id": "olds-sportsplex",
@@ -59,7 +58,6 @@
       "end": "2025-12-22T11:30:00-07:00",
       "label": "Youth and Parent Sticks and Pucks $5 each",
       "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description - Youth and Parent Sticks and Pucks $5 each",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -72,7 +70,6 @@
       "end": "2025-12-22T13:00:00-07:00",
       "label": "Sticks and Pucks",
       "notes": "Sticks and Pucks",
-      "source_url": null,
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
     },
@@ -85,7 +82,6 @@
       "end": "2025-12-22T14:45:00",
       "label": "Adult Shinny",
       "notes": "1 - 2:45pm",
-      "source_url": null,
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
     },
@@ -98,7 +94,6 @@
       "end": "2025-12-22T14:15:00-07:00",
       "label": "Figure Skating - Free Time",
       "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description - Figure Skating - Free Time",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -111,7 +106,6 @@
       "end": "2025-12-22T14:30:00-07:00",
       "label": "Public Skating - Free Time",
       "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description - Public Skating - Free Time",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -124,7 +118,6 @@
       "end": "2025-12-22T16:20:00",
       "label": "Sticks N Pucks",
       "notes": "3 - 4:20pm",
-      "source_url": null,
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
     },
@@ -137,7 +130,6 @@
       "end": "2025-12-23T10:15:00",
       "label": "Public Skating",
       "notes": "9 - 10:15am",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -150,7 +142,6 @@
       "end": "2025-12-23T11:45:00",
       "label": "Sticks & Pucks",
       "notes": "10:30 - 11:45am",
-      "source_url": null,
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
     },
@@ -163,7 +154,6 @@
       "end": "2025-12-23T11:30:00-07:00",
       "label": "Youth and Parent Sticks and Pucks $5 each",
       "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description - Youth and Parent Sticks and Pucks $5 each",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -176,7 +166,6 @@
       "end": "2025-12-23T13:50:00",
       "label": "Family Skate Private",
       "notes": "12 - 1:50pm",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -189,7 +178,6 @@
       "end": "2025-12-23T13:00:00-07:00",
       "label": "Sticks and Pucks $5 each",
       "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description - Sticks and Pucks $5 each",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -202,7 +190,6 @@
       "end": "2025-12-23T14:00:00-07:00",
       "label": "Public Skating",
       "notes": "Public Skating",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -215,7 +202,6 @@
       "end": "2025-12-23T14:15:00-07:00",
       "label": "Figure Skating - Free",
       "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description - Figure Skating - Free",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -228,7 +214,6 @@
       "end": "2025-12-23T15:15:00-07:00",
       "label": "Weir family skate",
       "notes": "Weir family skate",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -241,7 +226,6 @@
       "end": "2025-12-24T11:30:00-07:00",
       "label": "Figure Skating - Free",
       "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description - Figure Skating - Free",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -254,7 +238,6 @@
       "end": "2025-12-24T11:30:00-07:00",
       "label": "Youth and Parent Stick and Puck $5 each",
       "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description - Youth and Parent Stick and Puck $5 each",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -267,7 +250,6 @@
       "end": "2025-12-24T13:00:00-07:00",
       "label": "Public Skating - Free",
       "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description - Public Skating - Free",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -280,7 +262,6 @@
       "end": "2025-12-24T13:00:00-07:00",
       "label": "Sticks and Pucks",
       "notes": "Sticks and Pucks",
-      "source_url": null,
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
     },
@@ -293,7 +274,6 @@
       "end": "2025-12-27T12:30:00-07:00",
       "label": "Figure Skating - Free",
       "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description - Figure Skating - Free",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -306,7 +286,6 @@
       "end": "2025-12-27T12:30:00-07:00",
       "label": "Youth & Parent Stick and Puck $5 each",
       "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description - Youth & Parent Stick and Puck $5 each",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -319,7 +298,6 @@
       "end": "2025-12-27T14:15:00-07:00",
       "label": "Public Skating  - Free",
       "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description - Public Skating  - Free",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -332,7 +310,6 @@
       "end": "2025-12-27T14:30:00-07:00",
       "label": "Stick and Puck $5 each",
       "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description - Stick and Puck $5 each",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     }

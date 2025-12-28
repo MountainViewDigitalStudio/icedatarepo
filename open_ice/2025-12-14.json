@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-28T18:05:53.540154Z",
+  "generated_at": "2025-12-28T18:20:17.956368Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
@@ -20,9 +20,9 @@
       "end": "2025-12-14T19:00:00-07:00",
       "label": "Public Skating",
       "notes": "Public Skating",
-      "source_url": null,
       "color": "#10B981",
-      "type_display": "Public / Family"
+      "type_display": "Public / Family",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     },
     {
       "facility_id": "kurt-browning-arena",
@@ -33,9 +33,9 @@
       "end": "2025-12-14T19:15:00-07:00",
       "label": "Public Skating",
       "notes": "Public Skating - FLOOD",
-      "source_url": null,
       "color": "#10B981",
-      "type_display": "Public / Family"
+      "type_display": "Public / Family",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     },
     {
       "facility_id": "olds-sportsplex",
@@ -46,7 +46,6 @@
       "end": "2025-12-15T13:00:00-07:00",
       "label": "Sticks and Pucks",
       "notes": "Sticks and Pucks",
-      "source_url": null,
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
     },
@@ -59,7 +58,6 @@
       "end": "2025-12-15T14:45:00",
       "label": "Adult Shinny",
       "notes": "1:00 PM - 2:45 PM",
-      "source_url": null,
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
     },
@@ -72,7 +70,6 @@
       "end": "2025-12-15T16:20:00",
       "label": "Sticks N Pucks",
       "notes": "3:00 PM - 4:20 PM",
-      "source_url": null,
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
     },
@@ -85,7 +82,6 @@
       "end": "2025-12-16T13:00:00-07:00",
       "label": "Public Skating",
       "notes": "Public Skating",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -98,7 +94,6 @@
       "end": "2025-12-16T14:45:00",
       "label": "Adult Public Skating",
       "notes": "1:00 PM - 2:45 PM",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -111,7 +106,6 @@
       "end": "2025-12-16T16:20:00",
       "label": "Public Skating",
       "notes": "3:00 PM - 4:20 PM",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -124,9 +118,9 @@
       "end": "2025-12-16T22:15:00-07:00",
       "label": "Hockey - Mens Hockey- Mighty Pucks",
       "notes": "Mens Hockey- Mighty Pucks",
-      "source_url": null,
       "color": "#3B82F6",
-      "type_display": "Shinny / Stick & Puck"
+      "type_display": "Shinny / Stick & Puck",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     },
     {
       "facility_id": "kurt-browning-arena",
@@ -137,9 +131,9 @@
       "end": "2025-12-16T22:30:00-07:00",
       "label": "Hockey - Mens Hockey- Mighty Pucks - Flood",
       "notes": "Mens Hockey- Mighty Pucks - Flood",
-      "source_url": null,
       "color": "#3B82F6",
-      "type_display": "Shinny / Stick & Puck"
+      "type_display": "Shinny / Stick & Puck",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     },
     {
       "facility_id": "olds-sportsplex",
@@ -150,7 +144,6 @@
       "end": "2025-12-17T13:00:00-07:00",
       "label": "Sticks and Pucks",
       "notes": "Sticks and Pucks",
-      "source_url": null,
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
     },
@@ -163,7 +156,6 @@
       "end": "2025-12-18T13:00:00-07:00",
       "label": "Public Skating",
       "notes": "Public Skating",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -176,7 +168,6 @@
       "end": "2025-12-19T13:00:00-07:00",
       "label": "Sticks and Pucks",
       "notes": "Sticks and Pucks",
-      "source_url": null,
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
     },
@@ -189,7 +180,6 @@
       "end": "2025-12-19T17:15:00",
       "label": "Sticks N Pucks",
       "notes": "3:15 PM - 5:15 PM",
-      "source_url": null,
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
     },
@@ -202,9 +192,9 @@
       "end": "2025-12-19T18:00:00-07:00",
       "label": "Sticks & Pucks",
       "notes": "Sticks & Pucks",
-      "source_url": null,
       "color": "#3B82F6",
-      "type_display": "Shinny / Stick & Puck"
+      "type_display": "Shinny / Stick & Puck",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     },
     {
       "facility_id": "kurt-browning-arena",
@@ -215,9 +205,9 @@
       "end": "2025-12-19T18:15:00-07:00",
       "label": "Maintenance",
       "notes": "Sticks & Pucks - FLOOD",
-      "source_url": null,
       "color": "#3B82F6",
-      "type_display": "Shinny / Stick & Puck"
+      "type_display": "Shinny / Stick & Puck",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     },
     {
       "facility_id": "sundre-arena",
@@ -228,7 +218,6 @@
       "end": "2025-12-20T19:40:00",
       "label": "Drop in Rec Hockey 18+",
       "notes": "6:15 PM - 7:40 PM",
-      "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
     }
