@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-28T17:14:13.407199Z",
+  "generated_at": "2025-12-28T17:21:15.182062Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
@@ -77,6 +77,19 @@
       "type_display": "Shinny / Stick & Puck"
     },
     {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2025-12-22T13:00:00",
+      "end": "2025-12-22T14:45:00",
+      "label": "Adult Shinny",
+      "notes": "1 - 2:45pm",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
       "facility_id": "olds-sportsplex",
       "facility_name": "Olds Sportsplex",
       "city": null,
@@ -103,6 +116,45 @@
       "type_display": "Public / Family"
     },
     {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2025-12-22T15:00:00",
+      "end": "2025-12-22T16:20:00",
+      "label": "Sticks N Pucks",
+      "notes": "3 - 4:20pm",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "public",
+      "start": "2025-12-23T09:00:00",
+      "end": "2025-12-23T10:15:00",
+      "label": "Public Skating",
+      "notes": "9 - 10:15am",
+      "source_url": null,
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2025-12-23T10:30:00",
+      "end": "2025-12-23T11:45:00",
+      "label": "Sticks & Pucks",
+      "notes": "10:30 - 11:45am",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
       "facility_id": "olds-sportsplex",
       "facility_name": "Olds Sportsplex",
       "city": null,
@@ -111,6 +163,19 @@
       "end": "2025-12-23T11:30:00-07:00",
       "label": "Youth and Parent Sticks and Pucks $5 each",
       "notes": "Times for Public Skating/ Sticks and Pucks/ Figure Skating, please see description - Youth and Parent Sticks and Pucks $5 each",
+      "source_url": null,
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "public",
+      "start": "2025-12-23T12:00:00",
+      "end": "2025-12-23T13:50:00",
+      "label": "Family Skate Private",
+      "notes": "12 - 1:50pm",
       "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"

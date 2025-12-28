@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-28T17:14:13.406889Z",
+  "generated_at": "2025-12-28T17:21:15.181722Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
@@ -51,6 +51,32 @@
       "type_display": "Shinny / Stick & Puck"
     },
     {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2025-12-15T13:00:00",
+      "end": "2025-12-15T14:45:00",
+      "label": "Adult Shinny",
+      "notes": "1:00 PM - 2:45 PM",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2025-12-15T15:00:00",
+      "end": "2025-12-15T16:20:00",
+      "label": "Sticks N Pucks",
+      "notes": "3:00 PM - 4:20 PM",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
       "facility_id": "olds-sportsplex",
       "facility_name": "Olds Sportsplex",
       "city": null,
@@ -59,6 +85,32 @@
       "end": "2025-12-16T13:00:00-07:00",
       "label": "Public Skating",
       "notes": "Public Skating",
+      "source_url": null,
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "public",
+      "start": "2025-12-16T13:00:00",
+      "end": "2025-12-16T14:45:00",
+      "label": "Adult Public Skating",
+      "notes": "1:00 PM - 2:45 PM",
+      "source_url": null,
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "public",
+      "start": "2025-12-16T15:00:00",
+      "end": "2025-12-16T16:20:00",
+      "label": "Public Skating",
+      "notes": "3:00 PM - 4:20 PM",
       "source_url": null,
       "color": "#10B981",
       "type_display": "Public / Family"
@@ -129,6 +181,19 @@
       "type_display": "Shinny / Stick & Puck"
     },
     {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2025-12-19T15:15:00",
+      "end": "2025-12-19T17:15:00",
+      "label": "Sticks N Pucks",
+      "notes": "3:15 PM - 5:15 PM",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
       "facility_id": "kurt-browning-arena",
       "facility_name": "Kurt Browning Arena",
       "city": null,
@@ -153,6 +218,19 @@
       "source_url": null,
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "public",
+      "start": "2025-12-20T18:15:00",
+      "end": "2025-12-20T19:40:00",
+      "label": "Drop in Rec Hockey 18+",
+      "notes": "6:15 PM - 7:40 PM",
+      "source_url": null,
+      "color": "#10B981",
+      "type_display": "Public / Family"
     }
   ]
 }

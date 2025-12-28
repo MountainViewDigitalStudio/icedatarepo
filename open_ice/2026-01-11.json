@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-28T17:14:13.408200Z",
+  "generated_at": "2025-12-28T17:21:15.183115Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
@@ -10,5 +10,188 @@
     "end_date": "2026-01-17"
   },
   "view": "open_ice",
-  "slots": []
+  "slots": [
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-01-11T11:30:00-07:00",
+      "end": "2026-01-11T12:30:00-07:00",
+      "label": "Maintenance",
+      "notes": "U9 Tournament - Flood & Puck Toss",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-01-11T12:00:00-07:00",
+      "end": "2026-01-11T13:15:00-07:00",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "source_url": null,
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "public",
+      "start": "2026-01-11T18:00:00-07:00",
+      "end": "2026-01-11T19:00:00-07:00",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "source_url": null,
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "public",
+      "start": "2026-01-11T19:00:00-07:00",
+      "end": "2026-01-11T19:15:00-07:00",
+      "label": "Public Skating",
+      "notes": "Public Skating - FLOOD",
+      "source_url": null,
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-01-12T12:00:00-07:00",
+      "end": "2026-01-12T13:00:00-07:00",
+      "label": "Sticks and Pucks",
+      "notes": "Sticks and Pucks",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-01-12T21:45:00-07:00",
+      "end": "2026-01-12T23:00:00-07:00",
+      "label": "Vercaigne Shinny Nov 2025",
+      "notes": "Vercaigne Shinny Nov 2025",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-01-13T12:00:00-07:00",
+      "end": "2026-01-13T13:00:00-07:00",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "source_url": null,
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-01-13T20:45:00-07:00",
+      "end": "2026-01-13T22:15:00-07:00",
+      "label": "Hockey - Mens Hockey- Mighty Pucks",
+      "notes": "Mens Hockey- Mighty Pucks",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-01-13T22:15:00-07:00",
+      "end": "2026-01-13T22:30:00-07:00",
+      "label": "Hockey - Mens Hockey- Mighty Pucks - Flood",
+      "notes": "Mens Hockey- Mighty Pucks - Flood",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-01-14T12:00:00-07:00",
+      "end": "2026-01-14T13:00:00-07:00",
+      "label": "Sticks and Pucks",
+      "notes": "Sticks and Pucks",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-01-15T12:00:00-07:00",
+      "end": "2026-01-15T13:00:00-07:00",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "source_url": null,
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-01-16T12:00:00-07:00",
+      "end": "2026-01-16T13:00:00-07:00",
+      "label": "Sticks and Pucks",
+      "notes": "Sticks and Pucks",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-01-16T17:00:00-07:00",
+      "end": "2026-01-16T18:00:00-07:00",
+      "label": "Sticks & Pucks",
+      "notes": "Sticks & Pucks",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-01-16T18:00:00-07:00",
+      "end": "2026-01-16T18:15:00-07:00",
+      "label": "Maintenance",
+      "notes": "Sticks & Pucks - FLOOD",
+      "source_url": null,
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    }
+  ]
 }
