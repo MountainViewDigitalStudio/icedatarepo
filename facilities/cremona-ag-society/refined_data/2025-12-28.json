@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-28T17:45:39.705667Z",
+  "generated_at": "2025-12-28T18:05:53.476348Z",
   "facility": {
     "id": "cremona-ag-society",
     "name": "Cremona Ag Society"
@@ -11,22 +11,31 @@
   },
   "slots": [
     {
-      "start": "2026-01-03T09:00:00-07:00",
-      "end": "2026-01-03T21:00:00-07:00",
+      "start": "2025-12-29T16:00:00-07:00",
+      "end": "2025-12-29T17:00:00-07:00",
+      "type": "games",
+      "label": "U15 Tournament B= Carstairs gamefl CMH- 4:15 ~",
+      "notes": "U15 Tournament B= Carstairs gamefl CMH- 4:15 ~",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-02T16:15:00-07:00",
+      "end": "2026-01-02T18:45:00-07:00",
       "type": "other",
-      "label": "Available a",
-      "notes": "Available a",
+      "label": "RMAA",
+      "notes": "RMAA",
       "color": "#64748B",
       "type_display": "Other"
     },
     {
-      "start": "2026-01-03T21:45:00-07:00",
-      "end": "2026-01-03T15:45:00-07:00",
-      "type": "other",
-      "label": "McTiernan",
-      "notes": "McTiernan",
-      "color": "#64748B",
-      "type_display": "Other"
+      "start": "2026-01-02T19:15:00-07:00",
+      "end": "2026-01-02T22:15:00-07:00",
+      "type": "games",
+      "label": "AA vs",
+      "notes": "AA vs",
+      "color": "#EF4444",
+      "type_display": "Games"
     }
   ]
 }
