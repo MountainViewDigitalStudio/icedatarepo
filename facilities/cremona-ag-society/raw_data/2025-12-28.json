@@ -3,25 +3,109 @@
   "facility": "Cremona Ag Society Arena",
   "slots": [
     {
-      "start": "2025-12-29T16:00:00-07:00",
-      "end": "2025-12-29T17:00:00-07:00",
-      "type": "games",
-      "label": "U15 Tournament B= Carstairs gamefl CMH- 4:15 ~",
-      "notes": "U15 Tournament B= Carstairs gamefl CMH- 4:15 ~"
-    },
-    {
-      "start": "2026-01-02T16:15:00-07:00",
-      "end": "2026-01-02T18:45:00-07:00",
+      "start": "2025-12-29T48:00:00-07:00",
+      "end": "2025-12-29T20:45:00-07:00",
       "type": "other",
-      "label": "RMAA",
-      "notes": "RMAA"
+      "label": "ute 7-",
+      "notes": "ute 7-"
     },
     {
       "start": "2026-01-02T19:15:00-07:00",
       "end": "2026-01-02T22:15:00-07:00",
       "type": "other",
-      "label": "AA vs",
-      "notes": "AA vs"
+      "label": "Coyotes AA vs Tsuut'ina",
+      "notes": "Coyotes AA vs Tsuut'ina"
+    },
+    {
+      "start": "2025-12-29T18:30:00-07:00",
+      "end": "2025-12-29T19:30:00-07:00",
+      "type": "other",
+      "label": "UISA",
+      "notes": "UISA"
+    },
+    {
+      "start": "2025-12-28T17:00:00-07:00",
+      "end": "2025-12-28T18:30:00-07:00",
+      "type": "adult_rec",
+      "label": "Rustlers Mens",
+      "notes": "Rustlers Mens"
+    },
+    {
+      "start": "2026-01-02T16:15:00-07:00",
+      "end": "2026-01-02T18:45:00-07:00",
+      "type": "other",
+      "label": "CMH- RMAA",
+      "notes": "CMH- RMAA"
+    },
+    {
+      "start": "2026-01-02T16:15:00-07:00",
+      "end": "2026-01-02T18:15:00-07:00",
+      "type": "games",
+      "label": "UIS Carstairs Tournament game",
+      "notes": "UIS Carstairs Tournament game"
+    },
+    {
+      "start": "2026-01-02T15:00:00-07:00",
+      "end": "2026-01-02T16:00:00-07:00",
+      "type": "other",
+      "label": "McTiernan",
+      "notes": "McTiernan"
+    },
+    {
+      "start": "2025-12-28T15:00:00-07:00",
+      "end": "2025-12-28T16:30:00-07:00",
+      "type": "shinny",
+      "label": "14 & under Shinny",
+      "notes": "14 & under Shinny"
+    },
+    {
+      "start": "2025-12-29T14:45:00-07:00",
+      "end": "2025-12-29T15:45:00-07:00",
+      "type": "public",
+      "label": "Public Skate",
+      "notes": "Public Skate"
+    },
+    {
+      "start": "2025-12-28T14:00:00-07:00",
+      "end": "2025-12-28T15:00:00-07:00",
+      "type": "public",
+      "label": "Family Skate",
+      "notes": "Family Skate"
+    },
+    {
+      "start": "2026-01-02T45:00:00-07:00",
+      "end": "2026-01-02T14:45:00-07:00",
+      "type": "other",
+      "label": "Paul Newton 12",
+      "notes": "Paul Newton 12"
+    },
+    {
+      "start": "2026-01-02T11:45:00-07:00",
+      "end": "2026-01-02T13:45:00-07:00",
+      "type": "other",
+      "label": "u13B",
+      "notes": "u13B"
+    },
+    {
+      "start": "2026-01-02T09:30:00-07:00",
+      "end": "2026-01-02T11:30:00-07:00",
+      "type": "other",
+      "label": "un",
+      "notes": "un"
+    },
+    {
+      "start": "2026-01-02T08:00:00-07:00",
+      "end": "2026-01-02T09:15:00-07:00",
+      "type": "other",
+      "label": "umu9",
+      "notes": "umu9"
+    },
+    {
+      "start": "2025-12-31T09:00:00-07:00",
+      "end": "2025-12-31T21:00:00-07:00",
+      "type": "public",
+      "label": "Saeed Available on 10 AM CSE) 9:30 - 11:30am am nem ise Taam 45pm 1PM 2PM Paul Newton’ Family Skate 1:45 — 2:45pm UIA ae Pan 3PM Public Skate 14 & under Shinny il 2:45 ~ 3:45pm McTiernan 3 asopm St am sttt eo Uiscarstars Jf CwH-RMAA com Tournament garelll 15 csp Rustlers Mens B= aEro 5- 6:30pm UI3B 5:15 - 6:15pm cm ISA eM #50 7.30pm Gosea lee for Sale See | Game om vis Tontina Ue acon 7a 106m om",
+      "notes": "Saeed Available on 10 AM CSE) 9:30 - 11:30am am nem ise Taam 45pm 1PM 2PM Paul Newton’ Family Skate 1:45 — 2:45pm UIA ae Pan 3PM Public Skate 14 & under Shinny il 2:45 ~ 3:45pm McTiernan 3 asopm St am sttt eo Uiscarstars Jf CwH-RMAA com Tournament garelll 15 csp Rustlers Mens B= aEro 5- 6:30pm UI3B 5:15 - 6:15pm cm ISA eM #50 7.30pm Gosea lee for Sale See | Game om vis Tontina Ue acon 7a 106m om"
     }
   ]
 }
