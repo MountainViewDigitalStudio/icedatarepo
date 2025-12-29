@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-28T18:31:39.955628Z",
+  "generated_at": "2025-12-29T09:16:46.775947Z",
   "facility": {
     "id": "cremona-ag-society",
     "name": "Cremona Ag Society"
@@ -11,31 +11,112 @@
   },
   "slots": [
     {
-      "start": "2025-12-29T16:00:00-07:00",
-      "end": "2025-12-29T17:00:00-07:00",
-      "type": "games",
-      "label": "U15 Tournament B= Carstairs gamefl CMH- 4:15 ~",
-      "notes": "U15 Tournament B= Carstairs gamefl CMH- 4:15 ~",
-      "color": "#EF4444",
-      "type_display": "Games"
+      "start": "2025-12-28T15:00:00-07:00",
+      "end": "2025-12-28T16:30:00-07:00",
+      "type": "shinny",
+      "label": "14 & under Shinny",
+      "notes": "14 & under Shinny",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "start": "2025-12-28T14:00:00-07:00",
+      "end": "2025-12-28T15:00:00-07:00",
+      "type": "public",
+      "label": "Family Skate",
+      "notes": "Family Skate",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "start": "2025-12-29T14:45:00-07:00",
+      "end": "2025-12-29T15:45:00-07:00",
+      "type": "public",
+      "label": "Public Skate",
+      "notes": "Public Skate",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "start": "2025-12-29T09:00:00-07:00",
+      "end": "2025-12-29T21:00:00-07:00",
+      "type": "other",
+      "label": "Ice for Sale \u2018",
+      "notes": "Ice for Sale \u2018",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-01-01T09:00:00-07:00",
+      "end": "2026-01-01T21:00:00-07:00",
+      "type": "maintenance",
+      "label": "\u2018Arena Closed \u2018",
+      "notes": "\u2018Arena Closed \u2018",
+      "color": "#6B7280",
+      "type_display": "Maintenance"
+    },
+    {
+      "start": "2026-01-01T09:00:00-07:00",
+      "end": "2026-01-01T21:00:00-07:00",
+      "type": "public",
+      "label": "9am \u2014 9pm Available On 10 AM CSE) 9:30 - 11:30am naw oem un8 \u2018Som \u2014tA5pm eu 2PM Paul Newton\u2019 Family Skate 1:45 \u2014 2:45pm UIA pak atc 3PM Public Skate 14 & under Shinny il 2:45 ~ 3:45pm McTiernan 3 30pm cee sow vonutt an Uiscarstars CMH RMAA Toumamentgamell 15. 6:43pm SPM Qu eee",
+      "notes": "9am \u2014 9pm Available On 10 AM CSE) 9:30 - 11:30am naw oem un8 \u2018Som \u2014tA5pm eu 2PM Paul Newton\u2019 Family Skate 1:45 \u2014 2:45pm UIA pak atc 3PM Public Skate 14 & under Shinny il 2:45 ~ 3:45pm McTiernan 3 30pm cee sow vonutt an Uiscarstars CMH RMAA Toumamentgamell 15. 6:43pm SPM Qu eee",
+      "color": "#10B981",
+      "type_display": "Public / Family"
     },
     {
       "start": "2026-01-02T16:15:00-07:00",
       "end": "2026-01-02T18:45:00-07:00",
       "type": "other",
-      "label": "RMAA",
-      "notes": "RMAA",
+      "label": "CMH- RMAA",
+      "notes": "CMH- RMAA",
       "color": "#64748B",
       "type_display": "Other"
     },
     {
-      "start": "2026-01-02T19:15:00-07:00",
-      "end": "2026-01-02T22:15:00-07:00",
-      "type": "games",
-      "label": "AA vs",
-      "notes": "AA vs",
-      "color": "#EF4444",
-      "type_display": "Games"
+      "start": "2026-01-02T15:00:00-07:00",
+      "end": "2026-01-02T16:00:00-07:00",
+      "type": "other",
+      "label": "McTiernan",
+      "notes": "McTiernan",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-01-02T45:00:00-07:00",
+      "end": "2026-01-02T14:45:00-07:00",
+      "type": "other",
+      "label": "Paul Newton 12",
+      "notes": "Paul Newton 12",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-01-02T11:45:00-07:00",
+      "end": "2026-01-02T13:45:00-07:00",
+      "type": "practice",
+      "label": "u13B",
+      "notes": "u13B",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-02T09:30:00-07:00",
+      "end": "2026-01-02T11:30:00-07:00",
+      "type": "other",
+      "label": "un",
+      "notes": "un",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-01-02T08:00:00-07:00",
+      "end": "2026-01-02T09:15:00-07:00",
+      "type": "practice",
+      "label": "umu9",
+      "notes": "umu9",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
     }
   ]
 }
