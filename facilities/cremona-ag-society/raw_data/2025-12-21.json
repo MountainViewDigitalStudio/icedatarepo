@@ -6,7 +6,7 @@
       "start": "2025-12-21T07:45:00-07:00",
       "end": "2025-12-21T09:45:00-07:00",
       "metadata": {
-        "raw_text": "Skate 7:45 - 9:45am",
+        "raw_text": "Stars",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -14,7 +14,7 @@
       "start": "2025-12-21T10:00:00-07:00",
       "end": "2025-12-21T11:15:00-07:00",
       "metadata": {
-        "raw_text": "U7 Learn to Play 10 - 11:15am",
+        "raw_text": "U7 Learn to Play",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -22,7 +22,7 @@
       "start": "2025-12-21T11:30:00-07:00",
       "end": "2025-12-21T12:30:00-07:00",
       "metadata": {
-        "raw_text": "Rustlers 11:30am - 12:30pm",
+        "raw_text": "Rustlers",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -30,7 +30,7 @@
       "start": "2025-12-21T12:30:00-07:00",
       "end": "2025-12-21T14:00:00-07:00",
       "metadata": {
-        "raw_text": "U11 Rustlers 12:30 - 2pm",
+        "raw_text": "U11 Rustlers",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -38,7 +38,7 @@
       "start": "2025-12-21T14:15:00-07:00",
       "end": "2025-12-21T15:45:00-07:00",
       "metadata": {
-        "raw_text": "U15 White - Rustlers 2:15 - 3:45pm",
+        "raw_text": "U15 White - Rustlers",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -46,15 +46,15 @@
       "start": "2025-12-21T16:00:00-07:00",
       "end": "2025-12-21T17:30:00-07:00",
       "metadata": {
-        "raw_text": "U15 Green- Rustlers 4 - 5:30pm",
+        "raw_text": "U15 Green- Rustlers",
         "extraction_method": "claude-vision-multipass"
       }
     },
     {
-      "start": "2025-12-21T18:45:00-07:00",
+      "start": "2025-12-21T17:45:00-07:00",
       "end": "2025-12-21T19:15:00-07:00",
       "metadata": {
-        "raw_text": "U18 Green- Rustlers 6:45 - 7:15pm",
+        "raw_text": "U18 Green- Rustlers",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -62,7 +62,7 @@
       "start": "2025-12-21T19:30:00-07:00",
       "end": "2025-12-21T21:00:00-07:00",
       "metadata": {
-        "raw_text": "U18 White- Rustlers 7:30 - 9pm",
+        "raw_text": "U18 White- Rustlers",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -70,7 +70,7 @@
       "start": "2025-12-21T21:15:00-07:00",
       "end": "2025-12-21T22:30:00-07:00",
       "metadata": {
-        "raw_text": "Rustler Men's 9:15 - 10:30pm",
+        "raw_text": "Rustler Men's",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -78,7 +78,7 @@
       "start": "2025-12-22T08:45:00-07:00",
       "end": "2025-12-22T09:45:00-07:00",
       "metadata": {
-        "raw_text": "Rec Fisla 8:45 - 9:45am",
+        "raw_text": "Rex Fisla",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -86,15 +86,15 @@
       "start": "2025-12-22T10:00:00-07:00",
       "end": "2025-12-22T11:00:00-07:00",
       "metadata": {
-        "raw_text": "Jen MacAusland 10 - 11am",
+        "raw_text": "Jen MacAusland",
         "extraction_method": "claude-vision-multipass"
       }
     },
     {
       "start": "2025-12-22T11:15:00-07:00",
-      "end": "2025-12-22T16:45:00-07:00",
+      "end": "2025-12-22T20:15:00-07:00",
       "metadata": {
-        "raw_text": "Ice Rental Available 11:15am - 4:45pm",
+        "raw_text": "Ice Rental Available",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -102,7 +102,7 @@
       "start": "2025-12-23T12:30:00-07:00",
       "end": "2025-12-23T14:30:00-07:00",
       "metadata": {
-        "raw_text": "Jay Garox (Gift Certificates) 12:30 - 2:30pm",
+        "raw_text": "Jay Garox (Gift Certificates)",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -110,7 +110,7 @@
       "start": "2025-12-24T09:00:00-07:00",
       "end": "2025-12-24T21:00:00-07:00",
       "metadata": {
-        "raw_text": "Arena Closed 9am - 9pm",
+        "raw_text": "Arena Closed",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -118,7 +118,7 @@
       "start": "2025-12-25T09:00:00-07:00",
       "end": "2025-12-25T21:00:00-07:00",
       "metadata": {
-        "raw_text": "Arena Closed 9am - 9pm",
+        "raw_text": "Arena Closed",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -126,7 +126,7 @@
       "start": "2025-12-26T09:00:00-07:00",
       "end": "2025-12-26T21:00:00-07:00",
       "metadata": {
-        "raw_text": "Arena Closed 9am - 9pm",
+        "raw_text": "Arena Closed",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -134,7 +134,7 @@
       "start": "2025-12-27T10:00:00-07:00",
       "end": "2025-12-27T17:00:00-07:00",
       "metadata": {
-        "raw_text": "Ice Rental Available 10am - 5pm",
+        "raw_text": "Ice Rental Available",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -142,7 +142,7 @@
       "start": "2025-12-27T17:30:00-07:00",
       "end": "2025-12-27T19:00:00-07:00",
       "metadata": {
-        "raw_text": "Family Skate 5:30 - 7pm",
+        "raw_text": "Family Skate",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -150,7 +150,7 @@
       "start": "2025-12-27T19:00:00-07:00",
       "end": "2025-12-27T20:30:00-07:00",
       "metadata": {
-        "raw_text": "Jay Shinny 7 - 8:30pm",
+        "raw_text": "1st Shinny",
         "extraction_method": "claude-vision-multipass"
       }
     }

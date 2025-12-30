@@ -4,7 +4,7 @@
   "slots": [
     {
       "start": "2025-12-28T14:00:00-07:00",
-      "end": "2025-12-28T15:30:00-07:00",
+      "end": "2025-12-28T15:00:00-07:00",
       "metadata": {
         "raw_text": "Family Skate",
         "extraction_method": "claude-vision-multipass"
@@ -22,13 +22,13 @@
       "start": "2025-12-28T17:00:00-07:00",
       "end": "2025-12-28T18:30:00-07:00",
       "metadata": {
-        "raw_text": "Rustlers Mems",
+        "raw_text": "Rustlers Mens",
         "extraction_method": "claude-vision-multipass"
       }
     },
     {
       "start": "2025-12-29T14:45:00-07:00",
-      "end": "2025-12-29T16:45:00-07:00",
+      "end": "2025-12-29T15:45:00-07:00",
       "metadata": {
         "raw_text": "Public Skate",
         "extraction_method": "claude-vision-multipass"
@@ -54,7 +54,7 @@
       "start": "2025-12-29T18:30:00-07:00",
       "end": "2025-12-29T19:30:00-07:00",
       "metadata": {
-        "raw_text": "U15 A",
+        "raw_text": "U13 A",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -92,9 +92,25 @@
     },
     {
       "start": "2026-01-02T09:00:00-07:00",
-      "end": "2026-01-02T13:30:00-07:00",
+      "end": "2026-01-02T10:30:00-07:00",
       "metadata": {
         "raw_text": "Ice Rental Available",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-02T10:30:00-07:00",
+      "end": "2026-01-02T11:30:00-07:00",
+      "metadata": {
+        "raw_text": "U11",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-02T11:45:00-07:00",
+      "end": "2026-01-02T13:45:00-07:00",
+      "metadata": {
+        "raw_text": "U13B",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -116,9 +132,9 @@
     },
     {
       "start": "2026-01-02T16:15:00-07:00",
-      "end": "2026-01-02T18:15:00-07:00",
+      "end": "2026-01-02T16:15:00-07:00",
       "metadata": {
-        "raw_text": "U15 Carstairs Tournament game",
+        "raw_text": "U15 Carstars Tournament game",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -139,7 +155,7 @@
       }
     },
     {
-      "start": "2026-01-03T09:30:00-07:00",
+      "start": "2026-01-03T10:30:00-07:00",
       "end": "2026-01-03T11:30:00-07:00",
       "metadata": {
         "raw_text": "U11",
@@ -158,21 +174,21 @@
       "start": "2026-01-03T14:00:00-07:00",
       "end": "2026-01-03T16:00:00-07:00",
       "metadata": {
-        "raw_text": "U15A",
+        "raw_text": "U13A",
         "extraction_method": "claude-vision-multipass"
       }
     },
     {
       "start": "2026-01-03T16:15:00-07:00",
-      "end": "2026-01-03T18:45:00-07:00",
+      "end": "2026-01-03T16:45:00-07:00",
       "metadata": {
-        "raw_text": "GMHL RMAA",
+        "raw_text": "Civic RMAA",
         "extraction_method": "claude-vision-multipass"
       }
     },
     {
       "start": "2026-01-03T19:15:00-07:00",
-      "end": "2026-01-03T22:15:00-07:00",
+      "end": "2026-01-03T21:15:00-07:00",
       "metadata": {
         "raw_text": "Coyotes AA vs Tsuu'ina",
         "extraction_method": "claude-vision-multipass"
