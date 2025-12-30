@@ -3,74 +3,74 @@
   "facility": "Cremona Ag Society Arena",
   "slots": [
     {
-      "start": "2025-12-28T14:00:00-07:00",
-      "end": "2025-12-28T15:30:00-07:00",
+      "start": "2025-12-29T14:00:00-07:00",
+      "end": "2025-12-29T15:30:00-07:00",
       "metadata": {
         "raw_text": "Family Skate",
         "extraction_method": "claude-vision-multipass"
       }
     },
     {
-      "start": "2025-12-28T15:30:00-07:00",
-      "end": "2025-12-28T16:30:00-07:00",
+      "start": "2025-12-29T15:30:00-07:00",
+      "end": "2025-12-29T16:30:00-07:00",
       "metadata": {
         "raw_text": "14 & under Shinny",
         "extraction_method": "claude-vision-multipass"
       }
     },
     {
-      "start": "2025-12-28T17:00:00-07:00",
-      "end": "2025-12-28T18:30:00-07:00",
+      "start": "2025-12-29T17:00:00-07:00",
+      "end": "2025-12-29T18:30:00-07:00",
       "metadata": {
         "raw_text": "Rustlers Mens",
         "extraction_method": "claude-vision-multipass"
       }
     },
     {
-      "start": "2025-12-29T14:45:00-07:00",
-      "end": "2025-12-29T15:45:00-07:00",
+      "start": "2025-12-30T09:00:00-07:00",
+      "end": "2025-12-30T21:00:00-07:00",
+      "metadata": {
+        "raw_text": "Ice for Sale",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2025-12-30T14:45:00-07:00",
+      "end": "2025-12-30T15:45:00-07:00",
       "metadata": {
         "raw_text": "Public Skate",
         "extraction_method": "claude-vision-multipass"
       }
     },
     {
-      "start": "2025-12-29T16:00:00-07:00",
-      "end": "2025-12-29T17:00:00-07:00",
+      "start": "2025-12-30T16:00:00-07:00",
+      "end": "2025-12-30T17:00:00-07:00",
       "metadata": {
         "raw_text": "U9/U11",
         "extraction_method": "claude-vision-multipass"
       }
     },
     {
-      "start": "2025-12-29T17:15:00-07:00",
-      "end": "2025-12-29T18:15:00-07:00",
+      "start": "2025-12-30T17:15:00-07:00",
+      "end": "2025-12-30T18:15:00-07:00",
       "metadata": {
         "raw_text": "U13B",
         "extraction_method": "claude-vision-multipass"
       }
     },
     {
-      "start": "2025-12-29T18:30:00-07:00",
-      "end": "2025-12-29T19:30:00-07:00",
+      "start": "2025-12-30T18:30:00-07:00",
+      "end": "2025-12-30T19:30:00-07:00",
       "metadata": {
         "raw_text": "U13 A",
         "extraction_method": "claude-vision-multipass"
       }
     },
     {
-      "start": "2025-12-29T19:45:00-07:00",
-      "end": "2025-12-29T20:45:00-07:00",
+      "start": "2025-12-30T19:45:00-07:00",
+      "end": "2025-12-30T20:45:00-07:00",
       "metadata": {
         "raw_text": "U15",
-        "extraction_method": "claude-vision-multipass"
-      }
-    },
-    {
-      "start": "2025-12-30T09:00:00-07:00",
-      "end": "2025-12-30T17:00:00-07:00",
-      "metadata": {
-        "raw_text": "Ice for Sale",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -174,7 +174,7 @@
       "start": "2026-01-03T19:15:00-07:00",
       "end": "2026-01-03T22:15:00-07:00",
       "metadata": {
-        "raw_text": "Coyotes AA vs Tsuu'ina",
+        "raw_text": "Coyotes AA vs Trout lke",
         "extraction_method": "claude-vision-multipass"
       }
     }
