@@ -7,31 +7,31 @@
       "end": "2025-12-28T15:30:00-07:00",
       "metadata": {
         "raw_text": "Family Skate",
-        "extraction_method": "claude-vision"
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
-      "start": "2025-12-28T15:30:00-07:00",
+      "start": "2025-12-28T14:30:00-07:00",
       "end": "2025-12-28T16:30:00-07:00",
       "metadata": {
         "raw_text": "14 & under Shinny",
-        "extraction_method": "claude-vision"
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
       "start": "2025-12-28T17:00:00-07:00",
       "end": "2025-12-28T18:30:00-07:00",
       "metadata": {
-        "raw_text": "Rushers Mens",
-        "extraction_method": "claude-vision"
+        "raw_text": "Rustlers Men's",
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
       "start": "2025-12-29T09:00:00-07:00",
-      "end": "2025-12-29T17:00:00-07:00",
+      "end": "2025-12-29T16:00:00-07:00",
       "metadata": {
         "raw_text": "Ice for Sale",
-        "extraction_method": "claude-vision"
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
@@ -39,15 +39,15 @@
       "end": "2025-12-29T15:45:00-07:00",
       "metadata": {
         "raw_text": "Public Skate",
-        "extraction_method": "claude-vision"
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
       "start": "2025-12-29T16:00:00-07:00",
       "end": "2025-12-29T17:00:00-07:00",
       "metadata": {
-        "raw_text": "U9/U11",
-        "extraction_method": "claude-vision"
+        "raw_text": "UW U11",
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
@@ -55,7 +55,7 @@
       "end": "2025-12-29T18:15:00-07:00",
       "metadata": {
         "raw_text": "U13B",
-        "extraction_method": "claude-vision"
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
@@ -63,15 +63,15 @@
       "end": "2025-12-29T19:30:00-07:00",
       "metadata": {
         "raw_text": "U13 A",
-        "extraction_method": "claude-vision"
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
       "start": "2025-12-29T19:45:00-07:00",
       "end": "2025-12-29T20:45:00-07:00",
       "metadata": {
-        "raw_text": "U15",
-        "extraction_method": "claude-vision"
+        "raw_text": "U18",
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
@@ -79,7 +79,7 @@
       "end": "2025-12-30T17:00:00-07:00",
       "metadata": {
         "raw_text": "Arena Closed",
-        "extraction_method": "claude-vision"
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
@@ -87,7 +87,7 @@
       "end": "2025-12-31T19:00:00-07:00",
       "metadata": {
         "raw_text": "Arena Closed",
-        "extraction_method": "claude-vision"
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
@@ -95,7 +95,7 @@
       "end": "2026-01-01T13:00:00-07:00",
       "metadata": {
         "raw_text": "Ice Rental Available",
-        "extraction_method": "claude-vision"
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
@@ -103,7 +103,7 @@
       "end": "2026-01-01T14:45:00-07:00",
       "metadata": {
         "raw_text": "Paul Newton",
-        "extraction_method": "claude-vision"
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
@@ -111,7 +111,7 @@
       "end": "2026-01-01T16:00:00-07:00",
       "metadata": {
         "raw_text": "McTiernan",
-        "extraction_method": "claude-vision"
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
@@ -119,15 +119,15 @@
       "end": "2026-01-01T18:15:00-07:00",
       "metadata": {
         "raw_text": "U15 Canstars Tournament game",
-        "extraction_method": "claude-vision"
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
-      "start": "2026-01-01T19:30:00-07:00",
+      "start": "2026-01-01T19:00:00-07:00",
       "end": "2026-01-01T21:30:00-07:00",
       "metadata": {
         "raw_text": "Ice for Sale",
-        "extraction_method": "claude-vision"
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
@@ -135,7 +135,7 @@
       "end": "2026-01-02T09:15:00-07:00",
       "metadata": {
         "raw_text": "U7/U9",
-        "extraction_method": "claude-vision"
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
@@ -143,7 +143,7 @@
       "end": "2026-01-02T11:30:00-07:00",
       "metadata": {
         "raw_text": "U11",
-        "extraction_method": "claude-vision"
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
@@ -151,7 +151,7 @@
       "end": "2026-01-02T13:45:00-07:00",
       "metadata": {
         "raw_text": "U13B",
-        "extraction_method": "claude-vision"
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
@@ -159,23 +159,23 @@
       "end": "2026-01-02T16:00:00-07:00",
       "metadata": {
         "raw_text": "U13A",
-        "extraction_method": "claude-vision"
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
       "start": "2026-01-02T16:15:00-07:00",
       "end": "2026-01-02T18:45:00-07:00",
       "metadata": {
-        "raw_text": "CM/L RMAA",
-        "extraction_method": "claude-vision"
+        "raw_text": "CMHL RMAA",
+        "extraction_method": "claude-vision-multipass"
       }
     },
     {
       "start": "2026-01-02T19:15:00-07:00",
       "end": "2026-01-02T22:15:00-07:00",
       "metadata": {
-        "raw_text": "Coyotes AA vs Trout live",
-        "extraction_method": "claude-vision"
+        "raw_text": "Coyotes AA vs Tsuu'ina",
+        "extraction_method": "claude-vision-multipass"
       }
     }
   ]
