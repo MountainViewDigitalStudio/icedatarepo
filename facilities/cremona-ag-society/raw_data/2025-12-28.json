@@ -22,13 +22,13 @@
       "start": "2025-12-28T17:00:00-07:00",
       "end": "2025-12-28T18:30:00-07:00",
       "metadata": {
-        "raw_text": "Rustlers Mens",
+        "raw_text": "Rustlers Mems",
         "extraction_method": "claude-vision-multipass"
       }
     },
     {
       "start": "2025-12-29T14:45:00-07:00",
-      "end": "2025-12-29T16:45:00-07:00",
+      "end": "2025-12-29T17:45:00-07:00",
       "metadata": {
         "raw_text": "Public Skate",
         "extraction_method": "claude-vision-multipass"
@@ -54,7 +54,7 @@
       "start": "2025-12-29T18:30:00-07:00",
       "end": "2025-12-29T19:30:00-07:00",
       "metadata": {
-        "raw_text": "U13 A",
+        "raw_text": "U15 A",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -118,7 +118,7 @@
       "start": "2026-01-02T16:15:00-07:00",
       "end": "2026-01-02T18:15:00-07:00",
       "metadata": {
-        "raw_text": "U15 Canstars Tournament game",
+        "raw_text": "U15 Carstairs Tournament game",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -158,7 +158,7 @@
       "start": "2026-01-03T14:00:00-07:00",
       "end": "2026-01-03T16:00:00-07:00",
       "metadata": {
-        "raw_text": "U13A",
+        "raw_text": "U15A",
         "extraction_method": "claude-vision-multipass"
       }
     },
@@ -166,7 +166,7 @@
       "start": "2026-01-03T16:15:00-07:00",
       "end": "2026-01-03T18:45:00-07:00",
       "metadata": {
-        "raw_text": "GMHL PNMA",
+        "raw_text": "GMHL RMAA",
         "extraction_method": "claude-vision-multipass"
       }
     },
