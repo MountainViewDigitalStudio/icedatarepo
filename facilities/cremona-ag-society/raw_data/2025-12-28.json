@@ -3,25 +3,95 @@
   "facility": "Cremona Ag Society Arena",
   "slots": [
     {
+      "start": "2026-01-01T19:00:00-07:00",
+      "end": "2026-01-01T21:30:00-07:00",
+      "type": "other",
+      "label": "Ice for Sale",
+      "notes": "Ice for Sale"
+    },
+    {
       "start": "2025-12-29T18:30:00-07:00",
       "end": "2025-12-29T19:30:00-07:00",
       "type": "other",
-      "label": "UISA",
-      "notes": "UISA"
+      "label": "U13A",
+      "notes": "U13A"
     },
     {
-      "start": "2026-01-01T16:45:00-07:00",
-      "end": "2026-01-01T14:45:00-07:00",
+      "start": "2025-12-28T17:00:00-07:00",
+      "end": "2025-12-28T18:30:00-07:00",
+      "type": "adult_rec",
+      "label": "Rustlers Mens",
+      "notes": "Rustlers Mens"
+    },
+    {
+      "start": "2026-01-02T16:15:00-07:00",
+      "end": "2026-01-02T18:45:00-07:00",
       "type": "other",
-      "label": "Paul Newton.",
-      "notes": "Paul Newton."
+      "label": "CMH- RMAA",
+      "notes": "CMH- RMAA"
     },
     {
-      "start": "2025-12-31T09:30:00-07:00",
-      "end": "2025-12-31T11:30:00-07:00",
+      "start": "2026-01-01T16:15:00-07:00",
+      "end": "2026-01-01T18:15:00-07:00",
+      "type": "games",
+      "label": "U15 Carstairs Tournament game",
+      "notes": "U15 Carstairs Tournament game"
+    },
+    {
+      "start": "2026-01-01T15:00:00-07:00",
+      "end": "2026-01-01T16:00:00-07:00",
+      "type": "other",
+      "label": "McTiernan",
+      "notes": "McTiernan"
+    },
+    {
+      "start": "2025-12-28T15:00:00-07:00",
+      "end": "2025-12-28T16:30:00-07:00",
+      "type": "shinny",
+      "label": "14 & under Shinny",
+      "notes": "14 & under Shinny"
+    },
+    {
+      "start": "2025-12-28T14:00:00-07:00",
+      "end": "2025-12-28T15:00:00-07:00",
       "type": "public",
-      "label": "na ew OB TSom — 18pm 1PM 2PM Paul Newton Family Skate 1:45 — 2:45pm a 3PM Public Skate 14 & under Shinny 2:45 ~ 3:45pm McTiernan Sasopm Sole ae ‘U15 Carstairs (CMH- RMAA. sem ‘Tournament gael 4:15 — 6:45pm Rustlers Mens 48-GEm 5_ 6:30pm U1sB 5:15 — 6:15pm oru UA TM 3907: Geomwesan Ice for Sale 79:30pm Coyotes AA vs om ue Teuutina Ui ee Tieton onu",
-      "notes": "na ew OB TSom — 18pm 1PM 2PM Paul Newton Family Skate 1:45 — 2:45pm a 3PM Public Skate 14 & under Shinny 2:45 ~ 3:45pm McTiernan Sasopm Sole ae ‘U15 Carstairs (CMH- RMAA. sem ‘Tournament gael 4:15 — 6:45pm Rustlers Mens 48-GEm 5_ 6:30pm U1sB 5:15 — 6:15pm oru UA TM 3907: Geomwesan Ice for Sale 79:30pm Coyotes AA vs om ue Teuutina Ui ee Tieton onu"
+      "label": "Family Skate",
+      "notes": "Family Skate"
+    },
+    {
+      "start": "2026-01-02T11:45:00-07:00",
+      "end": "2026-01-02T13:45:00-07:00",
+      "type": "other",
+      "label": "U13B",
+      "notes": "U13B"
+    },
+    {
+      "start": "2026-01-02T09:30:00-07:00",
+      "end": "2026-01-02T11:30:00-07:00",
+      "type": "other",
+      "label": "ull",
+      "notes": "ull"
+    },
+    {
+      "start": "2026-01-01T09:00:00-07:00",
+      "end": "2026-01-01T13:30:00-07:00",
+      "type": "private",
+      "label": "Ice Rental Available",
+      "notes": "Ice Rental Available"
+    },
+    {
+      "start": "2026-01-02T08:00:00-07:00",
+      "end": "2026-01-02T09:15:00-07:00",
+      "type": "other",
+      "label": "U7/U9",
+      "notes": "U7/U9"
+    },
+    {
+      "start": "2025-12-31T09:00:00-07:00",
+      "end": "2025-12-31T21:00:00-07:00",
+      "type": "public",
+      "label": "9am - 9pm 9am - 9pm Available ull 10 AM eat ei 9:30 - 11:30am 11AM 12 PM U13B 11:45am - 1:45pm 1PM 2PM : Paul Newton Family Skate 1:45 - 2:45pm U13A 2-3pm 2-4pm 3PM : Public Skate . 14 & under Shinny# 2:45 - 3:45pm McTiernan 3 - 4:30pm 3- 4pm 4PM ug/u1 : 4-5pm U15 Carstairs CMH- RMAA Tournament gamem™ 4:15 - 6:45pm 5PM 45 —6: Rustlers Mens 4:15 — 6:15pm 5 - 6:30pm U13B 5:15 - 6:15pm 6PM VIZ A 7PM OTE GeO tesueul Ice for Sale 7 - 9:30pm Coyotes AA vs u1s Tsuut'ina 3PM 7:15 - 10:15 7:45 - 8:45pm pm 9PM",
+      "notes": "9am - 9pm 9am - 9pm Available ull 10 AM eat ei 9:30 - 11:30am 11AM 12 PM U13B 11:45am - 1:45pm 1PM 2PM : Paul Newton Family Skate 1:45 - 2:45pm U13A 2-3pm 2-4pm 3PM : Public Skate . 14 & under Shinny# 2:45 - 3:45pm McTiernan 3 - 4:30pm 3- 4pm 4PM ug/u1 : 4-5pm U15 Carstairs CMH- RMAA Tournament gamem™ 4:15 - 6:45pm 5PM 45 —6: Rustlers Mens 4:15 — 6:15pm 5 - 6:30pm U13B 5:15 - 6:15pm 6PM VIZ A 7PM OTE GeO tesueul Ice for Sale 7 - 9:30pm Coyotes AA vs u1s Tsuut'ina 3PM 7:15 - 10:15 7:45 - 8:45pm pm 9PM"
     }
   ]
 }
