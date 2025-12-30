@@ -1,6 +1,278 @@
 {
   "week_start": "2026-01-11",
   "facility": "Cremona Ag Society Arena",
-  "slots": [],
-  "note": "Screenshot capture failed for this week. Visit https://www.cremonaagsociety.ca/schedule for full calendar."
+  "slots": [
+    {
+      "start": "2026-01-12T07:45:00-07:00",
+      "end": "2026-01-12T09:45:00-07:00",
+      "metadata": {
+        "raw_text": "STARS",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-12T10:00:00-07:00",
+      "end": "2026-01-12T11:15:00-07:00",
+      "metadata": {
+        "raw_text": "U7 Learn to Play",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-12T11:30:00-07:00",
+      "end": "2026-01-12T12:30:00-07:00",
+      "metadata": {
+        "raw_text": "Rustlers",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-12T12:30:00-07:00",
+      "end": "2026-01-12T14:00:00-07:00",
+      "metadata": {
+        "raw_text": "U11 Rustlers",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-12T14:15:00-07:00",
+      "end": "2026-01-12T15:45:00-07:00",
+      "metadata": {
+        "raw_text": "U15 White - Rustlers",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-12T16:00:00-07:00",
+      "end": "2026-01-12T17:30:00-07:00",
+      "metadata": {
+        "raw_text": "U15 Green - Rustlers",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-12T17:45:00-07:00",
+      "end": "2026-01-12T19:15:00-07:00",
+      "metadata": {
+        "raw_text": "U18 Green - Rustlers",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-12T19:30:00-07:00",
+      "end": "2026-01-12T21:00:00-07:00",
+      "metadata": {
+        "raw_text": "U18 White - Rustlers",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-12T21:15:00-07:00",
+      "end": "2026-01-12T22:30:00-07:00",
+      "metadata": {
+        "raw_text": "Rustler Men's",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-13T14:45:00-07:00",
+      "end": "2026-01-13T15:45:00-07:00",
+      "metadata": {
+        "raw_text": "Public Skate",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-13T15:30:00-07:00",
+      "end": "2026-01-13T18:30:00-07:00",
+      "metadata": {
+        "raw_text": "Figure Skating",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-13T16:00:00-07:00",
+      "end": "2026-01-13T17:00:00-07:00",
+      "metadata": {
+        "raw_text": "U9/U11",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-13T17:15:00-07:00",
+      "end": "2026-01-13T18:15:00-07:00",
+      "metadata": {
+        "raw_text": "U13",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-13T18:30:00-07:00",
+      "end": "2026-01-13T19:30:00-07:00",
+      "metadata": {
+        "raw_text": "U13 A",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-13T18:45:00-07:00",
+      "end": "2026-01-13T19:45:00-07:00",
+      "metadata": {
+        "raw_text": "Rustlers U15",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-13T19:45:00-07:00",
+      "end": "2026-01-13T20:45:00-07:00",
+      "metadata": {
+        "raw_text": "U18",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-13T20:00:00-07:00",
+      "end": "2026-01-13T21:00:00-07:00",
+      "metadata": {
+        "raw_text": "Rustlers U18",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-13T21:00:00-07:00",
+      "end": "2026-01-13T22:30:00-07:00",
+      "metadata": {
+        "raw_text": "Mustangs",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-13T21:15:00-07:00",
+      "end": "2026-01-13T22:45:00-07:00",
+      "metadata": {
+        "raw_text": "Chiefs",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-14T14:45:00-07:00",
+      "end": "2026-01-14T15:45:00-07:00",
+      "metadata": {
+        "raw_text": "Public Skate",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-14T15:30:00-07:00",
+      "end": "2026-01-14T18:30:00-07:00",
+      "metadata": {
+        "raw_text": "Figure Skating",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-14T18:45:00-07:00",
+      "end": "2026-01-14T19:45:00-07:00",
+      "metadata": {
+        "raw_text": "Rustlers U9/U11",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-14T19:00:00-07:00",
+      "end": "2026-01-14T21:00:00-07:00",
+      "metadata": {
+        "raw_text": "U18",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-14T21:15:00-07:00",
+      "end": "2026-01-14T22:45:00-07:00",
+      "metadata": {
+        "raw_text": "AA Coyotes",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-15T16:00:00-07:00",
+      "end": "2026-01-15T17:00:00-07:00",
+      "metadata": {
+        "raw_text": "U7/U9",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-15T17:15:00-07:00",
+      "end": "2026-01-15T18:15:00-07:00",
+      "metadata": {
+        "raw_text": "U11",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-15T18:30:00-07:00",
+      "end": "2026-01-15T19:00:00-07:00",
+      "metadata": {
+        "raw_text": "U13B",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-15T19:00:00-07:00",
+      "end": "2026-01-15T19:30:00-07:00",
+      "metadata": {
+        "raw_text": "U13 B & A",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-15T19:30:00-07:00",
+      "end": "2026-01-15T20:30:00-07:00",
+      "metadata": {
+        "raw_text": "U13A",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-15T20:15:00-07:00",
+      "end": "2026-01-15T21:15:00-07:00",
+      "metadata": {
+        "raw_text": "GMH - RMAA",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-15T21:30:00-07:00",
+      "end": "2026-01-15T22:30:00-07:00",
+      "metadata": {
+        "raw_text": "Coyotes",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-16T15:30:00-07:00",
+      "end": "2026-01-16T17:30:00-07:00",
+      "metadata": {
+        "raw_text": "Figure Skating",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-16T17:45:00-07:00",
+      "end": "2026-01-16T18:45:00-07:00",
+      "metadata": {
+        "raw_text": "Rustler Tournament",
+        "extraction_method": "claude-vision-multipass"
+      }
+    },
+    {
+      "start": "2026-01-17T08:00:00-07:00",
+      "end": "2026-01-17T21:00:00-07:00",
+      "metadata": {
+        "raw_text": "Rustler Tournament",
+        "extraction_method": "claude-vision-multipass"
+      }
+    }
+  ]
 }
