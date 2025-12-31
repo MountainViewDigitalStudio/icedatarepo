@@ -1,0 +1,158 @@
+{
+  "version": "1.0",
+  "generated_at": "2025-12-31T23:42:56.248899Z",
+  "facility": {
+    "id": "sundre-arena",
+    "name": "Sundre Arena",
+    "city": "Sundre",
+    "address": "Sundre Arena#1, 101-2 Avenue NW",
+    "source_url": "https://www.sundre.com/p/arena"
+  },
+  "week": {
+    "start_date": "2025-12-22",
+    "end_date": "2025-12-28",
+    "sunday": "2025-12-21"
+  },
+  "slots": [
+    {
+      "type": "practice",
+      "start": "2025-12-23T09:00:00",
+      "end": "2025-12-23T10:30:00",
+      "label": "Private Ice Time",
+      "notes": "9:00 AM - 10:30 AM"
+    },
+    {
+      "type": "public_skate",
+      "start": "2025-12-24T09:00:00",
+      "end": "2025-12-24T10:15:00",
+      "label": "Public Skating",
+      "notes": "9:00 AM - 10:15 AM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-24T10:30:00",
+      "end": "2025-12-24T11:45:00",
+      "label": "Sticks & Pucks",
+      "notes": "10:30 AM - 11:45 AM"
+    },
+    {
+      "type": "family_skate",
+      "start": "2025-12-24T12:00:00",
+      "end": "2025-12-24T12:50:00",
+      "label": "Family Skate Private",
+      "notes": "12:00 PM - 12:50 PM"
+    },
+    {
+      "type": "shinny",
+      "start": "2025-12-23T13:00:00",
+      "end": "2025-12-23T14:45:00",
+      "label": "Adult Shinny",
+      "notes": "1:00 PM - 2:45 PM"
+    },
+    {
+      "type": "stick_and_puck",
+      "start": "2025-12-23T15:00:00",
+      "end": "2025-12-23T16:20:00",
+      "label": "Sticks N Pucks",
+      "notes": "3:00 PM - 4:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-24T15:00:00",
+      "end": "2025-12-24T23:00:00",
+      "label": "Arena Closed",
+      "notes": "3:00 PM - 11:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-22T16:30:00",
+      "end": "2025-12-22T17:20:00",
+      "label": "SMH- Practice U9",
+      "notes": "4:30 PM - 5:20 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": "2025-12-23T17:30:00",
+      "end": "2025-12-23T18:30:00",
+      "label": "Sundre Skating Club Learn to Skate",
+      "notes": "5:30 PM - 6:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-22T17:30:00",
+      "end": "2025-12-22T18:20:00",
+      "label": "SMH- Practice U11",
+      "notes": "5:30 PM - 6:20 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": "2025-12-23T17:30:00",
+      "end": "2025-12-23T18:30:00",
+      "label": "Sundra Skating Club Learn to Skate",
+      "notes": "5:30 PM - 6:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-22T16:30:00",
+      "end": "2025-12-22T17:20:00",
+      "label": "SMH- Practica U9",
+      "notes": "4:30 PM - 5:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-22T19:30:00",
+      "end": "2025-12-22T20:20:00",
+      "label": "SMH- Practica U15",
+      "notes": "7:30 PM - 8:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-22T20:30:00",
+      "end": "2025-12-22T21:20:00",
+      "label": "SMH- Practica U18",
+      "notes": "8:30 PM - 9:20 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2025-12-22T21:30:00",
+      "end": "2025-12-22T23:00:00",
+      "label": "Mens Hockey- Bombers",
+      "notes": "9:30 PM - 11:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-26T12:00:00",
+      "end": "2025-12-26T13:00:00",
+      "label": "Arena Closed",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-25T07:01:00",
+      "end": "2025-12-25T23:00:00",
+      "label": "Arena Closed",
+      "notes": "7:01 AM - 11:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-26T07:01:00",
+      "end": "2025-12-26T23:00:00",
+      "label": "Arena Closed",
+      "notes": "7:01 AM - 11:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-27T07:00:00",
+      "end": "2025-12-27T22:00:00",
+      "label": "Arena Closed",
+      "notes": "7:00 AM - 10:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2025-12-28T10:00:00",
+      "end": "2025-12-28T11:00:00",
+      "label": "Private Ice",
+      "notes": "10:00 AM - 11:00 AM"
+    }
+  ]
+}
