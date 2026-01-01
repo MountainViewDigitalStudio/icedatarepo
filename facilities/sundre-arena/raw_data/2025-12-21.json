@@ -1,0 +1,158 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-01-01T16:55:04.148466Z",
+  "facility": {
+    "id": "sundre-arena",
+    "name": "Sundre Arena",
+    "city": "Sundre",
+    "address": "Sundre Arena#1, 101-2 Avenue NW",
+    "source_url": "https://www.sundre.com/p/arena"
+  },
+  "week": {
+    "start_date": "2025-12-22",
+    "end_date": "2025-12-28",
+    "sunday": "2025-12-21"
+  },
+  "slots": [
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "Arena Closed",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "Arena Closed",
+      "notes": "7:01 AM - 11:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "Arena Closed",
+      "notes": "7:01 AM - 11:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "Arena Closed",
+      "notes": "7:00 AM - 10:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "Private Ice Time",
+      "notes": "9:00 AM - 10:30 AM"
+    },
+    {
+      "type": "public_skate",
+      "start": null,
+      "end": null,
+      "label": "Public Skating",
+      "notes": "9:00 AM - 10:15 AM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "Sticks & Pucks",
+      "notes": "10:30 AM - 11:45 AM"
+    },
+    {
+      "type": "family_skate",
+      "start": null,
+      "end": null,
+      "label": "Family Skate Private",
+      "notes": "12:00 PM - 12:00 PM"
+    },
+    {
+      "type": "shinny",
+      "start": null,
+      "end": null,
+      "label": "Adult Shinny",
+      "notes": "1:00 PM - 2:45 PM"
+    },
+    {
+      "type": "stick_and_puck",
+      "start": null,
+      "end": null,
+      "label": "Sticks N Pucks",
+      "notes": "3:00 PM - 4:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "Arena Closed",
+      "notes": "3:00 PM - 11:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH- Practice U9",
+      "notes": "4:30 PM - 5:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH- Practice U11",
+      "notes": "5:30 PM - 6:20 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": null,
+      "end": null,
+      "label": "Sundre Skating Club Learn to Skate",
+      "notes": "5:30 PM - 6:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH- Practice U13",
+      "notes": "6:30 PM - 7:20 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": null,
+      "end": null,
+      "label": "Sundre Skating Club Star Skate",
+      "notes": "6:30 PM - 8:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH-Practice U15",
+      "notes": "7:30 PM - 8:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH- Practice U18",
+      "notes": "8:30 PM - 9:20 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": null,
+      "end": null,
+      "label": "Mens Hockey- Bombers",
+      "notes": "9:30 PM - 11:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "Private Ice",
+      "notes": "10:00 AM - 11:00 AM"
+    }
+  ]
+}
