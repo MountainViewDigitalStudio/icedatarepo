@@ -1,0 +1,354 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-01-01T16:33:04.175623Z",
+  "facility": {
+    "id": "sundre-arena",
+    "name": "Sundre Arena",
+    "city": "Sundre",
+    "address": "Sundre Arena#1, 101-2 Avenue NW",
+    "source_url": "https://www.sundre.com/p/arena"
+  },
+  "week": {
+    "start_date": "2025-12-15",
+    "end_date": "2025-12-21",
+    "sunday": "2025-12-14"
+  },
+  "slots": [
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "Ice Maintenace",
+      "notes": "7:00 AM - 12:00 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": null,
+      "end": null,
+      "label": "Sundre Skating Club",
+      "notes": "8:00 AM - 9:00 AM"
+    },
+    {
+      "type": "game",
+      "start": null,
+      "end": null,
+      "label": "SMH-Game U7 Black",
+      "notes": "8:15 AM - 9:30 AM"
+    },
+    {
+      "type": "skating_club",
+      "start": null,
+      "end": null,
+      "label": "Sundre Skating Club",
+      "notes": "9:00 AM - 10:00 AM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH U13",
+      "notes": "9:15 AM - 11:05 AM"
+    },
+    {
+      "type": "game",
+      "start": null,
+      "end": null,
+      "label": "SMH-Game U7 White",
+      "notes": "9:45 AM - 11:00 AM"
+    },
+    {
+      "type": "game",
+      "start": null,
+      "end": null,
+      "label": "SMH-Game U9B",
+      "notes": "11:10 AM - 12:25 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "Sundre High School Hockey (White contract) Invoice",
+      "notes": "12:00 PM - 3:00 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": null,
+      "end": null,
+      "label": "Rec Hockey Christmas",
+      "notes": "12:04 PM - 12:45 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": null,
+      "end": null,
+      "label": "Rec Hockey U8",
+      "notes": "12:00 PM - 1:30 PM"
+    },
+    {
+      "type": "game",
+      "start": null,
+      "end": null,
+      "label": "SMH-Game U9W",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "Rec U11",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "game",
+      "start": null,
+      "end": null,
+      "label": "SMH-Game U11",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "shinny",
+      "start": null,
+      "end": null,
+      "label": "Adult Shinny",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "public_skate",
+      "start": null,
+      "end": null,
+      "label": "Adult Public Skating",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "stick_and_puck",
+      "start": null,
+      "end": null,
+      "label": "Sticks N Pucks",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "public_skate",
+      "start": null,
+      "end": null,
+      "label": "Public Skating",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "Rec U15 Red vs Rocky Eagles",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": null,
+      "end": null,
+      "label": "Rec Hockey",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "game",
+      "start": null,
+      "end": null,
+      "label": "SMH-Game U13",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "stick_and_puck",
+      "start": null,
+      "end": null,
+      "label": "Sticks N Pucks",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "Rec U15",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "game",
+      "start": null,
+      "end": null,
+      "label": "SMH-Game U13",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH- Practice U9",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH-Practice U7",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH- Practice U9",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH-Practice U7",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH- Practice U11",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": null,
+      "end": null,
+      "label": "Sundre Skating Club Learn to Skate",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH- Practice U11",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": null,
+      "end": null,
+      "label": "Rec Hockey U8",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "game",
+      "start": null,
+      "end": null,
+      "label": "SMH-Game U15",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": null,
+      "end": null,
+      "label": "Sundre Skating Club Star Skate",
+      "notes": "5:00 PM - 8:00 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": null,
+      "end": null,
+      "label": "Drop in Rec Hockey 18+",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH-Practice U13",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": null,
+      "end": null,
+      "label": "Sundre Skating Club Star Skate",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH- Practice U13",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "Clubroom Private Function (AR)",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "game",
+      "start": null,
+      "end": null,
+      "label": "SMH-Game U18",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH-Practice U15",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH- Practice U15",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": null,
+      "end": null,
+      "label": "Woman's Hockey- Shooters",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": null,
+      "end": null,
+      "label": "Men's Hockey-Rhinos vs Cremona Chiefs",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH-Practice U18",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH-Practice U18",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": null,
+      "end": null,
+      "label": "Men's Hockey- Rant Ice",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": null,
+      "end": null,
+      "label": "Mens Hockey- Bombers",
+      "notes": "12:00 PM - 1:00 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": null,
+      "end": null,
+      "label": "Mens Hockey- Ice Men's vs Rhinos",
+      "notes": "12:00 PM - 1:00 PM"
+    }
+  ]
+}
