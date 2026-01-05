@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-01-11",
   "week_end": "2026-01-17",
-  "last_updated": "2025-12-29T02:15:27.869310-07:00",
+  "last_updated": "2026-01-05T02:16:41.793929-07:00",
   "slots": [
     {
       "start": "2026-01-11T09:00:00-07:00",
@@ -378,15 +378,15 @@
       "notes": "Mens Hockey - FLOOD"
     },
     {
-      "start": "2026-01-17T09:30:00-07:00",
-      "end": "2026-01-17T10:30:00-07:00",
+      "start": "2026-01-17T09:45:00-07:00",
+      "end": "2026-01-17T10:45:00-07:00",
       "type": "game",
       "label": "U9 vs TBA",
       "notes": "GAMES - U9 vs TBA"
     },
     {
-      "start": "2026-01-17T10:30:00-07:00",
-      "end": "2026-01-17T11:00:00-07:00",
+      "start": "2026-01-17T10:45:00-07:00",
+      "end": "2026-01-17T11:15:00-07:00",
       "type": "game",
       "label": "GAMES - U9 BOARDS + FLOOD",
       "notes": "GAMES - U9 BOARDS + FLOOD"
