@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-01-11",
   "week_end": "2026-01-17",
-  "last_updated": "2026-01-05T02:16:41.793929-07:00",
+  "last_updated": "2026-01-12T02:16:25.065814-07:00",
   "slots": [
     {
       "start": "2026-01-11T09:00:00-07:00",
@@ -231,6 +231,13 @@
       "notes": "Mens Hockey- Mighty Pucks - Flood"
     },
     {
+      "start": "2026-01-14T07:00:00-07:00",
+      "end": "2026-01-14T09:00:00-07:00",
+      "type": "other",
+      "label": "Monthly Meetings-Taqa",
+      "notes": "Monthly Meetings-Taqa"
+    },
+    {
       "start": "2026-01-14T15:45:00-07:00",
       "end": "2026-01-14T16:45:00-07:00",
       "type": "practice",
@@ -320,13 +327,6 @@
       "type": "practice",
       "label": "Hockey - Practice Ice - Junior Skate",
       "notes": "Practice Ice - Junior Skate"
-    },
-    {
-      "start": "2026-01-15T19:00:00-07:00",
-      "end": "2026-01-15T21:00:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Caroline Minor Hockey Meeting 2025/26",
-      "notes": "Caroline Minor Hockey Meeting 2025/26"
     },
     {
       "start": "2026-01-15T20:30:00-07:00",
