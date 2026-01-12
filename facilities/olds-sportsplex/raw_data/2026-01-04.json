@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-05T09:16:53.000199Z",
+  "generated_at": "2026-01-12T09:16:38.759310Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -236,6 +236,13 @@
         },
         {
           "type": "practice",
+          "start": "2026-01-08T15:00:00-07:00",
+          "end": "2026-01-08T15:45:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie"
+        },
+        {
+          "type": "practice",
           "start": "2026-01-08T16:00:00-07:00",
           "end": "2026-01-08T16:45:00-07:00",
           "label": "U11A U11C",
@@ -254,6 +261,13 @@
           "end": "2026-01-08T19:15:00-07:00",
           "label": "U15AA",
           "notes": "OMHA Jan 2026 - U15AA"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-08T18:30:00-07:00",
+          "end": "2026-01-08T20:30:00-07:00",
+          "label": "OLA meeting",
+          "notes": "OLA meeting"
         },
         {
           "type": "practice",
@@ -326,11 +340,11 @@
           "notes": "OMHA Jan 2026 - U11A vs Airdrie"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-01-10T10:45:00-07:00",
           "end": "2026-01-10T12:00:00-07:00",
-          "label": "U9  U9",
-          "notes": "OMHA Jan 2026 - U9  U9"
+          "label": "U9B vs Crossfield U9C Yellow vs Beiseker",
+          "notes": "OMHA Jan 2026 - U9B vs Crossfield U9C Yellow vs Beiseker"
         },
         {
           "type": "game",
@@ -349,7 +363,7 @@
         {
           "type": "game",
           "start": "2026-01-10T17:30:00-07:00",
-          "end": "2026-01-10T21:30:00-07:00",
+          "end": "2026-01-10T20:30:00-07:00",
           "label": "Grizzlys vs Canmore",
           "notes": "Grizzlys 2025/26 - Grizzlys vs Canmore"
         }
@@ -626,10 +640,10 @@
         },
         {
           "type": "practice",
-          "start": "2026-01-10T08:45:00-07:00",
+          "start": "2026-01-10T09:45:00-07:00",
           "end": "2026-01-10T10:45:00-07:00",
-          "label": "U15 fem",
-          "notes": "OMHA Jan 2026 - U15 fem"
+          "label": "U11 B practice",
+          "notes": "OMHA Jan 2026 - U11 B practice"
         },
         {
           "type": "game",

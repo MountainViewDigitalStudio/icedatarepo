@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-05T09:16:53.000199Z",
+  "generated_at": "2026-01-12T09:16:38.759310Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -18,11 +18,11 @@
       "name": "Main Ice Surface",
       "slots": [
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-01-11T08:00:00-07:00",
           "end": "2026-01-11T09:15:00-07:00",
-          "label": "U7  U7",
-          "notes": "OMHA Jan 2026 - U7  U7"
+          "label": "U7Black vs Didsbury U7 Red vs Sundre",
+          "notes": "OMHA Jan 2026 - U7Black vs Didsbury U7 Red vs Sundre"
         },
         {
           "type": "game",
@@ -54,10 +54,31 @@
         },
         {
           "type": "practice",
-          "start": "2026-01-11T21:30:00-07:00",
-          "end": "2026-01-11T23:00:00-07:00",
+          "start": "2026-01-11T21:45:00-07:00",
+          "end": "2026-01-11T23:15:00-07:00",
           "label": "Wilde",
           "notes": "Wilde"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-12T09:00:00-07:00",
+          "end": "2026-01-12T09:30:00-07:00",
+          "label": "High School",
+          "notes": "High School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-12T11:45:00-07:00",
+          "end": "2026-01-12T12:15:00-07:00",
+          "label": "High School",
+          "notes": "High School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-12T13:00:00-07:00",
+          "end": "2026-01-12T13:45:00-07:00",
+          "label": "High School",
+          "notes": "High School"
         },
         {
           "type": "practice",
@@ -119,8 +140,8 @@
           "type": "shinny",
           "start": "2026-01-12T21:45:00-07:00",
           "end": "2026-01-12T23:00:00-07:00",
-          "label": "Vercaigne Shinny Nov 2025",
-          "notes": "Vercaigne Shinny Nov 2025"
+          "label": "Vercaigne Shinny Jan 2026 PD",
+          "notes": "Vercaigne Shinny Jan 2026 PD"
         },
         {
           "type": "practice",
@@ -201,6 +222,20 @@
         },
         {
           "type": "practice",
+          "start": "2026-01-14T13:00:00-07:00",
+          "end": "2026-01-14T13:45:00-07:00",
+          "label": "High School",
+          "notes": "High School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-14T14:15:00-07:00",
+          "end": "2026-01-14T15:00:00-07:00",
+          "label": "High School",
+          "notes": "High School"
+        },
+        {
+          "type": "practice",
           "start": "2026-01-14T16:00:00-07:00",
           "end": "2026-01-14T16:45:00-07:00",
           "label": "U9C Yellow U9C Black",
@@ -250,6 +285,27 @@
         },
         {
           "type": "practice",
+          "start": "2026-01-15T09:00:00-07:00",
+          "end": "2026-01-15T09:30:00-07:00",
+          "label": "High School",
+          "notes": "High School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-15T10:30:00-07:00",
+          "end": "2026-01-15T11:30:00-07:00",
+          "label": "High School",
+          "notes": "High School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-15T11:45:00-07:00",
+          "end": "2026-01-15T12:15:00-07:00",
+          "label": "High School",
+          "notes": "High School"
+        },
+        {
+          "type": "practice",
           "start": "2026-01-15T13:15:00-07:00",
           "end": "2026-01-15T14:15:00-07:00",
           "label": "need chairs, skate aids, cart of toys",
@@ -257,45 +313,45 @@
         },
         {
           "type": "practice",
-          "start": "2026-01-15T16:00:00-07:00",
-          "end": "2026-01-15T16:45:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "start": "2026-01-15T15:00:00-07:00",
+          "end": "2026-01-15T15:45:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie"
         },
         {
           "type": "practice",
-          "start": "2026-01-15T16:45:00-07:00",
-          "end": "2026-01-15T17:15:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "start": "2026-01-15T16:00:00-07:00",
+          "end": "2026-01-15T17:00:00-07:00",
+          "label": "U15B",
+          "notes": "OMHA Jan 2026 - U15B"
         },
         {
           "type": "practice",
           "start": "2026-01-15T17:15:00-07:00",
           "end": "2026-01-15T18:00:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U11A U11 fem",
+          "notes": "OMHA Jan 2026 - U11A U11 fem"
         },
         {
           "type": "practice",
           "start": "2026-01-15T18:15:00-07:00",
           "end": "2026-01-15T19:15:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U11AA",
+          "notes": "OMHA Jan 2026 - U11AA"
         },
         {
           "type": "practice",
           "start": "2026-01-15T19:30:00-07:00",
           "end": "2026-01-15T20:30:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U15AA",
+          "notes": "OMHA Jan 2026 - U15AA"
         },
         {
           "type": "practice",
           "start": "2026-01-15T20:45:00-07:00",
           "end": "2026-01-15T21:30:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U18A",
+          "notes": "OMHA Jan 2026 - U18A"
         },
         {
           "type": "practice",
@@ -306,7 +362,7 @@
         },
         {
           "type": "practice",
-          "start": "2026-01-16T10:00:00-07:00",
+          "start": "2026-01-16T09:00:00-07:00",
           "end": "2026-01-16T14:30:00-07:00",
           "label": "Chairs, skate aids and cart with toys",
           "notes": "Trinity School - Chairs, skate aids and cart with toys"
@@ -326,18 +382,18 @@
           "notes": "Broncos Games 2025/2026 - Broncos vs Lakeland"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-01-17T08:45:00-07:00",
           "end": "2026-01-17T10:45:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U11 Female vs Airdrie",
+          "notes": "OMHA Jan 2026 - U11 Female vs Airdrie"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-01-17T11:00:00-07:00",
           "end": "2026-01-17T13:00:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U13A Fem vs Stettler",
+          "notes": "OMHA Jan 2026 - U13A Fem vs Stettler"
         },
         {
           "type": "game",
@@ -347,18 +403,18 @@
           "notes": "Broncos Games 2025/2026 - Broncos vs Lakeland"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-01-17T16:45:00-07:00",
           "end": "2026-01-17T18:45:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U15 Female vs 3 C's",
+          "notes": "OMHA Jan 2026 - U15 Female vs 3 C's"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-01-17T19:00:00-07:00",
-          "end": "2026-01-17T21:00:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "end": "2026-01-17T21:15:00-07:00",
+          "label": "U18 Female vs West Central",
+          "notes": "OMHA Jan 2026 - U18 Female vs West Central"
         }
       ]
     },
@@ -409,6 +465,13 @@
         },
         {
           "type": "practice",
+          "start": "2026-01-12T14:15:00-07:00",
+          "end": "2026-01-12T15:00:00-07:00",
+          "label": "High School",
+          "notes": "High School"
+        },
+        {
+          "type": "practice",
           "start": "2026-01-12T15:45:00-07:00",
           "end": "2026-01-12T16:45:00-07:00",
           "label": "Olds Figure Skating Club Jan 2026",
@@ -441,6 +504,20 @@
           "end": "2026-01-13T07:45:00-07:00",
           "label": "U13B",
           "notes": "OMHA Jan 2026 - U13B"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-13T09:00:00-07:00",
+          "end": "2026-01-13T09:30:00-07:00",
+          "label": "High School",
+          "notes": "High School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-13T10:30:00-07:00",
+          "end": "2026-01-13T11:00:00-07:00",
+          "label": "High School",
+          "notes": "High School"
         },
         {
           "type": "public_skate",
@@ -500,6 +577,13 @@
         },
         {
           "type": "practice",
+          "start": "2026-01-14T09:00:00-07:00",
+          "end": "2026-01-14T09:30:00-07:00",
+          "label": "High School",
+          "notes": "High School"
+        },
+        {
+          "type": "practice",
           "start": "2026-01-14T12:00:00-07:00",
           "end": "2026-01-14T13:00:00-07:00",
           "label": "Sticks and Pucks",
@@ -551,57 +635,57 @@
           "type": "practice",
           "start": "2026-01-15T16:00:00-07:00",
           "end": "2026-01-15T16:45:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U9A U9B",
+          "notes": "OMHA Jan 2026 - U9A U9B"
         },
         {
           "type": "practice",
           "start": "2026-01-15T17:00:00-07:00",
           "end": "2026-01-15T17:30:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U13 A fem",
+          "notes": "OMHA Jan 2026 - U13 A fem"
         },
         {
           "type": "practice",
           "start": "2026-01-15T17:30:00-07:00",
           "end": "2026-01-15T18:00:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U13AF/U13BF",
+          "notes": "OMHA Jan 2026 - U13AF/U13BF"
         },
         {
           "type": "practice",
           "start": "2026-01-15T18:00:00-07:00",
           "end": "2026-01-15T18:30:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U13B fem",
+          "notes": "OMHA Jan 2026 - U13B fem"
         },
         {
           "type": "practice",
           "start": "2026-01-15T18:45:00-07:00",
           "end": "2026-01-15T19:15:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U13A",
+          "notes": "OMHA Jan 2026 - U13A"
         },
         {
           "type": "practice",
           "start": "2026-01-15T19:15:00-07:00",
           "end": "2026-01-15T19:45:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U13A/U13B",
+          "notes": "OMHA Jan 2026 - U13A/U13B"
         },
         {
           "type": "practice",
           "start": "2026-01-15T19:45:00-07:00",
           "end": "2026-01-15T20:15:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U13B",
+          "notes": "OMHA Jan 2026 - U13B"
         },
         {
           "type": "practice",
           "start": "2026-01-15T20:30:00-07:00",
           "end": "2026-01-15T21:30:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U15A",
+          "notes": "OMHA Jan 2026 - U15A"
         },
         {
           "type": "practice",
@@ -612,10 +696,31 @@
         },
         {
           "type": "practice",
+          "start": "2026-01-16T09:00:00-07:00",
+          "end": "2026-01-16T09:30:00-07:00",
+          "label": "High School",
+          "notes": "High School"
+        },
+        {
+          "type": "practice",
           "start": "2026-01-16T12:00:00-07:00",
           "end": "2026-01-16T13:00:00-07:00",
           "label": "Sticks and Pucks",
           "notes": "Sticks and Pucks"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-16T13:00:00-07:00",
+          "end": "2026-01-16T13:45:00-07:00",
+          "label": "High School",
+          "notes": "High School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-01-16T14:15:00-07:00",
+          "end": "2026-01-16T15:00:00-07:00",
+          "label": "High School",
+          "notes": "High School"
         },
         {
           "type": "practice",
@@ -646,39 +751,39 @@
           "notes": "OMHA Jan 2026 - U13AA vs Lethbridge"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-01-17T08:15:00-07:00",
           "end": "2026-01-17T10:15:00-07:00",
-          "label": "U11 Female",
-          "notes": "OMHA Jan 2026 - U11 Female"
+          "label": "U11C vs Didsbury",
+          "notes": "OMHA Jan 2026 - U11C vs Didsbury"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-01-17T10:30:00-07:00",
           "end": "2026-01-17T12:30:00-07:00",
-          "label": "U13 Female",
-          "notes": "OMHA Jan 2026 - U13 Female"
+          "label": "U13B Fem vs Okotoks",
+          "notes": "OMHA Jan 2026 - U13B Fem vs Okotoks"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-01-17T12:45:00-07:00",
           "end": "2026-01-17T14:45:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U13C vs Maskwacis",
+          "notes": "OMHA Jan 2026 - U13C vs Maskwacis"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-01-17T15:00:00-07:00",
           "end": "2026-01-17T17:00:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U13B vs Airdire",
+          "notes": "OMHA Jan 2026 - U13B vs Airdire"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-01-17T17:15:00-07:00",
           "end": "2026-01-17T19:30:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U18A vs Renegades",
+          "notes": "OMHA Jan 2026 - U18A vs Renegades"
         }
       ]
     }
