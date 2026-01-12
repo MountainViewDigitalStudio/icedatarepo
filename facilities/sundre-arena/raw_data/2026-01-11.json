@@ -1,0 +1,263 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-01-12T09:17:59.301347Z",
+  "facility": {
+    "id": "sundre-arena",
+    "name": "Sundre Arena",
+    "city": "Sundre",
+    "address": "Sundre Arena#1, 101-2 Avenue NW",
+    "source_url": "https://www.sundre.com/p/arena"
+  },
+  "week": {
+    "start_date": "2026-01-12",
+    "end_date": "2026-01-18",
+    "sunday": "2026-01-11"
+  },
+  "slots": [
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "Clubroom Private Function (API), 4pm",
+      "notes": "4:00 PM - 4:00 PM"
+    },
+    {
+      "type": "maintenance",
+      "start": null,
+      "end": null,
+      "label": "Ice Maintenance",
+      "notes": "7:00 AM - 12:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "Clubroom Private Function",
+      "notes": "8:00 AM - 11:00 PM"
+    },
+    {
+      "type": "game",
+      "start": null,
+      "end": null,
+      "label": "SMH-Tournament U18",
+      "notes": "8:00 AM - 11:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "Clubroom Private Function",
+      "notes": "8:00 AM - 11:00 PM"
+    },
+    {
+      "type": "game",
+      "start": null,
+      "end": null,
+      "label": "SMH-Tournament U18",
+      "notes": "8:00 AM - 11:00 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": null,
+      "end": null,
+      "label": "Sundre Skating Club",
+      "notes": "8:00 AM - 9:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "Clubroom Private Function",
+      "notes": "8:00 AM - 11:00 PM"
+    },
+    {
+      "type": "game",
+      "start": null,
+      "end": null,
+      "label": "SMH-Tournament U18",
+      "notes": "8:00 AM - 11:00 PM"
+    },
+    {
+      "type": "game",
+      "start": null,
+      "end": null,
+      "label": "SMH-Game U7 Black",
+      "notes": "8:15 AM - 9:30 AM"
+    },
+    {
+      "type": "shinny",
+      "start": null,
+      "end": null,
+      "label": "Adult Shinny",
+      "notes": "1:00 PM - 2:45 PM"
+    },
+    {
+      "type": "public_skate",
+      "start": null,
+      "end": null,
+      "label": "Adult Public Skating",
+      "notes": "1:00 PM - 2:45 PM"
+    },
+    {
+      "type": "stick_and_puck",
+      "start": null,
+      "end": null,
+      "label": "Sticks N Pucks",
+      "notes": "3:00 PM - 4:20 PM"
+    },
+    {
+      "type": "public_skate",
+      "start": null,
+      "end": null,
+      "label": "Public Skating",
+      "notes": "3:00 PM - 4:20 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": null,
+      "end": null,
+      "label": "Rec Hockey",
+      "notes": "3:30 PM - 5:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH- Practice U9",
+      "notes": "4:30 PM - 5:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH-Practice U7",
+      "notes": "4:30 PM - 5:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH- Practice U9",
+      "notes": "4:30 PM - 5:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH-Practice U7",
+      "notes": "5:00 PM - 5:50 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH- Practice U11",
+      "notes": "5:30 PM - 6:20 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": null,
+      "end": null,
+      "label": "Sundre Skating Club Learn to Skate",
+      "notes": "5:30 PM - 6:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH- Practice U11",
+      "notes": "5:30 PM - 6:20 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": null,
+      "end": null,
+      "label": "Sundre Skating Club Star Skate",
+      "notes": "6:00 PM - 8:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH- Practice U13",
+      "notes": "6:30 PM - 7:20 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": null,
+      "end": null,
+      "label": "Sundre Skating Club Star Skate",
+      "notes": "6:30 PM - 8:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH- Practice U13",
+      "notes": "6:30 PM - 7:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH-Practice U15",
+      "notes": "7:30 PM - 8:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH-Practice U15",
+      "notes": "7:30 PM - 8:20 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": null,
+      "end": null,
+      "label": "Men's Hockey-Rhinos vs Olds Panthers",
+      "notes": "8:00 PM - 9:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH-Practice U18",
+      "notes": "8:30 PM - 9:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": null,
+      "end": null,
+      "label": "SMH-Practice U18",
+      "notes": "8:30 PM - 9:20 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": null,
+      "end": null,
+      "label": "Mens Hockey- Bombers",
+      "notes": "9:30 PM - 11:00 PM"
+    },
+    {
+      "type": "game",
+      "start": null,
+      "end": null,
+      "label": "SMH-Game U9W",
+      "notes": "12:35 PM - 1:50 PM"
+    },
+    {
+      "type": "game",
+      "start": null,
+      "end": null,
+      "label": "SMH-Game U11",
+      "notes": "2:00 PM - 3:50 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": null,
+      "end": null,
+      "label": "Mens Hockey- Ice Men's vs Caroline Ponderosa",
+      "notes": "8:00 PM - 9:30 PM"
+    }
+  ]
+}
