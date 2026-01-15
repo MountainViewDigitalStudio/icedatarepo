@@ -1,0 +1,190 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-01-15T16:42:51.505492Z",
+  "facility": {
+    "id": "cremona-ag-society",
+    "name": "Cremona Ag Society"
+  },
+  "week": {
+    "start_date": "2026-01-18",
+    "end_date": "2026-01-24"
+  },
+  "slots": [
+    {
+      "start": "2026-01-18T13:00:00-07:00",
+      "end": "2026-01-18T15:00:00-07:00",
+      "metadata": {
+        "raw_text": "School game",
+        "extraction_method": "claude-vision-multipass"
+      },
+      "type": "other",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-01-18T14:45:00-07:00",
+      "end": "2026-01-18T15:45:00-07:00",
+      "metadata": {
+        "raw_text": "Public Skate",
+        "extraction_method": "claude-vision-multipass"
+      },
+      "type": "other",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-01-18T15:30:00-07:00",
+      "end": "2026-01-18T18:30:00-07:00",
+      "metadata": {
+        "raw_text": "Figure Skating",
+        "extraction_method": "claude-vision-multipass"
+      },
+      "type": "other",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-01-18T16:00:00-07:00",
+      "end": "2026-01-18T17:00:00-07:00",
+      "metadata": {
+        "raw_text": "U7/U9",
+        "extraction_method": "claude-vision-multipass"
+      },
+      "type": "other",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-01-18T17:15:00-07:00",
+      "end": "2026-01-18T18:15:00-07:00",
+      "metadata": {
+        "raw_text": "U11",
+        "extraction_method": "claude-vision-multipass"
+      },
+      "type": "other",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-01-18T18:30:00-07:00",
+      "end": "2026-01-18T19:30:00-07:00",
+      "metadata": {
+        "raw_text": "U13B",
+        "extraction_method": "claude-vision-multipass"
+      },
+      "type": "other",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-01-18T19:00:00-07:00",
+      "end": "2026-01-18T21:30:00-07:00",
+      "metadata": {
+        "raw_text": "U18",
+        "extraction_method": "claude-vision-multipass"
+      },
+      "type": "other",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-01-18T20:15:00-07:00",
+      "end": "2026-01-18T21:15:00-07:00",
+      "metadata": {
+        "raw_text": "CMH - RMAA",
+        "extraction_method": "claude-vision-multipass"
+      },
+      "type": "other",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-01-18T21:30:00-07:00",
+      "end": "2026-01-18T22:30:00-07:00",
+      "metadata": {
+        "raw_text": "Coyotes",
+        "extraction_method": "claude-vision-multipass"
+      },
+      "type": "other",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-01-19T09:00:00-07:00",
+      "end": "2026-01-19T09:15:00-07:00",
+      "metadata": {
+        "raw_text": "U7/U9",
+        "extraction_method": "claude-vision-multipass"
+      },
+      "type": "other",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-01-19T09:30:00-07:00",
+      "end": "2026-01-19T11:30:00-07:00",
+      "metadata": {
+        "raw_text": "U11",
+        "extraction_method": "claude-vision-multipass"
+      },
+      "type": "other",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-01-19T11:45:00-07:00",
+      "end": "2026-01-19T13:45:00-07:00",
+      "metadata": {
+        "raw_text": "Ice for Sale",
+        "extraction_method": "claude-vision-multipass"
+      },
+      "type": "other",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-01-19T14:00:00-07:00",
+      "end": "2026-01-19T16:00:00-07:00",
+      "metadata": {
+        "raw_text": "U13A",
+        "extraction_method": "claude-vision-multipass"
+      },
+      "type": "other",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-01-19T16:15:00-07:00",
+      "end": "2026-01-19T18:45:00-07:00",
+      "metadata": {
+        "raw_text": "CMH- RMAA",
+        "extraction_method": "claude-vision-multipass"
+      },
+      "type": "other",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-01-19T19:00:00-07:00",
+      "end": "2026-01-19T21:00:00-07:00",
+      "metadata": {
+        "raw_text": "Church Group",
+        "extraction_method": "claude-vision-multipass"
+      },
+      "type": "other",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-01-20T09:00:00-07:00",
+      "end": "2026-01-20T09:15:00-07:00",
+      "metadata": {
+        "raw_text": "U7/U9",
+        "extraction_method": "claude-vision-multipass"
+      },
+      "type": "other",
+      "color": "#64748B",
+      "type_display": "Other"
+    }
+  ]
+}

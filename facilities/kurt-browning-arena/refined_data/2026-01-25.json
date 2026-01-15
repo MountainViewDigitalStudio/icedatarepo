@@ -1,0 +1,645 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-01-15T16:42:51.500865Z",
+  "facility": {
+    "id": "kurt-browning-arena",
+    "name": "Kurt Browning Arena",
+    "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+  },
+  "week": {
+    "start_date": "2026-01-25",
+    "end_date": "2026-01-31"
+  },
+  "slots": [
+    {
+      "start": "2026-01-25T09:00:00-07:00",
+      "end": "2026-01-25T11:00:00-07:00",
+      "type": "games",
+      "label": "U13 Tournament - 3rd in Group 1 vs 3rd in Group 2",
+      "notes": "U13 Tournament - 3rd in Group 1 vs 3rd in Group 2",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-25T11:00:00-07:00",
+      "end": "2026-01-25T11:30:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U13 Tournament - FLOOD - Open Ice",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-25T11:30:00-07:00",
+      "end": "2026-01-25T13:30:00-07:00",
+      "type": "games",
+      "label": "U13 Tournament - Loser in Game 7 vs Loser in Game 8",
+      "notes": "U13 Tournament - Loser in Game 7 vs Loser in Game 8",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-25T13:30:00-07:00",
+      "end": "2026-01-25T14:00:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U13 Tournament - FLOOD - Open Ice",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-25T14:00:00-07:00",
+      "end": "2026-01-25T16:00:00-07:00",
+      "type": "games",
+      "label": "U13 Tournament - Winner in Game 7 vs Winner Game 8",
+      "notes": "U13 Tournament - Winner in Game 7 vs Winner Game 8",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-25T16:00:00-07:00",
+      "end": "2026-01-25T16:15:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U13 Tournament - FLOOD",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-25T18:00:00-07:00",
+      "end": "2026-01-25T19:00:00-07:00",
+      "type": "public",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "start": "2026-01-25T19:00:00-07:00",
+      "end": "2026-01-25T19:15:00-07:00",
+      "type": "public",
+      "label": "Public Skating",
+      "notes": "Public Skating - FLOOD",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "start": "2026-01-25T19:15:00-07:00",
+      "end": "2026-01-25T20:15:00-07:00",
+      "type": "adult_rec",
+      "label": "Hockey - Gmen",
+      "notes": "Mens Hockey - Gmen",
+      "color": "#F59E0B",
+      "type_display": "Adult Rec Hockey"
+    },
+    {
+      "start": "2026-01-25T20:15:00-07:00",
+      "end": "2026-01-25T20:30:00-07:00",
+      "type": "adult_rec",
+      "label": "Hockey - Flood",
+      "notes": "Mens Hockey - Flood",
+      "color": "#F59E0B",
+      "type_display": "Adult Rec Hockey"
+    },
+    {
+      "start": "2026-01-26T15:45:00-07:00",
+      "end": "2026-01-26T16:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U5/U7 No flood",
+      "notes": "PRACTICES - U5/U7 No flood",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-26T16:45:00-07:00",
+      "end": "2026-01-26T17:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U9 No flood",
+      "notes": "PRACTICES - U9 No flood",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-26T17:45:00-07:00",
+      "end": "2026-01-26T18:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U11 C",
+      "notes": "PRACTICES - U11 C",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-26T18:45:00-07:00",
+      "end": "2026-01-26T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-26T19:00:00-07:00",
+      "end": "2026-01-26T20:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U11 A",
+      "notes": "PRACTICES - U11 A",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-26T20:00:00-07:00",
+      "end": "2026-01-26T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-26T20:15:00-07:00",
+      "end": "2026-01-26T21:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U15",
+      "notes": "PRACTICES - U15",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-26T21:15:00-07:00",
+      "end": "2026-01-26T21:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-26T21:30:00-07:00",
+      "end": "2026-01-26T22:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U18",
+      "notes": "PRACTICES - U18",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-26T22:45:00-07:00",
+      "end": "2026-01-26T23:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-27T16:30:00-07:00",
+      "end": "2026-01-27T17:15:00-07:00",
+      "type": "skating_club",
+      "label": "Hockey - Practice Ice - Learn to Skate",
+      "notes": "Practice Ice - Learn to Skate",
+      "color": "#06B6D4",
+      "type_display": "Skating Club / Programs"
+    },
+    {
+      "start": "2026-01-27T17:15:00-07:00",
+      "end": "2026-01-27T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - FLOOD",
+      "notes": "Practice Ice - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-27T17:30:00-07:00",
+      "end": "2026-01-27T18:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Preliminary Skate",
+      "notes": "Practice Ice - Preliminary Skate",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-27T18:45:00-07:00",
+      "end": "2026-01-27T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - FLOOD",
+      "notes": "Practice Ice - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-27T19:00:00-07:00",
+      "end": "2026-01-27T20:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Junior Skate",
+      "notes": "Practice Ice - Junior Skate",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-27T20:30:00-07:00",
+      "end": "2026-01-27T20:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - FLOOD",
+      "notes": "Practice Ice - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-27T20:45:00-07:00",
+      "end": "2026-01-27T22:15:00-07:00",
+      "type": "shinny",
+      "label": "Hockey - Mens Hockey- Mighty Pucks",
+      "notes": "Mens Hockey- Mighty Pucks",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "start": "2026-01-27T22:15:00-07:00",
+      "end": "2026-01-27T22:30:00-07:00",
+      "type": "shinny",
+      "label": "Hockey - Mens Hockey- Mighty Pucks - Flood",
+      "notes": "Mens Hockey- Mighty Pucks - Flood",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "start": "2026-01-28T15:45:00-07:00",
+      "end": "2026-01-28T16:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U5 / U7 no flood",
+      "notes": "PRACTICES - U5 / U7 no flood",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-28T16:45:00-07:00",
+      "end": "2026-01-28T17:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U9 no flood",
+      "notes": "PRACTICES - U9 no flood",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-28T17:45:00-07:00",
+      "end": "2026-01-28T18:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U11 B",
+      "notes": "PRACTICES - U11 B",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-28T18:45:00-07:00",
+      "end": "2026-01-28T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-28T19:00:00-07:00",
+      "end": "2026-01-28T20:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U13",
+      "notes": "PRACTICES - U13",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-28T20:00:00-07:00",
+      "end": "2026-01-28T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-28T20:15:00-07:00",
+      "end": "2026-01-28T21:30:00-07:00",
+      "type": "adult_rec",
+      "label": "Hockey - Cowboys",
+      "notes": "Mens Hockey - Cowboys",
+      "color": "#F59E0B",
+      "type_display": "Adult Rec Hockey"
+    },
+    {
+      "start": "2026-01-28T21:30:00-07:00",
+      "end": "2026-01-28T21:45:00-07:00",
+      "type": "adult_rec",
+      "label": "Hockey - Flood",
+      "notes": "Mens Hockey - Flood",
+      "color": "#F59E0B",
+      "type_display": "Adult Rec Hockey"
+    },
+    {
+      "start": "2026-01-29T16:30:00-07:00",
+      "end": "2026-01-29T17:15:00-07:00",
+      "type": "skating_club",
+      "label": "Hockey - Practice Ice - Learn to Skate",
+      "notes": "Practice Ice - Learn to Skate",
+      "color": "#06B6D4",
+      "type_display": "Skating Club / Programs"
+    },
+    {
+      "start": "2026-01-29T17:15:00-07:00",
+      "end": "2026-01-29T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - FLOOD",
+      "notes": "Practice Ice - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-29T17:30:00-07:00",
+      "end": "2026-01-29T18:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Preliminary Skate",
+      "notes": "Practice Ice - Preliminary Skate",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-29T18:45:00-07:00",
+      "end": "2026-01-29T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - FLOOD",
+      "notes": "Practice Ice - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-29T19:00:00-07:00",
+      "end": "2026-01-29T20:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Junior Skate",
+      "notes": "Practice Ice - Junior Skate",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-29T20:30:00-07:00",
+      "end": "2026-01-29T20:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - FLOOD",
+      "notes": "Practice Ice - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-29T20:45:00-07:00",
+      "end": "2026-01-29T22:15:00-07:00",
+      "type": "adult_rec",
+      "label": "Hockey - Jr Wranglers",
+      "notes": "Mens Hockey - Jr Wranglers",
+      "color": "#F59E0B",
+      "type_display": "Adult Rec Hockey"
+    },
+    {
+      "start": "2026-01-29T22:15:00-07:00",
+      "end": "2026-01-29T22:30:00-07:00",
+      "type": "adult_rec",
+      "label": "Hockey - Flood",
+      "notes": "Mens Hockey - Flood",
+      "color": "#F59E0B",
+      "type_display": "Adult Rec Hockey"
+    },
+    {
+      "start": "2026-01-30T11:45:00-07:00",
+      "end": "2026-01-30T13:45:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Skating",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-01-30T14:00:00-07:00",
+      "end": "2026-01-30T15:15:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament - Sylvan Lake C vs Sherwood Park",
+      "notes": "U11 - 1 Tournament - Sylvan Lake C vs Sherwood Park",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-30T15:15:00-07:00",
+      "end": "2026-01-30T15:30:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-30T15:30:00-07:00",
+      "end": "2026-01-30T16:45:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament - Strathmore B vs Knights White",
+      "notes": "U11 - 1 Tournament - Strathmore B vs Knights White",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-30T16:45:00-07:00",
+      "end": "2026-01-30T17:00:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-30T17:00:00-07:00",
+      "end": "2026-01-30T18:15:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament - West Country C vs Inferno Charge",
+      "notes": "U11 - 1 Tournament - West Country C vs Inferno Charge",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-30T18:15:00-07:00",
+      "end": "2026-01-30T18:30:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-30T18:30:00-07:00",
+      "end": "2026-01-30T19:45:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament - Beaumont vs Didsbury B",
+      "notes": "U11 - 1 Tournament - Beaumont vs Didsbury B",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-30T19:45:00-07:00",
+      "end": "2026-01-30T20:00:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-31T08:30:00-07:00",
+      "end": "2026-01-31T09:45:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament - Didsbury A vs Elk Point",
+      "notes": "U11 - 1 Tournament - Didsbury A vs Elk Point",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-31T09:00:00-07:00",
+      "end": "2026-01-31T21:00:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-31T09:45:00-07:00",
+      "end": "2026-01-31T10:00:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-31T10:00:00-07:00",
+      "end": "2026-01-31T11:15:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament - West Country A vs Millwoods",
+      "notes": "U11 - 1 Tournament - West Country A vs Millwoods",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-31T11:15:00-07:00",
+      "end": "2026-01-31T11:30:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-31T11:30:00-07:00",
+      "end": "2026-01-31T12:45:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament - Red Deer RCM vs Southwest Gold",
+      "notes": "U11 - 1 Tournament - Red Deer RCM vs Southwest Gold",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-31T12:45:00-07:00",
+      "end": "2026-01-31T13:00:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-31T13:00:00-07:00",
+      "end": "2026-01-31T14:15:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament - West Country B vs Wolverines Blue",
+      "notes": "U11 - 1 Tournament - West Country B vs Wolverines Blue",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-31T14:15:00-07:00",
+      "end": "2026-01-31T14:30:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-31T14:30:00-07:00",
+      "end": "2026-01-31T15:45:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament - Strathmore B vs Sylvan Lake C",
+      "notes": "U11 - 1 Tournament - Strathmore B vs Sylvan Lake C",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-31T15:45:00-07:00",
+      "end": "2026-01-31T16:00:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-31T16:00:00-07:00",
+      "end": "2026-01-31T17:15:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament - Knights White vs Sherwood Park",
+      "notes": "U11 - 1 Tournament - Knights White vs Sherwood Park",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-31T17:15:00-07:00",
+      "end": "2026-01-31T17:30:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-31T17:30:00-07:00",
+      "end": "2026-01-31T18:45:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament - Beaumont vs West Country C",
+      "notes": "U11 - 1 Tournament - Beaumont vs West Country C",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-31T18:45:00-07:00",
+      "end": "2026-01-31T19:00:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-31T19:00:00-07:00",
+      "end": "2026-01-31T20:15:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament - Didsbury B vs Inferno Charge",
+      "notes": "U11 - 1 Tournament - Didsbury B vs Inferno Charge",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-01-31T20:15:00-07:00",
+      "end": "2026-01-31T20:30:00-07:00",
+      "type": "games",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    }
+  ]
+}

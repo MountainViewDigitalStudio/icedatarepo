@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2025-12-29T09:16:46.773901Z",
+  "generated_at": "2026-01-15T16:42:51.499652Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena",
@@ -300,6 +300,15 @@
       "type_display": "Shinny / Stick & Puck"
     },
     {
+      "start": "2026-01-14T07:00:00-07:00",
+      "end": "2026-01-14T09:00:00-07:00",
+      "type": "other",
+      "label": "Monthly Meetings-Taqa",
+      "notes": "Monthly Meetings-Taqa",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
       "start": "2026-01-14T15:45:00-07:00",
       "end": "2026-01-14T16:45:00-07:00",
       "type": "practice",
@@ -417,15 +426,6 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-01-15T19:00:00-07:00",
-      "end": "2026-01-15T21:00:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Caroline Minor Hockey Meeting 2025/26",
-      "notes": "Caroline Minor Hockey Meeting 2025/26",
-      "color": "#8B5CF6",
-      "type_display": "Practice / Other"
-    },
-    {
       "start": "2026-01-15T20:30:00-07:00",
       "end": "2026-01-15T20:45:00-07:00",
       "type": "practice",
@@ -489,17 +489,17 @@
       "type_display": "Adult Rec Hockey"
     },
     {
-      "start": "2026-01-17T09:30:00-07:00",
-      "end": "2026-01-17T10:30:00-07:00",
+      "start": "2026-01-17T09:45:00-07:00",
+      "end": "2026-01-17T10:45:00-07:00",
       "type": "games",
-      "label": "U9 vs TBA",
-      "notes": "GAMES - U9 vs TBA",
+      "label": "U9 vs Crossfield",
+      "notes": "GAMES - U9 vs Crossfield",
       "color": "#EF4444",
       "type_display": "Games"
     },
     {
-      "start": "2026-01-17T10:30:00-07:00",
-      "end": "2026-01-17T11:00:00-07:00",
+      "start": "2026-01-17T10:45:00-07:00",
+      "end": "2026-01-17T11:15:00-07:00",
       "type": "games",
       "label": "GAMES - U9 BOARDS + FLOOD",
       "notes": "GAMES - U9 BOARDS + FLOOD",
