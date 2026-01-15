@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-15T22:07:47.462828Z",
+  "generated_at": "2026-01-15T22:19:33.741327Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena"
@@ -9,5 +9,24 @@
     "start_date": "2026-01-11",
     "end_date": "2026-01-17"
   },
-  "slots": []
+  "slots": [
+    {
+      "type": "games",
+      "start": "2026-01-11T08:00:00",
+      "end": "2026-01-11T23:00:00",
+      "label": "SMH-Tournament U15",
+      "notes": "8:00 AM - 11:00 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "games",
+      "start": "2026-01-11T20:45:00",
+      "end": "2026-01-11T22:00:00",
+      "label": "Mens Hockey- Ice Men's vs Cremona Chiefs",
+      "notes": "8:45 PM - 10:00 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    }
+  ]
 }

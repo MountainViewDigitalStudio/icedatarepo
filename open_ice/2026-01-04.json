@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-15T22:07:47.551883Z",
+  "generated_at": "2026-01-15T22:19:33.864288Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
@@ -62,6 +62,30 @@
       "type_display": "Public / Family"
     },
     {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-01-06T13:00:00",
+      "end": "2026-01-06T14:45:00",
+      "label": "Adult Shinny",
+      "notes": "1:00 PM - 2:45 PM",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-01-06T15:00:00",
+      "end": "2026-01-06T16:20:00",
+      "label": "Sticks 'N Pucks",
+      "notes": "3:00 PM - 4:20 PM",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
       "facility_id": "olds-sportsplex",
       "facility_name": "Olds Sportsplex",
       "city": null,
@@ -72,6 +96,30 @@
       "notes": "Sticks and Pucks",
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "public",
+      "start": "2026-01-07T13:00:00",
+      "end": "2026-01-07T14:45:00",
+      "label": "Adult Public Skating",
+      "notes": "1:00 PM - 2:45 PM",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "public",
+      "start": "2026-01-07T15:00:00",
+      "end": "2026-01-07T16:20:00",
+      "label": "Public Skating",
+      "notes": "3:00 PM - 4:20 PM",
+      "color": "#10B981",
+      "type_display": "Public / Family"
     },
     {
       "facility_id": "olds-sportsplex",
