@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-15T16:42:51.500244Z",
+  "generated_at": "2026-01-15T22:07:47.489806Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena",
@@ -298,6 +298,15 @@
       "notes": "Caroline Minor Hockey Meeting 2025/26",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-01-21T19:00:00-07:00",
+      "end": "2026-01-21T21:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Meeting-skate club",
+      "color": "#F97316",
+      "type_display": "Rentals"
     },
     {
       "start": "2026-01-21T20:00:00-07:00",
