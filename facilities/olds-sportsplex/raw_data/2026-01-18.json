@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-12T09:16:38.759310Z",
+  "generated_at": "2026-01-15T16:40:03.537075Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -56,8 +56,8 @@
           "type": "practice",
           "start": "2026-01-19T06:15:00-07:00",
           "end": "2026-01-19T07:30:00-07:00",
-          "label": "Broncos Practices Jan 2026",
-          "notes": "Broncos Practices Jan 2026"
+          "label": "Broncos Practices Jan 2026 inv",
+          "notes": "Broncos Practices Jan 2026 inv"
         },
         {
           "type": "practice",
@@ -133,22 +133,22 @@
           "type": "practice",
           "start": "2026-01-20T06:15:00-07:00",
           "end": "2026-01-20T07:30:00-07:00",
-          "label": "Broncos Practices Jan 2026",
-          "notes": "Broncos Practices Jan 2026"
+          "label": "Broncos Practices Jan 2026 inv",
+          "notes": "Broncos Practices Jan 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-01-20T10:00:00-07:00",
           "end": "2026-01-20T11:00:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Jan 2026 inv",
+          "notes": "Grizzlys Jan 2026 inv - Practice"
         },
         {
           "type": "practice",
           "start": "2026-01-20T11:15:00-07:00",
           "end": "2026-01-20T12:15:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Jan 2026 inv",
+          "notes": "Grizzlys Jan 2026 inv - Practice"
         },
         {
           "type": "practice",
@@ -173,6 +173,13 @@
         },
         {
           "type": "practice",
+          "start": "2026-01-20T18:00:00-07:00",
+          "end": "2026-01-20T21:00:00-07:00",
+          "label": "Olds Minor Soccer Board Meeting",
+          "notes": "Olds Minor Soccer Board Meeting"
+        },
+        {
+          "type": "practice",
           "start": "2026-01-20T19:15:00-07:00",
           "end": "2026-01-20T20:15:00-07:00",
           "label": "U15 fem",
@@ -189,22 +196,22 @@
           "type": "practice",
           "start": "2026-01-21T06:15:00-07:00",
           "end": "2026-01-21T07:30:00-07:00",
-          "label": "Broncos Practices Jan 2026",
-          "notes": "Broncos Practices Jan 2026"
+          "label": "Broncos Practices Jan 2026 inv",
+          "notes": "Broncos Practices Jan 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-01-21T10:00:00-07:00",
           "end": "2026-01-21T11:00:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Jan 2026 inv",
+          "notes": "Grizzlys Jan 2026 inv - Practice"
         },
         {
           "type": "practice",
           "start": "2026-01-21T11:15:00-07:00",
           "end": "2026-01-21T12:15:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Jan 2026 inv",
+          "notes": "Grizzlys Jan 2026 inv - Practice"
         },
         {
           "type": "practice",
@@ -273,15 +280,15 @@
           "type": "practice",
           "start": "2026-01-22T10:00:00-07:00",
           "end": "2026-01-22T11:00:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Jan 2026 inv",
+          "notes": "Grizzlys Jan 2026 inv - Practice"
         },
         {
           "type": "practice",
           "start": "2026-01-22T11:15:00-07:00",
           "end": "2026-01-22T12:15:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Jan 2026 inv",
+          "notes": "Grizzlys Jan 2026 inv - Practice"
         },
         {
           "type": "practice",
@@ -309,21 +316,21 @@
           "start": "2026-01-22T18:30:00-07:00",
           "end": "2026-01-22T21:30:00-07:00",
           "label": "Broncos vs SAIT",
-          "notes": "Broncos Games 2025/2026 - Broncos vs SAIT"
+          "notes": "Broncos games Jan 2026 inv - Broncos vs SAIT"
         },
         {
           "type": "practice",
           "start": "2026-01-22T21:45:00-07:00",
           "end": "2026-01-22T23:15:00-07:00",
-          "label": "SIR 2025-2026",
-          "notes": "SIR 2025-2026"
+          "label": "SIR Jan 2026 inv",
+          "notes": "SIR Jan 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-01-23T07:00:00-07:00",
           "end": "2026-01-23T08:00:00-07:00",
-          "label": "Rich McDonald",
-          "notes": "Rich McDonald"
+          "label": "Rich McDonald Jan 2026 inv",
+          "notes": "Rich McDonald Jan 2026 inv"
         },
         {
           "type": "practice",
@@ -336,8 +343,8 @@
           "type": "practice",
           "start": "2026-01-23T10:00:00-07:00",
           "end": "2026-01-23T11:00:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Jan 2026 inv",
+          "notes": "Grizzlys Jan 2026 inv - Practice"
         },
         {
           "type": "practice",
@@ -350,29 +357,71 @@
           "type": "game",
           "start": "2026-01-23T13:30:00-07:00",
           "end": "2026-01-23T15:30:00-07:00",
-          "label": "U15",
-          "notes": "OMHA 2025/26 Tournaments - U15"
+          "label": "Olds U15 vs Hughenden flood after 2nd",
+          "notes": "OMHA 2026 Female Tournament inv - Olds U15 vs Hughenden flood after 2nd"
         },
         {
           "type": "game",
           "start": "2026-01-23T15:30:00-07:00",
           "end": "2026-01-23T17:30:00-07:00",
-          "label": "OMHA 2025/26 Tournaments",
-          "notes": "OMHA 2025/26 Tournaments"
+          "label": "Olds U18 vs Edmonton  flood after 1st",
+          "notes": "OMHA 2026 Female Tournament inv - Olds U18 vs Edmonton  flood after 1st"
         },
         {
           "type": "game",
-          "start": "2026-01-23T17:45:00-07:00",
-          "end": "2026-01-23T19:45:00-07:00",
-          "label": "OMHA 2025/26 Tournaments",
-          "notes": "OMHA 2025/26 Tournaments"
+          "start": "2026-01-23T17:30:00-07:00",
+          "end": "2026-01-23T19:30:00-07:00",
+          "label": "U15 EF653  vs Delisle  Flood 2nd",
+          "notes": "OMHA 2026 Female Tournament inv - U15 EF653  vs Delisle  Flood 2nd"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-23T19:30:00-07:00",
+          "end": "2026-01-23T21:30:00-07:00",
+          "label": "U18 Sherwood  Park vs St. Albert Flood 1st",
+          "notes": "OMHA 2026 Female Tournament inv - U18 Sherwood  Park vs St. Albert Flood 1st"
         },
         {
           "type": "game",
           "start": "2026-01-24T09:15:00-07:00",
           "end": "2026-01-24T11:15:00-07:00",
-          "label": "OMHA 2025/26 Tournaments",
-          "notes": "OMHA 2025/26 Tournaments"
+          "label": "Olds U15 vs Summit Air   flood 2nd",
+          "notes": "OMHA 2026 Female Tournament inv - Olds U15 vs Summit Air   flood 2nd"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-24T11:15:00-07:00",
+          "end": "2026-01-24T13:15:00-07:00",
+          "label": "U18 fem vs Sherwood Park  Flood 1at",
+          "notes": "OMHA 2026 Female Tournament inv - U18 fem vs Sherwood Park  Flood 1at"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-24T13:15:00-07:00",
+          "end": "2026-01-24T15:15:00-07:00",
+          "label": "U15 div Summit Air vs EF653   Flood 2nd",
+          "notes": "OMHA 2026 Female Tournament inv - U15 div Summit Air vs EF653   Flood 2nd"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-24T15:30:00-07:00",
+          "end": "2026-01-24T17:30:00-07:00",
+          "label": "Irma vs Olds U18   Flood 1st",
+          "notes": "OMHA 2026 Female Tournament inv - Irma vs Olds U18   Flood 1st"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-24T17:30:00-07:00",
+          "end": "2026-01-24T19:30:00-07:00",
+          "label": "U15 div EF653  us OIds U15  Flood 2nd",
+          "notes": "OMHA 2026 Female Tournament inv - U15 div EF653  us OIds U15  Flood 2nd"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-24T19:30:00-07:00",
+          "end": "2026-01-24T21:30:00-07:00",
+          "label": "U18 div Sherwood  Park vs Irma Flood 1st",
+          "notes": "OMHA 2026 Female Tournament inv - U18 div Sherwood  Park vs Irma Flood 1st"
         }
       ]
     },
@@ -404,8 +453,8 @@
           "type": "practice",
           "start": "2026-01-18T15:45:00-07:00",
           "end": "2026-01-18T17:30:00-07:00",
-          "label": "Wilde",
-          "notes": "Wilde"
+          "label": "Wilde Jan 2026 inv",
+          "notes": "Wilde Jan 2026 inv"
         },
         {
           "type": "practice",
@@ -418,15 +467,15 @@
           "type": "practice",
           "start": "2026-01-19T15:45:00-07:00",
           "end": "2026-01-19T16:45:00-07:00",
-          "label": "Olds Figure Skating Club Jan 2026",
-          "notes": "Olds Figure Skating Club Jan 2026"
+          "label": "Olds Figure Skating Club Jan 2026 inv",
+          "notes": "Olds Figure Skating Club Jan 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-01-19T17:00:00-07:00",
           "end": "2026-01-19T19:45:00-07:00",
-          "label": "Olds Figure Skating Club Jan 2026",
-          "notes": "Olds Figure Skating Club Jan 2026"
+          "label": "Olds Figure Skating Club Jan 2026 inv",
+          "notes": "Olds Figure Skating Club Jan 2026 inv"
         },
         {
           "type": "practice",
@@ -523,15 +572,15 @@
           "type": "practice",
           "start": "2026-01-21T15:45:00-07:00",
           "end": "2026-01-21T16:45:00-07:00",
-          "label": "Olds Figure Skating Club Jan 2026",
-          "notes": "Olds Figure Skating Club Jan 2026"
+          "label": "Olds Figure Skating Club Jan 2026 inv",
+          "notes": "Olds Figure Skating Club Jan 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-01-21T17:00:00-07:00",
           "end": "2026-01-21T19:45:00-07:00",
-          "label": "Olds Figure Skating Club Jan 2026",
-          "notes": "Olds Figure Skating Club Jan 2026"
+          "label": "Olds Figure Skating Club Jan 2026 inv",
+          "notes": "Olds Figure Skating Club Jan 2026 inv"
         },
         {
           "type": "practice",
@@ -551,8 +600,8 @@
           "type": "practice",
           "start": "2026-01-22T06:45:00-07:00",
           "end": "2026-01-22T07:45:00-07:00",
-          "label": "Haaland - Hockey",
-          "notes": "Haaland - Hockey"
+          "label": "Haaland - Hockey Jan 2026 inv",
+          "notes": "Haaland - Hockey Jan 2026 inv"
         },
         {
           "type": "practice",
@@ -628,8 +677,8 @@
           "type": "practice",
           "start": "2026-01-23T06:30:00-07:00",
           "end": "2026-01-23T07:30:00-07:00",
-          "label": "Knutson",
-          "notes": "Knutson"
+          "label": "Knutson Jan 2026 inv",
+          "notes": "Knutson Jan 2026 inv"
         },
         {
           "type": "practice",
@@ -649,29 +698,64 @@
           "type": "practice",
           "start": "2026-01-23T15:45:00-07:00",
           "end": "2026-01-23T17:15:00-07:00",
-          "label": "Olds Figure Skating Club Jan 2026",
-          "notes": "Olds Figure Skating Club Jan 2026"
+          "label": "Olds Figure Skating Club Jan 2026 inv",
+          "notes": "Olds Figure Skating Club Jan 2026 inv"
         },
         {
           "type": "game",
-          "start": "2026-01-23T17:30:00-07:00",
-          "end": "2026-01-23T19:30:00-07:00",
-          "label": "OMHA 2025/26 Tournaments",
-          "notes": "OMHA 2025/26 Tournaments"
+          "start": "2026-01-23T17:45:00-07:00",
+          "end": "2026-01-23T19:45:00-07:00",
+          "label": "U18 Irma vs GHC Inferno  flood 2nd",
+          "notes": "OMHA 2026 Female Tournament inv - U18 Irma vs GHC Inferno  flood 2nd"
         },
         {
           "type": "game",
-          "start": "2026-01-23T19:30:00-07:00",
-          "end": "2026-01-23T21:30:00-07:00",
-          "label": "OMHA 2025/26 Tournaments",
-          "notes": "OMHA 2025/26 Tournaments"
+          "start": "2026-01-23T19:45:00-07:00",
+          "end": "2026-01-23T21:45:00-07:00",
+          "label": "U15 div Summit Air vs Brooks Flood 1st",
+          "notes": "OMHA 2026 Female Tournament inv - U15 div Summit Air vs Brooks Flood 1st"
         },
         {
           "type": "game",
           "start": "2026-01-24T09:30:00-07:00",
           "end": "2026-01-24T11:30:00-07:00",
-          "label": "OMHA 2025/26 Tournaments",
-          "notes": "OMHA 2025/26 Tournaments"
+          "label": "U15 div Delisle vs Hughenden   flood 2nd",
+          "notes": "OMHA 2026 Female Tournament inv - U15 div Delisle vs Hughenden   flood 2nd"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-24T11:30:00-07:00",
+          "end": "2026-01-24T13:30:00-07:00",
+          "label": "U18 GHC Inferno vs Edmonton  Flood 1st",
+          "notes": "OMHA 2026 Female Tournament inv - U18 GHC Inferno vs Edmonton  Flood 1st"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-24T13:30:00-07:00",
+          "end": "2026-01-24T15:30:00-07:00",
+          "label": "U15 div Hughenden  vs Brooks  Flood 2nd",
+          "notes": "OMHA 2026 Female Tournament inv - U15 div Hughenden  vs Brooks  Flood 2nd"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-24T15:45:00-07:00",
+          "end": "2026-01-24T17:45:00-07:00",
+          "label": "U18 Edmonton vs  Prince Albert Flood 1st",
+          "notes": "OMHA 2026 Female Tournament inv - U18 Edmonton vs  Prince Albert Flood 1st"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-24T17:45:00-07:00",
+          "end": "2026-01-24T19:45:00-07:00",
+          "label": "U15 div Brooks vs Delisle  Flood 2nd",
+          "notes": "OMHA 2026 Female Tournament inv - U15 div Brooks vs Delisle  Flood 2nd"
+        },
+        {
+          "type": "game",
+          "start": "2026-01-24T19:45:00-07:00",
+          "end": "2026-01-24T21:45:00-07:00",
+          "label": "U18 div Prince Albert vs GHC Inferno Flood 1st",
+          "notes": "OMHA 2026 Female Tournament inv - U18 div Prince Albert vs GHC Inferno Flood 1st"
         }
       ]
     }

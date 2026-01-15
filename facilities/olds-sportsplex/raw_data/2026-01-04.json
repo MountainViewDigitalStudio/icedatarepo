@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-12T09:16:38.759310Z",
+  "generated_at": "2026-01-15T16:40:03.537075Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -22,21 +22,21 @@
           "start": "2026-01-04T08:15:00-07:00",
           "end": "2026-01-04T10:30:00-07:00",
           "label": "3rd vs 4th",
-          "notes": "Grizzly U15AA Tournament - 3rd vs 4th"
+          "notes": "Grizzly U15AA Tournament inv - 3rd vs 4th"
         },
         {
           "type": "game",
           "start": "2026-01-04T10:45:00-07:00",
           "end": "2026-01-04T13:15:00-07:00",
           "label": "1st vs 2nd",
-          "notes": "Grizzly U15AA Tournament - 1st vs 2nd"
+          "notes": "Grizzly U15AA Tournament inv - 1st vs 2nd"
         },
         {
           "type": "game",
           "start": "2026-01-04T14:30:00-07:00",
           "end": "2026-01-04T17:30:00-07:00",
           "label": "Grizzlys vs Drumheller",
-          "notes": "Grizzlys 2025/26 - Grizzlys vs Drumheller"
+          "notes": "Grizzlys Jan 2026 inv - Grizzlys vs Drumheller"
         },
         {
           "type": "game",
@@ -49,29 +49,29 @@
           "type": "practice",
           "start": "2026-01-04T20:00:00-07:00",
           "end": "2026-01-04T21:30:00-07:00",
-          "label": "Wilde",
-          "notes": "Wilde"
+          "label": "Wilde Jan 2026 inv",
+          "notes": "Wilde Jan 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-01-05T06:15:00-07:00",
           "end": "2026-01-05T07:30:00-07:00",
-          "label": "Broncos Practices Jan 2026",
-          "notes": "Broncos Practices Jan 2026"
+          "label": "Broncos Practices Jan 2026 inv",
+          "notes": "Broncos Practices Jan 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-01-05T10:00:00-07:00",
           "end": "2026-01-05T11:00:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Jan 2026 inv",
+          "notes": "Grizzlys Jan 2026 inv - Practice"
         },
         {
           "type": "practice",
           "start": "2026-01-05T11:15:00-07:00",
           "end": "2026-01-05T12:15:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Jan 2026 inv",
+          "notes": "Grizzlys Jan 2026 inv - Practice"
         },
         {
           "type": "practice",
@@ -126,15 +126,15 @@
           "type": "practice",
           "start": "2026-01-06T06:15:00-07:00",
           "end": "2026-01-06T07:30:00-07:00",
-          "label": "Broncos Practices Jan 2026",
-          "notes": "Broncos Practices Jan 2026"
+          "label": "Broncos Practices Jan 2026 inv",
+          "notes": "Broncos Practices Jan 2026 inv"
         },
         {
           "type": "game",
           "start": "2026-01-06T10:00:00-07:00",
           "end": "2026-01-06T11:00:00-07:00",
           "label": "Pre- Game Skate",
-          "notes": "Grizzlys 2025/26 - Pre- Game Skate"
+          "notes": "Grizzlys Jan 2026 inv - Pre- Game Skate"
         },
         {
           "type": "practice",
@@ -155,28 +155,28 @@
           "start": "2026-01-06T18:30:00-07:00",
           "end": "2026-01-06T21:30:00-07:00",
           "label": "Grizzlys vs Devon",
-          "notes": "Grizzlys 2025/26 - Grizzlys vs Devon"
+          "notes": "Grizzlys Jan 2026 inv - Grizzlys vs Devon"
         },
         {
           "type": "practice",
           "start": "2026-01-07T06:15:00-07:00",
           "end": "2026-01-07T07:30:00-07:00",
-          "label": "Broncos Practices Jan 2026",
-          "notes": "Broncos Practices Jan 2026"
+          "label": "Broncos Practices Jan 2026 inv",
+          "notes": "Broncos Practices Jan 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-01-07T10:00:00-07:00",
           "end": "2026-01-07T11:00:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Jan 2026 inv",
+          "notes": "Grizzlys Jan 2026 inv - Practice"
         },
         {
           "type": "practice",
           "start": "2026-01-07T11:15:00-07:00",
           "end": "2026-01-07T12:15:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Jan 2026 inv",
+          "notes": "Grizzlys Jan 2026 inv - Practice"
         },
         {
           "type": "practice",
@@ -217,15 +217,15 @@
           "type": "practice",
           "start": "2026-01-08T10:00:00-07:00",
           "end": "2026-01-08T11:00:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Jan 2026 inv",
+          "notes": "Grizzlys Jan 2026 inv - Practice"
         },
         {
           "type": "practice",
           "start": "2026-01-08T11:15:00-07:00",
           "end": "2026-01-08T12:15:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Jan 2026 inv",
+          "notes": "Grizzlys Jan 2026 inv - Practice"
         },
         {
           "type": "practice",
@@ -287,36 +287,36 @@
           "type": "practice",
           "start": "2026-01-08T21:45:00-07:00",
           "end": "2026-01-08T23:15:00-07:00",
-          "label": "SIR 2025-2026",
-          "notes": "SIR 2025-2026"
+          "label": "SIR Jan 2026 inv",
+          "notes": "SIR Jan 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-01-09T07:00:00-07:00",
           "end": "2026-01-09T08:00:00-07:00",
-          "label": "Rich McDonald",
-          "notes": "Rich McDonald"
+          "label": "Rich McDonald Jan 2026 inv",
+          "notes": "Rich McDonald Jan 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-01-09T10:00:00-07:00",
           "end": "2026-01-09T11:00:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Jan 2026 inv",
+          "notes": "Grizzlys Jan 2026 inv - Practice"
         },
         {
           "type": "practice",
           "start": "2026-01-09T11:15:00-07:00",
           "end": "2026-01-09T12:15:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Jan 2026 inv",
+          "notes": "Grizzlys Jan 2026 inv - Practice"
         },
         {
           "type": "practice",
           "start": "2026-01-09T15:45:00-07:00",
           "end": "2026-01-09T17:15:00-07:00",
-          "label": "Olds Figure Skating Club Jan 2026",
-          "notes": "Olds Figure Skating Club Jan 2026"
+          "label": "Olds Figure Skating Club Jan 2026 inv",
+          "notes": "Olds Figure Skating Club Jan 2026 inv"
         },
         {
           "type": "game",
@@ -365,7 +365,7 @@
           "start": "2026-01-10T17:30:00-07:00",
           "end": "2026-01-10T20:30:00-07:00",
           "label": "Grizzlys vs Canmore",
-          "notes": "Grizzlys 2025/26 - Grizzlys vs Canmore"
+          "notes": "Grizzlys Jan 2026 inv - Grizzlys vs Canmore"
         }
       ]
     },
@@ -377,14 +377,14 @@
           "start": "2026-01-04T08:00:00-07:00",
           "end": "2026-01-04T10:15:00-07:00",
           "label": "7th vs 8th",
-          "notes": "Grizzly U15AA Tournament - 7th vs 8th"
+          "notes": "Grizzly U15AA Tournament inv - 7th vs 8th"
         },
         {
           "type": "game",
           "start": "2026-01-04T10:30:00-07:00",
           "end": "2026-01-04T12:45:00-07:00",
           "label": "5th vs 6th",
-          "notes": "Grizzly U15AA Tournament - 5th vs 6th"
+          "notes": "Grizzly U15AA Tournament inv - 5th vs 6th"
         },
         {
           "type": "game",
@@ -404,15 +404,15 @@
           "type": "practice",
           "start": "2026-01-05T15:45:00-07:00",
           "end": "2026-01-05T16:45:00-07:00",
-          "label": "Olds Figure Skating Club Jan 2026",
-          "notes": "Olds Figure Skating Club Jan 2026"
+          "label": "Olds Figure Skating Club Jan 2026 inv",
+          "notes": "Olds Figure Skating Club Jan 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-01-05T17:00:00-07:00",
           "end": "2026-01-05T19:45:00-07:00",
-          "label": "Olds Figure Skating Club Jan 2026",
-          "notes": "Olds Figure Skating Club Jan 2026"
+          "label": "Olds Figure Skating Club Jan 2026 inv",
+          "notes": "Olds Figure Skating Club Jan 2026 inv"
         },
         {
           "type": "practice",
@@ -447,7 +447,7 @@
           "start": "2026-01-06T13:30:00-07:00",
           "end": "2026-01-06T14:30:00-07:00",
           "label": "Female and male room needed",
-          "notes": "Grizzlys Academy- Deer Meadow - Female and male room needed"
+          "notes": "Grizzlys Academy- Deer Meadow jan 2026 inv - Female and male room needed"
         },
         {
           "type": "practice",
@@ -509,15 +509,15 @@
           "type": "practice",
           "start": "2026-01-07T15:45:00-07:00",
           "end": "2026-01-07T16:45:00-07:00",
-          "label": "Olds Figure Skating Club Jan 2026",
-          "notes": "Olds Figure Skating Club Jan 2026"
+          "label": "Olds Figure Skating Club Jan 2026 inv",
+          "notes": "Olds Figure Skating Club Jan 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-01-07T17:00:00-07:00",
           "end": "2026-01-07T19:45:00-07:00",
-          "label": "Olds Figure Skating Club Jan 2026",
-          "notes": "Olds Figure Skating Club Jan 2026"
+          "label": "Olds Figure Skating Club Jan 2026 inv",
+          "notes": "Olds Figure Skating Club Jan 2026 inv"
         },
         {
           "type": "practice",
@@ -530,15 +530,15 @@
           "type": "practice",
           "start": "2026-01-07T21:15:00-07:00",
           "end": "2026-01-07T22:45:00-07:00",
-          "label": "04 2025/26",
-          "notes": "04 2025/26"
+          "label": "04 Jan 2026 inv",
+          "notes": "04 Jan 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-01-08T06:45:00-07:00",
           "end": "2026-01-08T07:45:00-07:00",
-          "label": "Haaland - Hockey",
-          "notes": "Haaland - Hockey"
+          "label": "Haaland - Hockey Jan 2026 inv",
+          "notes": "Haaland - Hockey Jan 2026 inv"
         },
         {
           "type": "public_skate",
@@ -552,7 +552,7 @@
           "start": "2026-01-08T13:30:00-07:00",
           "end": "2026-01-08T14:30:00-07:00",
           "label": "Female and male room needed",
-          "notes": "Grizzlys Academy- Deer Meadow - Female and male room needed"
+          "notes": "Grizzlys Academy- Deer Meadow jan 2026 inv - Female and male room needed"
         },
         {
           "type": "practice",
@@ -600,8 +600,8 @@
           "type": "practice",
           "start": "2026-01-09T06:30:00-07:00",
           "end": "2026-01-09T07:30:00-07:00",
-          "label": "Knutson",
-          "notes": "Knutson"
+          "label": "Knutson Jan 2026 inv",
+          "notes": "Knutson Jan 2026 inv"
         },
         {
           "type": "practice",
