@@ -4,14 +4,14 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-01-18",
   "week_end": "2026-01-24",
-  "last_updated": "2026-01-12T02:16:25.397908-07:00",
+  "last_updated": "2026-01-15T09:39:58.896086-07:00",
   "slots": [
     {
       "start": "2026-01-18T09:30:00-07:00",
       "end": "2026-01-18T10:30:00-07:00",
       "type": "game",
-      "label": "U7 vs Blackfalds and U9 vs TBA",
-      "notes": "GAMES - U7 vs Blackfalds and U9 vs TBA"
+      "label": "U7 vs Blackfalds and U9 vs Carstairs",
+      "notes": "GAMES - U7 vs Blackfalds and U9 vs Carstairs"
     },
     {
       "start": "2026-01-18T10:30:00-07:00",
@@ -133,20 +133,6 @@
       "notes": "PRACTICES - Flood"
     },
     {
-      "start": "2026-01-19T21:30:00-07:00",
-      "end": "2026-01-19T22:45:00-07:00",
-      "type": "practice",
-      "label": "Hockey - PRACTICES - U18",
-      "notes": "PRACTICES - U18"
-    },
-    {
-      "start": "2026-01-19T22:45:00-07:00",
-      "end": "2026-01-19T23:00:00-07:00",
-      "type": "practice",
-      "label": "Hockey - PRACTICES - Flood",
-      "notes": "PRACTICES - Flood"
-    },
-    {
       "start": "2026-01-20T16:30:00-07:00",
       "end": "2026-01-20T17:15:00-07:00",
       "type": "practice",
@@ -187,6 +173,20 @@
       "type": "practice",
       "label": "Hockey - Practice Ice - FLOOD",
       "notes": "Practice Ice - FLOOD"
+    },
+    {
+      "start": "2026-01-20T20:45:00-07:00",
+      "end": "2026-01-20T22:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U18",
+      "notes": "PRACTICES - U18"
+    },
+    {
+      "start": "2026-01-20T22:00:00-07:00",
+      "end": "2026-01-20T22:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES",
+      "notes": "PRACTICES"
     },
     {
       "start": "2026-01-21T15:45:00-07:00",
@@ -369,6 +369,13 @@
       "type": "game",
       "label": "U13 Tournament - Camrose vs Sherwood Park Snipe Squad",
       "notes": "U13 Tournament - Camrose vs Sherwood Park Snipe Squad"
+    },
+    {
+      "start": "2026-01-24T11:00:00-07:00",
+      "end": "2026-01-24T14:25:00-07:00",
+      "type": "other",
+      "label": "hall rental",
+      "notes": "hall rental"
     },
     {
       "start": "2026-01-24T12:15:00-07:00",

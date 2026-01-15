@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-01-25",
   "week_end": "2026-01-31",
-  "last_updated": "2026-01-12T02:16:25.636416-07:00",
+  "last_updated": "2026-01-15T09:39:59.104062-07:00",
   "slots": [
     {
       "start": "2026-01-25T09:00:00-07:00",
@@ -315,22 +315,183 @@
       "notes": "Mens Hockey - Flood"
     },
     {
+      "start": "2026-01-30T11:45:00-07:00",
+      "end": "2026-01-30T13:45:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Skating"
+    },
+    {
       "start": "2026-01-30T14:00:00-07:00",
-      "end": "2026-01-30T21:00:00-07:00",
+      "end": "2026-01-30T15:15:00-07:00",
+      "type": "game",
+      "label": "U11 - 1 Tournament - Sylvan Lake C vs Sherwood Park",
+      "notes": "U11 - 1 Tournament - Sylvan Lake C vs Sherwood Park"
+    },
+    {
+      "start": "2026-01-30T15:15:00-07:00",
+      "end": "2026-01-30T15:30:00-07:00",
       "type": "other",
       "label": "U11 - 1 Tournament",
       "notes": "U11 - 1 Tournament"
     },
     {
-      "start": "2026-01-31T09:00:00-07:00",
-      "end": "2026-01-31T21:00:00-07:00",
+      "start": "2026-01-30T15:30:00-07:00",
+      "end": "2026-01-30T16:45:00-07:00",
+      "type": "game",
+      "label": "U11 - 1 Tournament - Strathmore B vs Knights White",
+      "notes": "U11 - 1 Tournament - Strathmore B vs Knights White"
+    },
+    {
+      "start": "2026-01-30T16:45:00-07:00",
+      "end": "2026-01-30T17:00:00-07:00",
       "type": "other",
-      "label": "Community Hall U11 Tournament",
-      "notes": "Community Hall U11 Tournament"
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament"
+    },
+    {
+      "start": "2026-01-30T17:00:00-07:00",
+      "end": "2026-01-30T18:15:00-07:00",
+      "type": "game",
+      "label": "U11 - 1 Tournament - West Country C vs Inferno Charge",
+      "notes": "U11 - 1 Tournament - West Country C vs Inferno Charge"
+    },
+    {
+      "start": "2026-01-30T18:15:00-07:00",
+      "end": "2026-01-30T18:30:00-07:00",
+      "type": "other",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament"
+    },
+    {
+      "start": "2026-01-30T18:30:00-07:00",
+      "end": "2026-01-30T19:45:00-07:00",
+      "type": "game",
+      "label": "U11 - 1 Tournament - Beaumont vs Didsbury B",
+      "notes": "U11 - 1 Tournament - Beaumont vs Didsbury B"
+    },
+    {
+      "start": "2026-01-30T19:45:00-07:00",
+      "end": "2026-01-30T20:00:00-07:00",
+      "type": "other",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament"
+    },
+    {
+      "start": "2026-01-31T08:30:00-07:00",
+      "end": "2026-01-31T09:45:00-07:00",
+      "type": "game",
+      "label": "U11 - 1 Tournament - Didsbury A vs Elk Point",
+      "notes": "U11 - 1 Tournament - Didsbury A vs Elk Point"
     },
     {
       "start": "2026-01-31T09:00:00-07:00",
       "end": "2026-01-31T21:00:00-07:00",
+      "type": "other",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament"
+    },
+    {
+      "start": "2026-01-31T09:45:00-07:00",
+      "end": "2026-01-31T10:00:00-07:00",
+      "type": "other",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament"
+    },
+    {
+      "start": "2026-01-31T10:00:00-07:00",
+      "end": "2026-01-31T11:15:00-07:00",
+      "type": "game",
+      "label": "U11 - 1 Tournament - West Country A vs Millwoods",
+      "notes": "U11 - 1 Tournament - West Country A vs Millwoods"
+    },
+    {
+      "start": "2026-01-31T11:15:00-07:00",
+      "end": "2026-01-31T11:30:00-07:00",
+      "type": "other",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament"
+    },
+    {
+      "start": "2026-01-31T11:30:00-07:00",
+      "end": "2026-01-31T12:45:00-07:00",
+      "type": "game",
+      "label": "U11 - 1 Tournament - Red Deer RCM vs Southwest Gold",
+      "notes": "U11 - 1 Tournament - Red Deer RCM vs Southwest Gold"
+    },
+    {
+      "start": "2026-01-31T12:45:00-07:00",
+      "end": "2026-01-31T13:00:00-07:00",
+      "type": "other",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament"
+    },
+    {
+      "start": "2026-01-31T13:00:00-07:00",
+      "end": "2026-01-31T14:15:00-07:00",
+      "type": "game",
+      "label": "U11 - 1 Tournament - West Country B vs Wolverines Blue",
+      "notes": "U11 - 1 Tournament - West Country B vs Wolverines Blue"
+    },
+    {
+      "start": "2026-01-31T14:15:00-07:00",
+      "end": "2026-01-31T14:30:00-07:00",
+      "type": "other",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament"
+    },
+    {
+      "start": "2026-01-31T14:30:00-07:00",
+      "end": "2026-01-31T15:45:00-07:00",
+      "type": "game",
+      "label": "U11 - 1 Tournament - Strathmore B vs Sylvan Lake C",
+      "notes": "U11 - 1 Tournament - Strathmore B vs Sylvan Lake C"
+    },
+    {
+      "start": "2026-01-31T15:45:00-07:00",
+      "end": "2026-01-31T16:00:00-07:00",
+      "type": "other",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament"
+    },
+    {
+      "start": "2026-01-31T16:00:00-07:00",
+      "end": "2026-01-31T17:15:00-07:00",
+      "type": "game",
+      "label": "U11 - 1 Tournament - Knights White vs Sherwood Park",
+      "notes": "U11 - 1 Tournament - Knights White vs Sherwood Park"
+    },
+    {
+      "start": "2026-01-31T17:15:00-07:00",
+      "end": "2026-01-31T17:30:00-07:00",
+      "type": "other",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament"
+    },
+    {
+      "start": "2026-01-31T17:30:00-07:00",
+      "end": "2026-01-31T18:45:00-07:00",
+      "type": "game",
+      "label": "U11 - 1 Tournament - Beaumont vs West Country C",
+      "notes": "U11 - 1 Tournament - Beaumont vs West Country C"
+    },
+    {
+      "start": "2026-01-31T18:45:00-07:00",
+      "end": "2026-01-31T19:00:00-07:00",
+      "type": "other",
+      "label": "U11 - 1 Tournament",
+      "notes": "U11 - 1 Tournament"
+    },
+    {
+      "start": "2026-01-31T19:00:00-07:00",
+      "end": "2026-01-31T20:15:00-07:00",
+      "type": "game",
+      "label": "U11 - 1 Tournament - Didsbury B vs Inferno Charge",
+      "notes": "U11 - 1 Tournament - Didsbury B vs Inferno Charge"
+    },
+    {
+      "start": "2026-01-31T20:15:00-07:00",
+      "end": "2026-01-31T20:30:00-07:00",
       "type": "other",
       "label": "U11 - 1 Tournament",
       "notes": "U11 - 1 Tournament"
