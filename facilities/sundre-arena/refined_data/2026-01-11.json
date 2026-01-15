@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-15T22:52:42.664916Z",
+  "generated_at": "2026-01-15T23:04:23.929372Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena"
@@ -25,6 +25,321 @@
       "end": "2026-01-11T22:00:00",
       "label": "Mens Hockey- Ice Men's vs Cremona Chiefs",
       "notes": "8:45 PM - 10:00 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-12T16:30:00",
+      "end": "2026-01-12T17:20:00",
+      "label": "SMH - Practice U9",
+      "notes": "4:30 PM - 5:20 PM",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-12T17:30:00",
+      "end": "2026-01-12T18:20:00",
+      "label": "SMH - Practice U11",
+      "notes": "5:30 PM - 6:20 PM",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-12T18:30:00",
+      "end": "2026-01-12T19:20:00",
+      "label": "SMH- Practice U13",
+      "notes": "6:30 PM - 7:20 PM",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-12T19:30:00",
+      "end": "2026-01-12T20:20:00",
+      "label": "SMH - Practice U15",
+      "notes": "7:30 PM - 8:20 PM",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-12T20:30:00",
+      "end": "2026-01-12T21:20:00",
+      "label": "SMH - Practice U18",
+      "notes": "8:30 PM - 9:20 PM",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-12T21:30:00",
+      "end": "2026-01-12T23:00:00",
+      "label": "Mens Hockey- Bombers",
+      "notes": "9:30 PM - 11:00 PM",
+      "color": "#F59E0B",
+      "type_display": "Adult Rec Hockey"
+    },
+    {
+      "type": "shinny",
+      "start": "2026-01-13T13:00:00",
+      "end": "2026-01-13T14:45:00",
+      "label": "Adult Shinny",
+      "notes": "1:00 PM - 2:45 PM",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "type": "shinny",
+      "start": "2026-01-13T15:00:00",
+      "end": "2026-01-13T16:30:00",
+      "label": "Sticks N Pucks",
+      "notes": "3:00 PM - 4:30 PM",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-13T16:30:00",
+      "end": "2026-01-13T17:20:00",
+      "label": "SMH - Practice U7",
+      "notes": "4:30 PM - 5:20 PM",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "type": "skating_club",
+      "start": "2026-01-13T17:30:00",
+      "end": "2026-01-13T18:30:00",
+      "label": "Sundre Skating Club Learn to Skate",
+      "notes": "5:30 PM - 6:30 PM",
+      "color": "#06B6D4",
+      "type_display": "Skating Club / Programs"
+    },
+    {
+      "type": "skating_club",
+      "start": "2026-01-13T18:40:00",
+      "end": "2026-01-13T20:00:00",
+      "label": "Sundre Skating Club Star Skate",
+      "notes": "6:40 PM - 8:00 PM",
+      "color": "#06B6D4",
+      "type_display": "Skating Club / Programs"
+    },
+    {
+      "type": "public",
+      "start": "2026-01-14T13:00:00",
+      "end": "2026-01-14T14:45:00",
+      "label": "Adult Public Skating",
+      "notes": "1:00 PM - 2:45 PM",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "type": "public",
+      "start": "2026-01-14T15:00:00",
+      "end": "2026-01-14T16:30:00",
+      "label": "Public Skating",
+      "notes": "3:00 PM - 4:30 PM",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-14T16:30:00",
+      "end": "2026-01-14T17:20:00",
+      "label": "SMH- Practice U9",
+      "notes": "4:30 PM - 5:20 PM",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-14T17:30:00",
+      "end": "2026-01-14T18:20:00",
+      "label": "SMH- Practice U11",
+      "notes": "5:30 PM - 6:20 PM",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-14T18:30:00",
+      "end": "2026-01-14T19:20:00",
+      "label": "SMH- Practice U13",
+      "notes": "6:30 PM - 7:20 PM",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-14T19:30:00",
+      "end": "2026-01-14T20:20:00",
+      "label": "SMH- Practice U15",
+      "notes": "7:30 PM - 8:20 PM",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-14T20:30:00",
+      "end": "2026-01-14T21:20:00",
+      "label": "SMH- Practice U18",
+      "notes": "8:30 PM - 9:20 PM",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "type": "maintenance",
+      "start": "2026-01-15T07:00:00",
+      "end": "2026-01-15T12:00:00",
+      "label": "Ice Maintenance",
+      "notes": "7:00 AM - 12:00 PM",
+      "color": "#6B7280",
+      "type_display": "Maintenance"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-15T15:30:00",
+      "end": "2026-01-15T17:00:00",
+      "label": "Rec Hockey",
+      "notes": "3:30 PM - 5:00 PM",
+      "color": "#F59E0B",
+      "type_display": "Adult Rec Hockey"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-15T17:00:00",
+      "end": "2026-01-15T17:50:00",
+      "label": "SMH-Practice U7",
+      "notes": "5:00 PM - 5:50 PM",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "type": "skating_club",
+      "start": "2026-01-15T18:00:00",
+      "end": "2026-01-15T20:00:00",
+      "label": "Sundre Skating Club Star Skate",
+      "notes": "6:00 PM - 8:00 PM",
+      "color": "#06B6D4",
+      "type_display": "Skating Club / Programs"
+    },
+    {
+      "type": "games",
+      "start": "2026-01-15T20:00:00",
+      "end": "2026-01-15T21:30:00",
+      "label": "Men's Hockey- Rhinos vs Olds Panthers",
+      "notes": "8:00 PM - 9:30 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "rentals",
+      "start": "2026-01-16T16:00:00",
+      "end": "2026-01-16T16:00:00",
+      "label": "Clubroom Private Function (AR), 4pm",
+      "notes": "4:00 PM - 4:00 PM",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "type": "rentals",
+      "start": "2026-01-16T16:00:00",
+      "end": "2026-01-16T22:00:00",
+      "label": "Clubroom Private Function",
+      "notes": "4:00 PM - 10:00 PM",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "type": "games",
+      "start": "2026-01-16T17:00:00",
+      "end": "2026-01-16T19:00:00",
+      "label": "SMH Game- Sundre vs Claresholm",
+      "notes": "5:00 PM - 7:00 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "games",
+      "start": "2026-01-16T19:15:00",
+      "end": "2026-01-16T21:15:00",
+      "label": "SMH Game- Airdrie vs West 39",
+      "notes": "7:15 PM - 9:15 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "rentals",
+      "start": "2026-01-17T09:00:00",
+      "end": "2026-01-17T23:00:00",
+      "label": "Clubroom Private Function",
+      "notes": "9:00 AM - 11:00 PM",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "type": "skating_club",
+      "start": "2026-01-17T20:00:00",
+      "end": "2026-01-17T14:00:00",
+      "label": "Sundre Skating Club",
+      "notes": "8:00 PM - 2:00 PM",
+      "color": "#06B6D4",
+      "type_display": "Skating Club / Programs"
+    },
+    {
+      "type": "games",
+      "start": "2026-01-17T09:15:00",
+      "end": "2026-01-17T11:15:00",
+      "label": "SMH Game - New Sarepta vs CNN",
+      "notes": "9:15 AM - 11:15 AM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "games",
+      "start": "2026-01-17T11:30:00",
+      "end": "2026-01-17T13:30:00",
+      "label": "SMH Game - Beisker vs Red Water",
+      "notes": "11:30 AM - 1:30 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "games",
+      "start": "2026-01-17T13:45:00",
+      "end": "2026-01-17T15:45:00",
+      "label": "SMH Game- W to BS L to D1",
+      "notes": "1:45 PM - 3:45 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "games",
+      "start": "2026-01-17T16:00:00",
+      "end": "2026-01-17T18:00:00",
+      "label": "SMH Game- L to C1",
+      "notes": "4:00 PM - 6:00 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "games",
+      "start": "2026-01-17T18:15:00",
+      "end": "2026-01-17T20:15:00",
+      "label": "SMH Game- W to B6 L to D2",
+      "notes": "6:15 PM - 8:15 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "games",
+      "start": "2026-01-17T20:30:00",
+      "end": "2026-01-17T22:30:00",
+      "label": "SMH Game- L to C2",
+      "notes": "8:30 PM - 10:30 PM",
       "color": "#EF4444",
       "type_display": "Games"
     }
