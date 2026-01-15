@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-15T16:40:03.537075Z",
+  "generated_at": "2026-01-15T22:05:34.891724Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -133,36 +133,36 @@
           "type": "practice",
           "start": "2026-01-27T16:00:00-07:00",
           "end": "2026-01-27T16:45:00-07:00",
-          "label": "U9C Yellow U9C Black",
-          "notes": "OMHA Jan 2026 - U9C Yellow U9C Black"
+          "label": "U7 Black/ Yellow/Red",
+          "notes": "OMHA Jan 2026 - U7 Black/ Yellow/Red"
         },
         {
           "type": "practice",
           "start": "2026-01-27T16:45:00-07:00",
           "end": "2026-01-27T17:45:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U13A",
+          "notes": "OMHA Jan 2026 - U13A"
         },
         {
           "type": "practice",
           "start": "2026-01-27T18:00:00-07:00",
           "end": "2026-01-27T19:00:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U13B",
+          "notes": "OMHA Jan 2026 - U13B"
         },
         {
           "type": "practice",
           "start": "2026-01-27T19:15:00-07:00",
           "end": "2026-01-27T20:15:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U15 fem",
+          "notes": "OMHA Jan 2026 - U15 fem"
         },
         {
           "type": "practice",
           "start": "2026-01-27T20:30:00-07:00",
           "end": "2026-01-27T21:30:00-07:00",
-          "label": "OMHA Jan 2026",
-          "notes": "OMHA Jan 2026"
+          "label": "U18 A",
+          "notes": "OMHA Jan 2026 - U18 A"
         },
         {
           "type": "practice",
@@ -530,8 +530,8 @@
           "type": "practice",
           "start": "2026-01-29T16:00:00-07:00",
           "end": "2026-01-29T16:45:00-07:00",
-          "label": "U9A U9B",
-          "notes": "OMHA Jan 2026 - U9A U9B"
+          "label": "U9C Yellow U9C Black",
+          "notes": "OMHA Jan 2026 - U9C Yellow U9C Black"
         },
         {
           "type": "practice",
@@ -604,11 +604,18 @@
           "notes": "OMHA Jan 2026 - U7 Red U7 Black"
         },
         {
+          "type": "practice",
+          "start": "2026-01-30T16:45:00-07:00",
+          "end": "2026-01-30T17:30:00-07:00",
+          "label": "U7 Yellow U9C Yellow",
+          "notes": "OMHA Jan 2026 - U7 Yellow U9C Yellow"
+        },
+        {
           "type": "game",
           "start": "2026-01-30T17:45:00-07:00",
           "end": "2026-01-30T19:45:00-07:00",
-          "label": "U11A vs Airdire",
-          "notes": "OMHA Jan 2026 - U11A vs Airdire"
+          "label": "U11A vs Airdrie",
+          "notes": "OMHA Jan 2026 - U11A vs Airdrie"
         },
         {
           "type": "game",
