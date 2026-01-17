@@ -1,0 +1,326 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-01-17T01:13:18.592208Z",
+  "facility": {
+    "id": "sundre-arena",
+    "name": "Sundre Arena",
+    "city": "Sundre",
+    "address": "Sundre Arena#1, 101-2 Avenue NW",
+    "source_url": "https://www.sundre.com/p/arena"
+  },
+  "week": {
+    "start_date": "2026-01-19",
+    "end_date": "2026-01-25",
+    "sunday": "2026-01-18"
+  },
+  "slots": [
+    {
+      "type": "maintenance",
+      "start": "2026-01-22T07:00:00",
+      "end": "2026-01-22T12:00:00",
+      "label": "Ice Maintenance",
+      "notes": "7:00 AM - 12:00 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": "2026-01-24T08:00:00",
+      "end": "2026-01-24T09:00:00",
+      "label": "Sundre Skating Club",
+      "notes": "8:00 AM - 9:00 AM"
+    },
+    {
+      "type": "game",
+      "start": "2026-01-25T08:15:00",
+      "end": "2026-01-25T09:30:00",
+      "label": "SMH-Game U7 Black",
+      "notes": "8:15 AM - 9:30 AM"
+    },
+    {
+      "type": "skating_club",
+      "start": "2026-01-24T09:00:00",
+      "end": "2026-01-24T10:00:00",
+      "label": "Sundre Skating Club",
+      "notes": "9:00 AM - 10:00 AM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-24T09:15:00",
+      "end": "2026-01-24T10:55:00",
+      "label": "SMH U11",
+      "notes": "9:15 AM - 10:55 AM"
+    },
+    {
+      "type": "game",
+      "start": "2026-01-25T09:45:00",
+      "end": "2026-01-25T11:00:00",
+      "label": "SMH-Game U7 White",
+      "notes": "9:45 AM - 11:00 AM"
+    },
+    {
+      "type": "game",
+      "start": "2026-01-25T11:10:00",
+      "end": "2026-01-25T12:25:00",
+      "label": "SMH-Game U9B",
+      "notes": "11:10 AM - 12:25 PM"
+    },
+    {
+      "type": "shinny",
+      "start": "2026-01-20T13:00:00",
+      "end": "2026-01-20T14:45:00",
+      "label": "Adult Shinny",
+      "notes": "1:00 PM - 2:45 PM"
+    },
+    {
+      "type": "public_skate",
+      "start": "2026-01-21T13:00:00",
+      "end": "2026-01-21T14:45:00",
+      "label": "Adult Public Skating",
+      "notes": "1:00 PM - 2:45 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-24T12:00:00",
+      "end": "2026-01-24T13:30:00",
+      "label": "Rec Hockey U8",
+      "notes": "12:00 PM - 1:30 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-01-25T12:35:00",
+      "end": "2026-01-25T13:50:00",
+      "label": "SMH-Game U9W",
+      "notes": "12:35 PM - 1:50 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-24T13:30:00",
+      "end": "2026-01-24T15:00:00",
+      "label": "Rec U11 vs Sylvan",
+      "notes": "1:30 PM - 3:00 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-01-25T14:00:00",
+      "end": "2026-01-25T16:50:00",
+      "label": "SMH-Game U11",
+      "notes": "2:00 PM - 4:50 PM"
+    },
+    {
+      "type": "stick_and_puck",
+      "start": "2026-01-20T15:00:00",
+      "end": "2026-01-20T16:00:00",
+      "label": "Sticks N Pucks",
+      "notes": "3:00 PM - 4:00 PM"
+    },
+    {
+      "type": "public_skate",
+      "start": "2026-01-21T15:00:00",
+      "end": "2026-01-21T16:20:00",
+      "label": "Public Skating",
+      "notes": "3:00 PM - 4:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-23T14:00:00",
+      "end": "2026-01-23T15:00:00",
+      "label": "High School- Ice Time (WHITE CONTRA",
+      "notes": "2:00 PM - 3:00 PM"
+    },
+    {
+      "type": "stick_and_puck",
+      "start": "2026-01-23T15:00:00",
+      "end": "2026-01-23T16:00:00",
+      "label": "Sticks N Pucks",
+      "notes": "3:00 PM - 4:00 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-22T15:30:00",
+      "end": "2026-01-22T17:00:00",
+      "label": "Rec Hockey",
+      "notes": "3:30 PM - 5:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-24T15:00:00",
+      "end": "2026-01-24T16:30:00",
+      "label": "Rec U15 Red vs Sylvan Purple",
+      "notes": "3:00 PM - 4:30 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-01-25T16:00:00",
+      "end": "2026-01-25T17:50:00",
+      "label": "SMH-Game U13",
+      "notes": "4:00 PM - 5:50 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-19T16:30:00",
+      "end": "2026-01-19T17:20:00",
+      "label": "SMH- Practice U9",
+      "notes": "4:30 PM - 5:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-20T16:30:00",
+      "end": "2026-01-20T17:20:00",
+      "label": "SMH-Practice U7",
+      "notes": "4:30 PM - 5:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-21T16:30:00",
+      "end": "2026-01-21T17:20:00",
+      "label": "SMH- Practice U9",
+      "notes": "4:30 PM - 5:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-23T16:15:00",
+      "end": "2026-01-23T17:15:00",
+      "label": "SMH- U9",
+      "notes": "4:15 PM - 5:15 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-24T16:30:00",
+      "end": "2026-01-24T17:30:00",
+      "label": "Rec U15 vs Didsbury",
+      "notes": "4:30 PM - 5:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-22T17:00:00",
+      "end": "2026-01-22T17:50:00",
+      "label": "SMH-Practice U7",
+      "notes": "5:00 PM - 5:50 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-19T17:30:00",
+      "end": "2026-01-19T18:20:00",
+      "label": "SMH- Practice U11",
+      "notes": "5:30 PM - 6:20 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": "2026-01-20T17:30:00",
+      "end": "2026-01-20T18:30:00",
+      "label": "Sundre Skating Club Learn to Skate",
+      "notes": "5:30 PM - 6:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-21T17:30:00",
+      "end": "2026-01-21T18:20:00",
+      "label": "SMH- Practice U11",
+      "notes": "5:30 PM - 6:20 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-23T17:30:00",
+      "end": "2026-01-23T18:20:00",
+      "label": "Rec Hockey",
+      "notes": "5:30 PM - 6:20 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": "2026-01-22T18:00:00",
+      "end": "2026-01-22T20:00:00",
+      "label": "Sundre Skating Club Star Skate",
+      "notes": "6:00 PM - 8:00 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-01-24T18:00:00",
+      "end": "2026-01-24T20:20:00",
+      "label": "SMH-Game U15",
+      "notes": "6:00 PM - 8:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-19T18:30:00",
+      "end": "2026-01-19T19:20:00",
+      "label": "SMH- Practice U13",
+      "notes": "6:30 PM - 7:20 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": "2026-01-20T18:30:00",
+      "end": "2026-01-20T20:00:00",
+      "label": "Sundre Skating Club Star Skate",
+      "notes": "6:30 PM - 8:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-21T18:30:00",
+      "end": "2026-01-21T19:20:00",
+      "label": "SMH- Practice U13",
+      "notes": "6:30 PM - 7:20 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-01-23T18:30:00",
+      "end": "2026-01-23T21:20:00",
+      "label": "SMH-Game U18",
+      "notes": "6:30 PM - 9:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-23T18:30:00",
+      "end": "2026-01-23T22:00:00",
+      "label": "Clubroom Private Function (AR)",
+      "notes": "6:30 PM - 10:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-19T19:30:00",
+      "end": "2026-01-19T20:20:00",
+      "label": "SMH- Practice U15",
+      "notes": "7:30 PM - 8:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-21T19:30:00",
+      "end": "2026-01-21T20:20:00",
+      "label": "SMH- Practice U15",
+      "notes": "7:30 PM - 8:20 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-20T20:00:00",
+      "end": "2026-01-20T21:30:00",
+      "label": "Woman's Hockey- Shooters",
+      "notes": "8:00 PM - 9:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-19T20:30:00",
+      "end": "2026-01-19T21:20:00",
+      "label": "SMH-Practice U18",
+      "notes": "8:30 PM - 9:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-21T20:30:00",
+      "end": "2026-01-21T21:20:00",
+      "label": "SMH-Practice U18",
+      "notes": "8:30 PM - 9:20 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-25T20:00:00",
+      "end": "2026-01-25T21:30:00",
+      "label": "Mens Hockey- Ice Men's vs Rams",
+      "notes": "8:00 PM - 9:30 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-19T21:30:00",
+      "end": "2026-01-19T23:00:00",
+      "label": "Mens Hockey- Bombers",
+      "notes": "9:30 PM - 11:00 PM"
+    }
+  ]
+}
