@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-15T23:04:23.965066Z",
+  "generated_at": "2026-01-17T01:14:04.555120Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -498,13 +498,13 @@
           "type_display": "Other"
         },
         {
-          "type": "shinny",
-          "start": "2026-01-26T12:00:00-07:00",
-          "end": "2026-01-26T13:00:00-07:00",
-          "label": "Sticks and Pucks",
-          "notes": "Sticks and Pucks",
-          "color": "#3B82F6",
-          "type_display": "Shinny / Stick & Puck"
+          "type": "maintenance",
+          "start": "2026-01-26T07:30:00-07:00",
+          "end": "2026-01-26T15:30:00-07:00",
+          "label": "Closed for Maintenance",
+          "notes": "Closed for Maintenance",
+          "color": "#6B7280",
+          "type_display": "Maintenance"
         },
         {
           "type": "skating_club",
