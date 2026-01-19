@@ -16,15 +16,15 @@
       "start_date": "2026-01-12",
       "end_date": "2026-01-18",
       "file": "2026-01-11.json",
-      "is_current": true
+      "is_current": false
     },
     {
       "sunday": "2026-01-18",
       "start_date": "2026-01-19",
       "end_date": "2026-01-25",
       "file": "2026-01-18.json",
-      "is_current": false
+      "is_current": true
     }
   ],
-  "generated_at": "2026-01-17T01:13:18.592208Z"
+  "generated_at": "2026-01-19T09:19:28.634337Z"
 }

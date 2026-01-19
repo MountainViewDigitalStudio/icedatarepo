@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-17T01:13:18.592208Z",
+  "generated_at": "2026-01-19T09:19:28.634337Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena",
@@ -169,18 +169,18 @@
       "notes": "4:30 PM - 5:20 PM"
     },
     {
-      "type": "game",
-      "start": "2026-01-16T17:00:00",
-      "end": "2026-01-16T19:00:00",
-      "label": "SMH Game - Sundre vs Claresholm",
-      "notes": "5:00 PM - 7:00 PM"
-    },
-    {
       "type": "practice",
       "start": "2026-01-15T17:00:00",
       "end": "2026-01-15T17:50:00",
       "label": "SMH - Practice U7",
       "notes": "5:00 PM - 5:50 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-01-16T17:00:00",
+      "end": "2026-01-16T19:00:00",
+      "label": "SMH Game - Sundre vs Claresholm",
+      "notes": "5:00 PM - 7:00 PM"
     },
     {
       "type": "practice",
@@ -190,18 +190,18 @@
       "notes": "5:30 PM - 6:20 PM"
     },
     {
-      "type": "practice",
-      "start": "2026-01-14T17:30:00",
-      "end": "2026-01-14T18:20:00",
-      "label": "SMH - Practice U11",
-      "notes": "5:30 PM - 6:20 PM"
-    },
-    {
       "type": "skating_club",
       "start": "2026-01-13T17:30:00",
       "end": "2026-01-13T18:30:00",
       "label": "Sundre Skating Club Learn to Skate",
       "notes": "5:30 PM - 6:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-14T17:30:00",
+      "end": "2026-01-14T18:20:00",
+      "label": "SMH - Practice U11",
+      "notes": "5:30 PM - 6:20 PM"
     },
     {
       "type": "skating_club",
@@ -232,18 +232,18 @@
       "notes": "6:30 PM - 7:20 PM"
     },
     {
+      "type": "skating_club",
+      "start": "2026-01-13T18:40:00",
+      "end": "2026-01-13T20:00:00",
+      "label": "Sundre Skating Club Star Skate",
+      "notes": "6:40 PM - 8:00 PM"
+    },
+    {
       "type": "practice",
       "start": "2026-01-14T18:30:00",
       "end": "2026-01-14T19:20:00",
       "label": "SMH - Practice U13",
       "notes": "6:30 PM - 7:20 PM"
-    },
-    {
-      "type": "skating_club",
-      "start": "2026-01-13T18:30:00",
-      "end": "2026-01-13T20:00:00",
-      "label": "Sundre Skating Club Star Skate",
-      "notes": "6:30 PM - 8:00 PM"
     },
     {
       "type": "game",
