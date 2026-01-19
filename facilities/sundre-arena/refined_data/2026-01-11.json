@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-17T01:14:04.536938Z",
+  "generated_at": "2026-01-19T09:20:43.530771Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena"
@@ -120,10 +120,10 @@
     },
     {
       "type": "skating_club",
-      "start": "2026-01-13T18:30:00",
+      "start": "2026-01-13T18:40:00",
       "end": "2026-01-13T20:00:00",
       "label": "Sundre Skating Club Star Skate",
-      "notes": "6:30 PM - 8:00 PM",
+      "notes": "6:40 PM - 8:00 PM",
       "color": "#06B6D4",
       "type_display": "Skating Club / Programs"
     },

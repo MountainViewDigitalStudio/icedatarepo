@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-17T01:14:04.626980Z",
+  "generated_at": "2026-01-19T09:20:43.623595Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
@@ -21,8 +21,7 @@
       "label": "Maintenance",
       "notes": "U9 Tournament - Flood & Puck Toss",
       "color": "#3B82F6",
-      "type_display": "Shinny / Stick & Puck",
-      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+      "type_display": "Shinny / Stick & Puck"
     },
     {
       "facility_id": "olds-sportsplex",
@@ -46,8 +45,7 @@
       "label": "Public Skating",
       "notes": "Public Skating",
       "color": "#10B981",
-      "type_display": "Public / Family",
-      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+      "type_display": "Public / Family"
     },
     {
       "facility_id": "kurt-browning-arena",
@@ -59,8 +57,7 @@
       "label": "Public Skating",
       "notes": "Public Skating - FLOOD",
       "color": "#10B981",
-      "type_display": "Public / Family",
-      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+      "type_display": "Public / Family"
     },
     {
       "facility_id": "olds-sportsplex",
@@ -132,8 +129,7 @@
       "label": "Hockey - Mens Hockey- Mighty Pucks",
       "notes": "Mens Hockey- Mighty Pucks",
       "color": "#3B82F6",
-      "type_display": "Shinny / Stick & Puck",
-      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+      "type_display": "Shinny / Stick & Puck"
     },
     {
       "facility_id": "kurt-browning-arena",
@@ -145,8 +141,7 @@
       "label": "Hockey - Mens Hockey- Mighty Pucks - Flood",
       "notes": "Mens Hockey- Mighty Pucks - Flood",
       "color": "#3B82F6",
-      "type_display": "Shinny / Stick & Puck",
-      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+      "type_display": "Shinny / Stick & Puck"
     },
     {
       "facility_id": "olds-sportsplex",
@@ -218,8 +213,7 @@
       "label": "Sticks & Pucks",
       "notes": "Sticks & Pucks",
       "color": "#3B82F6",
-      "type_display": "Shinny / Stick & Puck",
-      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+      "type_display": "Shinny / Stick & Puck"
     },
     {
       "facility_id": "kurt-browning-arena",
@@ -231,8 +225,7 @@
       "label": "Maintenance",
       "notes": "Sticks & Pucks - FLOOD",
       "color": "#3B82F6",
-      "type_display": "Shinny / Stick & Puck",
-      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+      "type_display": "Shinny / Stick & Puck"
     }
   ]
 }

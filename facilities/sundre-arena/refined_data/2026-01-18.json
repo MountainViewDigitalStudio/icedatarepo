@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-17T01:14:04.537502Z",
+  "generated_at": "2026-01-19T09:20:43.531337Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena"
@@ -113,7 +113,7 @@
       "type": "practice",
       "start": "2026-01-19T20:30:00",
       "end": "2026-01-19T21:20:00",
-      "label": "SMH-Practice U18",
+      "label": "SMH- Practice U18",
       "notes": "8:30 PM - 9:20 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
@@ -239,7 +239,7 @@
       "type": "practice",
       "start": "2026-01-21T20:30:00",
       "end": "2026-01-21T21:20:00",
-      "label": "SMH-Practice U18",
+      "label": "SMH- Practice U18",
       "notes": "8:30 PM - 9:20 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
@@ -301,9 +301,9 @@
     {
       "type": "practice",
       "start": "2026-01-23T16:15:00",
-      "end": "2026-01-23T17:15:00",
+      "end": "2026-01-23T17:10:00",
       "label": "SMH- U9",
-      "notes": "4:15 PM - 5:15 PM",
+      "notes": "4:15 PM - 5:10 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
     },
@@ -318,10 +318,10 @@
     },
     {
       "type": "games",
-      "start": "2026-01-23T18:30:00",
+      "start": "2026-01-23T19:00:00",
       "end": "2026-01-23T21:20:00",
       "label": "SMH-Game U18",
-      "notes": "6:30 PM - 9:20 PM",
+      "notes": "7:00 PM - 9:20 PM",
       "color": "#EF4444",
       "type_display": "Games"
     },
