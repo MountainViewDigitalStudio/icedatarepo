@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-19T09:20:43.532941Z",
+  "generated_at": "2026-01-26T09:21:21.358014Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena"
@@ -9,5 +9,60 @@
     "start_date": "2026-02-01",
     "end_date": "2026-02-07"
   },
-  "slots": []
+  "slots": [
+    {
+      "type": "games",
+      "start": "2026-02-01T08:30:00",
+      "end": "2026-02-01T09:50:00",
+      "label": "Rec Hockey- U11 Cremona vs Sundre",
+      "notes": "8:30 AM - 9:50 AM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "games",
+      "start": "2026-02-01T10:10:00",
+      "end": "2026-02-01T11:20:00",
+      "label": "Rec Hockey- U8 Cochrane vs Sundre",
+      "notes": "10:10 AM - 11:20 AM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "games",
+      "start": "2026-02-01T11:40:00",
+      "end": "2026-02-01T13:00:00",
+      "label": "Rec Hockey- U15 Cochrane vs Blue",
+      "notes": "11:40 AM - 1:00 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "games",
+      "start": "2026-02-01T13:10:00",
+      "end": "2026-02-01T14:30:00",
+      "label": "Rec Hockey- U15 Mules vs Cremona",
+      "notes": "1:10 PM - 2:30 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "games",
+      "start": "2026-02-01T16:00:00",
+      "end": "2026-02-01T17:50:00",
+      "label": "SMH-Game U13",
+      "notes": "4:00 PM - 5:50 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "games",
+      "start": "2026-02-01T20:00:00",
+      "end": "2026-02-01T21:30:00",
+      "label": "Mens Hockey- Ice Men's vs Bowden Bandits",
+      "notes": "8:00 PM - 9:30 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    }
+  ]
 }

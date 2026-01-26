@@ -1,0 +1,926 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-01-26T09:21:21.378780Z",
+  "facility": {
+    "id": "olds-sportsplex",
+    "name": "Olds Sportsplex",
+    "city": "Olds",
+    "address": "5133 52 St, Olds, AB"
+  },
+  "week": {
+    "start_date": "2026-02-08",
+    "end_date": "2026-02-14"
+  },
+  "ice_surfaces": {
+    "main": {
+      "name": "Main Ice Surface",
+      "slots": [
+        {
+          "type": "games",
+          "start": "2026-02-08T08:00:00-07:00",
+          "end": "2026-02-08T09:00:00-07:00",
+          "label": "Nanton GD vs Cremona GD",
+          "notes": "OMHA U9 2026 Tournaments - Nanton GD vs Cremona GD",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-08T09:15:00-07:00",
+          "end": "2026-02-08T10:15:00-07:00",
+          "label": "Springbank GD Olds GD",
+          "notes": "OMHA U9 2026 Tournaments - Springbank GD Olds GD",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-08T10:30:00-07:00",
+          "end": "2026-02-08T11:30:00-07:00",
+          "label": "Calgary WD Olds WD",
+          "notes": "OMHA U9 2026 Tournaments - Calgary WD Olds WD",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-08T11:45:00-07:00",
+          "end": "2026-02-08T12:45:00-07:00",
+          "label": "Calgary Wolverines BD Olds Yellow",
+          "notes": "OMHA U9 2026 Tournaments - Calgary Wolverines BD Olds Yellow",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-08T13:00:00-07:00",
+          "end": "2026-02-08T14:00:00-07:00",
+          "label": "Edmonton BD Calgary Knights BD",
+          "notes": "OMHA U9 2026 Tournaments - Edmonton BD Calgary Knights BD",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-08T14:15:00-07:00",
+          "end": "2026-02-08T15:15:00-07:00",
+          "label": "Cremona GD Springbank GD",
+          "notes": "OMHA U9 2026 Tournaments - Cremona GD Springbank GD",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-08T15:45:00-07:00",
+          "end": "2026-02-08T18:15:00-07:00",
+          "label": "U18 fem vs Cochrane  extra 15 min for grad players",
+          "notes": "OMHA Feb /2026 - U18 fem vs Cochrane  extra 15 min for grad players",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "other",
+          "start": "2026-02-09T07:00:00-07:00",
+          "end": "2026-02-09T08:00:00-07:00",
+          "label": "Rich McDonald",
+          "notes": "Rich McDonald",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-02-09T09:00:00-07:00",
+          "end": "2026-02-09T14:30:00-07:00",
+          "label": "Chairs, skate aids and cart with toys",
+          "notes": "Trinity School - Chairs, skate aids and cart with toys",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-09T16:00:00-07:00",
+          "end": "2026-02-09T16:45:00-07:00",
+          "label": "U9C Yellow U9C Black",
+          "notes": "OMHA Feb /2026 - U9C Yellow U9C Black",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-09T16:45:00-07:00",
+          "end": "2026-02-09T17:30:00-07:00",
+          "label": "U11C",
+          "notes": "OMHA Feb /2026 - U11C",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-09T17:30:00-07:00",
+          "end": "2026-02-09T18:15:00-07:00",
+          "label": "U11B",
+          "notes": "OMHA Feb /2026 - U11B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-09T18:30:00-07:00",
+          "end": "2026-02-09T19:15:00-07:00",
+          "label": "U13A fem",
+          "notes": "OMHA Feb /2026 - U13A fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-09T19:30:00-07:00",
+          "end": "2026-02-09T20:15:00-07:00",
+          "label": "U13B fem",
+          "notes": "OMHA Feb /2026 - U13B fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-09T20:30:00-07:00",
+          "end": "2026-02-09T21:30:00-07:00",
+          "label": "U18AA",
+          "notes": "OMHA Feb /2026 - U18AA",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-02-09T21:45:00-07:00",
+          "end": "2026-02-09T23:00:00-07:00",
+          "label": "Vercaigne Shinny Feb 2026 PD",
+          "notes": "Vercaigne Shinny Feb 2026 PD",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-10T06:15:00-07:00",
+          "end": "2026-02-10T07:30:00-07:00",
+          "label": "Broncos Practices Feb 2026",
+          "notes": "Broncos Practices Feb 2026",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-10T10:00:00-07:00",
+          "end": "2026-02-10T11:00:00-07:00",
+          "label": "Grizzlys 2025/26",
+          "notes": "Grizzlys 2025/26 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-10T11:15:00-07:00",
+          "end": "2026-02-10T12:15:00-07:00",
+          "label": "Grizzlys 2025/26",
+          "notes": "Grizzlys 2025/26 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-10T16:00:00-07:00",
+          "end": "2026-02-10T16:45:00-07:00",
+          "label": "U7 Black/ Yellow/Red",
+          "notes": "OMHA Feb /2026 - U7 Black/ Yellow/Red",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-10T16:45:00-07:00",
+          "end": "2026-02-10T17:45:00-07:00",
+          "label": "U13C",
+          "notes": "OMHA Feb /2026 - U13C",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-10T18:00:00-07:00",
+          "end": "2026-02-10T19:00:00-07:00",
+          "label": "U13A",
+          "notes": "OMHA Feb /2026 - U13A",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-10T19:15:00-07:00",
+          "end": "2026-02-10T20:15:00-07:00",
+          "label": "U18B",
+          "notes": "OMHA Feb /2026 - U18B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-10T20:30:00-07:00",
+          "end": "2026-02-10T21:30:00-07:00",
+          "label": "U18A",
+          "notes": "OMHA Feb /2026 - U18A",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-11T06:15:00-07:00",
+          "end": "2026-02-11T07:30:00-07:00",
+          "label": "Broncos Practices Feb 2026",
+          "notes": "Broncos Practices Feb 2026",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-11T10:00:00-07:00",
+          "end": "2026-02-11T11:00:00-07:00",
+          "label": "Grizzlys 2025/26",
+          "notes": "Grizzlys 2025/26 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-11T11:15:00-07:00",
+          "end": "2026-02-11T12:15:00-07:00",
+          "label": "Grizzlys 2025/26",
+          "notes": "Grizzlys 2025/26 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-02-11T13:15:00-07:00",
+          "end": "2026-02-11T14:15:00-07:00",
+          "label": "skate aids, chairs, cart with toys, Room 1 and 2",
+          "notes": "Hilary Warner grade 3/4 (skate aids etc) - skate aids, chairs, cart with toys, Room 1 and 2",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-11T16:00:00-07:00",
+          "end": "2026-02-11T16:45:00-07:00",
+          "label": "U9C Yellow U9C Black",
+          "notes": "OMHA Feb /2026 - U9C Yellow U9C Black",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-11T16:45:00-07:00",
+          "end": "2026-02-11T17:45:00-07:00",
+          "label": "U11B/ U11C",
+          "notes": "OMHA Feb /2026 - U11B/ U11C",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-11T18:00:00-07:00",
+          "end": "2026-02-11T19:00:00-07:00",
+          "label": "U13B",
+          "notes": "OMHA Feb /2026 - U13B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-11T19:15:00-07:00",
+          "end": "2026-02-11T20:15:00-07:00",
+          "label": "U13AA",
+          "notes": "OMHA Feb /2026 - U13AA",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-11T20:30:00-07:00",
+          "end": "2026-02-11T21:30:00-07:00",
+          "label": "U18 fem",
+          "notes": "OMHA Feb /2026 - U18 fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-12T06:15:00-07:00",
+          "end": "2026-02-12T07:30:00-07:00",
+          "label": "Broncos Practices Feb 2026",
+          "notes": "Broncos Practices Feb 2026",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-12T10:00:00-07:00",
+          "end": "2026-02-12T11:00:00-07:00",
+          "label": "Grizzlys 2025/26",
+          "notes": "Grizzlys 2025/26 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-12T11:15:00-07:00",
+          "end": "2026-02-12T12:15:00-07:00",
+          "label": "Grizzlys 2025/26",
+          "notes": "Grizzlys 2025/26 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-12T16:00:00-07:00",
+          "end": "2026-02-12T16:30:00-07:00",
+          "label": "U11A",
+          "notes": "OMHA Feb /2026 - U11A",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-12T16:30:00-07:00",
+          "end": "2026-02-12T17:00:00-07:00",
+          "label": "U11A/U11F",
+          "notes": "OMHA Feb /2026 - U11A/U11F",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-12T17:00:00-07:00",
+          "end": "2026-02-12T17:30:00-07:00",
+          "label": "U11 fem",
+          "notes": "OMHA Feb /2026 - U11 fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-12T17:45:00-07:00",
+          "end": "2026-02-12T18:45:00-07:00",
+          "label": "U11AA",
+          "notes": "OMHA Feb /2026 - U11AA",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-12T19:00:00-07:00",
+          "end": "2026-02-12T20:00:00-07:00",
+          "label": "U15AA",
+          "notes": "OMHA Feb /2026 - U15AA",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-12T20:15:00-07:00",
+          "end": "2026-02-12T21:15:00-07:00",
+          "label": "U15A",
+          "notes": "OMHA Feb /2026 - U15A",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-02-12T21:45:00-07:00",
+          "end": "2026-02-12T23:15:00-07:00",
+          "label": "SIR 2025-2026",
+          "notes": "SIR 2025-2026",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-13T10:00:00-07:00",
+          "end": "2026-02-13T11:00:00-07:00",
+          "label": "Pre- Game skate",
+          "notes": "Grizzlys 2025/26 - Pre- Game skate",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "skating_club",
+          "start": "2026-02-13T15:45:00-07:00",
+          "end": "2026-02-13T17:15:00-07:00",
+          "label": "Olds Figure Skating Club Feb 2026",
+          "notes": "Olds Figure Skating Club Feb 2026",
+          "color": "#06B6D4",
+          "type_display": "Skating Club / Programs"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-13T18:30:00-07:00",
+          "end": "2026-02-13T21:30:00-07:00",
+          "label": "Grizzlys vs Bonnyville",
+          "notes": "Grizzlys 2025/26 - Grizzlys vs Bonnyville",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-14T08:15:00-07:00",
+          "end": "2026-02-14T09:30:00-07:00",
+          "label": "U7 Red vs Kneehill Black U7 Yellow vs Kneehill Red",
+          "notes": "OMHA Feb /2026 - U7 Red vs Kneehill Black U7 Yellow vs Kneehill Red",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-14T09:45:00-07:00",
+          "end": "2026-02-14T11:45:00-07:00",
+          "label": "U15fem vs West  Central",
+          "notes": "OMHA Feb /2026 - U15fem vs West  Central",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-14T12:00:00-07:00",
+          "end": "2026-02-14T14:15:00-07:00",
+          "label": "U13AA vs Bow Valley",
+          "notes": "OMHA Feb /2026 - U13AA vs Bow Valley",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-14T14:30:00-07:00",
+          "end": "2026-02-14T16:45:00-07:00",
+          "label": "U15AA vs Lethbridge",
+          "notes": "OMHA Feb /2026 - U15AA vs Lethbridge",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-14T17:00:00-07:00",
+          "end": "2026-02-14T19:30:00-07:00",
+          "label": "U18A vs Medicine Hat 15 extra minutes for grad players",
+          "notes": "OMHA Feb /2026 - U18A vs Medicine Hat 15 extra minutes for grad players",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-14T19:45:00-07:00",
+          "end": "2026-02-14T22:15:00-07:00",
+          "label": "U18AA vs Bow  Valley",
+          "notes": "OMHA Feb /2026 - U18AA vs Bow  Valley",
+          "color": "#EF4444",
+          "type_display": "Games"
+        }
+      ]
+    },
+    "auxiliary": {
+      "name": "Auxiliary Ice Surface",
+      "slots": [
+        {
+          "type": "games",
+          "start": "2026-02-08T08:15:00-07:00",
+          "end": "2026-02-08T09:15:00-07:00",
+          "label": "Chestermere WD  vs Okotoks BD",
+          "notes": "OMHA U9 2026 Tournaments - Chestermere WD  vs Okotoks BD",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-08T09:30:00-07:00",
+          "end": "2026-02-08T10:30:00-07:00",
+          "label": "Olds Black Edmonton BD",
+          "notes": "OMHA U9 2026 Tournaments - Olds Black Edmonton BD",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-08T10:45:00-07:00",
+          "end": "2026-02-08T11:45:00-07:00",
+          "label": "Red Deer GD Nanton GD",
+          "notes": "OMHA U9 2026 Tournaments - Red Deer GD Nanton GD",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-08T13:30:00-07:00",
+          "end": "2026-02-08T14:30:00-07:00",
+          "label": "Okotoks WD Sylvan WD",
+          "notes": "OMHA U9 2026 Tournaments - Okotoks WD Sylvan WD",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-08T15:00:00-07:00",
+          "end": "2026-02-08T17:00:00-07:00",
+          "label": "U11C vs Cremona",
+          "notes": "OMHA Feb /2026 - U11C vs Cremona",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "other",
+          "start": "2026-02-09T06:45:00-07:00",
+          "end": "2026-02-09T07:45:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-02-09T12:00:00-07:00",
+          "end": "2026-02-09T13:00:00-07:00",
+          "label": "Sticks and Pucks",
+          "notes": "Sticks and Pucks",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
+          "type": "skating_club",
+          "start": "2026-02-09T15:45:00-07:00",
+          "end": "2026-02-09T16:45:00-07:00",
+          "label": "Olds Figure Skating Club Feb 2026",
+          "notes": "Olds Figure Skating Club Feb 2026",
+          "color": "#06B6D4",
+          "type_display": "Skating Club / Programs"
+        },
+        {
+          "type": "skating_club",
+          "start": "2026-02-09T17:00:00-07:00",
+          "end": "2026-02-09T19:45:00-07:00",
+          "label": "Olds Figure Skating Club Feb 2026",
+          "notes": "Olds Figure Skating Club Feb 2026",
+          "color": "#06B6D4",
+          "type_display": "Skating Club / Programs"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-09T20:00:00-07:00",
+          "end": "2026-02-09T20:45:00-07:00",
+          "label": "U15B",
+          "notes": "OMHA Feb /2026 - U15B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-09T21:00:00-07:00",
+          "end": "2026-02-09T22:00:00-07:00",
+          "label": "U18 fem",
+          "notes": "OMHA Feb /2026 - U18 fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-10T06:45:00-07:00",
+          "end": "2026-02-10T07:45:00-07:00",
+          "label": "U15A",
+          "notes": "OMHA Feb /2026 - U15A",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-02-10T12:00:00-07:00",
+          "end": "2026-02-10T13:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
+          "type": "other",
+          "start": "2026-02-10T13:30:00-07:00",
+          "end": "2026-02-10T14:30:00-07:00",
+          "label": "Female and male room needed",
+          "notes": "Grizzlys Academy- Deer Meadow - Female and male room needed",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-10T16:00:00-07:00",
+          "end": "2026-02-10T16:45:00-07:00",
+          "label": "U9A U9B",
+          "notes": "OMHA Feb /2026 - U9A U9B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-10T16:45:00-07:00",
+          "end": "2026-02-10T17:30:00-07:00",
+          "label": "U11 fem",
+          "notes": "OMHA Feb /2026 - U11 fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-10T17:45:00-07:00",
+          "end": "2026-02-10T18:45:00-07:00",
+          "label": "U11A",
+          "notes": "OMHA Feb /2026 - U11A",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-10T19:00:00-07:00",
+          "end": "2026-02-10T20:00:00-07:00",
+          "label": "U13B",
+          "notes": "OMHA Feb /2026 - U13B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-10T20:15:00-07:00",
+          "end": "2026-02-10T21:15:00-07:00",
+          "label": "U15 fem",
+          "notes": "OMHA Feb /2026 - U15 fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-11T06:45:00-07:00",
+          "end": "2026-02-11T07:45:00-07:00",
+          "label": "U15B",
+          "notes": "OMHA Feb /2026 - U15B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-02-11T12:00:00-07:00",
+          "end": "2026-02-11T13:00:00-07:00",
+          "label": "Sticks and Pucks",
+          "notes": "Sticks and Pucks",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
+          "type": "skating_club",
+          "start": "2026-02-11T15:45:00-07:00",
+          "end": "2026-02-11T16:45:00-07:00",
+          "label": "Olds Figure Skating Club Feb 2026",
+          "notes": "Olds Figure Skating Club Feb 2026",
+          "color": "#06B6D4",
+          "type_display": "Skating Club / Programs"
+        },
+        {
+          "type": "skating_club",
+          "start": "2026-02-11T17:00:00-07:00",
+          "end": "2026-02-11T19:45:00-07:00",
+          "label": "Olds Figure Skating Club Feb 2026",
+          "notes": "Olds Figure Skating Club Feb 2026",
+          "color": "#06B6D4",
+          "type_display": "Skating Club / Programs"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-11T20:00:00-07:00",
+          "end": "2026-02-11T20:45:00-07:00",
+          "label": "U15 fem",
+          "notes": "OMHA Feb /2026 - U15 fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-11T21:00:00-07:00",
+          "end": "2026-02-11T22:00:00-07:00",
+          "label": "U18B",
+          "notes": "OMHA Feb /2026 - U18B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-02-12T06:45:00-07:00",
+          "end": "2026-02-12T07:45:00-07:00",
+          "label": "Haaland - Hockey",
+          "notes": "Haaland - Hockey",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-02-12T12:00:00-07:00",
+          "end": "2026-02-12T13:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
+          "type": "other",
+          "start": "2026-02-12T13:30:00-07:00",
+          "end": "2026-02-12T14:30:00-07:00",
+          "label": "Female and male room needed",
+          "notes": "Grizzlys Academy- Deer Meadow - Female and male room needed",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-12T16:00:00-07:00",
+          "end": "2026-02-12T16:45:00-07:00",
+          "label": "U9A U9B",
+          "notes": "OMHA Feb /2026 - U9A U9B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-12T17:00:00-07:00",
+          "end": "2026-02-12T17:30:00-07:00",
+          "label": "U13 A fem",
+          "notes": "OMHA Feb /2026 - U13 A fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-12T17:30:00-07:00",
+          "end": "2026-02-12T18:00:00-07:00",
+          "label": "U13AF/U13BF",
+          "notes": "OMHA Feb /2026 - U13AF/U13BF",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-12T18:00:00-07:00",
+          "end": "2026-02-12T18:30:00-07:00",
+          "label": "U13B fem",
+          "notes": "OMHA Feb /2026 - U13B fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-12T18:45:00-07:00",
+          "end": "2026-02-12T19:15:00-07:00",
+          "label": "U13A",
+          "notes": "OMHA Feb /2026 - U13A",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-12T19:15:00-07:00",
+          "end": "2026-02-12T19:45:00-07:00",
+          "label": "U13A/U13C",
+          "notes": "OMHA Feb /2026 - U13A/U13C",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-12T19:45:00-07:00",
+          "end": "2026-02-12T20:15:00-07:00",
+          "label": "U13C",
+          "notes": "OMHA Feb /2026 - U13C",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-12T20:30:00-07:00",
+          "end": "2026-02-12T21:30:00-07:00",
+          "label": "U18A",
+          "notes": "OMHA Feb /2026 - U18A",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-02-13T06:30:00-07:00",
+          "end": "2026-02-13T07:30:00-07:00",
+          "label": "Knutson",
+          "notes": "Knutson",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-02-13T12:00:00-07:00",
+          "end": "2026-02-13T13:00:00-07:00",
+          "label": "Sticks and Pucks",
+          "notes": "Sticks and Pucks",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-13T16:00:00-07:00",
+          "end": "2026-02-13T16:45:00-07:00",
+          "label": "U7 Yellow U7 Black",
+          "notes": "OMHA Feb /2026 - U7 Yellow U7 Black",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-13T16:45:00-07:00",
+          "end": "2026-02-13T17:30:00-07:00",
+          "label": "U7 Red U9C Black",
+          "notes": "OMHA Feb /2026 - U7 Red U9C Black",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-13T17:45:00-07:00",
+          "end": "2026-02-13T19:45:00-07:00",
+          "label": "U13C vs Maskwacis",
+          "notes": "OMHA Feb /2026 - U13C vs Maskwacis",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "other",
+          "start": "2026-02-14T06:15:00-07:00",
+          "end": "2026-02-14T07:15:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-14T08:00:00-07:00",
+          "end": "2026-02-14T09:15:00-07:00",
+          "label": "U7 Yellow vs Kneehill Black U7 Red vs Crossfield",
+          "notes": "OMHA Feb /2026 - U7 Yellow vs Kneehill Black U7 Red vs Crossfield",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "other",
+          "start": "2026-02-14T09:30:00-07:00",
+          "end": "2026-02-14T11:30:00-07:00",
+          "label": "OMHA",
+          "notes": "OMHA Feb /2026 - OMHA",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-14T11:45:00-07:00",
+          "end": "2026-02-14T13:45:00-07:00",
+          "label": "U13C vs New Sarepta",
+          "notes": "OMHA Feb /2026 - U13C vs New Sarepta",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "other",
+          "start": "2026-02-14T14:00:00-07:00",
+          "end": "2026-02-14T16:00:00-07:00",
+          "label": "OMHA",
+          "notes": "OMHA Feb /2026 - OMHA",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-02-14T16:15:00-07:00",
+          "end": "2026-02-14T18:15:00-07:00",
+          "label": "OMHA",
+          "notes": "OMHA Feb /2026 - OMHA",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-02-14T18:30:00-07:00",
+          "end": "2026-02-14T20:30:00-07:00",
+          "label": "OMHA",
+          "notes": "OMHA Feb /2026 - OMHA",
+          "color": "#64748B",
+          "type_display": "Other"
+        }
+      ]
+    }
+  }
+}
