@@ -1,21 +1,19 @@
 {
   "facility_name": "Kurt Browning Arena",
-  "facility_id": "kurt-browning-arena",
-  "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-01-04",
   "week_end": "2026-01-10",
-  "last_updated": "2026-01-19T02:17:42.667381-07:00",
+  "last_updated": "2025-12-26T10:20:11.559307-07:00",
   "slots": [
     {
-      "start": "2026-01-04T09:30:00-07:00",
-      "end": "2026-01-04T10:30:00-07:00",
+      "start": "2026-01-04T09:15:00-07:00",
+      "end": "2026-01-04T10:15:00-07:00",
       "type": "game",
-      "label": "U9 vs Rocky",
-      "notes": "GAMES - U9 vs Rocky"
+      "label": "U9 vs TBA",
+      "notes": "GAMES - U9 vs TBA"
     },
     {
-      "start": "2026-01-04T10:30:00-07:00",
-      "end": "2026-01-04T11:00:00-07:00",
+      "start": "2026-01-04T10:15:00-07:00",
+      "end": "2026-01-04T10:45:00-07:00",
       "type": "game",
       "label": "GAMES - U9 BOARDS + FLOOD",
       "notes": "GAMES - U9 BOARDS + FLOOD"
@@ -50,14 +48,14 @@
     },
     {
       "start": "2026-01-04T15:30:00-07:00",
-      "end": "2026-01-04T17:45:00-07:00",
+      "end": "2026-01-04T17:30:00-07:00",
       "type": "game",
       "label": "U11A vs Airdrie",
       "notes": "GAMES - U11A vs Airdrie"
     },
     {
-      "start": "2026-01-04T17:45:00-07:00",
-      "end": "2026-01-04T18:00:00-07:00",
+      "start": "2026-01-04T17:30:00-07:00",
+      "end": "2026-01-04T17:45:00-07:00",
       "type": "game",
       "label": "GAMES - Flood",
       "notes": "GAMES - Flood"
@@ -86,6 +84,20 @@
     {
       "start": "2026-01-04T20:15:00-07:00",
       "end": "2026-01-04T20:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Flood",
+      "notes": "Mens Hockey - Flood"
+    },
+    {
+      "start": "2026-01-04T20:30:00-07:00",
+      "end": "2026-01-04T22:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Stray Cats",
+      "notes": "Mens Hockey - Stray Cats"
+    },
+    {
+      "start": "2026-01-04T22:00:00-07:00",
+      "end": "2026-01-04T22:15:00-07:00",
       "type": "practice",
       "label": "Hockey - Flood",
       "notes": "Mens Hockey - Flood"
@@ -348,6 +360,20 @@
       "type": "practice",
       "label": "Hockey - Flood",
       "notes": "Mens Hockey - Flood"
+    },
+    {
+      "start": "2026-01-09T21:00:00-07:00",
+      "end": "2026-01-09T22:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Woodland Wilds",
+      "notes": "Mens Hockey - Woodland Wilds"
+    },
+    {
+      "start": "2026-01-09T22:15:00-07:00",
+      "end": "2026-01-09T22:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - FLOOD",
+      "notes": "Mens Hockey - FLOOD"
     },
     {
       "start": "2026-01-10T09:00:00-07:00",

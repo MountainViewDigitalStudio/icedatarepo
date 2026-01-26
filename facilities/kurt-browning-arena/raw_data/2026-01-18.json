@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-01-18",
   "week_end": "2026-01-24",
-  "last_updated": "2026-01-19T02:17:43.677704-07:00",
+  "last_updated": "2026-01-26T02:17:48.333347-07:00",
   "slots": [
     {
       "start": "2026-01-18T09:30:00-07:00",
@@ -376,13 +376,6 @@
       "type": "game",
       "label": "U13 Tournament - Camrose vs Sherwood Park Snipe Squad",
       "notes": "U13 Tournament - Camrose vs Sherwood Park Snipe Squad"
-    },
-    {
-      "start": "2026-01-24T11:00:00-07:00",
-      "end": "2026-01-24T14:25:00-07:00",
-      "type": "other",
-      "label": "hall rental",
-      "notes": "hall rental"
     },
     {
       "start": "2026-01-24T12:15:00-07:00",
