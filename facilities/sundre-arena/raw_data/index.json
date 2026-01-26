@@ -7,24 +7,16 @@
     "source_url": "https://www.sundre.com/p/arena"
   },
   "available_weeks": [
-    "2026-01-11",
-    "2026-01-18"
+    "2026-01-25"
   ],
   "weeks": [
     {
-      "sunday": "2026-01-11",
-      "start_date": "2026-01-12",
-      "end_date": "2026-01-18",
-      "file": "2026-01-11.json",
-      "is_current": false
-    },
-    {
-      "sunday": "2026-01-18",
-      "start_date": "2026-01-19",
-      "end_date": "2026-01-25",
-      "file": "2026-01-18.json",
+      "sunday": "2026-01-25",
+      "start_date": "2026-01-26",
+      "end_date": "2026-02-01",
+      "file": "2026-01-25.json",
       "is_current": true
     }
   ],
-  "generated_at": "2026-01-19T09:19:28.634337Z"
+  "generated_at": "2026-01-26T09:19:39.838555Z"
 }

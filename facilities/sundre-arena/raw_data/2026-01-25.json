@@ -1,0 +1,333 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-01-26T09:19:39.838555Z",
+  "facility": {
+    "id": "sundre-arena",
+    "name": "Sundre Arena",
+    "city": "Sundre",
+    "address": "Sundre Arena#1, 101-2 Avenue NW",
+    "source_url": "https://www.sundre.com/p/arena"
+  },
+  "week": {
+    "start_date": "2026-01-26",
+    "end_date": "2026-02-01",
+    "sunday": "2026-01-25"
+  },
+  "slots": [
+    {
+      "type": "game",
+      "start": "2026-01-30T07:00:00",
+      "end": "2026-01-30T12:00:00",
+      "label": "Rec Hockey Tournament, 7am",
+      "notes": "7:00 AM - 12:00 PM"
+    },
+    {
+      "type": "maintenance",
+      "start": "2026-01-29T07:00:00",
+      "end": "2026-01-29T12:00:00",
+      "label": "Ice Maintenance",
+      "notes": "7:00 AM - 12:00 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-31T08:30:00",
+      "end": "2026-01-31T09:40:00",
+      "label": "Rec Hockey- U8 Sundre vs Rocky",
+      "notes": "8:30 AM - 9:40 AM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-02-01T08:30:00",
+      "end": "2026-02-01T09:50:00",
+      "label": "Rec Hockey- U11 Cremona vs Sundre",
+      "notes": "8:30 AM - 9:50 AM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-31T10:00:00",
+      "end": "2026-01-31T11:20:00",
+      "label": "Rec Hockey- U11 Sundre vs Cochrane",
+      "notes": "10:00 AM - 11:20 AM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-02-01T10:10:00",
+      "end": "2026-02-01T11:20:00",
+      "label": "Rec Hockey- U8 Cochrane vs Sundre",
+      "notes": "10:10 AM - 11:20 AM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-31T11:35:00",
+      "end": "2026-01-31T12:55:00",
+      "label": "Rec Hockey- U15 Rocky vs Didsbury",
+      "notes": "11:35 AM - 12:55 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-02-01T11:40:00",
+      "end": "2026-02-01T13:00:00",
+      "label": "Rec Hockey- U15 Cochrane vs Blue",
+      "notes": "11:40 AM - 1:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-26T13:00:00",
+      "end": "2026-01-26T17:00:00",
+      "label": "River Valley Ice Time",
+      "notes": "1:00 PM - 5:00 PM"
+    },
+    {
+      "type": "shinny",
+      "start": "2026-01-27T13:00:00",
+      "end": "2026-01-27T14:45:00",
+      "label": "Adult Shinny",
+      "notes": "1:00 PM - 2:45 PM"
+    },
+    {
+      "type": "public_skate",
+      "start": "2026-01-28T13:00:00",
+      "end": "2026-01-28T14:45:00",
+      "label": "Adult Public Skating",
+      "notes": "1:00 PM - 2:45 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-31T13:15:00",
+      "end": "2026-01-31T14:25:00",
+      "label": "Rec Hockey- U8 Cochrane vs Rocky",
+      "notes": "1:15 PM - 2:25 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-02-01T13:10:00",
+      "end": "2026-02-01T14:30:00",
+      "label": "Rec Hockey- U15 Mules vs Cremona",
+      "notes": "1:10 PM - 2:30 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-31T14:45:00",
+      "end": "2026-01-31T16:05:00",
+      "label": "Rec Hockey- U11 Cremona vs Cochrane",
+      "notes": "2:45 PM - 4:05 PM"
+    },
+    {
+      "type": "stick_and_puck",
+      "start": "2026-01-27T15:00:00",
+      "end": "2026-01-27T16:20:00",
+      "label": "Sticks N Pucks",
+      "notes": "3:00 PM - 4:20 PM"
+    },
+    {
+      "type": "public_skate",
+      "start": "2026-01-28T15:00:00",
+      "end": "2026-01-28T16:20:00",
+      "label": "Public Skating",
+      "notes": "3:00 PM - 4:20 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-29T15:30:00",
+      "end": "2026-01-29T17:30:00",
+      "label": "Rec Hockey- Club#1",
+      "notes": "3:30 PM - 5:30 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-01-29T15:30:00",
+      "end": "2026-01-29T17:00:00",
+      "label": "Rec Hockey Tournament Set up",
+      "notes": "3:30 PM - 5:00 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-02-01T16:00:00",
+      "end": "2026-02-01T17:50:00",
+      "label": "SMH-Game U13",
+      "notes": "4:00 PM - 5:50 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-26T16:30:00",
+      "end": "2026-01-26T17:20:00",
+      "label": "SMH- Practice U9",
+      "notes": "4:30 PM - 5:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-27T16:30:00",
+      "end": "2026-01-27T17:20:00",
+      "label": "SMH-Practice U7",
+      "notes": "4:30 PM - 5:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-28T16:30:00",
+      "end": "2026-01-28T17:20:00",
+      "label": "SMH- Practice U9",
+      "notes": "4:30 PM - 5:20 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-30T16:30:00",
+      "end": "2026-01-30T17:20:00",
+      "label": "Rec Hockey- Practice",
+      "notes": "4:30 PM - 5:20 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-31T16:20:00",
+      "end": "2026-01-31T17:40:00",
+      "label": "Rec Hockey- U15 Cochrane vs Cremona",
+      "notes": "4:20 PM - 5:40 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-29T17:00:00",
+      "end": "2026-01-29T17:50:00",
+      "label": "SMH-Practice U7",
+      "notes": "5:00 PM - 5:50 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-26T17:30:00",
+      "end": "2026-01-26T18:20:00",
+      "label": "SMH- Practice U11",
+      "notes": "5:30 PM - 6:20 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": "2026-01-27T17:30:00",
+      "end": "2026-01-27T18:50:00",
+      "label": "Sundre Skating Club Learn to Skate",
+      "notes": "5:30 PM - 6:50 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-28T17:30:00",
+      "end": "2026-01-28T18:20:00",
+      "label": "SMH- Practice U11",
+      "notes": "5:30 PM - 6:20 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-30T17:30:00",
+      "end": "2026-01-30T18:50:00",
+      "label": "Rec Hockey-Sundre vs Kneehill",
+      "notes": "5:30 PM - 6:50 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": "2026-01-29T18:00:00",
+      "end": "2026-01-29T20:00:00",
+      "label": "Sundre Skating Club Star Skate",
+      "notes": "6:00 PM - 8:00 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-31T18:55:00",
+      "end": "2026-01-31T19:15:00",
+      "label": "Rec Hockey-U15 Blue vs Rocky",
+      "notes": "6:55 PM - 7:15 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-26T18:30:00",
+      "end": "2026-01-26T19:20:00",
+      "label": "SMH- Practice U13",
+      "notes": "6:30 PM - 7:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-26T18:30:00",
+      "end": "2026-01-26T19:20:00",
+      "label": "SMH- Practice U13 access for photos",
+      "notes": "6:30 PM - 7:20 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": "2026-01-27T18:30:00",
+      "end": "2026-01-27T20:00:00",
+      "label": "Sundre Skating Club Star Skate",
+      "notes": "6:30 PM - 8:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-28T18:30:00",
+      "end": "2026-01-28T19:20:00",
+      "label": "SMH- Practice U13",
+      "notes": "6:30 PM - 7:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-30T18:30:00",
+      "end": "2026-01-30T22:00:00",
+      "label": "Volunteer Potluck Function (AH)",
+      "notes": "6:30 PM - 10:00 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-30T19:00:00",
+      "end": "2026-01-30T20:20:00",
+      "label": "Rec Hockey- U15 Mules vs Didsbury",
+      "notes": "7:00 PM - 8:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-26T19:30:00",
+      "end": "2026-01-26T20:20:00",
+      "label": "SMH-Practice U15",
+      "notes": "7:30 PM - 8:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-28T19:30:00",
+      "end": "2026-01-28T20:20:00",
+      "label": "SMH-Practice U15",
+      "notes": "7:30 PM - 8:20 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-27T20:00:00",
+      "end": "2026-01-27T21:30:00",
+      "label": "Woman's Hockey- Shooters",
+      "notes": "8:00 PM - 9:30 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-29T20:00:00",
+      "end": "2026-01-29T21:30:00",
+      "label": "Men's Hockey-Rhinos vs Olds Hawks",
+      "notes": "8:00 PM - 9:30 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-02-01T20:00:00",
+      "end": "2026-02-01T21:30:00",
+      "label": "Mens Hockey- Ice Men's vs Bowden Bandits",
+      "notes": "8:00 PM - 9:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-26T20:30:00",
+      "end": "2026-01-26T21:20:00",
+      "label": "SMH-Practice U18",
+      "notes": "8:30 PM - 9:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-01-28T20:30:00",
+      "end": "2026-01-28T21:20:00",
+      "label": "SMH-Practice U18",
+      "notes": "8:30 PM - 9:20 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-01-26T21:30:00",
+      "end": "2026-01-26T23:00:00",
+      "label": "Mens Hockey- Bombers",
+      "notes": "9:30 PM - 11:00 PM"
+    }
+  ]
+}
