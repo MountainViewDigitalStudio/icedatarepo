@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-26T09:21:21.395912Z",
+  "generated_at": "2026-02-02T09:30:14.767721Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena"
@@ -414,6 +414,15 @@
       "notes": "Skating",
       "color": "#F97316",
       "type_display": "Rentals"
+    },
+    {
+      "start": "2026-01-30T12:00:00-07:00",
+      "end": "2026-01-30T21:00:00-07:00",
+      "type": "other",
+      "label": "Celebration of life",
+      "notes": "Celebration of life",
+      "color": "#64748B",
+      "type_display": "Other"
     },
     {
       "start": "2026-01-30T14:00:00-07:00",

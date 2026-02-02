@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-26T09:21:21.376764Z",
+  "generated_at": "2026-02-02T09:30:14.750942Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -295,6 +295,15 @@
           "type_display": "Practice / Other"
         },
         {
+          "type": "other",
+          "start": "2026-01-28T22:00:00-07:00",
+          "end": "2026-01-28T23:00:00-07:00",
+          "label": "Reding Scrimmage",
+          "notes": "Reding Scrimmage",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
           "type": "practice",
           "start": "2026-01-29T06:45:00-07:00",
           "end": "2026-01-29T07:45:00-07:00",
@@ -385,13 +394,13 @@
           "type_display": "Games"
         },
         {
-          "type": "shinny",
-          "start": "2026-01-30T12:00:00-07:00",
-          "end": "2026-01-30T13:00:00-07:00",
-          "label": "Sticks and Pucks",
-          "notes": "Sticks and Pucks",
-          "color": "#3B82F6",
-          "type_display": "Shinny / Stick & Puck"
+          "type": "other",
+          "start": "2026-01-30T11:15:00-07:00",
+          "end": "2026-01-30T12:15:00-07:00",
+          "label": "Knight-Lutz",
+          "notes": "Knight-Lutz",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "skating_club",
@@ -779,11 +788,38 @@
         {
           "type": "other",
           "start": "2026-01-30T08:30:00-07:00",
-          "end": "2026-01-30T15:30:00-07:00",
+          "end": "2026-01-30T09:30:00-07:00",
           "label": "Sportsplex",
           "notes": "Sportsplex",
           "color": "#64748B",
           "type_display": "Other"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-01-30T10:00:00-07:00",
+          "end": "2026-01-30T11:45:00-07:00",
+          "label": "Sticks and Pucks",
+          "notes": "Sticks and Pucks",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-01-30T12:00:00-07:00",
+          "end": "2026-01-30T14:00:00-07:00",
+          "label": "Sticks and Pucks",
+          "notes": "Sticks and Pucks",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
+          "type": "public",
+          "start": "2026-01-30T14:15:00-07:00",
+          "end": "2026-01-30T15:45:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
         },
         {
           "type": "practice",

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-26T09:21:21.377739Z",
+  "generated_at": "2026-02-02T09:30:14.751948Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -944,6 +944,15 @@
           "end": "2026-02-07T20:45:00-07:00",
           "label": "U13A vs Cochrane",
           "notes": "OMHA Feb /2026 - U13A vs Cochrane",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-02-07T21:00:00-07:00",
+          "end": "2026-02-07T22:30:00-07:00",
+          "label": "Stingers vs Prairie Dogs",
+          "notes": "Stingers 2025/26 - Stingers vs Prairie Dogs",
           "color": "#EF4444",
           "type_display": "Games"
         }

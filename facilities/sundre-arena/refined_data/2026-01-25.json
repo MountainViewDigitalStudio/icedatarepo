@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-26T09:21:21.356509Z",
+  "generated_at": "2026-02-02T09:30:14.729902Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena"
@@ -74,20 +74,29 @@
       "type_display": "Games"
     },
     {
+      "type": "rentals",
+      "start": "2026-01-26T12:30:00",
+      "end": "2026-01-26T15:00:00",
+      "label": "Private Ice - 30 Minutes, 12:30pm",
+      "notes": "12:30 PM - 3:00 PM",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
       "type": "other",
       "start": "2026-01-26T13:00:00",
-      "end": "2026-01-26T17:00:00",
+      "end": "2026-01-26T15:00:00",
       "label": "River Valley Ice Time",
-      "notes": "1:00 PM - 5:00 PM",
+      "notes": "1:00 PM - 3:00 PM",
       "color": "#64748B",
       "type_display": "Other"
     },
     {
       "type": "practice",
       "start": "2026-01-26T16:30:00",
-      "end": "2026-01-26T17:20:00",
+      "end": "2026-01-26T17:50:00",
       "label": "SMH- Practice U9",
-      "notes": "4:30 PM - 5:20 PM",
+      "notes": "4:30 PM - 5:50 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
     },
@@ -103,9 +112,9 @@
     {
       "type": "practice",
       "start": "2026-01-26T18:30:00",
-      "end": "2026-01-26T19:20:00",
-      "label": "SMH- Practice U13",
-      "notes": "6:30 PM - 7:20 PM",
+      "end": "2026-01-26T21:30:00",
+      "label": "SMH- U18 Locker Room",
+      "notes": "6:30 PM - 9:30 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
     },
@@ -113,7 +122,7 @@
       "type": "practice",
       "start": "2026-01-26T18:30:00",
       "end": "2026-01-26T19:20:00",
-      "label": "SMH- Practice U13 access for photos",
+      "label": "SMH- Practice U9",
       "notes": "6:30 PM - 7:20 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
@@ -137,13 +146,13 @@
       "type_display": "Practice / Other"
     },
     {
-      "type": "adult_rec",
-      "start": "2026-01-26T21:30:00",
-      "end": "2026-01-26T23:00:00",
-      "label": "Mens Hockey- Bombers",
-      "notes": "9:30 PM - 11:00 PM",
-      "color": "#F59E0B",
-      "type_display": "Adult Rec Hockey"
+      "type": "rentals",
+      "start": "2026-01-27T07:00:00",
+      "end": "2026-01-27T08:00:00",
+      "label": "Private Ice Time",
+      "notes": "7:00 AM - 8:00 AM",
+      "color": "#F97316",
+      "type_display": "Rentals"
     },
     {
       "type": "shinny",
@@ -166,18 +175,18 @@
     {
       "type": "practice",
       "start": "2026-01-27T16:30:00",
-      "end": "2026-01-27T17:20:00",
+      "end": "2026-01-27T17:50:00",
       "label": "SMH-Practice U7",
-      "notes": "4:30 PM - 5:20 PM",
+      "notes": "4:30 PM - 5:50 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
     },
     {
       "type": "skating_club",
       "start": "2026-01-27T17:30:00",
-      "end": "2026-01-27T18:50:00",
+      "end": "2026-01-27T18:30:00",
       "label": "Sundre Skating Club Learn to Skate",
-      "notes": "5:30 PM - 6:50 PM",
+      "notes": "5:30 PM - 6:30 PM",
       "color": "#06B6D4",
       "type_display": "Skating Club / Programs"
     },
@@ -198,6 +207,15 @@
       "notes": "8:00 PM - 9:30 PM",
       "color": "#64748B",
       "type_display": "Other"
+    },
+    {
+      "type": "rentals",
+      "start": "2026-01-28T07:00:00",
+      "end": "2026-01-28T08:00:00",
+      "label": "Private Ice Time",
+      "notes": "7:00 AM - 8:00 AM",
+      "color": "#F97316",
+      "type_display": "Rentals"
     },
     {
       "type": "public",
@@ -248,7 +266,7 @@
       "type": "practice",
       "start": "2026-01-28T19:30:00",
       "end": "2026-01-28T20:20:00",
-      "label": "SMH-Practice U15",
+      "label": "SMH- Practice U15",
       "notes": "7:30 PM - 8:20 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
@@ -263,38 +281,29 @@
       "type_display": "Practice / Other"
     },
     {
-      "type": "maintenance",
+      "type": "other",
       "start": "2026-01-29T07:00:00",
       "end": "2026-01-29T12:00:00",
-      "label": "Ice Maintenance",
+      "label": "Ice Maintenace",
       "notes": "7:00 AM - 12:00 PM",
-      "color": "#6B7280",
-      "type_display": "Maintenance"
+      "color": "#64748B",
+      "type_display": "Other"
     },
     {
       "type": "adult_rec",
       "start": "2026-01-29T15:30:00",
-      "end": "2026-01-29T17:30:00",
-      "label": "Rec Hockey- Club#1",
-      "notes": "3:30 PM - 5:30 PM",
+      "end": "2026-01-29T17:00:00",
+      "label": "Rec Hockey",
+      "notes": "3:30 PM - 5:00 PM",
       "color": "#F59E0B",
       "type_display": "Adult Rec Hockey"
     },
     {
-      "type": "games",
-      "start": "2026-01-29T15:30:00",
-      "end": "2026-01-29T17:00:00",
-      "label": "Rec Hockey Tournament Set up",
-      "notes": "3:30 PM - 5:00 PM",
-      "color": "#EF4444",
-      "type_display": "Games"
-    },
-    {
       "type": "practice",
       "start": "2026-01-29T17:00:00",
-      "end": "2026-01-29T17:50:00",
+      "end": "2026-01-29T18:50:00",
       "label": "SMH-Practice U7",
-      "notes": "5:00 PM - 5:50 PM",
+      "notes": "5:00 PM - 6:50 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
     },
@@ -311,7 +320,7 @@
       "type": "games",
       "start": "2026-01-29T20:00:00",
       "end": "2026-01-29T21:30:00",
-      "label": "Men's Hockey-Rhinos vs Olds Hawks",
+      "label": "Men's Hockey-Rhinos vs Olde Hawks",
       "notes": "8:00 PM - 9:30 PM",
       "color": "#EF4444",
       "type_display": "Games"
@@ -319,18 +328,36 @@
     {
       "type": "games",
       "start": "2026-01-30T07:00:00",
-      "end": "2026-01-30T12:00:00",
+      "end": "2026-01-30T07:00:00",
       "label": "Rec Hockey Tournament, 7am",
-      "notes": "7:00 AM - 12:00 PM",
+      "notes": "7:00 AM - 7:00 AM",
       "color": "#EF4444",
       "type_display": "Games"
     },
     {
+      "type": "other",
+      "start": "2026-01-30T11:00:00",
+      "end": "2026-01-30T13:00:00",
+      "label": "Rink Booking",
+      "notes": "11:00 AM - 1:00 PM",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "type": "rentals",
+      "start": "2026-01-30T14:00:00",
+      "end": "2026-01-30T15:00:00",
+      "label": "Private Ice Rental",
+      "notes": "2:00 PM - 3:00 PM",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
       "type": "adult_rec",
       "start": "2026-01-30T16:30:00",
-      "end": "2026-01-30T17:20:00",
+      "end": "2026-01-30T17:50:00",
       "label": "Rec Hockey- Practice",
-      "notes": "4:30 PM - 5:20 PM",
+      "notes": "4:30 PM - 5:50 PM",
       "color": "#F59E0B",
       "type_display": "Adult Rec Hockey"
     },
@@ -338,19 +365,10 @@
       "type": "games",
       "start": "2026-01-30T17:30:00",
       "end": "2026-01-30T18:50:00",
-      "label": "Rec Hockey-Sundre vs Kneehill",
+      "label": "Rec Hockey- Sundre vs Kneehill",
       "notes": "5:30 PM - 6:50 PM",
       "color": "#EF4444",
       "type_display": "Games"
-    },
-    {
-      "type": "rentals",
-      "start": "2026-01-30T18:30:00",
-      "end": "2026-01-30T22:00:00",
-      "label": "Volunteer Potluck Function (AH)",
-      "notes": "6:30 PM - 10:00 PM",
-      "color": "#F97316",
-      "type_display": "Rentals"
     },
     {
       "type": "games",
@@ -417,10 +435,10 @@
     },
     {
       "type": "games",
-      "start": "2026-01-31T18:55:00",
+      "start": "2026-01-31T17:55:00",
       "end": "2026-01-31T19:15:00",
       "label": "Rec Hockey-U15 Blue vs Rocky",
-      "notes": "6:55 PM - 7:15 PM",
+      "notes": "5:55 PM - 7:15 PM",
       "color": "#EF4444",
       "type_display": "Games"
     }

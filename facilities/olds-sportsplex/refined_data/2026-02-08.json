@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-26T09:21:21.378780Z",
+  "generated_at": "2026-02-02T09:30:14.752967Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -122,6 +122,15 @@
           "notes": "OMHA Feb /2026 - U11B",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-02-09T17:30:00-07:00",
+          "end": "2026-02-09T19:00:00-07:00",
+          "label": "Volunteer Appreciation",
+          "notes": "Volunteer Appreciation",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "practice",
@@ -865,15 +874,6 @@
           "notes": "Norrie",
           "color": "#64748B",
           "type_display": "Other"
-        },
-        {
-          "type": "games",
-          "start": "2026-02-14T08:00:00-07:00",
-          "end": "2026-02-14T09:15:00-07:00",
-          "label": "U7 Yellow vs Kneehill Black U7 Red vs Crossfield",
-          "notes": "OMHA Feb /2026 - U7 Yellow vs Kneehill Black U7 Red vs Crossfield",
-          "color": "#EF4444",
-          "type_display": "Games"
         },
         {
           "type": "other",
