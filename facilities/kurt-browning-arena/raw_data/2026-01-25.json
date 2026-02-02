@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-01-25",
   "week_end": "2026-01-31",
-  "last_updated": "2026-01-26T02:17:48.909851-07:00",
+  "last_updated": "2026-02-02T02:26:14.989542-07:00",
   "slots": [
     {
       "start": "2026-01-25T09:00:00-07:00",
@@ -320,6 +320,13 @@
       "type": "rental",
       "label": "Ice Rental",
       "notes": "Skating"
+    },
+    {
+      "start": "2026-01-30T12:00:00-07:00",
+      "end": "2026-01-30T21:00:00-07:00",
+      "type": "other",
+      "label": "Celebration of life",
+      "notes": "Celebration of life"
     },
     {
       "start": "2026-01-30T14:00:00-07:00",
