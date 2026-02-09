@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-01-25",
   "week_end": "2026-01-31",
-  "last_updated": "2026-02-02T02:26:14.989542-07:00",
+  "last_updated": "2026-02-09T02:30:32.417198-07:00",
   "slots": [
     {
       "start": "2026-01-25T09:00:00-07:00",
@@ -390,13 +390,6 @@
       "type": "game",
       "label": "U11 - 1 Tournament - Didsbury A vs Elk Point",
       "notes": "U11 - 1 Tournament - Didsbury A vs Elk Point"
-    },
-    {
-      "start": "2026-01-31T09:00:00-07:00",
-      "end": "2026-01-31T21:00:00-07:00",
-      "type": "other",
-      "label": "U11 - 1 Tournament",
-      "notes": "U11 - 1 Tournament"
     },
     {
       "start": "2026-01-31T09:45:00-07:00",

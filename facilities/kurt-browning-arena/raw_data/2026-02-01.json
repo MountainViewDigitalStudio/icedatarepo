@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-02-01",
   "week_end": "2026-02-07",
-  "last_updated": "2026-02-02T02:26:15.478583-07:00",
+  "last_updated": "2026-02-09T02:30:32.918977-07:00",
   "slots": [
     {
       "start": "2026-02-01T08:30:00-07:00",
@@ -542,8 +542,8 @@
       "start": "2026-02-07T13:30:00-07:00",
       "end": "2026-02-07T15:30:00-07:00",
       "type": "game",
-      "label": "U11-C West Country vs New Serapta",
-      "notes": "GAMES - U11-C West Country vs New Serapta"
+      "label": "U11-C West Country vs New Sarepta",
+      "notes": "GAMES - U11-C West Country vs New Sarepta"
     },
     {
       "start": "2026-02-07T15:30:00-07:00",
