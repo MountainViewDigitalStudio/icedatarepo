@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-02T09:30:14.767721Z",
+  "generated_at": "2026-02-09T09:34:41.319957Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena"
@@ -502,15 +502,6 @@
       "type": "games",
       "label": "U11 - 1 Tournament - Didsbury A vs Elk Point",
       "notes": "U11 - 1 Tournament - Didsbury A vs Elk Point",
-      "color": "#EF4444",
-      "type_display": "Games"
-    },
-    {
-      "start": "2026-01-31T09:00:00-07:00",
-      "end": "2026-01-31T21:00:00-07:00",
-      "type": "games",
-      "label": "U11 - 1 Tournament",
-      "notes": "U11 - 1 Tournament",
       "color": "#EF4444",
       "type_display": "Games"
     },
