@@ -1,0 +1,326 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-02-09T09:32:11.639264Z",
+  "facility": {
+    "id": "sundre-arena",
+    "name": "Sundre Arena",
+    "city": "Sundre",
+    "address": "Sundre Arena#1, 101-2 Avenue NW",
+    "source_url": "https://www.sundre.com/p/arena"
+  },
+  "week": {
+    "start_date": "2026-02-02",
+    "end_date": "2026-02-08",
+    "sunday": "2026-02-01"
+  },
+  "slots": [
+    {
+      "type": "practice",
+      "start": "2026-02-03T07:00:00",
+      "end": "2026-02-03T08:00:00",
+      "label": "Private Ice Rental",
+      "notes": "7:00 AM - 8:00 AM"
+    },
+    {
+      "type": "maintenance",
+      "start": "2026-02-05T07:00:00",
+      "end": "2026-02-05T12:00:00",
+      "label": "Ice Maintenance",
+      "notes": "7:00 AM - 12:00 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": "2026-02-07T08:00:00",
+      "end": "2026-02-07T09:00:00",
+      "label": "Sundre Skating Club",
+      "notes": "8:00 AM - 9:00 AM"
+    },
+    {
+      "type": "game",
+      "start": "2026-02-08T09:00:00",
+      "end": "2026-02-08T10:15:00",
+      "label": "SMH U9 Tournament- Sylvan Lake A vs Duchess Storm",
+      "notes": "9:00 AM - 10:15 AM"
+    },
+    {
+      "type": "game",
+      "start": "2026-02-07T09:15:00",
+      "end": "2026-02-07T10:30:00",
+      "label": "SMH U9 Tournament- Sylvan Lake B vs Sh. Park Firehawks",
+      "notes": "9:15 AM - 10:30 AM"
+    },
+    {
+      "type": "game",
+      "start": "2026-02-08T10:30:00",
+      "end": "2026-02-08T11:45:00",
+      "label": "SMH U9 Tournament- Sundre vs Sh.Park Firehawks",
+      "notes": "10:30 AM - 11:45 AM"
+    },
+    {
+      "type": "game",
+      "start": "2026-02-07T10:45:00",
+      "end": "2026-02-07T12:00:00",
+      "label": "SMH U9 Tournament- Rocky Rams A vs Sylvan Lake A",
+      "notes": "10:45 AM - 12:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-02T13:00:00",
+      "end": "2026-02-02T15:00:00",
+      "label": "River Valley Ice Time",
+      "notes": "1:00 PM - 3:00 PM"
+    },
+    {
+      "type": "shinny",
+      "start": "2026-02-03T13:00:00",
+      "end": "2026-02-03T14:45:00",
+      "label": "Adult Shinny",
+      "notes": "1:00 PM - 2:45 PM"
+    },
+    {
+      "type": "public_skate",
+      "start": "2026-02-04T13:00:00",
+      "end": "2026-02-04T14:45:00",
+      "label": "Adult Public Skating",
+      "notes": "1:00 PM - 2:45 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-02-08T12:00:00",
+      "end": "2026-02-08T13:15:00",
+      "label": "SMH U9 Tournament- Rocky Rams B vs Sylvan Lake B",
+      "notes": "12:00 PM - 1:15 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-02-07T12:15:00",
+      "end": "2026-02-07T13:30:00",
+      "label": "SMH U9 Tournament- Sh. Park Firehawks vs Rocky Rams B",
+      "notes": "12:15 PM - 1:30 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-02-08T13:30:00",
+      "end": "2026-02-08T14:45:00",
+      "label": "SMH U9 Tournament- Sundre vs Rocky Rams A",
+      "notes": "1:30 PM - 2:45 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-02-07T13:45:00",
+      "end": "2026-02-07T15:00:00",
+      "label": "SMH U9 Tournament- Duchess Storm vs Rocky Rams A",
+      "notes": "1:45 PM - 3:00 PM"
+    },
+    {
+      "type": "stick_and_puck",
+      "start": "2026-02-03T15:00:00",
+      "end": "2026-02-03T16:20:00",
+      "label": "Sticks N Pucks",
+      "notes": "3:00 PM - 4:20 PM"
+    },
+    {
+      "type": "public_skate",
+      "start": "2026-02-04T15:00:00",
+      "end": "2026-02-04T16:20:00",
+      "label": "Public Skating",
+      "notes": "3:00 PM - 4:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-08T15:00:00",
+      "end": "2026-02-08T16:50:00",
+      "label": "SMH- U11 vs Banff",
+      "notes": "3:00 PM - 4:50 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-02-07T15:15:00",
+      "end": "2026-02-07T16:30:00",
+      "label": "SMH U9 Tournament- Sundre vs Rocky Rams B",
+      "notes": "3:15 PM - 4:30 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-02-05T15:30:00",
+      "end": "2026-02-05T17:00:00",
+      "label": "Rec Hockey",
+      "notes": "3:30 PM - 5:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-06T16:00:00",
+      "end": "2026-02-06T23:00:00",
+      "label": "Clubroom Private Function (AR)",
+      "notes": "4:00 PM - 11:00 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-02-07T16:45:00",
+      "end": "2026-02-07T18:00:00",
+      "label": "SMH U9 Tournament- Sundre vs Duchess Storm",
+      "notes": "4:45 PM - 6:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-02T16:30:00",
+      "end": "2026-02-02T17:20:00",
+      "label": "SMH- Practice U9",
+      "notes": "4:30 PM - 5:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-03T16:30:00",
+      "end": "2026-02-03T17:20:00",
+      "label": "SMH- Practice U7",
+      "notes": "4:30 PM - 5:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-04T16:30:00",
+      "end": "2026-02-04T17:20:00",
+      "label": "SMH- Practice U9",
+      "notes": "4:30 PM - 5:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-05T17:00:00",
+      "end": "2026-02-05T17:50:00",
+      "label": "SMH- Practice U7",
+      "notes": "5:00 PM - 5:50 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-08T17:00:00",
+      "end": "2026-02-08T18:50:00",
+      "label": "SMH- U13 vs Blackfalds",
+      "notes": "5:00 PM - 6:50 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-02-06T17:00:00",
+      "end": "2026-02-06T18:15:00",
+      "label": "SMH U9 Tournament- Sundre vs Sylvan Lake B",
+      "notes": "5:00 PM - 6:15 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-02T17:30:00",
+      "end": "2026-02-02T18:20:00",
+      "label": "SMH- Practice U11",
+      "notes": "5:30 PM - 6:20 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": "2026-02-03T17:30:00",
+      "end": "2026-02-03T18:30:00",
+      "label": "Sundre Skating Club Learn to Skate",
+      "notes": "5:30 PM - 6:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-04T17:30:00",
+      "end": "2026-02-04T18:20:00",
+      "label": "SMH- Practice U11",
+      "notes": "5:30 PM - 6:20 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": "2026-02-05T18:00:00",
+      "end": "2026-02-05T20:00:00",
+      "label": "Sundre Skating Club Star Skate",
+      "notes": "6:00 PM - 8:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-07T18:15:00",
+      "end": "2026-02-07T20:35:00",
+      "label": "SMH U15 vs Canmore",
+      "notes": "6:15 PM - 8:35 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-02T18:30:00",
+      "end": "2026-02-02T19:20:00",
+      "label": "SMH- Practice U13",
+      "notes": "6:30 PM - 7:20 PM"
+    },
+    {
+      "type": "skating_club",
+      "start": "2026-02-03T18:30:00",
+      "end": "2026-02-03T20:00:00",
+      "label": "Sundre Skating Club Star Skate",
+      "notes": "6:30 PM - 8:00 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-04T18:30:00",
+      "end": "2026-02-04T19:20:00",
+      "label": "SMH- Practice U13",
+      "notes": "6:30 PM - 7:20 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-02-06T18:30:00",
+      "end": "2026-02-06T19:45:00",
+      "label": "SMH U9 Tournament- Sundre vs Sylvan Lake A",
+      "notes": "6:30 PM - 7:45 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-02T19:30:00",
+      "end": "2026-02-02T20:20:00",
+      "label": "SMH- Practice U15",
+      "notes": "7:30 PM - 8:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-04T19:30:00",
+      "end": "2026-02-04T20:20:00",
+      "label": "SMH- Practice U15",
+      "notes": "7:30 PM - 8:20 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-02-05T20:00:00",
+      "end": "2026-02-05T21:30:00",
+      "label": "Men's Hockey- Rhinos vs Bombers",
+      "notes": "8:00 PM - 9:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-06T20:00:00",
+      "end": "2026-02-06T22:30:00",
+      "label": "SMH- U18 vs New Sarepta",
+      "notes": "8:00 PM - 10:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-02T20:30:00",
+      "end": "2026-02-02T21:20:00",
+      "label": "SMH- Practice U18",
+      "notes": "8:30 PM - 9:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-04T20:30:00",
+      "end": "2026-02-04T21:20:00",
+      "label": "SMH- Practice U18",
+      "notes": "8:30 PM - 9:20 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-02-07T20:45:00",
+      "end": "2026-02-07T22:15:00",
+      "label": "Men's Hockey- Rams vs Olds Panthers",
+      "notes": "8:45 PM - 10:15 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-02-02T21:30:00",
+      "end": "2026-02-02T23:00:00",
+      "label": "Mens Hockey- Bombers",
+      "notes": "9:30 PM - 11:00 PM"
+    }
+  ]
+}
