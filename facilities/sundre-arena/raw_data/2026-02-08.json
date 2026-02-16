@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-09T09:32:11.639264Z",
+  "generated_at": "2026-02-16T09:30:17.669243Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena",
@@ -15,18 +15,11 @@
   },
   "slots": [
     {
-      "type": "practice",
+      "type": "maintenance",
       "start": "2026-02-12T07:00:00",
       "end": "2026-02-12T12:00:00",
-      "label": "Ice Maintenace",
+      "label": "Ice Maintenance",
       "notes": "7:00 AM - 12:00 PM"
-    },
-    {
-      "type": "game",
-      "start": "2026-02-13T08:00:00",
-      "end": "2026-02-13T23:00:00",
-      "label": "SMH-Tournament U7",
-      "notes": "8:00 AM - 11:00 PM"
     },
     {
       "type": "skating_club",
@@ -37,31 +30,38 @@
     },
     {
       "type": "game",
-      "start": "2026-02-15T08:00:00",
-      "end": "2026-02-15T23:00:00",
-      "label": "SMH-Tournament U",
-      "notes": "8:00 AM - 11:00 PM"
+      "start": "2026-02-14T09:30:00",
+      "end": "2026-02-14T10:45:00",
+      "label": "SMH U7 Tournament- Cochrane B vs Okotoks",
+      "notes": "9:30 AM - 10:45 AM"
     },
     {
       "type": "game",
-      "start": "2026-02-15T08:15:00",
-      "end": "2026-02-15T09:30:00",
-      "label": "SMH-Game U7 Black",
-      "notes": "8:15 AM - 9:30 AM"
+      "start": "2026-02-15T09:30:00",
+      "end": "2026-02-15T10:55:00",
+      "label": "SMH U7 Tournament- Lacombe vs Okotoks",
+      "notes": "9:30 AM - 10:55 AM"
     },
     {
       "type": "game",
-      "start": "2026-02-14T09:00:00",
-      "end": "2026-02-14T23:00:00",
-      "label": "SMH Tournament",
-      "notes": "9:00 AM - 11:00 PM"
+      "start": "2026-02-14T10:45:00",
+      "end": "2026-02-14T12:00:00",
+      "label": "SMH U7 Tournament- Cochrane G vs Lacombe",
+      "notes": "10:45 AM - 12:00 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-02-15T11:00:00",
+      "end": "2026-02-15T12:25:00",
+      "label": "SMH U7 Tournament- Sundre W vs Cochrane G",
+      "notes": "11:00 AM - 12:25 PM"
     },
     {
       "type": "practice",
       "start": "2026-02-09T13:00:00",
-      "end": "2026-02-09T14:00:00",
-      "label": "Deer Valley Ice Time",
-      "notes": "1:00 PM - 2:00 PM"
+      "end": "2026-02-09T15:00:00",
+      "label": "River Valley Ice Time",
+      "notes": "1:00 PM - 3:00 PM"
     },
     {
       "type": "shinny",
@@ -79,17 +79,31 @@
     },
     {
       "type": "game",
-      "start": "2026-02-15T12:35:00",
-      "end": "2026-02-15T13:50:00",
-      "label": "SMH-Game U9W",
-      "notes": "12:35 PM - 1:50 PM"
+      "start": "2026-02-14T12:45:00",
+      "end": "2026-02-14T14:45:00",
+      "label": "SMH U7 Tournament- Olds vs Okotoks",
+      "notes": "12:45 PM - 2:45 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-02-15T12:45:00",
+      "end": "2026-02-15T13:55:00",
+      "label": "SMH U7 Tournament- Carstairs vs Cochrane B",
+      "notes": "12:45 PM - 1:55 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-02-14T13:45:00",
+      "end": "2026-02-14T14:45:00",
+      "label": "SMH U7 Tournament- Sundre W vs Carstairs",
+      "notes": "1:45 PM - 2:45 PM"
     },
     {
       "type": "game",
       "start": "2026-02-15T14:00:00",
-      "end": "2026-02-15T15:50:00",
-      "label": "SMH-Game U11",
-      "notes": "2:00 PM - 3:50 PM"
+      "end": "2026-02-15T15:25:00",
+      "label": "SMH U7 Tournament- Cochrane G vs Olds",
+      "notes": "2:00 PM - 3:25 PM"
     },
     {
       "type": "stick_and_puck",
@@ -106,24 +120,31 @@
       "notes": "3:00 PM - 4:20 PM"
     },
     {
-      "type": "adult_rec",
-      "start": "2026-02-12T15:30:00",
-      "end": "2026-02-12T18:00:00",
-      "label": "Rec Hockey",
-      "notes": "3:30 PM - 6:00 PM"
+      "type": "game",
+      "start": "2026-02-14T15:15:00",
+      "end": "2026-02-14T16:30:00",
+      "label": "SMH U7 Tournament- Sundre B vs Olds",
+      "notes": "3:15 PM - 4:30 PM"
     },
     {
-      "type": "practice",
-      "start": "2026-02-13T16:00:00",
-      "end": "2026-02-13T23:00:00",
-      "label": "Clubroom Private Function (AR)",
-      "notes": "4:00 PM - 11:00 PM"
+      "type": "adult_rec",
+      "start": "2026-02-12T15:30:00",
+      "end": "2026-02-12T17:00:00",
+      "label": "Rec Hockey",
+      "notes": "3:30 PM - 5:00 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-02-15T15:45:00",
+      "end": "2026-02-15T17:00:00",
+      "label": "SMH U7 Tournament- Sundre B vs Lacombe",
+      "notes": "3:45 PM - 5:00 PM"
     },
     {
       "type": "practice",
       "start": "2026-02-09T16:30:00",
       "end": "2026-02-09T17:20:00",
-      "label": "SMH- Practice U9",
+      "label": "SMH- Practice U9- CANCELLED",
       "notes": "4:30 PM - 5:20 PM"
     },
     {
@@ -141,6 +162,13 @@
       "notes": "4:30 PM - 5:20 PM"
     },
     {
+      "type": "game",
+      "start": "2026-02-14T16:30:00",
+      "end": "2026-02-14T17:45:00",
+      "label": "SMH U7 Tournament- Carstairs vs Lacombe",
+      "notes": "4:30 PM - 5:45 PM"
+    },
+    {
       "type": "practice",
       "start": "2026-02-12T17:00:00",
       "end": "2026-02-12T17:50:00",
@@ -148,11 +176,18 @@
       "notes": "5:00 PM - 5:50 PM"
     },
     {
+      "type": "game",
+      "start": "2026-02-15T17:00:00",
+      "end": "2026-02-15T19:20:00",
+      "label": "SMH Game- U18 vs West 39",
+      "notes": "5:00 PM - 7:20 PM"
+    },
+    {
       "type": "practice",
       "start": "2026-02-09T17:30:00",
-      "end": "2026-02-09T18:20:00",
+      "end": "2026-02-09T18:30:00",
       "label": "SMH- Practice U11",
-      "notes": "5:30 PM - 6:20 PM"
+      "notes": "5:30 PM - 6:30 PM"
     },
     {
       "type": "skating_club",
@@ -167,6 +202,13 @@
       "end": "2026-02-11T18:20:00",
       "label": "SMH- Practice U11",
       "notes": "5:30 PM - 6:20 PM"
+    },
+    {
+      "type": "game",
+      "start": "2026-02-13T17:30:00",
+      "end": "2026-02-13T18:45:00",
+      "label": "SMH U7 Tournament- Sundre B vs Sundre W",
+      "notes": "5:30 PM - 6:45 PM"
     },
     {
       "type": "skating_club",
@@ -197,18 +239,39 @@
       "notes": "6:30 PM - 7:20 PM"
     },
     {
+      "type": "game",
+      "start": "2026-02-13T18:45:00",
+      "end": "2026-02-13T20:45:00",
+      "label": "SMH Game- U13 vs Cremona",
+      "notes": "6:45 PM - 8:45 PM"
+    },
+    {
       "type": "practice",
       "start": "2026-02-09T19:30:00",
       "end": "2026-02-09T20:20:00",
-      "label": "SMH-Practice U15",
+      "label": "SMH- Practice U15",
       "notes": "7:30 PM - 8:20 PM"
     },
     {
       "type": "practice",
       "start": "2026-02-11T19:30:00",
       "end": "2026-02-11T20:20:00",
-      "label": "SMH-Practice U15",
+      "label": "SMH- Practice U15",
       "notes": "7:30 PM - 8:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-12T20:00:00",
+      "end": "2026-02-12T21:30:00",
+      "label": "Man's Hockey- Rhinos vs Sundre Ice",
+      "notes": "8:00 PM - 9:30 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-09T20:30:00",
+      "end": "2026-02-09T21:20:00",
+      "label": "SMH- Practice U18",
+      "notes": "8:30 PM - 9:20 PM"
     },
     {
       "type": "adult_rec",
@@ -218,32 +281,18 @@
       "notes": "8:00 PM - 9:30 PM"
     },
     {
-      "type": "adult_rec",
-      "start": "2026-02-12T20:00:00",
-      "end": "2026-02-12T21:30:00",
-      "label": "Men's Hockey-Rhinos vs Sundre Ice",
-      "notes": "8:00 PM - 9:30 PM"
-    },
-    {
-      "type": "adult_rec",
-      "start": "2026-02-15T20:00:00",
-      "end": "2026-02-15T21:30:00",
-      "label": "Mens Hockey- Ice Men's vs Bombers",
-      "notes": "8:00 PM - 9:30 PM"
-    },
-    {
-      "type": "practice",
-      "start": "2026-02-09T20:30:00",
-      "end": "2026-02-09T21:20:00",
-      "label": "SMH-Practice U18",
-      "notes": "8:30 PM - 9:20 PM"
-    },
-    {
       "type": "practice",
       "start": "2026-02-11T20:30:00",
       "end": "2026-02-11T21:20:00",
-      "label": "SMH-Practice U18",
+      "label": "SMH- Practice U18",
       "notes": "8:30 PM - 9:20 PM"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-15T20:00:00",
+      "end": "2026-02-15T21:30:00",
+      "label": "Mans Hockey- Ice Man's vs Bombers",
+      "notes": "8:00 PM - 9:30 PM"
     },
     {
       "type": "adult_rec",
