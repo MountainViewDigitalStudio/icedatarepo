@@ -1,18 +1,36 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-16T09:31:49.076032Z",
+  "generated_at": "2026-02-16T09:31:49.076541Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena"
   },
   "week": {
-    "start_date": "2026-02-22",
-    "end_date": "2026-02-28"
+    "start_date": "2026-03-01",
+    "end_date": "2026-03-07"
   },
   "slots": [
     {
-      "start": "2026-02-22T08:00:00-07:00",
-      "end": "2026-02-22T16:00:00-07:00",
+      "start": "2026-03-01T09:30:00-07:00",
+      "end": "2026-03-01T10:30:00-07:00",
+      "type": "games",
+      "label": "U9 vs Sundre",
+      "notes": "GAMES - U9 vs Sundre",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-03-01T10:30:00-07:00",
+      "end": "2026-03-01T11:00:00-07:00",
+      "type": "games",
+      "label": "GAMES - U9 BOARDS + FLOOD",
+      "notes": "GAMES - U9 BOARDS + FLOOD",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-03-01T11:00:00-07:00",
+      "end": "2026-03-01T17:45:00-07:00",
       "type": "games",
       "label": "Playoff Ice - playoff ice",
       "notes": "Playoff Ice - playoff ice",
@@ -20,17 +38,8 @@
       "type_display": "Games"
     },
     {
-      "start": "2026-02-22T16:15:00-07:00",
-      "end": "2026-02-22T18:00:00-07:00",
-      "type": "other",
-      "label": "Sundre Rec",
-      "notes": "Sundre Rec",
-      "color": "#64748B",
-      "type_display": "Other"
-    },
-    {
-      "start": "2026-02-22T18:00:00-07:00",
-      "end": "2026-02-22T19:00:00-07:00",
+      "start": "2026-03-01T18:00:00-07:00",
+      "end": "2026-03-01T19:00:00-07:00",
       "type": "public",
       "label": "Public Skating",
       "notes": "Public Skating",
@@ -38,8 +47,8 @@
       "type_display": "Public / Family"
     },
     {
-      "start": "2026-02-22T19:00:00-07:00",
-      "end": "2026-02-22T19:15:00-07:00",
+      "start": "2026-03-01T19:00:00-07:00",
+      "end": "2026-03-01T19:15:00-07:00",
       "type": "public",
       "label": "Public Skating",
       "notes": "Public Skating - FLOOD",
@@ -47,8 +56,8 @@
       "type_display": "Public / Family"
     },
     {
-      "start": "2026-02-22T19:15:00-07:00",
-      "end": "2026-02-22T20:15:00-07:00",
+      "start": "2026-03-01T19:15:00-07:00",
+      "end": "2026-03-01T20:15:00-07:00",
       "type": "adult_rec",
       "label": "Hockey - Gmen",
       "notes": "Mens Hockey - Gmen",
@@ -56,8 +65,8 @@
       "type_display": "Adult Rec Hockey"
     },
     {
-      "start": "2026-02-22T20:15:00-07:00",
-      "end": "2026-02-22T20:30:00-07:00",
+      "start": "2026-03-01T20:15:00-07:00",
+      "end": "2026-03-01T20:30:00-07:00",
       "type": "adult_rec",
       "label": "Hockey - Flood",
       "notes": "Mens Hockey - Flood",
@@ -65,26 +74,8 @@
       "type_display": "Adult Rec Hockey"
     },
     {
-      "start": "2026-02-22T20:30:00-07:00",
-      "end": "2026-02-22T22:00:00-07:00",
-      "type": "adult_rec",
-      "label": "Hockey - Stray Cats",
-      "notes": "Mens Hockey - Stray Cats",
-      "color": "#F59E0B",
-      "type_display": "Adult Rec Hockey"
-    },
-    {
-      "start": "2026-02-22T22:00:00-07:00",
-      "end": "2026-02-22T22:15:00-07:00",
-      "type": "adult_rec",
-      "label": "Hockey - Flood",
-      "notes": "Mens Hockey - Flood",
-      "color": "#F59E0B",
-      "type_display": "Adult Rec Hockey"
-    },
-    {
-      "start": "2026-02-23T15:45:00-07:00",
-      "end": "2026-02-23T16:45:00-07:00",
+      "start": "2026-03-02T15:45:00-07:00",
+      "end": "2026-03-02T16:45:00-07:00",
       "type": "practice",
       "label": "Hockey - PRACTICES - U5/U7 No flood",
       "notes": "PRACTICES - U5/U7 No flood",
@@ -92,8 +83,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-23T16:45:00-07:00",
-      "end": "2026-02-23T17:45:00-07:00",
+      "start": "2026-03-02T16:45:00-07:00",
+      "end": "2026-03-02T17:45:00-07:00",
       "type": "practice",
       "label": "Hockey - PRACTICES - U9 No flood",
       "notes": "PRACTICES - U9 No flood",
@@ -101,8 +92,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-23T17:45:00-07:00",
-      "end": "2026-02-23T18:45:00-07:00",
+      "start": "2026-03-02T17:45:00-07:00",
+      "end": "2026-03-02T18:45:00-07:00",
       "type": "practice",
       "label": "Hockey - PRACTICES - U11 C",
       "notes": "PRACTICES - U11 C",
@@ -110,8 +101,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-23T18:45:00-07:00",
-      "end": "2026-02-23T19:00:00-07:00",
+      "start": "2026-03-02T18:45:00-07:00",
+      "end": "2026-03-02T19:00:00-07:00",
       "type": "practice",
       "label": "Hockey - PRACTICES - Flood",
       "notes": "PRACTICES - Flood",
@@ -119,8 +110,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-23T19:00:00-07:00",
-      "end": "2026-02-23T20:00:00-07:00",
+      "start": "2026-03-02T19:00:00-07:00",
+      "end": "2026-03-02T20:00:00-07:00",
       "type": "practice",
       "label": "Hockey - PRACTICES - U11 A",
       "notes": "PRACTICES - U11 A",
@@ -128,8 +119,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-23T20:00:00-07:00",
-      "end": "2026-02-23T20:15:00-07:00",
+      "start": "2026-03-02T20:00:00-07:00",
+      "end": "2026-03-02T20:15:00-07:00",
       "type": "practice",
       "label": "Hockey - PRACTICES - Flood",
       "notes": "PRACTICES - Flood",
@@ -137,8 +128,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-23T20:15:00-07:00",
-      "end": "2026-02-23T21:15:00-07:00",
+      "start": "2026-03-02T20:15:00-07:00",
+      "end": "2026-03-02T21:15:00-07:00",
       "type": "practice",
       "label": "Hockey - PRACTICES - U15",
       "notes": "PRACTICES - U15",
@@ -146,8 +137,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-23T21:15:00-07:00",
-      "end": "2026-02-23T21:30:00-07:00",
+      "start": "2026-03-02T21:15:00-07:00",
+      "end": "2026-03-02T21:30:00-07:00",
       "type": "practice",
       "label": "Hockey - PRACTICES - Flood",
       "notes": "PRACTICES - Flood",
@@ -155,8 +146,62 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-23T21:30:00-07:00",
-      "end": "2026-02-23T22:45:00-07:00",
+      "start": "2026-03-03T16:30:00-07:00",
+      "end": "2026-03-03T17:15:00-07:00",
+      "type": "skating_club",
+      "label": "Hockey - Practice Ice - Learn to Skate",
+      "notes": "Practice Ice - Learn to Skate",
+      "color": "#06B6D4",
+      "type_display": "Skating Club / Programs"
+    },
+    {
+      "start": "2026-03-03T17:15:00-07:00",
+      "end": "2026-03-03T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - FLOOD",
+      "notes": "Practice Ice - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-03-03T17:30:00-07:00",
+      "end": "2026-03-03T18:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Preliminary Skate",
+      "notes": "Practice Ice - Preliminary Skate",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-03-03T18:45:00-07:00",
+      "end": "2026-03-03T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - FLOOD",
+      "notes": "Practice Ice - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-03-03T19:00:00-07:00",
+      "end": "2026-03-03T20:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - Junior Skate",
+      "notes": "Practice Ice - Junior Skate",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-03-03T20:30:00-07:00",
+      "end": "2026-03-03T20:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Practice Ice - FLOOD",
+      "notes": "Practice Ice - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-03-03T20:45:00-07:00",
+      "end": "2026-03-03T22:00:00-07:00",
       "type": "practice",
       "label": "Hockey - PRACTICES - U18",
       "notes": "PRACTICES - U18",
@@ -164,89 +209,17 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-23T22:45:00-07:00",
-      "end": "2026-02-23T23:00:00-07:00",
+      "start": "2026-03-03T22:00:00-07:00",
+      "end": "2026-03-03T22:15:00-07:00",
       "type": "practice",
-      "label": "Hockey - PRACTICES - Flood",
-      "notes": "PRACTICES - Flood",
+      "label": "Hockey - PRACTICES",
+      "notes": "PRACTICES",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-24T16:30:00-07:00",
-      "end": "2026-02-24T17:15:00-07:00",
-      "type": "skating_club",
-      "label": "Hockey - Practice Ice - Learn to Skate",
-      "notes": "Practice Ice - Learn to Skate",
-      "color": "#06B6D4",
-      "type_display": "Skating Club / Programs"
-    },
-    {
-      "start": "2026-02-24T17:15:00-07:00",
-      "end": "2026-02-24T17:30:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Practice Ice - FLOOD",
-      "notes": "Practice Ice - FLOOD",
-      "color": "#8B5CF6",
-      "type_display": "Practice / Other"
-    },
-    {
-      "start": "2026-02-24T17:30:00-07:00",
-      "end": "2026-02-24T18:45:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Practice Ice - Preliminary Skate",
-      "notes": "Practice Ice - Preliminary Skate",
-      "color": "#8B5CF6",
-      "type_display": "Practice / Other"
-    },
-    {
-      "start": "2026-02-24T18:45:00-07:00",
-      "end": "2026-02-24T19:00:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Practice Ice - FLOOD",
-      "notes": "Practice Ice - FLOOD",
-      "color": "#8B5CF6",
-      "type_display": "Practice / Other"
-    },
-    {
-      "start": "2026-02-24T19:00:00-07:00",
-      "end": "2026-02-24T20:30:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Practice Ice - Junior Skate",
-      "notes": "Practice Ice - Junior Skate",
-      "color": "#8B5CF6",
-      "type_display": "Practice / Other"
-    },
-    {
-      "start": "2026-02-24T20:30:00-07:00",
-      "end": "2026-02-24T20:45:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Practice Ice - FLOOD",
-      "notes": "Practice Ice - FLOOD",
-      "color": "#8B5CF6",
-      "type_display": "Practice / Other"
-    },
-    {
-      "start": "2026-02-24T20:45:00-07:00",
-      "end": "2026-02-24T22:15:00-07:00",
-      "type": "shinny",
-      "label": "Hockey - Mens Hockey- Mighty Pucks",
-      "notes": "Mens Hockey- Mighty Pucks",
-      "color": "#3B82F6",
-      "type_display": "Shinny / Stick & Puck"
-    },
-    {
-      "start": "2026-02-24T22:15:00-07:00",
-      "end": "2026-02-24T22:30:00-07:00",
-      "type": "shinny",
-      "label": "Hockey - Mens Hockey- Mighty Pucks - Flood",
-      "notes": "Mens Hockey- Mighty Pucks - Flood",
-      "color": "#3B82F6",
-      "type_display": "Shinny / Stick & Puck"
-    },
-    {
-      "start": "2026-02-25T15:45:00-07:00",
-      "end": "2026-02-25T16:45:00-07:00",
+      "start": "2026-03-04T15:45:00-07:00",
+      "end": "2026-03-04T16:45:00-07:00",
       "type": "practice",
       "label": "Hockey - PRACTICES - U5 / U7 no flood",
       "notes": "PRACTICES - U5 / U7 no flood",
@@ -254,8 +227,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-25T16:45:00-07:00",
-      "end": "2026-02-25T17:45:00-07:00",
+      "start": "2026-03-04T16:45:00-07:00",
+      "end": "2026-03-04T17:45:00-07:00",
       "type": "practice",
       "label": "Hockey - PRACTICES - U9 no flood",
       "notes": "PRACTICES - U9 no flood",
@@ -263,8 +236,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-25T17:45:00-07:00",
-      "end": "2026-02-25T18:45:00-07:00",
+      "start": "2026-03-04T17:45:00-07:00",
+      "end": "2026-03-04T18:45:00-07:00",
       "type": "practice",
       "label": "Hockey - PRACTICES - U11 B",
       "notes": "PRACTICES - U11 B",
@@ -272,8 +245,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-25T18:45:00-07:00",
-      "end": "2026-02-25T19:00:00-07:00",
+      "start": "2026-03-04T18:45:00-07:00",
+      "end": "2026-03-04T19:00:00-07:00",
       "type": "practice",
       "label": "Hockey - PRACTICES - Flood",
       "notes": "PRACTICES - Flood",
@@ -281,8 +254,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-25T19:00:00-07:00",
-      "end": "2026-02-25T20:00:00-07:00",
+      "start": "2026-03-04T19:00:00-07:00",
+      "end": "2026-03-04T20:00:00-07:00",
       "type": "practice",
       "label": "Hockey - PRACTICES - U13",
       "notes": "PRACTICES - U13",
@@ -290,8 +263,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-25T20:00:00-07:00",
-      "end": "2026-02-25T20:15:00-07:00",
+      "start": "2026-03-04T20:00:00-07:00",
+      "end": "2026-03-04T20:15:00-07:00",
       "type": "practice",
       "label": "Hockey - PRACTICES - Flood",
       "notes": "PRACTICES - Flood",
@@ -299,26 +272,26 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-25T20:15:00-07:00",
-      "end": "2026-02-25T21:30:00-07:00",
+      "start": "2026-03-04T20:15:00-07:00",
+      "end": "2026-03-04T21:30:00-07:00",
       "type": "adult_rec",
-      "label": "Hockey - Cowboys",
-      "notes": "Mens Hockey - Cowboys",
+      "label": "Hockey - Mens Adult  Good Timers",
+      "notes": "Mens Adult Hockey - Good Timers",
       "color": "#F59E0B",
       "type_display": "Adult Rec Hockey"
     },
     {
-      "start": "2026-02-25T21:30:00-07:00",
-      "end": "2026-02-25T21:45:00-07:00",
+      "start": "2026-03-04T21:30:00-07:00",
+      "end": "2026-03-04T21:45:00-07:00",
       "type": "adult_rec",
-      "label": "Hockey - Flood",
-      "notes": "Mens Hockey - Flood",
+      "label": "Hockey - Mens Adult  Flood",
+      "notes": "Mens Adult Hockey - Flood",
       "color": "#F59E0B",
       "type_display": "Adult Rec Hockey"
     },
     {
-      "start": "2026-02-26T16:30:00-07:00",
-      "end": "2026-02-26T17:15:00-07:00",
+      "start": "2026-03-05T16:30:00-07:00",
+      "end": "2026-03-05T17:15:00-07:00",
       "type": "skating_club",
       "label": "Hockey - Practice Ice - Learn to Skate",
       "notes": "Practice Ice - Learn to Skate",
@@ -326,8 +299,8 @@
       "type_display": "Skating Club / Programs"
     },
     {
-      "start": "2026-02-26T17:15:00-07:00",
-      "end": "2026-02-26T17:30:00-07:00",
+      "start": "2026-03-05T17:15:00-07:00",
+      "end": "2026-03-05T17:30:00-07:00",
       "type": "practice",
       "label": "Hockey - Practice Ice - FLOOD",
       "notes": "Practice Ice - FLOOD",
@@ -335,8 +308,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-26T17:30:00-07:00",
-      "end": "2026-02-26T18:45:00-07:00",
+      "start": "2026-03-05T17:30:00-07:00",
+      "end": "2026-03-05T18:45:00-07:00",
       "type": "practice",
       "label": "Hockey - Practice Ice - Preliminary Skate",
       "notes": "Practice Ice - Preliminary Skate",
@@ -344,8 +317,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-26T18:45:00-07:00",
-      "end": "2026-02-26T19:00:00-07:00",
+      "start": "2026-03-05T18:45:00-07:00",
+      "end": "2026-03-05T19:00:00-07:00",
       "type": "practice",
       "label": "Hockey - Practice Ice - FLOOD",
       "notes": "Practice Ice - FLOOD",
@@ -353,8 +326,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-26T19:00:00-07:00",
-      "end": "2026-02-26T20:30:00-07:00",
+      "start": "2026-03-05T19:00:00-07:00",
+      "end": "2026-03-05T20:30:00-07:00",
       "type": "practice",
       "label": "Hockey - Practice Ice - Junior Skate",
       "notes": "Practice Ice - Junior Skate",
@@ -362,8 +335,17 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-26T20:30:00-07:00",
-      "end": "2026-02-26T20:45:00-07:00",
+      "start": "2026-03-05T19:00:00-07:00",
+      "end": "2026-03-05T21:00:00-07:00",
+      "type": "other",
+      "label": "Caroline Dance West Meeting",
+      "notes": "Caroline Dance West Meeting",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-03-05T20:30:00-07:00",
+      "end": "2026-03-05T20:45:00-07:00",
       "type": "practice",
       "label": "Hockey - Practice Ice - FLOOD",
       "notes": "Practice Ice - FLOOD",
@@ -371,8 +353,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-02-26T20:45:00-07:00",
-      "end": "2026-02-26T22:15:00-07:00",
+      "start": "2026-03-05T20:45:00-07:00",
+      "end": "2026-03-05T22:15:00-07:00",
       "type": "adult_rec",
       "label": "Hockey - Jr Wranglers",
       "notes": "Mens Hockey - Jr Wranglers",
@@ -380,8 +362,8 @@
       "type_display": "Adult Rec Hockey"
     },
     {
-      "start": "2026-02-26T22:15:00-07:00",
-      "end": "2026-02-26T22:30:00-07:00",
+      "start": "2026-03-05T22:15:00-07:00",
+      "end": "2026-03-05T22:30:00-07:00",
       "type": "adult_rec",
       "label": "Hockey - Flood",
       "notes": "Mens Hockey - Flood",
@@ -389,8 +371,17 @@
       "type_display": "Adult Rec Hockey"
     },
     {
-      "start": "2026-02-27T17:00:00-07:00",
-      "end": "2026-02-27T18:00:00-07:00",
+      "start": "2026-03-06T12:00:00-07:00",
+      "end": "2026-03-06T20:00:00-07:00",
+      "type": "other",
+      "label": "Caroline Dance West Meeting - Dance photos",
+      "notes": "Caroline Dance West Meeting - Dance photos",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-03-06T17:00:00-07:00",
+      "end": "2026-03-06T18:00:00-07:00",
       "type": "shinny",
       "label": "Sticks & Pucks",
       "notes": "Sticks & Pucks",
@@ -398,8 +389,8 @@
       "type_display": "Shinny / Stick & Puck"
     },
     {
-      "start": "2026-02-27T18:00:00-07:00",
-      "end": "2026-02-27T18:15:00-07:00",
+      "start": "2026-03-06T18:00:00-07:00",
+      "end": "2026-03-06T18:15:00-07:00",
       "type": "shinny",
       "label": "Maintenance",
       "notes": "Sticks & Pucks - FLOOD",
@@ -407,17 +398,44 @@
       "type_display": "Shinny / Stick & Puck"
     },
     {
-      "start": "2026-02-27T19:00:00-07:00",
-      "end": "2026-02-27T21:45:00-07:00",
-      "type": "games",
-      "label": "Playoff Ice - playoff ice",
-      "notes": "Playoff Ice - playoff ice",
-      "color": "#EF4444",
-      "type_display": "Games"
+      "start": "2026-03-06T19:15:00-07:00",
+      "end": "2026-03-06T20:45:00-07:00",
+      "type": "adult_rec",
+      "label": "Hockey - Stauffer Pond Scratchers",
+      "notes": "Mens Hockey - Stauffer Pond Scratchers",
+      "color": "#F59E0B",
+      "type_display": "Adult Rec Hockey"
     },
     {
-      "start": "2026-02-28T08:00:00-07:00",
-      "end": "2026-02-28T21:00:00-07:00",
+      "start": "2026-03-06T20:45:00-07:00",
+      "end": "2026-03-06T21:00:00-07:00",
+      "type": "adult_rec",
+      "label": "Hockey - Flood",
+      "notes": "Mens Hockey - Flood",
+      "color": "#F59E0B",
+      "type_display": "Adult Rec Hockey"
+    },
+    {
+      "start": "2026-03-06T21:00:00-07:00",
+      "end": "2026-03-06T22:15:00-07:00",
+      "type": "adult_rec",
+      "label": "Hockey - Woodland Wilds",
+      "notes": "Mens Hockey - Woodland Wilds",
+      "color": "#F59E0B",
+      "type_display": "Adult Rec Hockey"
+    },
+    {
+      "start": "2026-03-06T22:15:00-07:00",
+      "end": "2026-03-06T22:30:00-07:00",
+      "type": "adult_rec",
+      "label": "Hockey - FLOOD",
+      "notes": "Mens Hockey - FLOOD",
+      "color": "#F59E0B",
+      "type_display": "Adult Rec Hockey"
+    },
+    {
+      "start": "2026-03-07T08:00:00-07:00",
+      "end": "2026-03-07T20:00:00-07:00",
       "type": "games",
       "label": "Playoff Ice - playoff ice",
       "notes": "Playoff Ice - playoff ice",

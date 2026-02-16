@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-09T09:34:41.282032Z",
+  "generated_at": "2026-02-16T09:31:49.035386Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena"
@@ -67,9 +67,9 @@
     {
       "type": "other",
       "start": "2026-02-09T13:00:00",
-      "end": "2026-02-09T14:00:00",
-      "label": "Deer Valley Ice Time",
-      "notes": "1:00 PM - 2:00 PM",
+      "end": "2026-02-09T15:00:00",
+      "label": "River Valley Ice Time",
+      "notes": "1:00 PM - 3:00 PM",
       "color": "#64748B",
       "type_display": "Other"
     },
@@ -77,7 +77,7 @@
       "type": "practice",
       "start": "2026-02-09T16:30:00",
       "end": "2026-02-09T17:20:00",
-      "label": "SMH- Practice U9",
+      "label": "SMH- Practice U9- CANCELLED",
       "notes": "4:30 PM - 5:20 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
@@ -85,9 +85,9 @@
     {
       "type": "practice",
       "start": "2026-02-09T17:30:00",
-      "end": "2026-02-09T18:20:00",
+      "end": "2026-02-09T18:30:00",
       "label": "SMH- Practice U11",
-      "notes": "5:30 PM - 6:20 PM",
+      "notes": "5:30 PM - 6:30 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
     },
@@ -104,7 +104,7 @@
       "type": "practice",
       "start": "2026-02-09T19:30:00",
       "end": "2026-02-09T20:20:00",
-      "label": "SMH-Practice U15",
+      "label": "SMH- Practice U15",
       "notes": "7:30 PM - 8:20 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
@@ -113,7 +113,7 @@
       "type": "practice",
       "start": "2026-02-09T20:30:00",
       "end": "2026-02-09T21:20:00",
-      "label": "SMH-Practice U18",
+      "label": "SMH- Practice U18",
       "notes": "8:30 PM - 9:20 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
@@ -230,7 +230,7 @@
       "type": "practice",
       "start": "2026-02-11T19:30:00",
       "end": "2026-02-11T20:20:00",
-      "label": "SMH-Practice U15",
+      "label": "SMH- Practice U15",
       "notes": "7:30 PM - 8:20 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
@@ -239,26 +239,26 @@
       "type": "practice",
       "start": "2026-02-11T20:30:00",
       "end": "2026-02-11T21:20:00",
-      "label": "SMH-Practice U18",
+      "label": "SMH- Practice U18",
       "notes": "8:30 PM - 9:20 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
     },
     {
-      "type": "other",
+      "type": "maintenance",
       "start": "2026-02-12T07:00:00",
       "end": "2026-02-12T12:00:00",
-      "label": "Ice Maintenace",
+      "label": "Ice Maintenance",
       "notes": "7:00 AM - 12:00 PM",
-      "color": "#64748B",
-      "type_display": "Other"
+      "color": "#6B7280",
+      "type_display": "Maintenance"
     },
     {
       "type": "adult_rec",
       "start": "2026-02-12T15:30:00",
-      "end": "2026-02-12T18:00:00",
+      "end": "2026-02-12T17:00:00",
       "label": "Rec Hockey",
-      "notes": "3:30 PM - 6:00 PM",
+      "notes": "3:30 PM - 5:00 PM",
       "color": "#F59E0B",
       "type_display": "Adult Rec Hockey"
     },
@@ -284,28 +284,28 @@
       "type": "games",
       "start": "2026-02-12T20:00:00",
       "end": "2026-02-12T21:30:00",
-      "label": "Men's Hockey-Rhinos vs Sundre Ice",
+      "label": "Man's Hockey- Rhinos vs Sundre Ice",
       "notes": "8:00 PM - 9:30 PM",
       "color": "#EF4444",
       "type_display": "Games"
     },
     {
       "type": "games",
-      "start": "2026-02-13T08:00:00",
-      "end": "2026-02-13T23:00:00",
-      "label": "SMH-Tournament U7",
-      "notes": "8:00 AM - 11:00 PM",
+      "start": "2026-02-13T17:30:00",
+      "end": "2026-02-13T18:45:00",
+      "label": "SMH U7 Tournament- Sundre B vs Sundre W",
+      "notes": "5:30 PM - 6:45 PM",
       "color": "#EF4444",
       "type_display": "Games"
     },
     {
-      "type": "rentals",
-      "start": "2026-02-13T16:00:00",
-      "end": "2026-02-13T23:00:00",
-      "label": "Clubroom Private Function (AR)",
-      "notes": "4:00 PM - 11:00 PM",
-      "color": "#F97316",
-      "type_display": "Rentals"
+      "type": "games",
+      "start": "2026-02-13T18:45:00",
+      "end": "2026-02-13T20:45:00",
+      "label": "SMH Game- U13 vs Cremona",
+      "notes": "6:45 PM - 8:45 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
     },
     {
       "type": "games",
@@ -327,10 +327,55 @@
     },
     {
       "type": "games",
-      "start": "2026-02-14T09:00:00",
-      "end": "2026-02-14T23:00:00",
-      "label": "SMH Tournament",
-      "notes": "9:00 AM - 11:00 PM",
+      "start": "2026-02-14T09:30:00",
+      "end": "2026-02-14T10:45:00",
+      "label": "SMH U7 Tournament- Cochrane B vs Okotoks",
+      "notes": "9:30 AM - 10:45 AM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "games",
+      "start": "2026-02-14T10:45:00",
+      "end": "2026-02-14T12:00:00",
+      "label": "SMH U7 Tournament- Cochrane G vs Lacombe",
+      "notes": "10:45 AM - 12:00 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "games",
+      "start": "2026-02-14T12:45:00",
+      "end": "2026-02-14T14:45:00",
+      "label": "SMH U7 Tournament- Olds vs Okotoks",
+      "notes": "12:45 PM - 2:45 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "games",
+      "start": "2026-02-14T13:45:00",
+      "end": "2026-02-14T14:45:00",
+      "label": "SMH U7 Tournament- Sundre W vs Carstairs",
+      "notes": "1:45 PM - 2:45 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "games",
+      "start": "2026-02-14T15:15:00",
+      "end": "2026-02-14T16:30:00",
+      "label": "SMH U7 Tournament- Sundre B vs Olds",
+      "notes": "3:15 PM - 4:30 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "games",
+      "start": "2026-02-14T16:30:00",
+      "end": "2026-02-14T17:45:00",
+      "label": "SMH U7 Tournament- Carstairs vs Lacombe",
+      "notes": "4:30 PM - 5:45 PM",
       "color": "#EF4444",
       "type_display": "Games"
     }

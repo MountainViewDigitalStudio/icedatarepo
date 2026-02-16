@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-09T09:34:41.379507Z",
+  "generated_at": "2026-02-16T09:31:49.142565Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
@@ -53,11 +53,23 @@
       "city": null,
       "type": "shinny",
       "start": "2026-02-16T12:00:00-07:00",
-      "end": "2026-02-16T13:00:00-07:00",
+      "end": "2026-02-16T14:00:00-07:00",
       "label": "Sticks and Pucks",
       "notes": "Sticks and Pucks",
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-02-16T13:00:00-07:00",
+      "end": "2026-02-16T15:00:00-07:00",
+      "label": "Family Day Public Skating",
+      "notes": "Family Day Public Skating",
+      "color": "#10B981",
+      "type_display": "Public / Family"
     },
     {
       "facility_id": "kurt-browning-arena",
@@ -72,16 +84,16 @@
       "type_display": "Public / Family"
     },
     {
-      "facility_id": "olds-sportsplex",
-      "facility_name": "Olds Sportsplex",
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
       "city": null,
-      "type": "shinny",
-      "start": "2026-02-16T21:45:00-07:00",
-      "end": "2026-02-16T23:00:00-07:00",
-      "label": "Vercaigne Shinny Feb 2026 PD",
-      "notes": "Vercaigne Shinny Feb 2026 PD",
-      "color": "#3B82F6",
-      "type_display": "Shinny / Stick & Puck"
+      "type": "public",
+      "start": "2026-02-16T15:00:00",
+      "end": "2026-02-16T16:20:00",
+      "label": "Free Public Skating (Winterfest)",
+      "notes": "3:00 PM - 4:20 PM",
+      "color": "#10B981",
+      "type_display": "Public / Family"
     },
     {
       "facility_id": "olds-sportsplex",
@@ -92,6 +104,42 @@
       "end": "2026-02-17T13:00:00-07:00",
       "label": "Public Skating",
       "notes": "Public Skating",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-02-17T13:00:00",
+      "end": "2026-02-17T14:45:00",
+      "label": "Adult Shinny",
+      "notes": "1:00 PM - 2:45 PM",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-02-17T15:00:00",
+      "end": "2026-02-17T16:20:00",
+      "label": "Sticks N Pucks",
+      "notes": "3:00 PM - 4:20 PM",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "public",
+      "start": "2026-02-17T16:30:00-07:00",
+      "end": "2026-02-17T18:30:00-07:00",
+      "label": "Ice Rental",
+      "notes": "Free Skate",
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -108,6 +156,30 @@
       "type_display": "Shinny / Stick & Puck"
     },
     {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "public",
+      "start": "2026-02-18T13:30:00-07:00",
+      "end": "2026-02-18T15:30:00-07:00",
+      "label": "Ice Rental",
+      "notes": "Free Skate",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "public",
+      "start": "2026-02-18T14:00:00",
+      "end": "2026-02-18T16:00:00",
+      "label": "GNC- Family Skate (invoice)",
+      "notes": "2:00 PM - 4:00 PM",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
       "facility_id": "olds-sportsplex",
       "facility_name": "Olds Sportsplex",
       "city": null,
@@ -120,6 +192,18 @@
       "type_display": "Public / Family"
     },
     {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "public",
+      "start": "2026-02-19T16:30:00-07:00",
+      "end": "2026-02-19T18:30:00-07:00",
+      "label": "Ice Rental",
+      "notes": "Free Skate",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
       "facility_id": "olds-sportsplex",
       "facility_name": "Olds Sportsplex",
       "city": null,
@@ -128,6 +212,18 @@
       "end": "2026-02-20T13:00:00-07:00",
       "label": "Sticks and Pucks",
       "notes": "Sticks and Pucks",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-02-20T15:00:00",
+      "end": "2026-02-20T17:15:00",
+      "label": "Sticks N Pucks",
+      "notes": "3:00 PM - 5:15 PM",
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
     },
@@ -152,6 +248,30 @@
       "end": "2026-02-20T18:15:00-07:00",
       "label": "Maintenance",
       "notes": "Sticks & Pucks - FLOOD",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "public",
+      "start": "2026-02-21T09:15:00",
+      "end": "2026-02-21T10:30:00",
+      "label": "Public Skating",
+      "notes": "9:15 AM - 10:30 AM",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "sundre-arena",
+      "facility_name": "Sundre Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-02-21T10:30:00",
+      "end": "2026-02-21T11:45:00",
+      "label": "Sticks & Pucks",
+      "notes": "10:30 AM - 11:45 AM",
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
     }
