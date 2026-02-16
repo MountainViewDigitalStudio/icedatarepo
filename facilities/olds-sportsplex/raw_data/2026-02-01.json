@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-09T09:30:49.867485Z",
+  "generated_at": "2026-02-16T09:28:37.183348Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -56,8 +56,8 @@
           "type": "practice",
           "start": "2026-02-01T21:30:00-07:00",
           "end": "2026-02-01T23:00:00-07:00",
-          "label": "Wilde",
-          "notes": "Wilde"
+          "label": "Wilde Feb 2026 inv",
+          "notes": "Wilde Feb 2026 inv"
         },
         {
           "type": "practice",
@@ -70,15 +70,15 @@
           "type": "practice",
           "start": "2026-02-02T10:00:00-07:00",
           "end": "2026-02-02T11:00:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Feb 2026 inv",
+          "notes": "Grizzlys Feb 2026 inv - Practice"
         },
         {
           "type": "practice",
           "start": "2026-02-02T11:15:00-07:00",
           "end": "2026-02-02T12:15:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Feb 2026 inv",
+          "notes": "Grizzlys Feb 2026 inv - Practice"
         },
         {
           "type": "practice",
@@ -140,15 +140,15 @@
           "type": "practice",
           "start": "2026-02-03T06:15:00-07:00",
           "end": "2026-02-03T07:30:00-07:00",
-          "label": "Broncos Practices Feb 2026",
-          "notes": "Broncos Practices Feb 2026"
+          "label": "Broncos Practices Feb 2026 inv",
+          "notes": "Broncos Practices Feb 2026 inv"
         },
         {
           "type": "game",
           "start": "2026-02-03T10:00:00-07:00",
           "end": "2026-02-03T11:00:00-07:00",
           "label": "Pre- Game Skate",
-          "notes": "Grizzlys 2025/26 - Pre- Game Skate"
+          "notes": "Grizzlys Feb 2026 inv - Pre- Game Skate"
         },
         {
           "type": "practice",
@@ -189,22 +189,22 @@
           "type": "practice",
           "start": "2026-02-04T06:15:00-07:00",
           "end": "2026-02-04T07:30:00-07:00",
-          "label": "Broncos Practices Feb 2026",
-          "notes": "Broncos Practices Feb 2026"
+          "label": "Broncos Practices Feb 2026 inv",
+          "notes": "Broncos Practices Feb 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-02-04T10:00:00-07:00",
           "end": "2026-02-04T11:00:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Feb 2026 inv",
+          "notes": "Grizzlys Feb 2026 inv - Practice"
         },
         {
           "type": "practice",
           "start": "2026-02-04T11:15:00-07:00",
           "end": "2026-02-04T12:15:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Feb 2026 inv",
+          "notes": "Grizzlys Feb 2026 inv - Practice"
         },
         {
           "type": "practice",
@@ -245,22 +245,22 @@
           "type": "practice",
           "start": "2026-02-05T06:15:00-07:00",
           "end": "2026-02-05T07:30:00-07:00",
-          "label": "Broncos Practices Feb 2026",
-          "notes": "Broncos Practices Feb 2026"
+          "label": "Broncos Practices Feb 2026 inv",
+          "notes": "Broncos Practices Feb 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-02-05T10:00:00-07:00",
           "end": "2026-02-05T11:00:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Feb 2026 inv",
+          "notes": "Grizzlys Feb 2026 inv - Practice"
         },
         {
           "type": "practice",
           "start": "2026-02-05T11:15:00-07:00",
           "end": "2026-02-05T12:15:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Feb 2026 inv",
+          "notes": "Grizzlys Feb 2026 inv - Practice"
         },
         {
           "type": "practice",
@@ -308,43 +308,43 @@
           "type": "practice",
           "start": "2026-02-05T21:45:00-07:00",
           "end": "2026-02-05T23:15:00-07:00",
-          "label": "SIR 2025-2026",
-          "notes": "SIR 2025-2026"
+          "label": "SIR Feb 2026 inv",
+          "notes": "SIR Feb 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-02-06T07:00:00-07:00",
           "end": "2026-02-06T08:00:00-07:00",
-          "label": "Rich McDonald",
-          "notes": "Rich McDonald"
+          "label": "Rich McDonald Feb 2026 inv",
+          "notes": "Rich McDonald Feb 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-02-06T10:00:00-07:00",
           "end": "2026-02-06T11:00:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Feb 2026 inv",
+          "notes": "Grizzlys Feb 2026 inv - Practice"
         },
         {
           "type": "practice",
           "start": "2026-02-06T11:15:00-07:00",
           "end": "2026-02-06T12:15:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys Feb 2026 inv",
+          "notes": "Grizzlys Feb 2026 inv - Practice"
         },
         {
           "type": "game",
           "start": "2026-02-06T16:30:00-07:00",
           "end": "2026-02-06T17:30:00-07:00",
           "label": "Olds Yellow vs Olds Black",
-          "notes": "OMHA U9 2026 Tournaments - Olds Yellow vs Olds Black"
+          "notes": "OMHA U9 Feb 2026 Tournament inv - Olds Yellow vs Olds Black"
         },
         {
           "type": "game",
           "start": "2026-02-06T17:45:00-07:00",
           "end": "2026-02-06T18:45:00-07:00",
           "label": "OLds WD vs Sylvan WD",
-          "notes": "OMHA U9 2026 Tournaments - OLds WD vs Sylvan WD"
+          "notes": "OMHA U9 Feb 2026 Tournament inv - OLds WD vs Sylvan WD"
         },
         {
           "type": "game",
@@ -358,63 +358,70 @@
           "start": "2026-02-07T08:00:00-07:00",
           "end": "2026-02-07T09:00:00-07:00",
           "label": "Cremona GD  vs Olds GD",
-          "notes": "OMHA U9 2026 Tournaments - Cremona GD  vs Olds GD"
+          "notes": "OMHA U9 Feb 2026 Tournament inv - Cremona GD  vs Olds GD"
         },
         {
           "type": "game",
           "start": "2026-02-07T09:15:00-07:00",
           "end": "2026-02-07T10:15:00-07:00",
           "label": "Okotoks WD Olds WD",
-          "notes": "OMHA U9 2026 Tournaments - Okotoks WD Olds WD"
+          "notes": "OMHA U9 Feb 2026 Tournament inv - Okotoks WD Olds WD"
         },
         {
           "type": "game",
           "start": "2026-02-07T10:30:00-07:00",
           "end": "2026-02-07T11:30:00-07:00",
           "label": "Sylvan WD Chestermere WD",
-          "notes": "OMHA U9 2026 Tournaments - Sylvan WD Chestermere WD"
+          "notes": "OMHA U9 Feb 2026 Tournament inv - Sylvan WD Chestermere WD"
         },
         {
           "type": "game",
           "start": "2026-02-07T11:45:00-07:00",
           "end": "2026-02-07T12:45:00-07:00",
           "label": "Red Deer GD Cremona GD",
-          "notes": "OMHA U9 2026 Tournaments - Red Deer GD Cremona GD"
+          "notes": "OMHA U9 Feb 2026 Tournament inv - Red Deer GD Cremona GD"
         },
         {
           "type": "game",
           "start": "2026-02-07T13:00:00-07:00",
           "end": "2026-02-07T14:00:00-07:00",
           "label": "Calgary BD Olds Black",
-          "notes": "OMHA U9 2026 Tournaments - Calgary BD Olds Black"
+          "notes": "OMHA U9 Feb 2026 Tournament inv - Calgary BD Olds Black"
         },
         {
           "type": "game",
           "start": "2026-02-07T14:15:00-07:00",
           "end": "2026-02-07T15:15:00-07:00",
           "label": "Olds GD Nanton GD",
-          "notes": "OMHA U9 2026 Tournaments - Olds GD Nanton GD"
+          "notes": "OMHA U9 Feb 2026 Tournament inv - Olds GD Nanton GD"
         },
         {
           "type": "game",
           "start": "2026-02-07T15:30:00-07:00",
           "end": "2026-02-07T16:30:00-07:00",
           "label": "Springbank GD Red Deer GD",
-          "notes": "OMHA U9 2026 Tournaments - Springbank GD Red Deer GD"
+          "notes": "OMHA U9 Feb 2026 Tournament inv - Springbank GD Red Deer GD"
         },
         {
           "type": "game",
           "start": "2026-02-07T16:45:00-07:00",
           "end": "2026-02-07T17:45:00-07:00",
           "label": "Sylvan WD Calgary WD",
-          "notes": "OMHA U9 2026 Tournaments - Sylvan WD Calgary WD"
+          "notes": "OMHA U9 Feb 2026 Tournament inv - Sylvan WD Calgary WD"
         },
         {
           "type": "game",
           "start": "2026-02-07T18:30:00-07:00",
           "end": "2026-02-07T21:30:00-07:00",
           "label": "Broncos Vs NAIT",
-          "notes": "Broncos Games 2025/2026 - Broncos Vs NAIT"
+          "notes": "Broncos Games Feb 2026 inv - Broncos Vs NAIT"
+        },
+        {
+          "type": "game",
+          "start": "2026-02-07T21:45:00-07:00",
+          "end": "2026-02-07T23:15:00-07:00",
+          "label": "Stingers vs Prairie Dogs",
+          "notes": "Stingers Feb 2026 inv - Stingers vs Prairie Dogs"
         }
       ]
     },
@@ -453,15 +460,15 @@
           "type": "practice",
           "start": "2026-02-01T18:00:00-07:00",
           "end": "2026-02-01T19:00:00-07:00",
-          "label": "Winter 2025/26 ringettte",
-          "notes": "Winter 2025/26 ringettte"
+          "label": "Ringette Feb 2026 inv",
+          "notes": "Ringette Feb 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-02-02T06:30:00-07:00",
           "end": "2026-02-02T07:30:00-07:00",
-          "label": "HC Feb. 2026",
-          "notes": "HC Feb. 2026"
+          "label": "HC Feb. 2026 PD",
+          "notes": "HC Feb. 2026 PD"
         },
         {
           "type": "practice",
@@ -474,15 +481,15 @@
           "type": "practice",
           "start": "2026-02-02T15:45:00-07:00",
           "end": "2026-02-02T16:45:00-07:00",
-          "label": "Olds Figure Skating Club Feb 2026",
-          "notes": "Olds Figure Skating Club Feb 2026"
+          "label": "Olds Figure Skating Club Feb 2026 inv",
+          "notes": "Olds Figure Skating Club Feb 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-02-02T17:00:00-07:00",
           "end": "2026-02-02T19:45:00-07:00",
-          "label": "Olds Figure Skating Club Feb 2026",
-          "notes": "Olds Figure Skating Club Feb 2026"
+          "label": "Olds Figure Skating Club Feb 2026 inv",
+          "notes": "Olds Figure Skating Club Feb 2026 inv"
         },
         {
           "type": "practice",
@@ -517,7 +524,7 @@
           "start": "2026-02-03T13:30:00-07:00",
           "end": "2026-02-03T14:30:00-07:00",
           "label": "Female and male room needed",
-          "notes": "Grizzlys Academy- Deer Meadow - Female and male room needed"
+          "notes": "Grizzlys Academy-  Feb 2026 inv - Female and male room needed"
         },
         {
           "type": "practice",
@@ -572,15 +579,15 @@
           "type": "practice",
           "start": "2026-02-04T15:45:00-07:00",
           "end": "2026-02-04T16:45:00-07:00",
-          "label": "Olds Figure Skating Club Feb 2026",
-          "notes": "Olds Figure Skating Club Feb 2026"
+          "label": "Olds Figure Skating Club Feb 2026 inv",
+          "notes": "Olds Figure Skating Club Feb 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-02-04T17:00:00-07:00",
           "end": "2026-02-04T19:45:00-07:00",
-          "label": "Olds Figure Skating Club Feb 2026",
-          "notes": "Olds Figure Skating Club Feb 2026"
+          "label": "Olds Figure Skating Club Feb 2026 inv",
+          "notes": "Olds Figure Skating Club Feb 2026 inv"
         },
         {
           "type": "practice",
@@ -600,8 +607,8 @@
           "type": "practice",
           "start": "2026-02-05T06:45:00-07:00",
           "end": "2026-02-05T07:45:00-07:00",
-          "label": "Haaland - Hockey",
-          "notes": "Haaland - Hockey"
+          "label": "Haaland - Hockey Feb 2026 inv",
+          "notes": "Haaland - Hockey Feb 2026 inv"
         },
         {
           "type": "public_skate",
@@ -615,7 +622,7 @@
           "start": "2026-02-05T13:30:00-07:00",
           "end": "2026-02-05T14:30:00-07:00",
           "label": "Female and male room needed",
-          "notes": "Grizzlys Academy- Deer Meadow - Female and male room needed"
+          "notes": "Grizzlys Academy-  Feb 2026 inv - Female and male room needed"
         },
         {
           "type": "practice",
@@ -656,8 +663,8 @@
           "type": "practice",
           "start": "2026-02-06T06:30:00-07:00",
           "end": "2026-02-06T07:30:00-07:00",
-          "label": "Knutson",
-          "notes": "Knutson"
+          "label": "Knutson Feb 2026 inv",
+          "notes": "Knutson Feb 2026 inv"
         },
         {
           "type": "practice",
@@ -670,22 +677,22 @@
           "type": "practice",
           "start": "2026-02-06T15:45:00-07:00",
           "end": "2026-02-06T17:15:00-07:00",
-          "label": "Olds Figure Skating Club Feb 2026",
-          "notes": "Olds Figure Skating Club Feb 2026"
+          "label": "Olds Figure Skating Club Feb 2026 inv",
+          "notes": "Olds Figure Skating Club Feb 2026 inv"
         },
         {
           "type": "game",
           "start": "2026-02-06T17:30:00-07:00",
           "end": "2026-02-06T18:30:00-07:00",
           "label": "Olds GD vs Red Deer GD",
-          "notes": "OMHA U9 2026 Tournaments - Olds GD vs Red Deer GD"
+          "notes": "OMHA U9 Feb 2026 Tournament inv - Olds GD vs Red Deer GD"
         },
         {
           "type": "game",
           "start": "2026-02-06T18:45:00-07:00",
           "end": "2026-02-06T19:45:00-07:00",
           "label": "Chestermere WD Calgary WD",
-          "notes": "OMHA U9 2026 Tournaments - Chestermere WD Calgary WD"
+          "notes": "OMHA U9 Feb 2026 Tournament inv - Chestermere WD Calgary WD"
         },
         {
           "type": "game",
@@ -699,70 +706,21 @@
           "start": "2026-02-07T08:45:00-07:00",
           "end": "2026-02-07T09:45:00-07:00",
           "label": "Olds Black  vs Calgary Knights BD",
-          "notes": "OMHA U9 2026 Tournaments - Olds Black  vs Calgary Knights BD"
+          "notes": "OMHA U9 Feb 2026 Tournament inv - Olds Black  vs Calgary Knights BD"
         },
         {
           "type": "game",
           "start": "2026-02-07T10:00:00-07:00",
           "end": "2026-02-07T11:00:00-07:00",
           "label": "Edmonton BD Calgary Woverines BD",
-          "notes": "OMHA U9 2026 Tournaments - Edmonton BD Calgary Woverines BD"
+          "notes": "OMHA U9 Feb 2026 Tournament inv - Edmonton BD Calgary Woverines BD"
         },
         {
           "type": "game",
           "start": "2026-02-07T11:15:00-07:00",
           "end": "2026-02-07T12:15:00-07:00",
           "label": "Nanton GD Springbank GD",
-          "notes": "OMHA U9 2026 Tournaments - Nanton GD Springbank GD"
-        },
-        {
-          "type": "game",
-          "start": "2026-02-07T12:30:00-07:00",
-          "end": "2026-02-07T13:30:00-07:00",
-          "label": "Calgary Knights BD Olds Yellow",
-          "notes": "OMHA U9 2026 Tournaments - Calgary Knights BD Olds Yellow"
-        },
-        {
-          "type": "game",
-          "start": "2026-02-07T13:45:00-07:00",
-          "end": "2026-02-07T14:45:00-07:00",
-          "label": "Calgary WD Okotoks WD",
-          "notes": "OMHA U9 2026 Tournaments - Calgary WD Okotoks WD"
-        },
-        {
-          "type": "game",
-          "start": "2026-02-07T15:00:00-07:00",
-          "end": "2026-02-07T16:00:00-07:00",
-          "label": "Olds Yellow Edmonton BD",
-          "notes": "OMHA U9 2026 Tournaments - Olds Yellow Edmonton BD"
-        },
-        {
-          "type": "game",
-          "start": "2026-02-07T16:15:00-07:00",
-          "end": "2026-02-07T17:15:00-07:00",
-          "label": "Olds WD Chestermere WD",
-          "notes": "OMHA U9 2026 Tournaments - Olds WD Chestermere WD"
-        },
-        {
-          "type": "game",
-          "start": "2026-02-07T17:30:00-07:00",
-          "end": "2026-02-07T18:30:00-07:00",
-          "label": "Calgary Knights BD Calgary Wolverines BD",
-          "notes": "OMHA U9 2026 Tournaments - Calgary Knights BD Calgary Wolverines BD"
-        },
-        {
-          "type": "game",
-          "start": "2026-02-07T18:45:00-07:00",
-          "end": "2026-02-07T20:45:00-07:00",
-          "label": "U13A vs Cochrane",
-          "notes": "OMHA Feb /2026 - U13A vs Cochrane"
-        },
-        {
-          "type": "game",
-          "start": "2026-02-07T21:00:00-07:00",
-          "end": "2026-02-07T22:30:00-07:00",
-          "label": "Stingers vs Prairie Dogs",
-          "notes": "Stingers 2025/26 - Stingers vs Prairie Dogs"
+          "notes": "OMHA U9 Feb 2026 Tournament inv - Nanton GD Springbank GD"
         }
       ]
     }
