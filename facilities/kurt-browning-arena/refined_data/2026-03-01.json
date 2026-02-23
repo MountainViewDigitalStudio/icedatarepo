@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-16T09:31:49.076541Z",
+  "generated_at": "2026-02-23T09:32:02.473772Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena"
@@ -30,10 +30,10 @@
     },
     {
       "start": "2026-03-01T11:00:00-07:00",
-      "end": "2026-03-01T17:45:00-07:00",
+      "end": "2026-03-01T13:00:00-07:00",
       "type": "games",
-      "label": "Playoff Ice - playoff ice",
-      "notes": "Playoff Ice - playoff ice",
+      "label": "Playoff Ice - U11 B",
+      "notes": "Playoff Ice - U11 B",
       "color": "#EF4444",
       "type_display": "Games"
     },

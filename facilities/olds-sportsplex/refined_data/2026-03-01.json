@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-16T09:31:49.061084Z",
+  "generated_at": "2026-02-23T09:32:02.457366Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -16,13 +16,13 @@
       "name": "Main Ice Surface",
       "slots": [
         {
-          "type": "other",
+          "type": "practice",
           "start": "2026-03-01T09:30:00-07:00",
           "end": "2026-03-01T11:30:00-07:00",
-          "label": "OMHA",
-          "notes": "OMHA March 2026 - OMHA",
-          "color": "#64748B",
-          "type_display": "Other"
+          "label": "U11A,",
+          "notes": "OMHA March 2026 - U11A,",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
@@ -34,13 +34,13 @@
           "type_display": "Practice / Other"
         },
         {
-          "type": "other",
+          "type": "practice",
           "start": "2026-03-01T14:15:00-07:00",
           "end": "2026-03-01T16:30:00-07:00",
-          "label": "OMHA",
-          "notes": "OMHA March 2026 - OMHA",
-          "color": "#64748B",
-          "type_display": "Other"
+          "label": "U18",
+          "notes": "OMHA March 2026 - U18",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "games",
@@ -98,6 +98,15 @@
         },
         {
           "type": "other",
+          "start": "2026-03-03T06:45:00-07:00",
+          "end": "2026-03-03T07:45:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
           "start": "2026-03-03T09:00:00-07:00",
           "end": "2026-03-03T09:30:00-07:00",
           "label": "High School Skating",
@@ -140,6 +149,15 @@
           "notes": "OMHA March 2026 - U11AA",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-03-03T17:30:00-07:00",
+          "end": "2026-03-03T21:00:00-07:00",
+          "label": "Olds Minor Soccer Club Board Meeting",
+          "notes": "Olds Minor Soccer Club Board Meeting",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "games",
@@ -232,15 +250,6 @@
           "type_display": "Other"
         },
         {
-          "type": "other",
-          "start": "2026-03-06T07:00:00-07:00",
-          "end": "2026-03-06T08:45:00-07:00",
-          "label": "Sportsplex",
-          "notes": "Sportsplex",
-          "color": "#64748B",
-          "type_display": "Other"
-        },
-        {
           "type": "games",
           "start": "2026-03-06T09:00:00-07:00",
           "end": "2026-03-06T10:00:00-07:00",
@@ -248,15 +257,6 @@
           "notes": "Grizzlys 2025/26 - Pre- Game Skate",
           "color": "#EF4444",
           "type_display": "Games"
-        },
-        {
-          "type": "other",
-          "start": "2026-03-06T10:15:00-07:00",
-          "end": "2026-03-06T14:00:00-07:00",
-          "label": "Sportsplex",
-          "notes": "Sportsplex",
-          "color": "#64748B",
-          "type_display": "Other"
         },
         {
           "type": "skating_club",
@@ -406,6 +406,15 @@
           "notes": "OMHA March 2026 - OMHA",
           "color": "#64748B",
           "type_display": "Other"
+        },
+        {
+          "type": "games",
+          "start": "2026-03-01T20:00:00-07:00",
+          "end": "2026-03-01T21:30:00-07:00",
+          "label": "Panthers vs O4",
+          "notes": "Panthers 2025/26 - Panthers vs O4",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "other",
@@ -579,15 +588,6 @@
           "type_display": "Other"
         },
         {
-          "type": "other",
-          "start": "2026-03-06T07:45:00-07:00",
-          "end": "2026-03-06T11:45:00-07:00",
-          "label": "Sportsplex",
-          "notes": "Sportsplex",
-          "color": "#64748B",
-          "type_display": "Other"
-        },
-        {
           "type": "shinny",
           "start": "2026-03-06T12:00:00-07:00",
           "end": "2026-03-06T13:00:00-07:00",
@@ -595,15 +595,6 @@
           "notes": "Sticks and Pucks",
           "color": "#3B82F6",
           "type_display": "Shinny / Stick & Puck"
-        },
-        {
-          "type": "other",
-          "start": "2026-03-06T13:15:00-07:00",
-          "end": "2026-03-06T15:30:00-07:00",
-          "label": "Sportsplex",
-          "notes": "Sportsplex",
-          "color": "#64748B",
-          "type_display": "Other"
         },
         {
           "type": "skating_club",

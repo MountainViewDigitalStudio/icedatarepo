@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-16T09:31:49.035920Z",
+  "generated_at": "2026-02-23T09:32:02.430591Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena"
@@ -76,18 +76,18 @@
     {
       "type": "maintenance",
       "start": "2026-02-16T07:00:00",
-      "end": "2026-02-16T15:00:00",
+      "end": "2026-02-16T21:00:00",
       "label": "Arena Closed",
-      "notes": "7:00 AM - 3:00 PM",
+      "notes": "7:00 AM - 9:00 PM",
       "color": "#6B7280",
       "type_display": "Maintenance"
     },
     {
       "type": "public",
       "start": "2026-02-16T15:00:00",
-      "end": "2026-02-16T16:20:00",
+      "end": "2026-02-16T19:20:00",
       "label": "Free Public Skating (Winterfest)",
-      "notes": "3:00 PM - 4:20 PM",
+      "notes": "3:00 PM - 7:20 PM",
       "color": "#10B981",
       "type_display": "Public / Family"
     },
@@ -122,7 +122,7 @@
       "type": "practice",
       "start": "2026-02-16T19:30:00",
       "end": "2026-02-16T20:20:00",
-      "label": "SMH- Practice U15",
+      "label": "SMH-Practice U15",
       "notes": "7:30 PM - 8:20 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
@@ -131,7 +131,7 @@
       "type": "practice",
       "start": "2026-02-16T20:30:00",
       "end": "2026-02-16T21:20:00",
-      "label": "SMH- Practice U18",
+      "label": "SMH-Practice U18",
       "notes": "8:30 PM - 9:20 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
@@ -164,42 +164,6 @@
       "type_display": "Shinny / Stick & Puck"
     },
     {
-      "type": "practice",
-      "start": "2026-02-17T16:30:00",
-      "end": "2026-02-17T17:20:00",
-      "label": "SMH- Practice U7",
-      "notes": "4:30 PM - 5:20 PM",
-      "color": "#8B5CF6",
-      "type_display": "Practice / Other"
-    },
-    {
-      "type": "skating_club",
-      "start": "2026-02-17T17:30:00",
-      "end": "2026-02-17T20:00:00",
-      "label": "Sundre Skating Club Learn to Skate",
-      "notes": "5:30 PM - 8:00 PM",
-      "color": "#06B6D4",
-      "type_display": "Skating Club / Programs"
-    },
-    {
-      "type": "skating_club",
-      "start": "2026-02-17T18:30:00",
-      "end": "2026-02-17T20:00:00",
-      "label": "Sundre Skating Club Star Skate",
-      "notes": "6:30 PM - 8:00 PM",
-      "color": "#06B6D4",
-      "type_display": "Skating Club / Programs"
-    },
-    {
-      "type": "other",
-      "start": "2026-02-17T20:00:00",
-      "end": "2026-02-17T21:30:00",
-      "label": "Woman's Hockey- Shooters",
-      "notes": "8:00 PM - 9:30 PM",
-      "color": "#64748B",
-      "type_display": "Other"
-    },
-    {
       "type": "rentals",
       "start": "2026-02-18T12:00:00",
       "end": "2026-02-18T13:00:00",
@@ -211,9 +175,9 @@
     {
       "type": "rentals",
       "start": "2026-02-18T13:00:00",
-      "end": "2026-02-18T14:00:00",
+      "end": "2026-02-18T15:00:00",
       "label": "Birthday Clubroom",
-      "notes": "1:00 PM - 2:00 PM",
+      "notes": "1:00 PM - 3:00 PM",
       "color": "#F97316",
       "type_display": "Rentals"
     },
@@ -221,7 +185,7 @@
       "type": "public",
       "start": "2026-02-18T14:00:00",
       "end": "2026-02-18T16:00:00",
-      "label": "GNC- Family Skate (invoice)",
+      "label": "GNP- Family Skate (Invoice)",
       "notes": "2:00 PM - 4:00 PM",
       "color": "#10B981",
       "type_display": "Public / Family"
@@ -247,6 +211,15 @@
     {
       "type": "practice",
       "start": "2026-02-18T18:30:00",
+      "end": "2026-02-18T21:00:00",
+      "label": "SMH- Clubroom M",
+      "notes": "6:30 PM - 9:00 PM",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "type": "practice",
+      "start": "2026-02-18T18:30:00",
       "end": "2026-02-18T19:20:00",
       "label": "SMH- Practice U13",
       "notes": "6:30 PM - 7:20 PM",
@@ -255,18 +228,9 @@
     },
     {
       "type": "practice",
-      "start": "2026-02-18T18:30:00",
-      "end": "2026-02-18T21:00:00",
-      "label": "SMH- Clubroom Mtg",
-      "notes": "6:30 PM - 9:00 PM",
-      "color": "#8B5CF6",
-      "type_display": "Practice / Other"
-    },
-    {
-      "type": "practice",
       "start": "2026-02-18T19:30:00",
       "end": "2026-02-18T20:20:00",
-      "label": "SMH- Practice U15",
+      "label": "SMH-Practice U15",
       "notes": "7:30 PM - 8:20 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
@@ -275,19 +239,19 @@
       "type": "practice",
       "start": "2026-02-18T20:30:00",
       "end": "2026-02-18T21:20:00",
-      "label": "SMH- Practice U18",
+      "label": "SMH-Practice U18",
       "notes": "8:30 PM - 9:20 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
     },
     {
-      "type": "maintenance",
+      "type": "other",
       "start": "2026-02-19T07:00:00",
       "end": "2026-02-19T12:00:00",
-      "label": "Ice Maintenance",
+      "label": "Ice Maintenace",
       "notes": "7:00 AM - 12:00 PM",
-      "color": "#6B7280",
-      "type_display": "Maintenance"
+      "color": "#64748B",
+      "type_display": "Other"
     },
     {
       "type": "rentals",
@@ -311,25 +275,16 @@
       "type": "practice",
       "start": "2026-02-19T17:00:00",
       "end": "2026-02-19T17:50:00",
-      "label": "SMH- Practice U7",
+      "label": "SMH-Practice U7",
       "notes": "5:00 PM - 5:50 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
     },
     {
-      "type": "skating_club",
-      "start": "2026-02-19T18:00:00",
-      "end": "2026-02-19T20:00:00",
-      "label": "Sundre Skating Club Star Skate",
-      "notes": "6:00 PM - 8:00 PM",
-      "color": "#06B6D4",
-      "type_display": "Skating Club / Programs"
-    },
-    {
       "type": "games",
       "start": "2026-02-19T20:00:00",
       "end": "2026-02-19T21:30:00",
-      "label": "Men's Hockey- Rhinos vs Bowden Bulls",
+      "label": "Men's Hockey- Rhinos vs Bowden Bolts",
       "notes": "8:00 PM - 9:30 PM",
       "color": "#EF4444",
       "type_display": "Games"
@@ -353,6 +308,24 @@
       "type_display": "Rentals"
     },
     {
+      "type": "games",
+      "start": "2026-02-20T17:30:00",
+      "end": "2026-02-20T18:50:00",
+      "label": "Rec Hockey U15 Red vs U15 Blue",
+      "notes": "5:30 PM - 6:50 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "maintenance",
+      "start": "2026-02-20T18:50:00",
+      "end": "2026-02-20T22:00:00",
+      "label": "Arena Closed",
+      "notes": "6:50 PM - 10:00 PM",
+      "color": "#6B7280",
+      "type_display": "Maintenance"
+    },
+    {
       "type": "shinny",
       "start": "2026-02-20T15:00:00",
       "end": "2026-02-20T17:15:00",
@@ -360,51 +333,6 @@
       "notes": "3:00 PM - 5:15 PM",
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
-    },
-    {
-      "type": "games",
-      "start": "2026-02-20T17:30:00",
-      "end": "2026-02-20T18:30:00",
-      "label": "Rec Hockey U15 Red vs U15 Blue",
-      "notes": "5:30 PM - 6:30 PM",
-      "color": "#EF4444",
-      "type_display": "Games"
-    },
-    {
-      "type": "games",
-      "start": "2026-02-20T19:00:00",
-      "end": "2026-02-20T21:20:00",
-      "label": "SMH- Game U18",
-      "notes": "7:00 PM - 9:20 PM",
-      "color": "#EF4444",
-      "type_display": "Games"
-    },
-    {
-      "type": "rentals",
-      "start": "2026-02-20T18:30:00",
-      "end": "2026-02-20T22:00:00",
-      "label": "Clubroom Private Function (AR)",
-      "notes": "6:30 PM - 10:00 PM",
-      "color": "#F97316",
-      "type_display": "Rentals"
-    },
-    {
-      "type": "skating_club",
-      "start": "2026-02-21T08:00:00",
-      "end": "2026-02-21T09:00:00",
-      "label": "Sundre Skating Club",
-      "notes": "8:00 AM - 9:00 AM",
-      "color": "#06B6D4",
-      "type_display": "Skating Club / Programs"
-    },
-    {
-      "type": "skating_club",
-      "start": "2026-02-21T09:00:00",
-      "end": "2026-02-21T10:00:00",
-      "label": "Sundre Skating Club - Clubroom",
-      "notes": "9:00 AM - 10:00 AM",
-      "color": "#06B6D4",
-      "type_display": "Skating Club / Programs"
     },
     {
       "type": "public",
@@ -454,9 +382,9 @@
     {
       "type": "games",
       "start": "2026-02-21T16:30:00",
-      "end": "2026-02-21T17:50:00",
+      "end": "2026-02-21T18:00:00",
       "label": "Rec U15 vs Rocky Eagles",
-      "notes": "4:30 PM - 5:50 PM",
+      "notes": "4:30 PM - 6:00 PM",
       "color": "#EF4444",
       "type_display": "Games"
     },
@@ -464,7 +392,7 @@
       "type": "games",
       "start": "2026-02-21T18:00:00",
       "end": "2026-02-21T20:20:00",
-      "label": "SMH- Game U15",
+      "label": "SMH-Game U18 vs Sylvan Lake",
       "notes": "6:00 PM - 8:20 PM",
       "color": "#EF4444",
       "type_display": "Games"
