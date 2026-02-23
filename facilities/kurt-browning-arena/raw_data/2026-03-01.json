@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-03-01",
   "week_end": "2026-03-07",
-  "last_updated": "2026-02-16T02:28:20.870860-07:00",
+  "last_updated": "2026-02-23T02:28:00.720000-07:00",
   "slots": [
     {
       "start": "2026-03-01T09:30:00-07:00",
@@ -22,10 +22,10 @@
     },
     {
       "start": "2026-03-01T11:00:00-07:00",
-      "end": "2026-03-01T17:45:00-07:00",
+      "end": "2026-03-01T13:00:00-07:00",
       "type": "other",
-      "label": "Playoff Ice - playoff ice",
-      "notes": "Playoff Ice - playoff ice"
+      "label": "Playoff Ice - U11 B",
+      "notes": "Playoff Ice - U11 B"
     },
     {
       "start": "2026-03-01T18:00:00-07:00",

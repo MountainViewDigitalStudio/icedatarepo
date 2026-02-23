@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-02-15",
   "week_end": "2026-02-21",
-  "last_updated": "2026-02-16T02:28:20.237664-07:00",
+  "last_updated": "2026-02-23T02:28:00.001175-07:00",
   "slots": [
     {
       "start": "2026-02-15T08:45:00-07:00",
@@ -114,20 +114,6 @@
     {
       "start": "2026-02-15T20:15:00-07:00",
       "end": "2026-02-15T20:30:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Flood",
-      "notes": "Mens Hockey - Flood"
-    },
-    {
-      "start": "2026-02-15T20:30:00-07:00",
-      "end": "2026-02-15T22:00:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Stray Cats",
-      "notes": "Mens Hockey - Stray Cats"
-    },
-    {
-      "start": "2026-02-15T22:00:00-07:00",
-      "end": "2026-02-15T22:15:00-07:00",
       "type": "practice",
       "label": "Hockey - Flood",
       "notes": "Mens Hockey - Flood"
@@ -252,6 +238,13 @@
       "notes": "Skating"
     },
     {
+      "start": "2026-02-17T15:45:00-07:00",
+      "end": "2026-02-17T16:15:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Private skate-Crawford"
+    },
+    {
       "start": "2026-02-17T16:30:00-07:00",
       "end": "2026-02-17T18:30:00-07:00",
       "type": "rental",
@@ -271,20 +264,6 @@
       "type": "practice",
       "label": "Hockey - Practice Ice - FLOOD",
       "notes": "Practice Ice - FLOOD"
-    },
-    {
-      "start": "2026-02-17T20:45:00-07:00",
-      "end": "2026-02-17T22:00:00-07:00",
-      "type": "practice",
-      "label": "Hockey - PRACTICES - U18",
-      "notes": "PRACTICES - U18"
-    },
-    {
-      "start": "2026-02-17T22:00:00-07:00",
-      "end": "2026-02-17T22:15:00-07:00",
-      "type": "practice",
-      "label": "Hockey - PRACTICES",
-      "notes": "PRACTICES"
     },
     {
       "start": "2026-02-18T13:00:00-07:00",
@@ -357,6 +336,13 @@
       "notes": "Mens Adult Hockey - Flood"
     },
     {
+      "start": "2026-02-19T15:45:00-07:00",
+      "end": "2026-02-19T16:15:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Skate"
+    },
+    {
       "start": "2026-02-19T16:30:00-07:00",
       "end": "2026-02-19T18:30:00-07:00",
       "type": "rental",
@@ -369,6 +355,13 @@
       "type": "practice",
       "label": "Hockey - Practice Ice - Junior Skate",
       "notes": "Practice Ice - Junior Skate"
+    },
+    {
+      "start": "2026-02-19T19:00:00-07:00",
+      "end": "2026-02-19T21:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Caroline Minor Hockey Meeting 2025/26",
+      "notes": "Caroline Minor Hockey Meeting 2025/26"
     },
     {
       "start": "2026-02-19T20:30:00-07:00",
@@ -434,11 +427,18 @@
       "notes": "Mens Hockey - FLOOD"
     },
     {
-      "start": "2026-02-21T08:00:00-07:00",
-      "end": "2026-02-21T21:00:00-07:00",
-      "type": "other",
-      "label": "Playoff Ice - playoff ice",
-      "notes": "Playoff Ice - playoff ice"
+      "start": "2026-02-21T12:00:00-07:00",
+      "end": "2026-02-21T14:00:00-07:00",
+      "type": "game",
+      "label": "Playoff Ice - U13 vs Sylvan Lake",
+      "notes": "Playoff Ice - U13 vs Sylvan Lake"
+    },
+    {
+      "start": "2026-02-21T14:00:00-07:00",
+      "end": "2026-02-21T14:15:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "Playoff Ice - flood"
     }
   ]
 }
