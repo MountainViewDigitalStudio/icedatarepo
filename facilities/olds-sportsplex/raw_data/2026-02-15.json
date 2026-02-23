@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-16T09:28:37.183348Z",
+  "generated_at": "2026-02-23T09:28:07.836794Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -77,22 +77,22 @@
           "type": "practice",
           "start": "2026-02-16T16:00:00-07:00",
           "end": "2026-02-16T16:45:00-07:00",
-          "label": "U9A, U9C Black",
-          "notes": "OMHA Feb /2026 - U9A, U9C Black"
+          "label": "U9A",
+          "notes": "OMHA Feb /2026 - U9A"
         },
         {
           "type": "practice",
           "start": "2026-02-16T16:45:00-07:00",
           "end": "2026-02-16T17:30:00-07:00",
-          "label": "U11C",
-          "notes": "OMHA Feb /2026 - U11C"
+          "label": "U11C/U11B",
+          "notes": "OMHA Feb /2026 - U11C/U11B"
         },
         {
           "type": "practice",
-          "start": "2026-02-16T17:30:00-07:00",
-          "end": "2026-02-16T18:15:00-07:00",
-          "label": "U11B",
-          "notes": "OMHA Feb /2026 - U11B"
+          "start": "2026-02-16T17:45:00-07:00",
+          "end": "2026-02-16T18:30:00-07:00",
+          "label": "U13C",
+          "notes": "OMHA Feb /2026 - U13C"
         },
         {
           "type": "practice",
@@ -140,8 +140,8 @@
           "type": "practice",
           "start": "2026-02-17T16:45:00-07:00",
           "end": "2026-02-17T17:45:00-07:00",
-          "label": "U13C",
-          "notes": "OMHA Feb /2026 - U13C"
+          "label": "U13AA",
+          "notes": "OMHA Feb /2026 - U13AA"
         },
         {
           "type": "practice",
@@ -203,22 +203,22 @@
           "type": "practice",
           "start": "2026-02-18T16:45:00-07:00",
           "end": "2026-02-18T17:30:00-07:00",
-          "label": "U11B, U11C",
-          "notes": "OMHA Feb /2026 - U11B, U11C"
+          "label": "U11B",
+          "notes": "OMHA Feb /2026 - U11B"
         },
         {
           "type": "practice",
           "start": "2026-02-18T17:45:00-07:00",
           "end": "2026-02-18T18:30:00-07:00",
-          "label": "U13C",
-          "notes": "OMHA Feb /2026 - U13C"
+          "label": "U11C",
+          "notes": "OMHA Feb /2026 - U11C"
         },
         {
           "type": "practice",
           "start": "2026-02-18T18:30:00-07:00",
           "end": "2026-02-18T19:15:00-07:00",
-          "label": "U13B",
-          "notes": "OMHA Feb /2026 - U13B"
+          "label": "U13C",
+          "notes": "OMHA Feb /2026 - U13C"
         },
         {
           "type": "practice",
@@ -299,6 +299,13 @@
         },
         {
           "type": "practice",
+          "start": "2026-02-20T12:00:00-07:00",
+          "end": "2026-02-20T13:00:00-07:00",
+          "label": "Youth and Parent Sticks and Pucks $5 each",
+          "notes": "Sticks and Pucks - Youth and Parent Sticks and Pucks $5 each"
+        },
+        {
+          "type": "practice",
           "start": "2026-02-20T15:45:00-07:00",
           "end": "2026-02-20T17:15:00-07:00",
           "label": "Olds Figure Skating Club Feb 2026 inv",
@@ -315,15 +322,15 @@
           "type": "practice",
           "start": "2026-02-21T09:15:00-07:00",
           "end": "2026-02-21T11:15:00-07:00",
-          "label": "U11",
-          "notes": "OMHA Feb /2026 - U11"
+          "label": "U11C, Caroline",
+          "notes": "OMHA Feb /2026 - U11C, Caroline"
         },
         {
           "type": "practice",
           "start": "2026-02-21T11:30:00-07:00",
           "end": "2026-02-21T13:45:00-07:00",
-          "label": "U18",
-          "notes": "OMHA Feb /2026 - U18"
+          "label": "U18A, High Country",
+          "notes": "OMHA Feb /2026 - U18A, High Country"
         },
         {
           "type": "game",
@@ -340,11 +347,11 @@
           "notes": "OMHA Feb /2026 - U15AA vs Central Alberta Selects"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-02-21T19:15:00-07:00",
           "end": "2026-02-21T21:30:00-07:00",
-          "label": "U18",
-          "notes": "OMHA Feb /2026 - U18"
+          "label": "U18 Female vs Airdrie",
+          "notes": "OMHA Feb /2026 - U18 Female vs Airdrie"
         }
       ]
     },
@@ -521,13 +528,6 @@
         },
         {
           "type": "practice",
-          "start": "2026-02-19T06:45:00-07:00",
-          "end": "2026-02-19T07:45:00-07:00",
-          "label": "Haaland - Hockey Feb 2026 inv",
-          "notes": "Haaland - Hockey Feb 2026 inv"
-        },
-        {
-          "type": "practice",
           "start": "2026-02-19T10:30:00-07:00",
           "end": "2026-02-19T11:45:00-07:00",
           "label": "Broncos Practices Feb 2026 inv",
@@ -539,6 +539,20 @@
           "end": "2026-02-19T13:00:00-07:00",
           "label": "Public Skating",
           "notes": "Public Skating"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-19T13:30:00-07:00",
+          "end": "2026-02-19T14:30:00-07:00",
+          "label": "Walton PD",
+          "notes": "Walton PD"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-19T14:45:00-07:00",
+          "end": "2026-02-19T15:45:00-07:00",
+          "label": "Haaland - Hockey Feb 2026 inv",
+          "notes": "Haaland - Hockey Feb 2026 inv"
         },
         {
           "type": "practice",
@@ -586,8 +600,8 @@
           "type": "practice",
           "start": "2026-02-20T12:00:00-07:00",
           "end": "2026-02-20T13:00:00-07:00",
-          "label": "Sticks and Pucks",
-          "notes": "Sticks and Pucks"
+          "label": "Sticks and Pucks ages 12 and older",
+          "notes": "Sticks and Pucks - Sticks and Pucks ages 12 and older"
         },
         {
           "type": "practice",
@@ -607,15 +621,15 @@
           "type": "practice",
           "start": "2026-02-20T17:45:00-07:00",
           "end": "2026-02-20T19:45:00-07:00",
-          "label": "U11?",
-          "notes": "OMHA Feb /2026 - U11?"
+          "label": "U13B, Cremona",
+          "notes": "OMHA Feb /2026 - U13B, Cremona"
         },
         {
           "type": "practice",
           "start": "2026-02-20T20:00:00-07:00",
-          "end": "2026-02-20T21:45:00-07:00",
-          "label": "U15 fem",
-          "notes": "OMHA Feb /2026 - U15 fem"
+          "end": "2026-02-20T22:00:00-07:00",
+          "label": "U15B, New Sarepta",
+          "notes": "OMHA Feb /2026 - U15B, New Sarepta"
         },
         {
           "type": "practice",
@@ -628,36 +642,29 @@
           "type": "practice",
           "start": "2026-02-21T09:45:00-07:00",
           "end": "2026-02-21T11:45:00-07:00",
-          "label": "U13C",
-          "notes": "OMHA Feb /2026 - U13C"
+          "label": "U13C, Maskwacis",
+          "notes": "OMHA Feb /2026 - U13C, Maskwacis"
         },
         {
           "type": "practice",
           "start": "2026-02-21T12:00:00-07:00",
           "end": "2026-02-21T14:00:00-07:00",
-          "label": "OMHA",
-          "notes": "OMHA Feb /2026 - OMHA"
+          "label": "U11B, Strathmore",
+          "notes": "OMHA Feb /2026 - U11B, Strathmore"
         },
         {
           "type": "practice",
           "start": "2026-02-21T14:15:00-07:00",
           "end": "2026-02-21T16:15:00-07:00",
-          "label": "OMHA",
-          "notes": "OMHA Feb /2026 - OMHA"
+          "label": "U11 Female, Camrose",
+          "notes": "OMHA Feb /2026 - U11 Female, Camrose"
         },
         {
           "type": "practice",
           "start": "2026-02-21T16:30:00-07:00",
           "end": "2026-02-21T18:30:00-07:00",
-          "label": "OMHA",
-          "notes": "OMHA Feb /2026 - OMHA"
-        },
-        {
-          "type": "practice",
-          "start": "2026-02-21T18:45:00-07:00",
-          "end": "2026-02-21T20:45:00-07:00",
-          "label": "OMHA",
-          "notes": "OMHA Feb /2026 - OMHA"
+          "label": "U13B, Cremona, if Olds wins on Friday",
+          "notes": "OMHA Feb /2026 - U13B, Cremona, if Olds wins on Friday"
         },
         {
           "type": "game",

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-16T09:28:37.183348Z",
+  "generated_at": "2026-02-23T09:28:07.836794Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -21,8 +21,8 @@
           "type": "practice",
           "start": "2026-03-01T09:30:00-07:00",
           "end": "2026-03-01T11:30:00-07:00",
-          "label": "OMHA",
-          "notes": "OMHA March 2026 - OMHA"
+          "label": "U11A,",
+          "notes": "OMHA March 2026 - U11A,"
         },
         {
           "type": "practice",
@@ -35,8 +35,8 @@
           "type": "practice",
           "start": "2026-03-01T14:15:00-07:00",
           "end": "2026-03-01T16:30:00-07:00",
-          "label": "OMHA",
-          "notes": "OMHA March 2026 - OMHA"
+          "label": "U18",
+          "notes": "OMHA March 2026 - U18"
         },
         {
           "type": "game",
@@ -82,6 +82,13 @@
         },
         {
           "type": "practice",
+          "start": "2026-03-03T06:45:00-07:00",
+          "end": "2026-03-03T07:45:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie"
+        },
+        {
+          "type": "practice",
           "start": "2026-03-03T09:00:00-07:00",
           "end": "2026-03-03T09:30:00-07:00",
           "label": "High School Skating",
@@ -114,6 +121,13 @@
           "end": "2026-03-03T18:00:00-07:00",
           "label": "U11AA",
           "notes": "OMHA March 2026 - U11AA"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-03T17:30:00-07:00",
+          "end": "2026-03-03T21:00:00-07:00",
+          "label": "Olds Minor Soccer Club Board Meeting",
+          "notes": "Olds Minor Soccer Club Board Meeting"
         },
         {
           "type": "game",
@@ -186,25 +200,11 @@
           "notes": "SIR 2025-2026"
         },
         {
-          "type": "practice",
-          "start": "2026-03-06T07:00:00-07:00",
-          "end": "2026-03-06T08:45:00-07:00",
-          "label": "Sportsplex",
-          "notes": "Sportsplex"
-        },
-        {
           "type": "game",
           "start": "2026-03-06T09:00:00-07:00",
           "end": "2026-03-06T10:00:00-07:00",
           "label": "Pre- Game Skate",
           "notes": "Grizzlys 2025/26 - Pre- Game Skate"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-06T10:15:00-07:00",
-          "end": "2026-03-06T14:00:00-07:00",
-          "label": "Sportsplex",
-          "notes": "Sportsplex"
         },
         {
           "type": "practice",
@@ -322,6 +322,13 @@
           "end": "2026-03-01T17:30:00-07:00",
           "label": "OMHA",
           "notes": "OMHA March 2026 - OMHA"
+        },
+        {
+          "type": "game",
+          "start": "2026-03-01T20:00:00-07:00",
+          "end": "2026-03-01T21:30:00-07:00",
+          "label": "Panthers vs O4",
+          "notes": "Panthers 2025/26 - Panthers vs O4"
         },
         {
           "type": "practice",
@@ -458,24 +465,10 @@
         },
         {
           "type": "practice",
-          "start": "2026-03-06T07:45:00-07:00",
-          "end": "2026-03-06T11:45:00-07:00",
-          "label": "Sportsplex",
-          "notes": "Sportsplex"
-        },
-        {
-          "type": "practice",
           "start": "2026-03-06T12:00:00-07:00",
           "end": "2026-03-06T13:00:00-07:00",
           "label": "Sticks and Pucks",
           "notes": "Sticks and Pucks"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-06T13:15:00-07:00",
-          "end": "2026-03-06T15:30:00-07:00",
-          "label": "Sportsplex",
-          "notes": "Sportsplex"
         },
         {
           "type": "practice",
