@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-23T09:28:07.836794Z",
+  "generated_at": "2026-03-02T09:27:06.268294Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -658,13 +658,6 @@
           "end": "2026-02-21T16:15:00-07:00",
           "label": "U11 Female, Camrose",
           "notes": "OMHA Feb /2026 - U11 Female, Camrose"
-        },
-        {
-          "type": "practice",
-          "start": "2026-02-21T16:30:00-07:00",
-          "end": "2026-02-21T18:30:00-07:00",
-          "label": "U13B, Cremona, if Olds wins on Friday",
-          "notes": "OMHA Feb /2026 - U13B, Cremona, if Olds wins on Friday"
         },
         {
           "type": "game",

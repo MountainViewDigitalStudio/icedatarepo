@@ -1,0 +1,371 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-03-02T09:27:06.268294Z",
+  "facility": {
+    "id": "olds-sportsplex",
+    "name": "Olds Sportsplex",
+    "city": "Olds",
+    "address": "5133 52 St, Olds, AB",
+    "source_url": "https://app.univerusrec.com/oldsrecreationpub/calendars/facilities/index.asp"
+  },
+  "week": {
+    "start_date": "2026-03-15",
+    "end_date": "2026-03-21",
+    "sunday": "2026-03-15"
+  },
+  "ice_surfaces": {
+    "main": {
+      "name": "Main Ice Surface",
+      "slots": [
+        {
+          "type": "practice",
+          "start": "2026-03-15T08:30:00-07:00",
+          "end": "2026-03-15T10:30:00-07:00",
+          "label": "Semifinal 1    U11AA",
+          "notes": "Playoffs - Semifinal 1    U11AA"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-15T10:45:00-07:00",
+          "end": "2026-03-15T12:45:00-07:00",
+          "label": "U15B vs",
+          "notes": "OMHA March 2026 - U15B vs"
+        },
+        {
+          "type": "game",
+          "start": "2026-03-15T13:00:00-07:00",
+          "end": "2026-03-15T15:00:00-07:00",
+          "label": "possible  playoff  game if still have teams in",
+          "notes": "OMHA March 2026 - possible  playoff  game if still have teams in"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-15T15:15:00-07:00",
+          "end": "2026-03-15T17:30:00-07:00",
+          "label": "U11AA final",
+          "notes": "Playoffs - U11AA final"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-15T19:45:00-07:00",
+          "end": "2026-03-15T21:15:00-07:00",
+          "label": "hold",
+          "notes": "Stingers March 2026 - hold"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-16T10:00:00-07:00",
+          "end": "2026-03-16T11:00:00-07:00",
+          "label": "Grizzlys 2025/26",
+          "notes": "Grizzlys 2025/26 - Practice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-16T11:15:00-07:00",
+          "end": "2026-03-16T12:15:00-07:00",
+          "label": "Grizzlys 2025/26",
+          "notes": "Grizzlys 2025/26 - Practice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-16T16:00:00-07:00",
+          "end": "2026-03-16T16:45:00-07:00",
+          "label": "U9C Black last ice",
+          "notes": "OMHA March 2026 - U9C Black last ice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-16T16:45:00-07:00",
+          "end": "2026-03-16T17:30:00-07:00",
+          "label": "U9C Yellow last ice",
+          "notes": "OMHA March 2026 - U9C Yellow last ice"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-03-16T21:45:00-07:00",
+          "end": "2026-03-16T23:00:00-07:00",
+          "label": "Vercaigne Shinny March 2026 PD",
+          "notes": "Vercaigne Shinny March 2026 PD"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-17T06:45:00-07:00",
+          "end": "2026-03-17T07:45:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-17T10:00:00-07:00",
+          "end": "2026-03-17T11:00:00-07:00",
+          "label": "Grizzlys 2025/26",
+          "notes": "Grizzlys 2025/26 - Practice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-17T11:15:00-07:00",
+          "end": "2026-03-17T12:15:00-07:00",
+          "label": "Grizzlys 2025/26",
+          "notes": "Grizzlys 2025/26 - Practice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-17T16:00:00-07:00",
+          "end": "2026-03-17T16:45:00-07:00",
+          "label": "U9A last ice",
+          "notes": "OMHA March 2026 - U9A last ice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-18T10:00:00-07:00",
+          "end": "2026-03-18T11:00:00-07:00",
+          "label": "Grizzlys 2025/26",
+          "notes": "Grizzlys 2025/26 - Practice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-18T11:15:00-07:00",
+          "end": "2026-03-18T12:15:00-07:00",
+          "label": "Grizzlys 2025/26",
+          "notes": "Grizzlys 2025/26 - Practice"
+        },
+        {
+          "type": "game",
+          "start": "2026-03-18T17:00:00-07:00",
+          "end": "2026-03-18T21:00:00-07:00",
+          "label": "Charity Hockey Game - 4 dressing rooms- females and males playing",
+          "notes": "SAOC Game - Charity Hockey Game - 4 dressing rooms- females and males playing"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-19T10:00:00-07:00",
+          "end": "2026-03-19T11:00:00-07:00",
+          "label": "Grizzlys 2025/26",
+          "notes": "Grizzlys 2025/26 - Practice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-19T11:15:00-07:00",
+          "end": "2026-03-19T12:15:00-07:00",
+          "label": "Grizzlys 2025/26",
+          "notes": "Grizzlys 2025/26 - Practice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-19T21:45:00-07:00",
+          "end": "2026-03-19T23:15:00-07:00",
+          "label": "SIR 2025-2026",
+          "notes": "SIR 2025-2026"
+        },
+        {
+          "type": "game",
+          "start": "2026-03-20T10:00:00-07:00",
+          "end": "2026-03-20T11:00:00-07:00",
+          "label": "Pre- game Skate",
+          "notes": "Grizzlys 2025/26 - Pre- game Skate"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-20T12:30:00-07:00",
+          "end": "2026-03-20T16:00:00-07:00",
+          "label": "Peak Heritage Consulting",
+          "notes": "Peak Heritage Consulting"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-20T14:30:00-07:00",
+          "end": "2026-03-20T15:30:00-07:00",
+          "label": "Olds Figure Skating Club March 2026",
+          "notes": "Olds Figure Skating Club March 2026"
+        },
+        {
+          "type": "game",
+          "start": "2026-03-20T18:30:00-07:00",
+          "end": "2026-03-20T21:30:00-07:00",
+          "label": "Round 1 Game 1",
+          "notes": "Grizzlys 2025/26 - Round 1 Game 1"
+        },
+        {
+          "type": "game",
+          "start": "2026-03-21T18:30:00-07:00",
+          "end": "2026-03-21T21:30:00-07:00",
+          "label": "Round 1 Game 2",
+          "notes": "Grizzlys 2025/26 - Round 1 Game 2"
+        }
+      ]
+    },
+    "auxiliary": {
+      "name": "Auxiliary Ice Surface",
+      "slots": [
+        {
+          "type": "practice",
+          "start": "2026-03-15T08:15:00-07:00",
+          "end": "2026-03-15T10:15:00-07:00",
+          "label": "Semifinal 2     U11AA",
+          "notes": "Playoffs - Semifinal 2     U11AA"
+        },
+        {
+          "type": "game",
+          "start": "2026-03-15T10:30:00-07:00",
+          "end": "2026-03-15T11:30:00-07:00",
+          "label": "U9C Black vs Innisfail  (full ice)",
+          "notes": "OMHA March 2026 - U9C Black vs Innisfail  (full ice)"
+        },
+        {
+          "type": "game",
+          "start": "2026-03-15T11:45:00-07:00",
+          "end": "2026-03-15T13:00:00-07:00",
+          "label": "U9B vs Canmore   (full ice)",
+          "notes": "OMHA March 2026 - U9B vs Canmore   (full ice)"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-15T13:15:00-07:00",
+          "end": "2026-03-15T15:30:00-07:00",
+          "label": "U11AA consolation final",
+          "notes": "Playoffs - U11AA consolation final"
+        },
+        {
+          "type": "game",
+          "start": "2026-03-15T15:45:00-07:00",
+          "end": "2026-03-15T17:30:00-07:00",
+          "label": "possible  playoff  game if still have teams in",
+          "notes": "OMHA March 2026 - possible  playoff  game if still have teams in"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-15T18:00:00-07:00",
+          "end": "2026-03-15T19:30:00-07:00",
+          "label": "Wilde March 2026",
+          "notes": "Wilde March 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-16T06:30:00-07:00",
+          "end": "2026-03-16T07:30:00-07:00",
+          "label": "HC - March 2026",
+          "notes": "HC - March 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-16T12:00:00-07:00",
+          "end": "2026-03-16T13:00:00-07:00",
+          "label": "Sticks and Pucks",
+          "notes": "Sticks and Pucks"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-16T15:45:00-07:00",
+          "end": "2026-03-16T16:45:00-07:00",
+          "label": "Olds Figure Skating Club March 2026",
+          "notes": "Olds Figure Skating Club March 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-16T17:00:00-07:00",
+          "end": "2026-03-16T19:45:00-07:00",
+          "label": "Olds Figure Skating Club March 2026",
+          "notes": "Olds Figure Skating Club March 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-16T20:00:00-07:00",
+          "end": "2026-03-16T21:30:00-07:00",
+          "label": "Green Drop - Hockey",
+          "notes": "Green Drop - Hockey"
+        },
+        {
+          "type": "public_skate",
+          "start": "2026-03-17T12:00:00-07:00",
+          "end": "2026-03-17T13:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-17T13:30:00-07:00",
+          "end": "2026-03-17T14:30:00-07:00",
+          "label": "Grizzlys Academy- Deer Meadow",
+          "notes": "Grizzlys Academy- Deer Meadow"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-17T16:00:00-07:00",
+          "end": "2026-03-17T16:45:00-07:00",
+          "label": "U9B last ice",
+          "notes": "OMHA March 2026 - U9B last ice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-18T12:00:00-07:00",
+          "end": "2026-03-18T13:00:00-07:00",
+          "label": "Sticks and Pucks",
+          "notes": "Sticks and Pucks"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-18T15:45:00-07:00",
+          "end": "2026-03-18T16:45:00-07:00",
+          "label": "Olds Figure Skating Club March 2026",
+          "notes": "Olds Figure Skating Club March 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-18T17:00:00-07:00",
+          "end": "2026-03-18T19:45:00-07:00",
+          "label": "Olds Figure Skating Club March 2026",
+          "notes": "Olds Figure Skating Club March 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-19T06:45:00-07:00",
+          "end": "2026-03-19T07:45:00-07:00",
+          "label": "Haaland - Hockey",
+          "notes": "Haaland - Hockey"
+        },
+        {
+          "type": "public_skate",
+          "start": "2026-03-19T12:00:00-07:00",
+          "end": "2026-03-19T13:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-19T13:30:00-07:00",
+          "end": "2026-03-19T14:30:00-07:00",
+          "label": "Grizzlys Academy- Deer Meadow",
+          "notes": "Grizzlys Academy- Deer Meadow"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-19T16:30:00-07:00",
+          "end": "2026-03-19T17:30:00-07:00",
+          "label": "U9 fem?",
+          "notes": "OMHA March 2026 - U9 fem?"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-20T06:30:00-07:00",
+          "end": "2026-03-20T07:30:00-07:00",
+          "label": "Knutson",
+          "notes": "Knutson"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-20T12:00:00-07:00",
+          "end": "2026-03-20T13:00:00-07:00",
+          "label": "Sticks and Pucks",
+          "notes": "Sticks and Pucks"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-20T15:45:00-07:00",
+          "end": "2026-03-20T17:15:00-07:00",
+          "label": "Olds Figure Skating Club March 2026",
+          "notes": "Olds Figure Skating Club March 2026"
+        }
+      ]
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-23T09:28:07.836794Z",
+  "generated_at": "2026-03-02T09:27:06.268294Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -17,6 +17,41 @@
     "main": {
       "name": "Main Ice Surface",
       "slots": [
+        {
+          "type": "game",
+          "start": "2026-03-08T08:30:00-07:00",
+          "end": "2026-03-08T09:45:00-07:00",
+          "label": "U9C Yellow vs Innisfail U9C Black vs Carstairs",
+          "notes": "OMHA March 2026 - U9C Yellow vs Innisfail U9C Black vs Carstairs"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-08T10:00:00-07:00",
+          "end": "2026-03-08T12:00:00-07:00",
+          "label": "OMHA March 2026",
+          "notes": "OMHA March 2026"
+        },
+        {
+          "type": "game",
+          "start": "2026-03-08T12:15:00-07:00",
+          "end": "2026-03-08T14:15:00-07:00",
+          "label": "U15 fem if need a game  3 (game 2 on Saturday)",
+          "notes": "OMHA March 2026 - U15 fem if need a game  3 (game 2 on Saturday)"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-08T14:30:00-07:00",
+          "end": "2026-03-08T16:30:00-07:00",
+          "label": "OMHA March 2026",
+          "notes": "OMHA March 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-08T16:45:00-07:00",
+          "end": "2026-03-08T18:45:00-07:00",
+          "label": "OMHA March 2026",
+          "notes": "OMHA March 2026"
+        },
         {
           "type": "practice",
           "start": "2026-03-09T09:00:00-07:00",
@@ -42,8 +77,15 @@
           "type": "practice",
           "start": "2026-03-09T16:00:00-07:00",
           "end": "2026-03-09T16:45:00-07:00",
-          "label": "OMHA March 2026",
-          "notes": "OMHA March 2026"
+          "label": "U9C Black",
+          "notes": "OMHA March 2026 - U9C Black"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-09T16:45:00-07:00",
+          "end": "2026-03-09T17:30:00-07:00",
+          "label": "U9C Yellow",
+          "notes": "OMHA March 2026 - U9C Yellow"
         },
         {
           "type": "shinny",
@@ -89,6 +131,20 @@
         },
         {
           "type": "practice",
+          "start": "2026-03-10T16:00:00-07:00",
+          "end": "2026-03-10T16:45:00-07:00",
+          "label": "U9A",
+          "notes": "OMHA March 2026 - U9A"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-10T17:00:00-07:00",
+          "end": "2026-03-10T18:00:00-07:00",
+          "label": "U11AA",
+          "notes": "OMHA March 2026 - U11AA"
+        },
+        {
+          "type": "practice",
           "start": "2026-03-11T10:00:00-07:00",
           "end": "2026-03-11T11:00:00-07:00",
           "label": "Grizzlys 2025/26",
@@ -105,8 +161,22 @@
           "type": "practice",
           "start": "2026-03-11T16:00:00-07:00",
           "end": "2026-03-11T16:45:00-07:00",
-          "label": "OMHA March 2026",
-          "notes": "OMHA March 2026"
+          "label": "U9C Yellow",
+          "notes": "OMHA March 2026 - U9C Yellow"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-11T16:45:00-07:00",
+          "end": "2026-03-11T17:30:00-07:00",
+          "label": "U9C Black",
+          "notes": "OMHA March 2026 - U9C Black"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-11T17:45:00-07:00",
+          "end": "2026-03-11T18:45:00-07:00",
+          "label": "U11AA",
+          "notes": "OMHA March 2026 - U11AA"
         },
         {
           "type": "practice",
@@ -124,6 +194,13 @@
         },
         {
           "type": "practice",
+          "start": "2026-03-12T16:00:00-07:00",
+          "end": "2026-03-12T16:45:00-07:00",
+          "label": "U9A",
+          "notes": "OMHA March 2026 - U9A"
+        },
+        {
+          "type": "practice",
           "start": "2026-03-12T21:45:00-07:00",
           "end": "2026-03-12T23:15:00-07:00",
           "label": "SIR 2025-2026",
@@ -138,72 +215,72 @@
         },
         {
           "type": "practice",
-          "start": "2026-03-13T13:45:00-07:00",
-          "end": "2026-03-13T15:45:00-07:00",
-          "label": "Playoffs",
-          "notes": "Playoffs"
+          "start": "2026-03-13T15:45:00-07:00",
+          "end": "2026-03-13T17:15:00-07:00",
+          "label": "Olds Figure Skating Club March 2026",
+          "notes": "Olds Figure Skating Club March 2026"
         },
         {
-          "type": "practice",
-          "start": "2026-03-13T16:00:00-07:00",
-          "end": "2026-03-13T18:00:00-07:00",
-          "label": "Playoffs",
-          "notes": "Playoffs"
+          "type": "game",
+          "start": "2026-03-13T17:30:00-07:00",
+          "end": "2026-03-13T19:30:00-07:00",
+          "label": "1st place bye vs Series 3 winner   U11AA",
+          "notes": "Playoffs - 1st place bye vs Series 3 winner   U11AA"
         },
         {
-          "type": "practice",
-          "start": "2026-03-13T18:15:00-07:00",
-          "end": "2026-03-13T20:15:00-07:00",
-          "label": "Playoffs",
-          "notes": "Playoffs"
+          "type": "game",
+          "start": "2026-03-13T19:45:00-07:00",
+          "end": "2026-03-13T21:45:00-07:00",
+          "label": "possible playoff game",
+          "notes": "OMHA March 2026 - possible playoff game"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-14T08:15:00-07:00",
           "end": "2026-03-14T10:15:00-07:00",
-          "label": "Playoffs",
-          "notes": "Playoffs"
+          "label": "1st place bye vs Series 4  winner U11AA",
+          "notes": "Playoffs - 1st place bye vs Series 4  winner U11AA"
         },
         {
-          "type": "practice",
+          "type": "game",
+          "start": "2026-03-14T10:30:00-07:00",
+          "end": "2026-03-14T11:45:00-07:00",
+          "label": "U9C Yellow vs Lacombe full ice",
+          "notes": "OMHA March 2026 - U9C Yellow vs Lacombe full ice"
+        },
+        {
+          "type": "game",
           "start": "2026-03-14T12:00:00-07:00",
           "end": "2026-03-14T14:00:00-07:00",
-          "label": "Playoffs",
-          "notes": "Playoffs"
+          "label": "series 2 winner vs series 6 winner U11AA",
+          "notes": "Playoffs - series 2 winner vs series 6 winner U11AA"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-14T14:15:00-07:00",
           "end": "2026-03-14T16:15:00-07:00",
-          "label": "Playoffs",
-          "notes": "Playoffs"
+          "label": "series 3  winner vs series 4 winner U11AA",
+          "notes": "Playoffs - series 3  winner vs series 4 winner U11AA"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-14T16:30:00-07:00",
           "end": "2026-03-14T18:30:00-07:00",
-          "label": "Playoffs",
-          "notes": "Playoffs"
+          "label": "series 2 winner vs series 5 winner U11AA",
+          "notes": "Playoffs - series 2 winner vs series 5 winner U11AA"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-14T18:45:00-07:00",
           "end": "2026-03-14T20:45:00-07:00",
-          "label": "Playoffs",
-          "notes": "Playoffs"
+          "label": "possible  playoff  game if still have teams in",
+          "notes": "OMHA March 2026 - possible  playoff  game if still have teams in"
         }
       ]
     },
     "auxiliary": {
       "name": "Auxiliary Ice Surface",
       "slots": [
-        {
-          "type": "practice",
-          "start": "2026-03-08T08:45:00-07:00",
-          "end": "2026-03-08T09:30:00-07:00",
-          "label": "OMHA March 2026",
-          "notes": "OMHA March 2026"
-        },
         {
           "type": "public_skate",
           "start": "2026-03-08T12:00:00-07:00",
@@ -276,10 +353,17 @@
         },
         {
           "type": "practice",
-          "start": "2026-03-10T16:00:00-07:00",
-          "end": "2026-03-10T16:45:00-07:00",
-          "label": "OMHA March 2026",
-          "notes": "OMHA March 2026"
+          "start": "2026-03-10T16:30:00-07:00",
+          "end": "2026-03-10T17:15:00-07:00",
+          "label": "U9B",
+          "notes": "OMHA March 2026 - U9B"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-10T17:30:00-07:00",
+          "end": "2026-03-10T18:45:00-07:00",
+          "label": "Thrive",
+          "notes": "Thrive"
         },
         {
           "type": "practice",
@@ -367,10 +451,17 @@
         },
         {
           "type": "practice",
-          "start": "2026-03-12T16:00:00-07:00",
-          "end": "2026-03-12T21:30:00-07:00",
-          "label": "OMHA March 2026",
-          "notes": "OMHA March 2026"
+          "start": "2026-03-12T16:30:00-07:00",
+          "end": "2026-03-12T17:15:00-07:00",
+          "label": "U9B",
+          "notes": "OMHA March 2026 - U9B"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-12T17:30:00-07:00",
+          "end": "2026-03-12T18:45:00-07:00",
+          "label": "Thrive",
+          "notes": "Thrive"
         },
         {
           "type": "practice",
@@ -387,39 +478,60 @@
           "notes": "Sticks and Pucks"
         },
         {
-          "type": "practice",
+          "type": "game",
+          "start": "2026-03-13T16:00:00-07:00",
+          "end": "2026-03-13T18:00:00-07:00",
+          "label": "Series 4  winner vs Series 7  winner U11AA",
+          "notes": "Playoffs - Series 4  winner vs Series 7  winner U11AA"
+        },
+        {
+          "type": "game",
+          "start": "2026-03-13T18:15:00-07:00",
+          "end": "2026-03-13T20:15:00-07:00",
+          "label": "Series 1 winner vs Series 2 winner U11AA",
+          "notes": "Playoffs - Series 1 winner vs Series 2 winner U11AA"
+        },
+        {
+          "type": "game",
           "start": "2026-03-14T08:30:00-07:00",
           "end": "2026-03-14T10:30:00-07:00",
-          "label": "Playoffs",
-          "notes": "Playoffs"
+          "label": "Series 3 winner vs Series 7 winner U11AA",
+          "notes": "Playoffs - Series 3 winner vs Series 7 winner U11AA"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-14T10:45:00-07:00",
           "end": "2026-03-14T12:45:00-07:00",
-          "label": "Playoffs",
-          "notes": "Playoffs"
+          "label": "Series 1  winner vs series 5 winner U11AA",
+          "notes": "Playoffs - Series 1  winner vs series 5 winner U11AA"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-14T13:00:00-07:00",
           "end": "2026-03-14T15:00:00-07:00",
-          "label": "Playoffs",
-          "notes": "Playoffs"
+          "label": "1st place bye vs series 7 winner U11AA",
+          "notes": "Playoffs - 1st place bye vs series 7 winner U11AA"
         },
         {
-          "type": "practice",
+          "type": "game",
+          "start": "2026-03-14T15:30:00-07:00",
+          "end": "2026-03-14T16:30:00-07:00",
+          "label": "U9A vs Lacombe",
+          "notes": "OMHA March 2026 - U9A vs Lacombe"
+        },
+        {
+          "type": "game",
           "start": "2026-03-14T16:45:00-07:00",
           "end": "2026-03-14T18:45:00-07:00",
-          "label": "Playoffs",
-          "notes": "Playoffs"
+          "label": "series 1 winner vs series 6 winner U11AA",
+          "notes": "Playoffs - series 1 winner vs series 6 winner U11AA"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-14T19:00:00-07:00",
           "end": "2026-03-14T21:00:00-07:00",
-          "label": "Playoffs",
-          "notes": "Playoffs"
+          "label": "possible  playoff  game if still have teams in",
+          "notes": "OMHA March 2026 - possible  playoff  game if still have teams in"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-23T09:28:07.836794Z",
+  "generated_at": "2026-03-02T09:27:06.268294Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -21,8 +21,8 @@
           "type": "practice",
           "start": "2026-02-22T08:15:00-07:00",
           "end": "2026-02-22T09:30:00-07:00",
-          "label": "U7 Black, Kneehill",
-          "notes": "OMHA Feb /2026 - U7 Black, Kneehill"
+          "label": "U7 Black, Kneehill, no show",
+          "notes": "OMHA Feb /2026 - U7 Black, Kneehill, no show"
         },
         {
           "type": "practice",
@@ -77,8 +77,8 @@
           "type": "practice",
           "start": "2026-02-23T16:00:00-07:00",
           "end": "2026-02-23T16:45:00-07:00",
-          "label": "U9A, U9C Black",
-          "notes": "OMHA Feb /2026 - U9A, U9C Black"
+          "label": "U9C Yellow, U9C Black",
+          "notes": "OMHA Feb /2026 - U9C Yellow, U9C Black"
         },
         {
           "type": "practice",
@@ -119,20 +119,13 @@
           "type": "practice",
           "start": "2026-02-23T20:30:00-07:00",
           "end": "2026-02-23T21:30:00-07:00",
-          "label": "U15AA",
-          "notes": "OMHA Feb /2026 - U15AA"
-        },
-        {
-          "type": "shinny",
-          "start": "2026-02-23T21:45:00-07:00",
-          "end": "2026-02-23T23:00:00-07:00",
-          "label": "Vercaigne Shinny Feb 2026 PD",
-          "notes": "Vercaigne Shinny Feb 2026 PD"
+          "label": "U18B",
+          "notes": "OMHA Feb /2026 - U18B"
         },
         {
           "type": "practice",
           "start": "2026-02-24T06:45:00-07:00",
-          "end": "2026-02-24T07:30:00-07:00",
+          "end": "2026-02-24T07:45:00-07:00",
           "label": "Norrie",
           "notes": "Norrie"
         },
@@ -152,6 +145,13 @@
         },
         {
           "type": "practice",
+          "start": "2026-02-24T15:00:00-07:00",
+          "end": "2026-02-24T15:45:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie"
+        },
+        {
+          "type": "practice",
           "start": "2026-02-24T16:00:00-07:00",
           "end": "2026-02-24T16:45:00-07:00",
           "label": "U7 Black,Red,Yellow",
@@ -168,29 +168,22 @@
           "type": "practice",
           "start": "2026-02-24T18:00:00-07:00",
           "end": "2026-02-24T18:45:00-07:00",
-          "label": "U11 female",
-          "notes": "OMHA Feb /2026 - U11 female"
-        },
-        {
-          "type": "practice",
-          "start": "2026-02-24T19:00:00-07:00",
-          "end": "2026-02-24T19:45:00-07:00",
           "label": "U15 female",
           "notes": "OMHA Feb /2026 - U15 female"
         },
         {
           "type": "practice",
-          "start": "2026-02-24T20:00:00-07:00",
-          "end": "2026-02-24T20:45:00-07:00",
+          "start": "2026-02-24T19:00:00-07:00",
+          "end": "2026-02-24T20:00:00-07:00",
           "label": "U15B",
           "notes": "OMHA Feb /2026 - U15B"
         },
         {
           "type": "practice",
-          "start": "2026-02-24T21:00:00-07:00",
-          "end": "2026-02-24T22:00:00-07:00",
-          "label": "U18A",
-          "notes": "OMHA Feb /2026 - U18A"
+          "start": "2026-02-24T20:15:00-07:00",
+          "end": "2026-02-24T21:15:00-07:00",
+          "label": "U15A",
+          "notes": "OMHA Feb /2026 - U15A"
         },
         {
           "type": "practice",
@@ -217,22 +210,22 @@
           "type": "practice",
           "start": "2026-02-25T16:45:00-07:00",
           "end": "2026-02-25T17:30:00-07:00",
-          "label": "U11B, U11C",
-          "notes": "OMHA Feb /2026 - U11B, U11C"
+          "label": "U11B",
+          "notes": "OMHA Feb /2026 - U11B"
         },
         {
           "type": "practice",
-          "start": "2026-02-25T17:45:00-07:00",
-          "end": "2026-02-25T18:30:00-07:00",
-          "label": "U13C",
-          "notes": "OMHA Feb /2026 - U13C"
+          "start": "2026-02-25T17:30:00-07:00",
+          "end": "2026-02-25T18:15:00-07:00",
+          "label": "U11C",
+          "notes": "OMHA Feb /2026 - U11C"
         },
         {
           "type": "practice",
           "start": "2026-02-25T18:30:00-07:00",
           "end": "2026-02-25T19:15:00-07:00",
-          "label": "U13B",
-          "notes": "OMHA Feb /2026 - U13B"
+          "label": "U13C",
+          "notes": "OMHA Feb /2026 - U13C"
         },
         {
           "type": "practice",
@@ -280,8 +273,8 @@
           "type": "practice",
           "start": "2026-02-26T18:00:00-07:00",
           "end": "2026-02-26T19:00:00-07:00",
-          "label": "U13A",
-          "notes": "OMHA Feb /2026 - U13A"
+          "label": "U13B fem",
+          "notes": "OMHA Feb /2026 - U13B fem"
         },
         {
           "type": "practice",
@@ -294,8 +287,8 @@
           "type": "practice",
           "start": "2026-02-26T20:30:00-07:00",
           "end": "2026-02-26T21:30:00-07:00",
-          "label": "U18 female",
-          "notes": "OMHA Feb /2026 - U18 female"
+          "label": "U18 A",
+          "notes": "OMHA Feb /2026 - U18 A"
         },
         {
           "type": "practice",
@@ -336,22 +329,22 @@
           "type": "practice",
           "start": "2026-02-28T08:30:00-07:00",
           "end": "2026-02-28T09:45:00-07:00",
-          "label": "U9C Yellow, Carstairs,U9C Black, Innisfail",
-          "notes": "OMHA Feb /2026 - U9C Yellow, Carstairs,U9C Black, Innisfail"
+          "label": "U9C Yellow, Carstairs full ice",
+          "notes": "OMHA Feb /2026 - U9C Yellow, Carstairs full ice"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-02-28T10:00:00-07:00",
           "end": "2026-02-28T12:00:00-07:00",
-          "label": "omha",
-          "notes": "OMHA Feb /2026 - omha"
+          "label": "u11 Female vs Central Alberta",
+          "notes": "OMHA Feb /2026 - u11 Female vs Central Alberta"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-02-28T12:15:00-07:00",
           "end": "2026-02-28T14:15:00-07:00",
-          "label": "omha",
-          "notes": "OMHA Feb /2026 - omha"
+          "label": "U13A fem vs Wheatland",
+          "notes": "OMHA Feb /2026 - U13A fem vs Wheatland"
         },
         {
           "type": "game",
@@ -445,16 +438,16 @@
         {
           "type": "practice",
           "start": "2026-02-23T20:00:00-07:00",
-          "end": "2026-02-23T20:45:00-07:00",
-          "label": "U18 fem",
-          "notes": "OMHA Feb /2026 - U18 fem"
+          "end": "2026-02-23T21:00:00-07:00",
+          "label": "U15AA",
+          "notes": "OMHA Feb /2026 - U15AA"
         },
         {
-          "type": "practice",
-          "start": "2026-02-23T21:00:00-07:00",
-          "end": "2026-02-23T22:00:00-07:00",
-          "label": "U18B",
-          "notes": "OMHA Feb /2026 - U18B"
+          "type": "shinny",
+          "start": "2026-02-23T21:15:00-07:00",
+          "end": "2026-02-23T22:30:00-07:00",
+          "label": "Vercaigne Shinny Feb 2026 PD",
+          "notes": "Vercaigne Shinny Feb 2026 PD"
         },
         {
           "type": "public_skate",
@@ -474,8 +467,8 @@
           "type": "practice",
           "start": "2026-02-24T16:00:00-07:00",
           "end": "2026-02-24T16:45:00-07:00",
-          "label": "U9C Yellow, U9B",
-          "notes": "OMHA Feb /2026 - U9C Yellow, U9B"
+          "label": "U9A, U9B",
+          "notes": "OMHA Feb /2026 - U9A, U9B"
         },
         {
           "type": "practice",
@@ -487,23 +480,23 @@
         {
           "type": "practice",
           "start": "2026-02-24T18:15:00-07:00",
-          "end": "2026-02-24T19:15:00-07:00",
-          "label": "U13B",
-          "notes": "OMHA Feb /2026 - U13B"
+          "end": "2026-02-24T19:00:00-07:00",
+          "label": "U11 female",
+          "notes": "OMHA Feb /2026 - U11 female"
         },
         {
           "type": "practice",
-          "start": "2026-02-24T19:30:00-07:00",
+          "start": "2026-02-24T19:15:00-07:00",
           "end": "2026-02-24T20:15:00-07:00",
-          "label": "U13A",
-          "notes": "OMHA Feb /2026 - U13A"
+          "label": "U13B final  ice 2 rooms",
+          "notes": "OMHA Feb /2026 - U13B final  ice 2 rooms"
         },
         {
           "type": "practice",
           "start": "2026-02-24T20:30:00-07:00",
           "end": "2026-02-24T21:30:00-07:00",
-          "label": "U15A",
-          "notes": "OMHA Feb /2026 - U15A"
+          "label": "U18A",
+          "notes": "OMHA Feb /2026 - U18A"
         },
         {
           "type": "practice",
@@ -565,36 +558,36 @@
           "type": "practice",
           "start": "2026-02-26T16:00:00-07:00",
           "end": "2026-02-26T16:45:00-07:00",
-          "label": "U11A, U11 female",
-          "notes": "OMHA Feb /2026 - U11A, U11 female"
+          "label": "U11A",
+          "notes": "OMHA Feb /2026 - U11A"
         },
         {
           "type": "practice",
-          "start": "2026-02-26T17:00:00-07:00",
-          "end": "2026-02-26T18:00:00-07:00",
+          "start": "2026-02-26T16:45:00-07:00",
+          "end": "2026-02-26T17:30:00-07:00",
+          "label": "U11 fem",
+          "notes": "OMHA Feb /2026 - U11 fem"
+        },
+        {
+          "type": "practice",
+          "start": "2026-02-26T17:45:00-07:00",
+          "end": "2026-02-26T18:45:00-07:00",
           "label": "U11AA",
           "notes": "OMHA Feb /2026 - U11AA"
         },
         {
           "type": "practice",
-          "start": "2026-02-26T18:15:00-07:00",
-          "end": "2026-02-26T19:15:00-07:00",
-          "label": "U13B female",
-          "notes": "OMHA Feb /2026 - U13B female"
-        },
-        {
-          "type": "practice",
-          "start": "2026-02-26T19:30:00-07:00",
-          "end": "2026-02-26T20:30:00-07:00",
+          "start": "2026-02-26T19:00:00-07:00",
+          "end": "2026-02-26T20:00:00-07:00",
           "label": "U15A",
           "notes": "OMHA Feb /2026 - U15A"
         },
         {
           "type": "practice",
-          "start": "2026-02-26T20:45:00-07:00",
-          "end": "2026-02-26T21:45:00-07:00",
-          "label": "U18A",
-          "notes": "OMHA Feb /2026 - U18A"
+          "start": "2026-02-26T20:15:00-07:00",
+          "end": "2026-02-26T21:15:00-07:00",
+          "label": "U18fem final ice",
+          "notes": "OMHA Feb /2026 - U18fem final ice"
         },
         {
           "type": "practice",
@@ -614,36 +607,29 @@
           "type": "practice",
           "start": "2026-02-27T16:00:00-07:00",
           "end": "2026-02-27T16:45:00-07:00",
-          "label": "U7 Red, U7 Black",
-          "notes": "OMHA Feb /2026 - U7 Red, U7 Black"
+          "label": "U9C Yellow",
+          "notes": "OMHA Feb /2026 - U9C Yellow"
         },
         {
           "type": "practice",
           "start": "2026-02-27T16:45:00-07:00",
           "end": "2026-02-27T17:30:00-07:00",
-          "label": "U7 Yellow, U9C Black",
-          "notes": "OMHA Feb /2026 - U7 Yellow, U9C Black"
+          "label": "U9C Black",
+          "notes": "OMHA Feb /2026 - U9C Black"
         },
         {
           "type": "practice",
           "start": "2026-02-27T17:45:00-07:00",
           "end": "2026-02-27T19:45:00-07:00",
-          "label": "omha",
-          "notes": "OMHA Feb /2026 - omha"
+          "label": "U11AA, guest",
+          "notes": "OMHA Feb /2026 - U11AA, guest"
         },
         {
           "type": "practice",
           "start": "2026-02-27T20:00:00-07:00",
-          "end": "2026-02-27T22:00:00-07:00",
-          "label": "omha",
-          "notes": "OMHA Feb /2026 - omha"
-        },
-        {
-          "type": "practice",
-          "start": "2026-02-28T08:00:00-07:00",
-          "end": "2026-02-28T10:00:00-07:00",
-          "label": "omha",
-          "notes": "OMHA Feb /2026 - omha"
+          "end": "2026-02-27T22:15:00-07:00",
+          "label": "U18B,  Chestermere",
+          "notes": "OMHA Feb /2026 - U18B,  Chestermere"
         },
         {
           "type": "game",
@@ -653,32 +639,25 @@
           "notes": "AEHC Game PD"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-02-28T12:30:00-07:00",
           "end": "2026-02-28T14:30:00-07:00",
-          "label": "omha",
-          "notes": "OMHA Feb /2026 - omha"
+          "label": "U13C vs Lacombe",
+          "notes": "OMHA Feb /2026 - U13C vs Lacombe"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-02-28T14:45:00-07:00",
           "end": "2026-02-28T16:45:00-07:00",
-          "label": "omha",
-          "notes": "OMHA Feb /2026 - omha"
+          "label": "U13B female vs Okotoks",
+          "notes": "OMHA Feb /2026 - U13B female vs Okotoks"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-02-28T17:00:00-07:00",
           "end": "2026-02-28T19:15:00-07:00",
-          "label": "U18",
-          "notes": "OMHA Feb /2026 - U18"
-        },
-        {
-          "type": "practice",
-          "start": "2026-02-28T19:30:00-07:00",
-          "end": "2026-02-28T21:45:00-07:00",
-          "label": "U18",
-          "notes": "OMHA Feb /2026 - U18"
+          "label": "U15A vs Rocky   2 floods",
+          "notes": "OMHA Feb /2026 - U15A vs Rocky   2 floods"
         }
       ]
     }
