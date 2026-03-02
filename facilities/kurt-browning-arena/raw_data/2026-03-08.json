@@ -4,14 +4,14 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-03-08",
   "week_end": "2026-03-14",
-  "last_updated": "2026-02-23T02:28:01.075079-07:00",
+  "last_updated": "2026-03-02T02:26:48.761269-07:00",
   "slots": [
     {
       "start": "2026-03-08T08:00:00-07:00",
       "end": "2026-03-08T17:45:00-07:00",
       "type": "other",
-      "label": "Playoff Ice - playoff ice",
-      "notes": "Playoff Ice - playoff ice"
+      "label": "Ice - playoff ice",
+      "notes": "Ice - playoff ice"
     },
     {
       "start": "2026-03-08T18:00:00-07:00",
@@ -311,8 +311,8 @@
       "start": "2026-03-13T19:00:00-07:00",
       "end": "2026-03-13T21:45:00-07:00",
       "type": "other",
-      "label": "Playoff Ice - playoff ice",
-      "notes": "Playoff Ice - playoff ice"
+      "label": "Ice - playoff ice",
+      "notes": "Ice - playoff ice"
     },
     {
       "start": "2026-03-14T09:30:00-07:00",
@@ -329,11 +329,18 @@
       "notes": "GAMES - U9 BOARDS + FLOOD"
     },
     {
-      "start": "2026-03-14T11:00:00-07:00",
-      "end": "2026-03-14T21:00:00-07:00",
-      "type": "other",
-      "label": "Playoff Ice - playoff ice",
-      "notes": "Playoff Ice - playoff ice"
+      "start": "2026-03-14T13:00:00-07:00",
+      "end": "2026-03-14T14:30:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Rustlers Skate - Rustlers"
+    },
+    {
+      "start": "2026-03-14T14:30:00-07:00",
+      "end": "2026-03-14T14:45:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Rustlers Skate - Flood"
     }
   ]
 }

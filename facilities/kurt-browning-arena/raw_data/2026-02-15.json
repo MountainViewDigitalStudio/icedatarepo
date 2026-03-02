@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-02-15",
   "week_end": "2026-02-21",
-  "last_updated": "2026-02-23T02:28:00.001175-07:00",
+  "last_updated": "2026-03-02T02:26:47.507467-07:00",
   "slots": [
     {
       "start": "2026-02-15T08:45:00-07:00",
@@ -430,15 +430,15 @@
       "start": "2026-02-21T12:00:00-07:00",
       "end": "2026-02-21T14:00:00-07:00",
       "type": "game",
-      "label": "Playoff Ice - U13 vs Sylvan Lake",
-      "notes": "Playoff Ice - U13 vs Sylvan Lake"
+      "label": "Ice - U13 vs Sylvan Lake",
+      "notes": "Ice - U13 vs Sylvan Lake"
     },
     {
       "start": "2026-02-21T14:00:00-07:00",
       "end": "2026-02-21T14:15:00-07:00",
       "type": "maintenance",
       "label": "Maintenance",
-      "notes": "Playoff Ice - flood"
+      "notes": "Ice - flood"
     }
   ]
 }

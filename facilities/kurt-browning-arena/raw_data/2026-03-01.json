@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-03-01",
   "week_end": "2026-03-07",
-  "last_updated": "2026-02-23T02:28:00.720000-07:00",
+  "last_updated": "2026-03-02T02:26:48.429645-07:00",
   "slots": [
     {
       "start": "2026-03-01T09:30:00-07:00",
@@ -23,9 +23,30 @@
     {
       "start": "2026-03-01T11:00:00-07:00",
       "end": "2026-03-01T13:00:00-07:00",
-      "type": "other",
-      "label": "Playoff Ice - U11 B",
-      "notes": "Playoff Ice - U11 B"
+      "type": "game",
+      "label": "Ice - U11 B vs Stettler",
+      "notes": "Ice - U11 B vs Stettler"
+    },
+    {
+      "start": "2026-03-01T13:00:00-07:00",
+      "end": "2026-03-01T13:15:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "Ice - Flood"
+    },
+    {
+      "start": "2026-03-01T13:15:00-07:00",
+      "end": "2026-03-01T15:30:00-07:00",
+      "type": "game",
+      "label": "Ice - U15 vs Blackfalds",
+      "notes": "Ice - U15 vs Blackfalds"
+    },
+    {
+      "start": "2026-03-01T15:45:00-07:00",
+      "end": "2026-03-01T16:00:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "Ice - Flood"
     },
     {
       "start": "2026-03-01T18:00:00-07:00",
@@ -288,6 +309,13 @@
     },
     {
       "start": "2026-03-06T12:00:00-07:00",
+      "end": "2026-03-06T14:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Skating"
+    },
+    {
+      "start": "2026-03-06T12:00:00-07:00",
       "end": "2026-03-06T20:00:00-07:00",
       "type": "other",
       "label": "Caroline Dance West Meeting - Dance photos",
@@ -339,8 +367,8 @@
       "start": "2026-03-07T08:00:00-07:00",
       "end": "2026-03-07T20:00:00-07:00",
       "type": "other",
-      "label": "Playoff Ice - playoff ice",
-      "notes": "Playoff Ice - playoff ice"
+      "label": "Ice - playoff ice",
+      "notes": "Ice - playoff ice"
     }
   ]
 }
