@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-23T09:32:02.457366Z",
+  "generated_at": "2026-03-02T09:30:15.399029Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -16,49 +16,40 @@
       "name": "Main Ice Surface",
       "slots": [
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-03-01T09:30:00-07:00",
           "end": "2026-03-01T11:30:00-07:00",
-          "label": "U11A,",
-          "notes": "OMHA March 2026 - U11A,",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-01T11:45:00-07:00",
-          "end": "2026-03-01T14:00:00-07:00",
-          "label": "U18",
-          "notes": "OMHA March 2026 - U18",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-01T14:15:00-07:00",
-          "end": "2026-03-01T16:30:00-07:00",
-          "label": "U18",
-          "notes": "OMHA March 2026 - U18",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
-        },
-        {
-          "type": "games",
-          "start": "2026-03-01T16:45:00-07:00",
-          "end": "2026-03-01T19:30:00-07:00",
-          "label": "U18AA vs Airdrie need time for grad players",
-          "notes": "OMHA March 2026 - U18AA vs Airdrie need time for grad players",
+          "label": "U11A vs Rocky",
+          "notes": "OMHA March 2026 - U11A vs Rocky",
           "color": "#EF4444",
           "type_display": "Games"
         },
         {
-          "type": "other",
-          "start": "2026-03-01T21:30:00-07:00",
-          "end": "2026-03-01T23:00:00-07:00",
-          "label": "Wilde March 2026",
-          "notes": "Wilde March 2026",
-          "color": "#64748B",
-          "type_display": "Other"
+          "type": "games",
+          "start": "2026-03-01T11:45:00-07:00",
+          "end": "2026-03-01T13:45:00-07:00",
+          "label": "U11B vs Didsbury",
+          "notes": "OMHA March 2026 - U11B vs Didsbury",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-03-01T14:00:00-07:00",
+          "end": "2026-03-01T16:15:00-07:00",
+          "label": "U18A vs Blindman Valley",
+          "notes": "OMHA March 2026 - U18A vs Blindman Valley",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-03-01T16:30:00-07:00",
+          "end": "2026-03-01T19:30:00-07:00",
+          "label": "U18AA vs Airdrie warmwarm up on dirty ice and then flood,  extra time for grad players",
+          "notes": "OMHA March 2026 - U18AA vs Airdrie warmwarm up on dirty ice and then flood,  extra time for grad players",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "practice",
@@ -82,8 +73,53 @@
           "type": "practice",
           "start": "2026-03-02T16:00:00-07:00",
           "end": "2026-03-02T16:45:00-07:00",
-          "label": "U9C Yellow U9C Black",
-          "notes": "OMHA March 2026 - U9C Yellow U9C Black",
+          "label": "U9C Yellow",
+          "notes": "OMHA March 2026 - U9C Yellow",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-02T16:45:00-07:00",
+          "end": "2026-03-02T17:30:00-07:00",
+          "label": "U9C Black",
+          "notes": "OMHA March 2026 - U9C Black",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-02T17:30:00-07:00",
+          "end": "2026-03-02T18:15:00-07:00",
+          "label": "U11B",
+          "notes": "OMHA March 2026 - U11B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-02T18:30:00-07:00",
+          "end": "2026-03-02T19:15:00-07:00",
+          "label": "U11C",
+          "notes": "OMHA March 2026 - U11C",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-02T19:30:00-07:00",
+          "end": "2026-03-02T20:15:00-07:00",
+          "label": "U13B female",
+          "notes": "OMHA March 2026 - U13B female",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-02T20:30:00-07:00",
+          "end": "2026-03-02T21:30:00-07:00",
+          "label": "U15A",
+          "notes": "OMHA March 2026 - U15A",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -145,8 +181,8 @@
           "type": "practice",
           "start": "2026-03-03T17:00:00-07:00",
           "end": "2026-03-03T18:00:00-07:00",
-          "label": "U11AA",
-          "notes": "OMHA March 2026 - U11AA",
+          "label": "U13C",
+          "notes": "OMHA March 2026 - U13C",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -198,18 +234,36 @@
         {
           "type": "practice",
           "start": "2026-03-04T16:45:00-07:00",
-          "end": "2026-03-04T17:45:00-07:00",
-          "label": "U11AA",
-          "notes": "OMHA March 2026 - U11AA",
+          "end": "2026-03-04T17:30:00-07:00",
+          "label": "U11B/ U11C",
+          "notes": "OMHA March 2026 - U11B/ U11C",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
         {
           "type": "practice",
-          "start": "2026-03-04T18:00:00-07:00",
-          "end": "2026-03-04T19:00:00-07:00",
+          "start": "2026-03-04T17:45:00-07:00",
+          "end": "2026-03-04T18:45:00-07:00",
+          "label": "U13AA",
+          "notes": "OMHA March 2026 - U13AA",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-04T19:00:00-07:00",
+          "end": "2026-03-04T20:00:00-07:00",
           "label": "U18AA",
           "notes": "OMHA March 2026 - U18AA",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-04T20:15:00-07:00",
+          "end": "2026-03-04T21:15:00-07:00",
+          "label": "U18A",
+          "notes": "OMHA March 2026 - U18A",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -235,8 +289,26 @@
           "type": "practice",
           "start": "2026-03-05T16:00:00-07:00",
           "end": "2026-03-05T16:45:00-07:00",
-          "label": "U9A U9B",
-          "notes": "OMHA March 2026 - U9A U9B",
+          "label": "U9A",
+          "notes": "OMHA March 2026 - U9A",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-05T16:45:00-07:00",
+          "end": "2026-03-05T17:30:00-07:00",
+          "label": "U9B",
+          "notes": "OMHA March 2026 - U9B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-05T17:45:00-07:00",
+          "end": "2026-03-05T18:45:00-07:00",
+          "label": "U11AA",
+          "notes": "OMHA March 2026 - U11AA",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -349,13 +421,13 @@
           "type_display": "Games"
         },
         {
-          "type": "other",
+          "type": "games",
           "start": "2026-03-07T16:45:00-07:00",
           "end": "2026-03-07T18:45:00-07:00",
-          "label": "OMHA",
-          "notes": "OMHA March 2026 - OMHA",
-          "color": "#64748B",
-          "type_display": "Other"
+          "label": "U15F vs Red Deer",
+          "notes": "OMHA March 2026 - U15F vs Red Deer",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "practice",
@@ -373,10 +445,10 @@
       "slots": [
         {
           "type": "other",
-          "start": "2026-03-01T09:45:00-07:00",
-          "end": "2026-03-01T11:45:00-07:00",
-          "label": "OMHA",
-          "notes": "OMHA March 2026 - OMHA",
+          "start": "2026-03-01T08:45:00-07:00",
+          "end": "2026-03-01T09:30:00-07:00",
+          "label": "Pre- Hockey",
+          "notes": "OMHA March 2026 - Pre- Hockey",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -390,20 +462,20 @@
           "type_display": "Public / Family"
         },
         {
-          "type": "other",
+          "type": "practice",
           "start": "2026-03-01T13:30:00-07:00",
           "end": "2026-03-01T15:30:00-07:00",
-          "label": "OMHA",
-          "notes": "OMHA March 2026 - OMHA",
-          "color": "#64748B",
-          "type_display": "Other"
+          "label": "U13AF if needed series is best 2 out of 3",
+          "notes": "OMHA March 2026 - U13AF if needed series is best 2 out of 3",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "other",
-          "start": "2026-03-01T15:45:00-07:00",
-          "end": "2026-03-01T17:30:00-07:00",
-          "label": "OMHA",
-          "notes": "OMHA March 2026 - OMHA",
+          "start": "2026-03-01T18:00:00-07:00",
+          "end": "2026-03-01T19:30:00-07:00",
+          "label": "Wilde March 2026",
+          "notes": "Wilde March 2026",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -453,6 +525,24 @@
           "type_display": "Skating Club / Programs"
         },
         {
+          "type": "practice",
+          "start": "2026-03-02T20:00:00-07:00",
+          "end": "2026-03-02T20:45:00-07:00",
+          "label": "U15B",
+          "notes": "OMHA March 2026 - U15B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-02T21:00:00-07:00",
+          "end": "2026-03-02T22:00:00-07:00",
+          "label": "U18B",
+          "notes": "OMHA March 2026 - U18B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
           "type": "other",
           "start": "2026-03-03T07:00:00-07:00",
           "end": "2026-03-03T08:00:00-07:00",
@@ -485,6 +575,51 @@
           "end": "2026-03-03T16:45:00-07:00",
           "label": "U9A U9B",
           "notes": "OMHA March 2026 - U9A U9B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-03T16:45:00-07:00",
+          "end": "2026-03-03T17:30:00-07:00",
+          "label": "U11A/ U11 fem",
+          "notes": "OMHA March 2026 - U11A/ U11 fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-03T17:45:00-07:00",
+          "end": "2026-03-03T18:30:00-07:00",
+          "label": "U13A last ice",
+          "notes": "OMHA March 2026 - U13A last ice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-03T18:45:00-07:00",
+          "end": "2026-03-03T19:45:00-07:00",
+          "label": "U15 fem",
+          "notes": "OMHA March 2026 - U15 fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-03T20:00:00-07:00",
+          "end": "2026-03-03T21:00:00-07:00",
+          "label": "U18AA",
+          "notes": "OMHA March 2026 - U18AA",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-03T21:15:00-07:00",
+          "end": "2026-03-03T22:15:00-07:00",
+          "label": "U18B",
+          "notes": "OMHA March 2026 - U18B",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -534,6 +669,15 @@
           "type_display": "Skating Club / Programs"
         },
         {
+          "type": "practice",
+          "start": "2026-03-04T20:00:00-07:00",
+          "end": "2026-03-04T20:45:00-07:00",
+          "label": "U15A",
+          "notes": "OMHA March 2026 - U15A",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
           "type": "other",
           "start": "2026-03-05T06:45:00-07:00",
           "end": "2026-03-05T07:45:00-07:00",
@@ -577,6 +721,33 @@
           "notes": "Grizzlys Academy- Deer Meadow - Female and male room needed",
           "color": "#64748B",
           "type_display": "Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-05T16:15:00-07:00",
+          "end": "2026-03-05T17:15:00-07:00",
+          "label": "U11 fem",
+          "notes": "OMHA March 2026 - U11 fem",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-05T17:30:00-07:00",
+          "end": "2026-03-05T18:30:00-07:00",
+          "label": "U11A",
+          "notes": "OMHA March 2026 - U11A",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-05T18:45:00-07:00",
+          "end": "2026-03-05T19:30:00-07:00",
+          "label": "U13C",
+          "notes": "OMHA March 2026 - U13C",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "other",
@@ -625,8 +796,8 @@
         },
         {
           "type": "other",
-          "start": "2026-03-07T07:30:00-07:00",
-          "end": "2026-03-07T22:00:00-07:00",
+          "start": "2026-03-07T08:45:00-07:00",
+          "end": "2026-03-07T10:45:00-07:00",
           "label": "OMHA",
           "notes": "OMHA March 2026 - OMHA",
           "color": "#64748B",
