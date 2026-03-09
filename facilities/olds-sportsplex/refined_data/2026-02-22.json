@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-02T09:30:15.398081Z",
+  "generated_at": "2026-03-09T09:30:11.927070Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -782,15 +782,6 @@
           "end": "2026-02-27T17:30:00-07:00",
           "label": "U9C Black",
           "notes": "OMHA Feb /2026 - U9C Black",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
-        },
-        {
-          "type": "practice",
-          "start": "2026-02-27T17:45:00-07:00",
-          "end": "2026-02-27T19:45:00-07:00",
-          "label": "U11AA, guest",
-          "notes": "OMHA Feb /2026 - U11AA, guest",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },

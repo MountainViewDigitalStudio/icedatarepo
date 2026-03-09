@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-02T09:30:15.426062Z",
+  "generated_at": "2026-03-09T09:30:11.945882Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena"
@@ -171,6 +171,15 @@
       "notes": "PRACTICES - Flood",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-03-03T15:30:00-07:00",
+      "end": "2026-03-03T16:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Private skate-Crawford",
+      "color": "#F97316",
+      "type_display": "Rentals"
     },
     {
       "start": "2026-03-03T16:30:00-07:00",
@@ -399,15 +408,6 @@
     },
     {
       "start": "2026-03-06T12:00:00-07:00",
-      "end": "2026-03-06T14:00:00-07:00",
-      "type": "rentals",
-      "label": "Ice Rental",
-      "notes": "Skating",
-      "color": "#F97316",
-      "type_display": "Rentals"
-    },
-    {
-      "start": "2026-03-06T12:00:00-07:00",
       "end": "2026-03-06T20:00:00-07:00",
       "type": "other",
       "label": "Caroline Dance West Meeting - Dance photos",
@@ -470,11 +470,11 @@
       "type_display": "Adult Rec Hockey"
     },
     {
-      "start": "2026-03-07T08:00:00-07:00",
-      "end": "2026-03-07T20:00:00-07:00",
+      "start": "2026-03-07T18:00:00-07:00",
+      "end": "2026-03-07T20:30:00-07:00",
       "type": "games",
-      "label": "Ice - playoff ice",
-      "notes": "Ice - playoff ice",
+      "label": "Ice - U18 vs Chestermere",
+      "notes": "Ice - U18 vs Chestermere",
       "color": "#EF4444",
       "type_display": "Games"
     }
