@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-02T09:27:06.268294Z",
+  "generated_at": "2026-03-09T09:26:59.187426Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -19,38 +19,31 @@
       "slots": [
         {
           "type": "game",
-          "start": "2026-03-08T08:30:00-07:00",
+          "start": "2026-03-08T08:45:00-07:00",
           "end": "2026-03-08T09:45:00-07:00",
-          "label": "U9C Yellow vs Innisfail U9C Black vs Carstairs",
-          "notes": "OMHA March 2026 - U9C Yellow vs Innisfail U9C Black vs Carstairs"
+          "label": "U9C Yellow vs Innisfail full ice",
+          "notes": "OMHA March 2026 - U9C Yellow vs Innisfail full ice"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-08T10:00:00-07:00",
           "end": "2026-03-08T12:00:00-07:00",
-          "label": "OMHA March 2026",
-          "notes": "OMHA March 2026"
+          "label": "U11 female if need  game 3",
+          "notes": "OMHA March 2026 - U11 female if need  game 3"
         },
         {
           "type": "game",
           "start": "2026-03-08T12:15:00-07:00",
           "end": "2026-03-08T14:15:00-07:00",
-          "label": "U15 fem if need a game  3 (game 2 on Saturday)",
-          "notes": "OMHA March 2026 - U15 fem if need a game  3 (game 2 on Saturday)"
+          "label": "U15 fem if need a game  3 (game 2 on Saturday) time for overtime",
+          "notes": "OMHA March 2026 - U15 fem if need a game  3 (game 2 on Saturday) time for overtime"
         },
         {
-          "type": "practice",
-          "start": "2026-03-08T14:30:00-07:00",
-          "end": "2026-03-08T16:30:00-07:00",
-          "label": "OMHA March 2026",
-          "notes": "OMHA March 2026"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-08T16:45:00-07:00",
-          "end": "2026-03-08T18:45:00-07:00",
-          "label": "OMHA March 2026",
-          "notes": "OMHA March 2026"
+          "type": "game",
+          "start": "2026-03-08T14:45:00-07:00",
+          "end": "2026-03-08T16:45:00-07:00",
+          "label": "U11A vs Sylvan possible game",
+          "notes": "OMHA March 2026 - U11A vs Sylvan possible game"
         },
         {
           "type": "practice",
@@ -77,22 +70,36 @@
           "type": "practice",
           "start": "2026-03-09T16:00:00-07:00",
           "end": "2026-03-09T16:45:00-07:00",
-          "label": "U9C Black",
-          "notes": "OMHA March 2026 - U9C Black"
+          "label": "U9C Black,U9C Yellow",
+          "notes": "OMHA March 2026 - U9C Black,U9C Yellow"
         },
         {
           "type": "practice",
           "start": "2026-03-09T16:45:00-07:00",
-          "end": "2026-03-09T17:30:00-07:00",
-          "label": "U9C Yellow",
-          "notes": "OMHA March 2026 - U9C Yellow"
+          "end": "2026-03-09T17:45:00-07:00",
+          "label": "U11B last ice",
+          "notes": "OMHA March 2026 - U11B last ice"
         },
         {
-          "type": "shinny",
-          "start": "2026-03-09T21:45:00-07:00",
-          "end": "2026-03-09T23:00:00-07:00",
-          "label": "Vercaigne Shinny March 2026 PD",
-          "notes": "Vercaigne Shinny March 2026 PD"
+          "type": "practice",
+          "start": "2026-03-09T18:00:00-07:00",
+          "end": "2026-03-09T19:00:00-07:00",
+          "label": "U13A female last skate",
+          "notes": "OMHA March 2026 - U13A female last skate"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-09T19:15:00-07:00",
+          "end": "2026-03-09T20:15:00-07:00",
+          "label": "U15B",
+          "notes": "OMHA March 2026 - U15B"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-09T20:30:00-07:00",
+          "end": "2026-03-09T21:30:00-07:00",
+          "label": "U18AA",
+          "notes": "OMHA March 2026 - U18AA"
         },
         {
           "type": "practice",
@@ -131,6 +138,13 @@
         },
         {
           "type": "practice",
+          "start": "2026-03-10T15:00:00-07:00",
+          "end": "2026-03-10T15:45:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie"
+        },
+        {
+          "type": "practice",
           "start": "2026-03-10T16:00:00-07:00",
           "end": "2026-03-10T16:45:00-07:00",
           "label": "U9A",
@@ -139,9 +153,37 @@
         {
           "type": "practice",
           "start": "2026-03-10T17:00:00-07:00",
-          "end": "2026-03-10T18:00:00-07:00",
+          "end": "2026-03-10T17:45:00-07:00",
+          "label": "U9B",
+          "notes": "OMHA March 2026 - U9B"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-10T18:00:00-07:00",
+          "end": "2026-03-10T19:00:00-07:00",
           "label": "U11AA",
           "notes": "OMHA March 2026 - U11AA"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-10T19:15:00-07:00",
+          "end": "2026-03-10T20:15:00-07:00",
+          "label": "U15 Female",
+          "notes": "OMHA March 2026 - U15 Female"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-10T20:30:00-07:00",
+          "end": "2026-03-10T21:30:00-07:00",
+          "label": "U18A",
+          "notes": "OMHA March 2026 - U18A"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-11T06:45:00-07:00",
+          "end": "2026-03-11T07:45:00-07:00",
+          "label": "Haaland - Hockey",
+          "notes": "Haaland - Hockey"
         },
         {
           "type": "practice",
@@ -161,15 +203,15 @@
           "type": "practice",
           "start": "2026-03-11T16:00:00-07:00",
           "end": "2026-03-11T16:45:00-07:00",
-          "label": "U9C Yellow",
-          "notes": "OMHA March 2026 - U9C Yellow"
+          "label": "U9C Black",
+          "notes": "OMHA March 2026 - U9C Black"
         },
         {
           "type": "practice",
           "start": "2026-03-11T16:45:00-07:00",
           "end": "2026-03-11T17:30:00-07:00",
-          "label": "U9C Black",
-          "notes": "OMHA March 2026 - U9C Black"
+          "label": "U9C Yellow",
+          "notes": "OMHA March 2026 - U9C Yellow"
         },
         {
           "type": "practice",
@@ -177,6 +219,20 @@
           "end": "2026-03-11T18:45:00-07:00",
           "label": "U11AA",
           "notes": "OMHA March 2026 - U11AA"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-11T19:00:00-07:00",
+          "end": "2026-03-11T20:00:00-07:00",
+          "label": "U13AA last skate",
+          "notes": "OMHA March 2026 - U13AA last skate"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-11T20:15:00-07:00",
+          "end": "2026-03-11T21:15:00-07:00",
+          "label": "U18AA",
+          "notes": "OMHA March 2026 - U18AA"
         },
         {
           "type": "practice",
@@ -196,8 +252,36 @@
           "type": "practice",
           "start": "2026-03-12T16:00:00-07:00",
           "end": "2026-03-12T16:45:00-07:00",
-          "label": "U9A",
-          "notes": "OMHA March 2026 - U9A"
+          "label": "U9B",
+          "notes": "OMHA March 2026 - U9B"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-12T16:45:00-07:00",
+          "end": "2026-03-12T17:45:00-07:00",
+          "label": "U11A",
+          "notes": "OMHA March 2026 - U11A"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-12T18:00:00-07:00",
+          "end": "2026-03-12T19:00:00-07:00",
+          "label": "U13B Female last ice",
+          "notes": "OMHA March 2026 - U13B Female last ice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-12T19:15:00-07:00",
+          "end": "2026-03-12T20:15:00-07:00",
+          "label": "U15B",
+          "notes": "OMHA March 2026 - U15B"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-12T20:30:00-07:00",
+          "end": "2026-03-12T21:30:00-07:00",
+          "label": "U18A",
+          "notes": "OMHA March 2026 - U18A"
         },
         {
           "type": "practice",
@@ -282,18 +366,18 @@
       "name": "Auxiliary Ice Surface",
       "slots": [
         {
+          "type": "game",
+          "start": "2026-03-08T08:30:00-07:00",
+          "end": "2026-03-08T09:30:00-07:00",
+          "label": "U9C Black vs Carstairs full ice",
+          "notes": "OMHA March 2026 - U9C Black vs Carstairs full ice"
+        },
+        {
           "type": "public_skate",
           "start": "2026-03-08T12:00:00-07:00",
           "end": "2026-03-08T13:15:00-07:00",
           "label": "Public Skating",
           "notes": "Public Skating"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-08T13:30:00-07:00",
-          "end": "2026-03-08T17:45:00-07:00",
-          "label": "OMHA March 2026",
-          "notes": "OMHA March 2026"
         },
         {
           "type": "practice",
@@ -332,6 +416,20 @@
         },
         {
           "type": "practice",
+          "start": "2026-03-09T20:00:00-07:00",
+          "end": "2026-03-09T21:00:00-07:00",
+          "label": "U15A last skate",
+          "notes": "OMHA March 2026 - U15A last skate"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-03-09T21:15:00-07:00",
+          "end": "2026-03-09T22:30:00-07:00",
+          "label": "Vercaigne Shinny March 2026 PD",
+          "notes": "Vercaigne Shinny March 2026 PD"
+        },
+        {
+          "type": "practice",
           "start": "2026-03-10T07:00:00-07:00",
           "end": "2026-03-10T08:00:00-07:00",
           "label": "Rich McDonald",
@@ -353,17 +451,38 @@
         },
         {
           "type": "practice",
-          "start": "2026-03-10T16:30:00-07:00",
+          "start": "2026-03-10T16:15:00-07:00",
           "end": "2026-03-10T17:15:00-07:00",
-          "label": "U9B",
-          "notes": "OMHA March 2026 - U9B"
+          "label": "U11 Female",
+          "notes": "OMHA March 2026 - U11 Female"
         },
         {
           "type": "practice",
           "start": "2026-03-10T17:30:00-07:00",
-          "end": "2026-03-10T18:45:00-07:00",
-          "label": "Thrive",
-          "notes": "Thrive"
+          "end": "2026-03-10T18:30:00-07:00",
+          "label": "U11A",
+          "notes": "OMHA March 2026 - U11A"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-10T18:45:00-07:00",
+          "end": "2026-03-10T19:45:00-07:00",
+          "label": "U13C",
+          "notes": "OMHA March 2026 - U13C"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-10T20:00:00-07:00",
+          "end": "2026-03-10T21:00:00-07:00",
+          "label": "U18B",
+          "notes": "OMHA March 2026 - U18B"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-10T21:15:00-07:00",
+          "end": "2026-03-10T22:30:00-07:00",
+          "label": "Poelen",
+          "notes": "Poelen"
         },
         {
           "type": "practice",
@@ -409,10 +528,10 @@
         },
         {
           "type": "practice",
-          "start": "2026-03-12T06:45:00-07:00",
-          "end": "2026-03-12T07:45:00-07:00",
-          "label": "Haaland - Hockey",
-          "notes": "Haaland - Hockey"
+          "start": "2026-03-11T20:00:00-07:00",
+          "end": "2026-03-11T21:00:00-07:00",
+          "label": "U15B",
+          "notes": "OMHA March 2026 - U15B"
         },
         {
           "type": "practice",
@@ -451,17 +570,31 @@
         },
         {
           "type": "practice",
-          "start": "2026-03-12T16:30:00-07:00",
-          "end": "2026-03-12T17:15:00-07:00",
-          "label": "U9B",
-          "notes": "OMHA March 2026 - U9B"
+          "start": "2026-03-12T16:15:00-07:00",
+          "end": "2026-03-12T17:00:00-07:00",
+          "label": "U9A",
+          "notes": "OMHA March 2026 - U9A"
         },
         {
           "type": "practice",
-          "start": "2026-03-12T17:30:00-07:00",
-          "end": "2026-03-12T18:45:00-07:00",
-          "label": "Thrive",
-          "notes": "Thrive"
+          "start": "2026-03-12T17:15:00-07:00",
+          "end": "2026-03-12T18:00:00-07:00",
+          "label": "U11 Female",
+          "notes": "OMHA March 2026 - U11 Female"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-12T18:15:00-07:00",
+          "end": "2026-03-12T19:15:00-07:00",
+          "label": "U13C",
+          "notes": "OMHA March 2026 - U13C"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-12T19:45:00-07:00",
+          "end": "2026-03-12T20:45:00-07:00",
+          "label": "U18B",
+          "notes": "OMHA March 2026 - U18B"
         },
         {
           "type": "practice",
