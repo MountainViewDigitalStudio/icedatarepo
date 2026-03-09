@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-03-15",
   "week_end": "2026-03-21",
-  "last_updated": "2026-03-02T02:26:50.062154-07:00",
+  "last_updated": "2026-03-09T02:26:44.817803-07:00",
   "slots": [
     {
       "start": "2026-03-15T09:45:00-07:00",
@@ -21,11 +21,18 @@
       "notes": "GAMES - U9 BOARDS + FLOOD"
     },
     {
-      "start": "2026-03-15T11:15:00-07:00",
+      "start": "2026-03-15T15:45:00-07:00",
       "end": "2026-03-15T17:45:00-07:00",
-      "type": "other",
-      "label": "Ice - playoff ice",
-      "notes": "Ice - playoff ice"
+      "type": "game",
+      "label": "Ice - U11-C vs Sylvan Lake",
+      "notes": "Ice - U11-C vs Sylvan Lake"
+    },
+    {
+      "start": "2026-03-15T17:45:00-07:00",
+      "end": "2026-03-15T18:00:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "Ice - Flood"
     },
     {
       "start": "2026-03-15T18:00:00-07:00",
@@ -292,13 +299,6 @@
       "type": "maintenance",
       "label": "Maintenance",
       "notes": "Sticks & Pucks - FLOOD"
-    },
-    {
-      "start": "2026-03-21T15:00:00-07:00",
-      "end": "2026-03-21T21:00:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Practice Ice - Carnival Decorating",
-      "notes": "Practice Ice - Carnival Decorating"
     },
     {
       "start": "2026-03-21T18:00:00-07:00",
