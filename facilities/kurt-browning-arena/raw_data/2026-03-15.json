@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-03-15",
   "week_end": "2026-03-21",
-  "last_updated": "2026-03-09T02:26:44.817803-07:00",
+  "last_updated": "2026-03-16T02:34:21.193803-07:00",
   "slots": [
     {
       "start": "2026-03-15T09:45:00-07:00",
@@ -133,20 +133,6 @@
       "notes": "PRACTICES - Flood"
     },
     {
-      "start": "2026-03-16T21:30:00-07:00",
-      "end": "2026-03-16T22:45:00-07:00",
-      "type": "practice",
-      "label": "Hockey - PRACTICES - U18",
-      "notes": "PRACTICES - U18"
-    },
-    {
-      "start": "2026-03-16T22:45:00-07:00",
-      "end": "2026-03-16T23:00:00-07:00",
-      "type": "practice",
-      "label": "Hockey - PRACTICES - Flood",
-      "notes": "PRACTICES - Flood"
-    },
-    {
       "start": "2026-03-17T16:30:00-07:00",
       "end": "2026-03-17T17:15:00-07:00",
       "type": "practice",
@@ -199,15 +185,15 @@
       "start": "2026-03-18T16:45:00-07:00",
       "end": "2026-03-18T17:45:00-07:00",
       "type": "practice",
-      "label": "Hockey - PRACTICES - U9 no flood",
-      "notes": "PRACTICES - U9 no flood"
+      "label": "Hockey - PRACTICES - U9 Parent game",
+      "notes": "PRACTICES - U9 Parent game"
     },
     {
       "start": "2026-03-18T17:45:00-07:00",
       "end": "2026-03-18T18:45:00-07:00",
       "type": "practice",
-      "label": "Hockey - PRACTICES - U11 B",
-      "notes": "PRACTICES - U11 B"
+      "label": "Hockey - PRACTICES - U11 B Parent Game",
+      "notes": "PRACTICES - U11 B Parent Game"
     },
     {
       "start": "2026-03-18T18:45:00-07:00",
@@ -220,12 +206,26 @@
       "start": "2026-03-18T19:00:00-07:00",
       "end": "2026-03-18T20:00:00-07:00",
       "type": "practice",
-      "label": "Hockey - PRACTICES - U13",
-      "notes": "PRACTICES - U13"
+      "label": "Hockey - PRACTICES - U13 Parent Game",
+      "notes": "PRACTICES - U13 Parent Game"
     },
     {
       "start": "2026-03-18T20:00:00-07:00",
       "end": "2026-03-18T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood"
+    },
+    {
+      "start": "2026-03-18T20:15:00-07:00",
+      "end": "2026-03-18T21:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U18 parent game",
+      "notes": "PRACTICES - U18 parent game"
+    },
+    {
+      "start": "2026-03-18T21:30:00-07:00",
+      "end": "2026-03-18T21:45:00-07:00",
       "type": "practice",
       "label": "Hockey - PRACTICES - Flood",
       "notes": "PRACTICES - Flood"
@@ -273,18 +273,11 @@
       "notes": "Practice Ice - FLOOD"
     },
     {
-      "start": "2026-03-19T20:45:00-07:00",
-      "end": "2026-03-19T22:15:00-07:00",
+      "start": "2026-03-20T15:00:00-07:00",
+      "end": "2026-03-20T17:00:00-07:00",
       "type": "practice",
-      "label": "Hockey - Jr Wranglers",
-      "notes": "Mens Hockey - Jr Wranglers"
-    },
-    {
-      "start": "2026-03-19T22:15:00-07:00",
-      "end": "2026-03-19T22:30:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Flood",
-      "notes": "Mens Hockey - Flood"
+      "label": "Hockey - Practice Ice - Extra Figure Skate",
+      "notes": "Practice Ice - Extra Figure Skate"
     },
     {
       "start": "2026-03-20T17:00:00-07:00",
@@ -299,6 +292,13 @@
       "type": "maintenance",
       "label": "Maintenance",
       "notes": "Sticks & Pucks - FLOOD"
+    },
+    {
+      "start": "2026-03-21T10:45:00-07:00",
+      "end": "2026-03-21T13:00:00-07:00",
+      "type": "game",
+      "label": "Ice - U11 A vs Airdrie",
+      "notes": "Ice - U11 A vs Airdrie"
     },
     {
       "start": "2026-03-21T18:00:00-07:00",

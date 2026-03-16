@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-03-01",
   "week_end": "2026-03-07",
-  "last_updated": "2026-03-09T02:26:44.218921-07:00",
+  "last_updated": "2026-03-16T02:34:19.952294-07:00",
   "slots": [
     {
       "start": "2026-03-01T09:30:00-07:00",
@@ -362,6 +362,13 @@
       "type": "practice",
       "label": "Hockey - FLOOD",
       "notes": "Mens Hockey - FLOOD"
+    },
+    {
+      "start": "2026-03-07T15:45:00-07:00",
+      "end": "2026-03-07T18:00:00-07:00",
+      "type": "game",
+      "label": "U11 A vs Airdrie",
+      "notes": "U11 A vs Airdrie"
     },
     {
       "start": "2026-03-07T18:00:00-07:00",
