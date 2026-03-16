@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-09T09:26:59.187426Z",
+  "generated_at": "2026-03-16T09:34:29.924663Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -98,36 +98,36 @@
           "type": "practice",
           "start": "2026-03-09T20:30:00-07:00",
           "end": "2026-03-09T21:30:00-07:00",
-          "label": "U18AA",
-          "notes": "OMHA March 2026 - U18AA"
+          "label": "U18AA last skate",
+          "notes": "OMHA March 2026 - U18AA last skate"
         },
         {
           "type": "practice",
           "start": "2026-03-10T06:45:00-07:00",
           "end": "2026-03-10T07:45:00-07:00",
-          "label": "Norrie",
-          "notes": "Norrie"
+          "label": "Klausen",
+          "notes": "Norrie, Jan, Feb, March 2026 PD - Klausen"
         },
         {
           "type": "practice",
           "start": "2026-03-10T09:00:00-07:00",
           "end": "2026-03-10T10:00:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys March 2026 inv",
+          "notes": "Grizzlys March 2026 inv - Practice"
         },
         {
           "type": "practice",
           "start": "2026-03-10T10:15:00-07:00",
           "end": "2026-03-10T11:15:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys March 2026 inv",
+          "notes": "Grizzlys March 2026 inv - Practice"
         },
         {
           "type": "game",
           "start": "2026-03-10T11:30:00-07:00",
           "end": "2026-03-10T13:00:00-07:00",
-          "label": "AGSA Games 2026",
-          "notes": "AGSA Games 2026"
+          "label": "AGSA Games 2026 March 2026 PD",
+          "notes": "AGSA Games 2026 March 2026 PD"
         },
         {
           "type": "public_skate",
@@ -135,13 +135,6 @@
           "end": "2026-03-10T14:30:00-07:00",
           "label": "Public Skating",
           "notes": "Public Skating"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-10T15:00:00-07:00",
-          "end": "2026-03-10T15:45:00-07:00",
-          "label": "Norrie",
-          "notes": "Norrie"
         },
         {
           "type": "practice",
@@ -182,22 +175,22 @@
           "type": "practice",
           "start": "2026-03-11T06:45:00-07:00",
           "end": "2026-03-11T07:45:00-07:00",
-          "label": "Haaland - Hockey",
-          "notes": "Haaland - Hockey"
+          "label": "Haaland March 2026 inv",
+          "notes": "Haaland March 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-03-11T10:00:00-07:00",
           "end": "2026-03-11T11:00:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys March 2026 inv",
+          "notes": "Grizzlys March 2026 inv - Practice"
         },
         {
           "type": "practice",
           "start": "2026-03-11T11:15:00-07:00",
           "end": "2026-03-11T12:15:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys March 2026 inv",
+          "notes": "Grizzlys March 2026 inv - Practice"
         },
         {
           "type": "practice",
@@ -231,99 +224,92 @@
           "type": "practice",
           "start": "2026-03-11T20:15:00-07:00",
           "end": "2026-03-11T21:15:00-07:00",
-          "label": "U18AA",
-          "notes": "OMHA March 2026 - U18AA"
+          "label": "U15 Female",
+          "notes": "OMHA March 2026 - U15 Female"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-11T21:30:00-07:00",
+          "end": "2026-03-11T22:45:00-07:00",
+          "label": "Liam Vercaigne March 11 PD",
+          "notes": "Liam Vercaigne March 11 PD"
         },
         {
           "type": "practice",
           "start": "2026-03-12T10:00:00-07:00",
           "end": "2026-03-12T11:00:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys March 2026 inv",
+          "notes": "Grizzlys March 2026 inv - Practice"
         },
         {
           "type": "practice",
           "start": "2026-03-12T11:15:00-07:00",
           "end": "2026-03-12T12:15:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice"
+          "label": "Grizzlys March 2026 inv",
+          "notes": "Grizzlys March 2026 inv - Practice"
         },
         {
           "type": "practice",
           "start": "2026-03-12T16:00:00-07:00",
-          "end": "2026-03-12T16:45:00-07:00",
-          "label": "U9B",
-          "notes": "OMHA March 2026 - U9B"
+          "end": "2026-03-12T17:00:00-07:00",
+          "label": "U11A last ice",
+          "notes": "OMHA March 2026 - U11A last ice"
         },
         {
           "type": "practice",
-          "start": "2026-03-12T16:45:00-07:00",
-          "end": "2026-03-12T17:45:00-07:00",
-          "label": "U11A",
-          "notes": "OMHA March 2026 - U11A"
+          "start": "2026-03-12T17:15:00-07:00",
+          "end": "2026-03-12T18:15:00-07:00",
+          "label": "U11 Female",
+          "notes": "OMHA March 2026 - U11 Female"
         },
         {
           "type": "practice",
-          "start": "2026-03-12T18:00:00-07:00",
-          "end": "2026-03-12T19:00:00-07:00",
-          "label": "U13B Female last ice",
-          "notes": "OMHA March 2026 - U13B Female last ice"
+          "start": "2026-03-12T18:30:00-07:00",
+          "end": "2026-03-12T19:30:00-07:00",
+          "label": "U13C",
+          "notes": "OMHA March 2026 - U13C"
         },
         {
           "type": "practice",
-          "start": "2026-03-12T19:15:00-07:00",
-          "end": "2026-03-12T20:15:00-07:00",
-          "label": "U15B",
-          "notes": "OMHA March 2026 - U15B"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-12T20:30:00-07:00",
-          "end": "2026-03-12T21:30:00-07:00",
+          "start": "2026-03-12T19:45:00-07:00",
+          "end": "2026-03-12T20:45:00-07:00",
           "label": "U18A",
           "notes": "OMHA March 2026 - U18A"
         },
         {
           "type": "practice",
-          "start": "2026-03-12T21:45:00-07:00",
-          "end": "2026-03-12T23:15:00-07:00",
-          "label": "SIR 2025-2026",
-          "notes": "SIR 2025-2026"
+          "start": "2026-03-12T21:00:00-07:00",
+          "end": "2026-03-12T22:30:00-07:00",
+          "label": "SIR March 2026 inv",
+          "notes": "SIR March 2026 inv"
         },
         {
           "type": "game",
           "start": "2026-03-13T10:00:00-07:00",
           "end": "2026-03-13T11:00:00-07:00",
           "label": "Pre-Game Skate",
-          "notes": "Grizzlys 2025/26 - Pre-Game Skate"
+          "notes": "Grizzlys March 2026 inv - Pre-Game Skate"
         },
         {
           "type": "practice",
           "start": "2026-03-13T15:45:00-07:00",
           "end": "2026-03-13T17:15:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026"
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv"
         },
         {
           "type": "game",
           "start": "2026-03-13T17:30:00-07:00",
           "end": "2026-03-13T19:30:00-07:00",
-          "label": "1st place bye vs Series 3 winner   U11AA",
-          "notes": "Playoffs - 1st place bye vs Series 3 winner   U11AA"
-        },
-        {
-          "type": "game",
-          "start": "2026-03-13T19:45:00-07:00",
-          "end": "2026-03-13T21:45:00-07:00",
-          "label": "possible playoff game",
-          "notes": "OMHA March 2026 - possible playoff game"
+          "label": "U11AA Olds vs Brooks",
+          "notes": "Playoffs - U11AA Olds vs Brooks"
         },
         {
           "type": "game",
           "start": "2026-03-14T08:15:00-07:00",
           "end": "2026-03-14T10:15:00-07:00",
-          "label": "1st place bye vs Series 4  winner U11AA",
-          "notes": "Playoffs - 1st place bye vs Series 4  winner U11AA"
+          "label": "U11AA Taber vs Wheatland",
+          "notes": "Playoffs - U11AA Taber vs Wheatland"
         },
         {
           "type": "game",
@@ -336,29 +322,29 @@
           "type": "game",
           "start": "2026-03-14T12:00:00-07:00",
           "end": "2026-03-14T14:00:00-07:00",
-          "label": "series 2 winner vs series 6 winner U11AA",
-          "notes": "Playoffs - series 2 winner vs series 6 winner U11AA"
+          "label": "Brooks vs CAS",
+          "notes": "Playoffs - Brooks vs CAS"
         },
         {
           "type": "game",
           "start": "2026-03-14T14:15:00-07:00",
           "end": "2026-03-14T16:15:00-07:00",
-          "label": "series 3  winner vs series 4 winner U11AA",
-          "notes": "Playoffs - series 3  winner vs series 4 winner U11AA"
+          "label": "U11AA Medicine  Hat vs Wheatland",
+          "notes": "Playoffs - U11AA Medicine  Hat vs Wheatland"
         },
         {
           "type": "game",
           "start": "2026-03-14T16:30:00-07:00",
           "end": "2026-03-14T18:30:00-07:00",
-          "label": "series 2 winner vs series 5 winner U11AA",
-          "notes": "Playoffs - series 2 winner vs series 5 winner U11AA"
+          "label": "CAS vs Olds",
+          "notes": "Playoffs - CAS vs Olds"
         },
         {
-          "type": "game",
+          "type": "practice",
           "start": "2026-03-14T18:45:00-07:00",
-          "end": "2026-03-14T20:45:00-07:00",
-          "label": "possible  playoff  game if still have teams in",
-          "notes": "OMHA March 2026 - possible  playoff  game if still have teams in"
+          "end": "2026-03-14T19:45:00-07:00",
+          "label": "U18B Practice",
+          "notes": "OMHA March 2026 - U18B Practice"
         }
       ]
     },
@@ -383,15 +369,8 @@
           "type": "practice",
           "start": "2026-03-08T18:00:00-07:00",
           "end": "2026-03-08T19:30:00-07:00",
-          "label": "Wilde March 2026",
-          "notes": "Wilde March 2026"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-09T06:30:00-07:00",
-          "end": "2026-03-09T07:30:00-07:00",
-          "label": "HC - March 2026",
-          "notes": "HC - March 2026"
+          "label": "Wilde March 2026 inv",
+          "notes": "Wilde March 2026 inv"
         },
         {
           "type": "practice",
@@ -404,15 +383,15 @@
           "type": "practice",
           "start": "2026-03-09T15:45:00-07:00",
           "end": "2026-03-09T16:45:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026"
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-03-09T17:00:00-07:00",
           "end": "2026-03-09T19:45:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026"
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv"
         },
         {
           "type": "practice",
@@ -429,51 +408,44 @@
           "notes": "Vercaigne Shinny March 2026 PD"
         },
         {
-          "type": "practice",
-          "start": "2026-03-10T07:00:00-07:00",
-          "end": "2026-03-10T08:00:00-07:00",
-          "label": "Rich McDonald",
-          "notes": "Rich McDonald"
-        },
-        {
           "type": "game",
           "start": "2026-03-10T09:00:00-07:00",
           "end": "2026-03-10T13:00:00-07:00",
-          "label": "AGSA Games 2026",
-          "notes": "AGSA Games 2026"
+          "label": "AGSA Games 2026 March 2026 PD",
+          "notes": "AGSA Games 2026 March 2026 PD"
         },
         {
           "type": "practice",
           "start": "2026-03-10T13:30:00-07:00",
           "end": "2026-03-10T14:30:00-07:00",
-          "label": "Grizzlys Academy- Deer Meadow",
-          "notes": "Grizzlys Academy- Deer Meadow"
+          "label": "Grizzlys Academy- Deer Meadow March 2026 inv",
+          "notes": "Grizzlys Academy- Deer Meadow March 2026 inv"
         },
         {
           "type": "practice",
-          "start": "2026-03-10T16:15:00-07:00",
-          "end": "2026-03-10T17:15:00-07:00",
+          "start": "2026-03-10T16:30:00-07:00",
+          "end": "2026-03-10T17:30:00-07:00",
           "label": "U11 Female",
           "notes": "OMHA March 2026 - U11 Female"
         },
         {
           "type": "practice",
-          "start": "2026-03-10T17:30:00-07:00",
-          "end": "2026-03-10T18:30:00-07:00",
-          "label": "U11A",
-          "notes": "OMHA March 2026 - U11A"
+          "start": "2026-03-10T17:45:00-07:00",
+          "end": "2026-03-10T18:45:00-07:00",
+          "label": "U13B Female last skate",
+          "notes": "OMHA March 2026 - U13B Female last skate"
         },
         {
           "type": "practice",
-          "start": "2026-03-10T18:45:00-07:00",
-          "end": "2026-03-10T19:45:00-07:00",
+          "start": "2026-03-10T19:00:00-07:00",
+          "end": "2026-03-10T20:00:00-07:00",
           "label": "U13C",
           "notes": "OMHA March 2026 - U13C"
         },
         {
           "type": "practice",
-          "start": "2026-03-10T20:00:00-07:00",
-          "end": "2026-03-10T21:00:00-07:00",
+          "start": "2026-03-10T20:15:00-07:00",
+          "end": "2026-03-10T21:15:00-07:00",
           "label": "U18B",
           "notes": "OMHA March 2026 - U18B"
         },
@@ -481,8 +453,8 @@
           "type": "practice",
           "start": "2026-03-10T21:15:00-07:00",
           "end": "2026-03-10T22:30:00-07:00",
-          "label": "Poelen",
-          "notes": "Poelen"
+          "label": "Poelen pd",
+          "notes": "Poelen pd"
         },
         {
           "type": "practice",
@@ -507,8 +479,8 @@
         },
         {
           "type": "practice",
-          "start": "2026-03-11T14:00:00-07:00",
-          "end": "2026-03-11T15:00:00-07:00",
+          "start": "2026-03-11T12:15:00-07:00",
+          "end": "2026-03-11T13:15:00-07:00",
           "label": "Sticks and Pucks",
           "notes": "Sticks and Pucks"
         },
@@ -516,22 +488,22 @@
           "type": "practice",
           "start": "2026-03-11T15:45:00-07:00",
           "end": "2026-03-11T16:45:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026"
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-03-11T17:00:00-07:00",
           "end": "2026-03-11T19:45:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026"
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-03-11T20:00:00-07:00",
-          "end": "2026-03-11T21:00:00-07:00",
-          "label": "U15B",
-          "notes": "OMHA March 2026 - U15B"
+          "end": "2026-03-11T21:30:00-07:00",
+          "label": "04 2025/26",
+          "notes": "04 2025/26"
         },
         {
           "type": "practice",
@@ -565,43 +537,36 @@
           "type": "practice",
           "start": "2026-03-12T13:30:00-07:00",
           "end": "2026-03-12T14:30:00-07:00",
-          "label": "Grizzlys Academy- Deer Meadow",
-          "notes": "Grizzlys Academy- Deer Meadow"
+          "label": "Grizzlys Academy- Deer Meadow March 2026 inv",
+          "notes": "Grizzlys Academy- Deer Meadow March 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-03-12T16:15:00-07:00",
-          "end": "2026-03-12T17:00:00-07:00",
+          "end": "2026-03-12T17:15:00-07:00",
+          "label": "U9B",
+          "notes": "OMHA March 2026 - U9B"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-12T17:30:00-07:00",
+          "end": "2026-03-12T18:30:00-07:00",
           "label": "U9A",
           "notes": "OMHA March 2026 - U9A"
         },
         {
           "type": "practice",
-          "start": "2026-03-12T17:15:00-07:00",
-          "end": "2026-03-12T18:00:00-07:00",
-          "label": "U11 Female",
-          "notes": "OMHA March 2026 - U11 Female"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-12T18:15:00-07:00",
-          "end": "2026-03-12T19:15:00-07:00",
-          "label": "U13C",
-          "notes": "OMHA March 2026 - U13C"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-12T19:45:00-07:00",
-          "end": "2026-03-12T20:45:00-07:00",
-          "label": "U18B",
-          "notes": "OMHA March 2026 - U18B"
+          "start": "2026-03-12T18:45:00-07:00",
+          "end": "2026-03-12T19:45:00-07:00",
+          "label": "U15B",
+          "notes": "OMHA March 2026 - U15B"
         },
         {
           "type": "practice",
           "start": "2026-03-13T06:30:00-07:00",
           "end": "2026-03-13T07:30:00-07:00",
-          "label": "Knutson",
-          "notes": "Knutson"
+          "label": "Knutson March 2026 inv",
+          "notes": "Knutson March 2026 inv"
         },
         {
           "type": "practice",
@@ -614,57 +579,50 @@
           "type": "game",
           "start": "2026-03-13T16:00:00-07:00",
           "end": "2026-03-13T18:00:00-07:00",
-          "label": "Series 4  winner vs Series 7  winner U11AA",
-          "notes": "Playoffs - Series 4  winner vs Series 7  winner U11AA"
+          "label": "Taber vs Medicine Hat",
+          "notes": "Playoffs - Taber vs Medicine Hat"
         },
         {
           "type": "game",
           "start": "2026-03-13T18:15:00-07:00",
           "end": "2026-03-13T20:15:00-07:00",
-          "label": "Series 1 winner vs Series 2 winner U11AA",
-          "notes": "Playoffs - Series 1 winner vs Series 2 winner U11AA"
+          "label": "Wheatland vs Lethbridge",
+          "notes": "Playoffs - Wheatland vs Lethbridge"
         },
         {
           "type": "game",
           "start": "2026-03-14T08:30:00-07:00",
           "end": "2026-03-14T10:30:00-07:00",
-          "label": "Series 3 winner vs Series 7 winner U11AA",
-          "notes": "Playoffs - Series 3 winner vs Series 7 winner U11AA"
+          "label": "U11AA Lethbridge vs Medicine Hat",
+          "notes": "Playoffs - U11AA Lethbridge vs Medicine Hat"
         },
         {
           "type": "game",
           "start": "2026-03-14T10:45:00-07:00",
           "end": "2026-03-14T12:45:00-07:00",
-          "label": "Series 1  winner vs series 5 winner U11AA",
-          "notes": "Playoffs - Series 1  winner vs series 5 winner U11AA"
+          "label": "Olds vs Sylvan Lake",
+          "notes": "Playoffs - Olds vs Sylvan Lake"
         },
         {
           "type": "game",
           "start": "2026-03-14T13:00:00-07:00",
           "end": "2026-03-14T15:00:00-07:00",
-          "label": "1st place bye vs series 7 winner U11AA",
-          "notes": "Playoffs - 1st place bye vs series 7 winner U11AA"
+          "label": "U11AA Lethrbridge vs Taber",
+          "notes": "Playoffs - U11AA Lethrbridge vs Taber"
         },
         {
           "type": "game",
           "start": "2026-03-14T15:30:00-07:00",
           "end": "2026-03-14T16:30:00-07:00",
-          "label": "U9A vs Lacombe",
-          "notes": "OMHA March 2026 - U9A vs Lacombe"
+          "label": "U9A vs Lacombe full ice",
+          "notes": "OMHA March 2026 - U9A vs Lacombe full ice"
         },
         {
           "type": "game",
           "start": "2026-03-14T16:45:00-07:00",
           "end": "2026-03-14T18:45:00-07:00",
-          "label": "series 1 winner vs series 6 winner U11AA",
-          "notes": "Playoffs - series 1 winner vs series 6 winner U11AA"
-        },
-        {
-          "type": "game",
-          "start": "2026-03-14T19:00:00-07:00",
-          "end": "2026-03-14T21:00:00-07:00",
-          "label": "possible  playoff  game if still have teams in",
-          "notes": "OMHA March 2026 - possible  playoff  game if still have teams in"
+          "label": "Brooks vs Sylvan Lake",
+          "notes": "Playoffs - Brooks vs Sylvan Lake"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-09T09:26:59.187426Z",
+  "generated_at": "2026-03-16T09:34:29.924663Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -21,43 +21,43 @@
           "type": "game",
           "start": "2026-03-22T10:00:00-07:00",
           "end": "2026-03-22T11:30:00-07:00",
-          "label": "U11F B final",
-          "notes": "OMHA U11 Female Tournament - U11F B final"
+          "label": "U11F A final",
+          "notes": "OMHA U11 Female / U9 Tournament inv - U11F A final"
         },
         {
           "type": "practice",
           "start": "2026-03-22T12:00:00-07:00",
+          "end": "2026-03-22T13:30:00-07:00",
+          "label": "5 dressing rooms, ? Lift netting after floods at noon?  club put matting down, Flood at 1:30pm",
+          "notes": "Olds Figure Skating Club March 2026 inv - 5 dressing rooms, ? Lift netting after floods at noon?  club put matting down, Flood at 1:30pm"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-22T13:45:00-07:00",
+          "end": "2026-03-22T14:50:00-07:00",
+          "label": "Flood at 2:50pm",
+          "notes": "Olds Figure Skating Club March 2026 inv - Flood at 2:50pm"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-22T15:05:00-07:00",
           "end": "2026-03-22T17:00:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026"
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv"
         },
         {
           "type": "practice",
-          "start": "2026-03-23T16:45:00-07:00",
-          "end": "2026-03-23T17:45:00-07:00",
-          "label": "U11A",
-          "notes": "OMHA March 2026 - U11A"
+          "start": "2026-03-23T17:15:00-07:00",
+          "end": "2026-03-23T18:15:00-07:00",
+          "label": "hitting clinic",
+          "notes": "OMHA March 2026 - hitting clinic"
         },
         {
           "type": "practice",
-          "start": "2026-03-23T18:00:00-07:00",
-          "end": "2026-03-23T19:00:00-07:00",
-          "label": "U13AA",
-          "notes": "OMHA March 2026 - U13AA"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-23T19:15:00-07:00",
-          "end": "2026-03-23T20:15:00-07:00",
+          "start": "2026-03-23T18:30:00-07:00",
+          "end": "2026-03-23T19:30:00-07:00",
           "label": "U18A",
           "notes": "OMHA March 2026 - U18A"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-23T20:30:00-07:00",
-          "end": "2026-03-23T21:30:00-07:00",
-          "label": "U18AA",
-          "notes": "OMHA March 2026 - U18AA"
         },
         {
           "type": "shinny",
@@ -70,92 +70,78 @@
           "type": "practice",
           "start": "2026-03-24T06:45:00-07:00",
           "end": "2026-03-24T07:45:00-07:00",
-          "label": "Norrie",
-          "notes": "Norrie"
+          "label": "Klausen",
+          "notes": "Norrie, Jan, Feb, March 2026 PD - Klausen"
         },
         {
           "type": "practice",
-          "start": "2026-03-24T16:30:00-07:00",
-          "end": "2026-03-24T17:30:00-07:00",
-          "label": "U11AA",
-          "notes": "OMHA March 2026 - U11AA"
+          "start": "2026-03-24T17:15:00-07:00",
+          "end": "2026-03-24T18:15:00-07:00",
+          "label": "U11AA?",
+          "notes": "OMHA March 2026 - U11AA?"
         },
         {
           "type": "practice",
-          "start": "2026-03-24T17:45:00-07:00",
-          "end": "2026-03-24T18:45:00-07:00",
-          "label": "U15 Female",
-          "notes": "OMHA March 2026 - U15 Female"
+          "start": "2026-03-24T18:30:00-07:00",
+          "end": "2026-03-24T19:30:00-07:00",
+          "label": "U15 fem",
+          "notes": "OMHA March 2026 - U15 fem"
         },
         {
           "type": "practice",
-          "start": "2026-03-25T16:30:00-07:00",
-          "end": "2026-03-25T17:30:00-07:00",
-          "label": "U11AA",
-          "notes": "OMHA March 2026 - U11AA"
+          "start": "2026-03-25T17:15:00-07:00",
+          "end": "2026-03-25T18:15:00-07:00",
+          "label": "U11AA?",
+          "notes": "OMHA March 2026 - U11AA?"
         },
         {
           "type": "practice",
-          "start": "2026-03-25T17:45:00-07:00",
-          "end": "2026-03-25T18:45:00-07:00",
-          "label": "u18AA",
-          "notes": "OMHA March 2026 - u18AA"
+          "start": "2026-03-25T18:30:00-07:00",
+          "end": "2026-03-25T19:30:00-07:00",
+          "label": "U18A",
+          "notes": "OMHA March 2026 - U18A"
         },
         {
           "type": "practice",
-          "start": "2026-03-25T19:00:00-07:00",
-          "end": "2026-03-25T20:00:00-07:00",
-          "label": "U13AA",
-          "notes": "OMHA March 2026 - U13AA"
+          "start": "2026-03-26T17:15:00-07:00",
+          "end": "2026-03-26T18:15:00-07:00",
+          "label": "U15B last ice?",
+          "notes": "OMHA March 2026 - U15B last ice?"
         },
         {
           "type": "practice",
-          "start": "2026-03-25T20:15:00-07:00",
-          "end": "2026-03-25T21:15:00-07:00",
-          "label": "U18AA",
-          "notes": "OMHA March 2026 - U18AA"
+          "start": "2026-03-26T18:30:00-07:00",
+          "end": "2026-03-26T19:30:00-07:00",
+          "label": "U15 fem",
+          "notes": "OMHA March 2026 - U15 fem"
         },
         {
           "type": "practice",
-          "start": "2026-03-26T17:00:00-07:00",
-          "end": "2026-03-26T18:00:00-07:00",
-          "label": "U11A",
-          "notes": "OMHA March 2026 - U11A"
+          "start": "2026-03-26T21:00:00-07:00",
+          "end": "2026-03-26T22:30:00-07:00",
+          "label": "SIR March 2026 inv",
+          "notes": "SIR March 2026 inv"
         },
         {
-          "type": "practice",
-          "start": "2026-03-26T18:15:00-07:00",
-          "end": "2026-03-26T19:15:00-07:00",
-          "label": "U15 Female",
-          "notes": "OMHA March 2026 - U15 Female"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-26T21:45:00-07:00",
-          "end": "2026-03-26T23:15:00-07:00",
-          "label": "SIR 2025-2026",
-          "notes": "SIR 2025-2026"
-        },
-        {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-27T12:00:00-07:00",
           "end": "2026-03-27T14:15:00-07:00",
-          "label": "Provincials",
-          "notes": "Provincials"
+          "label": "Olds vs APHL",
+          "notes": "U15 Female Provincials 2026 inv - Olds vs APHL"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-27T14:30:00-07:00",
           "end": "2026-03-27T16:45:00-07:00",
-          "label": "Provincials",
-          "notes": "Provincials"
+          "label": "ECAFHL vs WC1",
+          "notes": "U15 Female Provincials 2026 inv - ECAFHL vs WC1"
         },
         {
           "type": "practice",
           "start": "2026-03-27T17:30:00-07:00",
           "end": "2026-03-27T20:00:00-07:00",
-          "label": "Provincials",
-          "notes": "Provincials"
+          "label": "Opening Ceremonies and Skills Competition",
+          "notes": "U15 Female Provincials 2026 inv - Opening Ceremonies and Skills Competition"
         },
         {
           "type": "practice",
@@ -165,18 +151,18 @@
           "notes": "OMHA March 2026 - U15AA ID Camp"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-28T09:00:00-07:00",
           "end": "2026-03-28T11:15:00-07:00",
-          "label": "Provincials",
-          "notes": "Provincials"
+          "label": "Olds vs ECAFHL",
+          "notes": "U15 Female Provincials 2026 inv - Olds vs ECAFHL"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-28T11:30:00-07:00",
           "end": "2026-03-28T13:45:00-07:00",
-          "label": "Provincials",
-          "notes": "Provincials"
+          "label": "GHC vs RMFHL",
+          "notes": "U15 Female Provincials 2026 inv - GHC vs RMFHL"
         },
         {
           "type": "practice",
@@ -186,18 +172,18 @@
           "notes": "OMHA March 2026 - U15AA ID Camp"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-28T15:30:00-07:00",
           "end": "2026-03-28T17:45:00-07:00",
-          "label": "Provincials",
-          "notes": "Provincials"
+          "label": "APHL vs ECAFHL",
+          "notes": "U15 Female Provincials 2026 inv - APHL vs ECAFHL"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-28T18:00:00-07:00",
           "end": "2026-03-28T20:15:00-07:00",
-          "label": "Provincials",
-          "notes": "Provincials"
+          "label": "WC2 vs GHC",
+          "notes": "U15 Female Provincials 2026 inv - WC2 vs GHC"
         },
         {
           "type": "practice",
@@ -215,8 +201,8 @@
           "type": "game",
           "start": "2026-03-22T09:45:00-07:00",
           "end": "2026-03-22T11:15:00-07:00",
-          "label": "U11F A final",
-          "notes": "OMHA U11 Female Tournament - U11F A final"
+          "label": "U11F B final",
+          "notes": "OMHA U11 Female / U9 Tournament inv - U11F B final"
         },
         {
           "type": "public_skate",
@@ -227,17 +213,24 @@
         },
         {
           "type": "practice",
-          "start": "2026-03-22T18:00:00-07:00",
-          "end": "2026-03-22T19:30:00-07:00",
-          "label": "Wilde March 2026",
-          "notes": "Wilde March 2026"
+          "start": "2026-03-22T13:30:00-07:00",
+          "end": "2026-03-22T15:00:00-07:00",
+          "label": "Private Event",
+          "notes": "Private Event"
         },
         {
           "type": "practice",
-          "start": "2026-03-23T06:30:00-07:00",
-          "end": "2026-03-23T07:30:00-07:00",
-          "label": "HC - March 2026",
-          "notes": "HC - March 2026"
+          "start": "2026-03-22T15:00:00-07:00",
+          "end": "2026-03-22T15:30:00-07:00",
+          "label": "Flood",
+          "notes": "Flood"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-22T18:00:00-07:00",
+          "end": "2026-03-22T19:30:00-07:00",
+          "label": "Wilde March 2026 inv",
+          "notes": "Wilde March 2026 inv"
         },
         {
           "type": "practice",
@@ -250,15 +243,15 @@
           "type": "practice",
           "start": "2026-03-23T15:45:00-07:00",
           "end": "2026-03-23T16:45:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026"
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-03-23T17:00:00-07:00",
           "end": "2026-03-23T19:45:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026"
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv"
         },
         {
           "type": "public_skate",
@@ -266,6 +259,13 @@
           "end": "2026-03-24T13:00:00-07:00",
           "label": "Public Skating",
           "notes": "Public Skating"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-24T17:30:00-07:00",
+          "end": "2026-03-24T18:30:00-07:00",
+          "label": "hitting  clinic",
+          "notes": "OMHA March 2026 - hitting  clinic"
         },
         {
           "type": "practice",
@@ -278,29 +278,22 @@
           "type": "practice",
           "start": "2026-03-25T15:45:00-07:00",
           "end": "2026-03-25T16:45:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026"
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-03-25T17:00:00-07:00",
           "end": "2026-03-25T19:45:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-25T20:00:00-07:00",
-          "end": "2026-03-25T21:00:00-07:00",
-          "label": "U18A",
-          "notes": "OMHA March 2026 - U18A"
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv"
         },
         {
           "type": "practice",
           "start": "2026-03-26T06:45:00-07:00",
           "end": "2026-03-26T07:45:00-07:00",
-          "label": "Haaland - Hockey",
-          "notes": "Haaland - Hockey"
+          "label": "Haaland March 2026 inv",
+          "notes": "Haaland March 2026 inv"
         },
         {
           "type": "public_skate",
@@ -313,8 +306,8 @@
           "type": "practice",
           "start": "2026-03-27T06:30:00-07:00",
           "end": "2026-03-27T07:30:00-07:00",
-          "label": "Knutson",
-          "notes": "Knutson"
+          "label": "Knutson March 2026 inv",
+          "notes": "Knutson March 2026 inv"
         },
         {
           "type": "practice",
@@ -338,25 +331,25 @@
           "notes": "High School Skating"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-27T12:15:00-07:00",
           "end": "2026-03-27T14:30:00-07:00",
-          "label": "Provincials",
-          "notes": "Provincials"
+          "label": "GHC vs EFHL",
+          "notes": "U15 Female Provincials 2026 inv - GHC vs EFHL"
         },
         {
           "type": "practice",
           "start": "2026-03-27T14:45:00-07:00",
           "end": "2026-03-27T17:00:00-07:00",
-          "label": "Provincials",
-          "notes": "Provincials"
+          "label": "RMFHLvs WC2",
+          "notes": "U15 Female Provincials 2026 inv - RMFHLvs WC2"
         },
         {
           "type": "practice",
           "start": "2026-03-27T17:15:00-07:00",
           "end": "2026-03-27T19:00:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026"
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv"
         },
         {
           "type": "practice",
@@ -366,32 +359,32 @@
           "notes": "OMHA March 2026 - U15AA ID Camp"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-28T09:15:00-07:00",
           "end": "2026-03-28T11:30:00-07:00",
-          "label": "Provincials",
-          "notes": "Provincials"
+          "label": "APHL vs WC1",
+          "notes": "U15 Female Provincials 2026 inv - APHL vs WC1"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-28T11:45:00-07:00",
           "end": "2026-03-28T14:00:00-07:00",
-          "label": "Provincials",
-          "notes": "Provincials"
+          "label": "EFHL vs WC2",
+          "notes": "U15 Female Provincials 2026 inv - EFHL vs WC2"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-28T15:45:00-07:00",
           "end": "2026-03-28T18:00:00-07:00",
-          "label": "Provincials",
-          "notes": "Provincials"
+          "label": "WC1 vs Olds",
+          "notes": "U15 Female Provincials 2026 inv - WC1 vs Olds"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-28T18:15:00-07:00",
           "end": "2026-03-28T20:30:00-07:00",
-          "label": "Provincials",
-          "notes": "Provincials"
+          "label": "RMFHL vs EFHL",
+          "notes": "U15 Female Provincials 2026 inv - RMFHL vs EFHL"
         }
       ]
     }
