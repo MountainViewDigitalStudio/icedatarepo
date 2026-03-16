@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-09T09:30:11.928023Z",
+  "generated_at": "2026-03-16T09:37:14.476680Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -55,8 +55,8 @@
           "type": "practice",
           "start": "2026-03-02T10:00:00-07:00",
           "end": "2026-03-02T11:00:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice",
+          "label": "Grizzlys March 2026 inv",
+          "notes": "Grizzlys March 2026 inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -64,8 +64,8 @@
           "type": "practice",
           "start": "2026-03-02T11:15:00-07:00",
           "end": "2026-03-02T12:15:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice",
+          "label": "Grizzlys March 2026 inv",
+          "notes": "Grizzlys March 2026 inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -118,8 +118,8 @@
           "type": "other",
           "start": "2026-03-03T06:45:00-07:00",
           "end": "2026-03-03T07:45:00-07:00",
-          "label": "Norrie",
-          "notes": "Norrie",
+          "label": "Klausen",
+          "notes": "Norrie, Jan, Feb, March 2026 PD - Klausen",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -137,7 +137,7 @@
           "start": "2026-03-03T10:00:00-07:00",
           "end": "2026-03-03T11:00:00-07:00",
           "label": "Pre-Game Skate",
-          "notes": "Grizzlys 2025/26 - Pre-Game Skate",
+          "notes": "Grizzlys March 2026 inv - Pre-Game Skate",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -154,8 +154,8 @@
           "type": "other",
           "start": "2026-03-03T15:00:00-07:00",
           "end": "2026-03-03T15:45:00-07:00",
-          "label": "Norrie",
-          "notes": "Norrie",
+          "label": "Dorran",
+          "notes": "Norrie, Jan, Feb, March 2026 PD - Dorran",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -191,7 +191,7 @@
           "start": "2026-03-03T18:30:00-07:00",
           "end": "2026-03-03T21:30:00-07:00",
           "label": "Grizzlys vs Canmore",
-          "notes": "Grizzlys 2025/26 - Grizzlys vs Canmore",
+          "notes": "Grizzlys March 2026 inv - Grizzlys vs Canmore",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -199,8 +199,8 @@
           "type": "other",
           "start": "2026-03-04T06:45:00-07:00",
           "end": "2026-03-04T07:45:00-07:00",
-          "label": "Haaland - Hockey",
-          "notes": "Haaland - Hockey",
+          "label": "Haaland March 2026 inv",
+          "notes": "Haaland March 2026 inv",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -208,8 +208,8 @@
           "type": "practice",
           "start": "2026-03-04T10:00:00-07:00",
           "end": "2026-03-04T11:00:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice",
+          "label": "Grizzlys March 2026 inv",
+          "notes": "Grizzlys March 2026 inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -217,8 +217,8 @@
           "type": "practice",
           "start": "2026-03-04T11:15:00-07:00",
           "end": "2026-03-04T12:15:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice",
+          "label": "Grizzlys March 2026 inv",
+          "notes": "Grizzlys March 2026 inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -271,8 +271,8 @@
           "type": "practice",
           "start": "2026-03-05T10:00:00-07:00",
           "end": "2026-03-05T11:00:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice",
+          "label": "Grizzlys March 2026 inv",
+          "notes": "Grizzlys March 2026 inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -280,8 +280,8 @@
           "type": "practice",
           "start": "2026-03-05T11:15:00-07:00",
           "end": "2026-03-05T12:15:00-07:00",
-          "label": "Grizzlys 2025/26",
-          "notes": "Grizzlys 2025/26 - Practice",
+          "label": "Grizzlys March 2026 inv",
+          "notes": "Grizzlys March 2026 inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -325,8 +325,8 @@
           "type": "other",
           "start": "2026-03-05T21:45:00-07:00",
           "end": "2026-03-05T23:15:00-07:00",
-          "label": "SIR 2025-2026",
-          "notes": "SIR 2025-2026",
+          "label": "SIR March 2026 inv",
+          "notes": "SIR March 2026 inv",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -335,25 +335,25 @@
           "start": "2026-03-06T09:00:00-07:00",
           "end": "2026-03-06T10:00:00-07:00",
           "label": "Pre- Game Skate",
-          "notes": "Grizzlys 2025/26 - Pre- Game Skate",
+          "notes": "Grizzlys March 2026 inv - Pre- Game Skate",
           "color": "#EF4444",
           "type_display": "Games"
         },
         {
-          "type": "public",
+          "type": "other",
           "start": "2026-03-06T11:00:00-07:00",
           "end": "2026-03-06T12:00:00-07:00",
-          "label": "Public Booking",
-          "notes": "Public Booking",
-          "color": "#10B981",
-          "type_display": "Public / Family"
+          "label": "Price March 6 invoiced",
+          "notes": "Price March 6 invoiced",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "skating_club",
           "start": "2026-03-06T14:30:00-07:00",
           "end": "2026-03-06T15:30:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026",
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv",
           "color": "#06B6D4",
           "type_display": "Skating Club / Programs"
         },
@@ -465,8 +465,8 @@
           "type": "other",
           "start": "2026-03-01T18:00:00-07:00",
           "end": "2026-03-01T19:30:00-07:00",
-          "label": "Wilde March 2026",
-          "notes": "Wilde March 2026",
+          "label": "Wilde March 2026 inv",
+          "notes": "Wilde March 2026 inv",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -475,18 +475,9 @@
           "start": "2026-03-01T20:00:00-07:00",
           "end": "2026-03-01T21:30:00-07:00",
           "label": "Panthers vs O4",
-          "notes": "Panthers 2025/26 - Panthers vs O4",
+          "notes": "Panthers March 2026 inv - Panthers vs O4",
           "color": "#EF4444",
           "type_display": "Games"
-        },
-        {
-          "type": "other",
-          "start": "2026-03-02T06:30:00-07:00",
-          "end": "2026-03-02T07:30:00-07:00",
-          "label": "HC - March 2026",
-          "notes": "HC - March 2026",
-          "color": "#64748B",
-          "type_display": "Other"
         },
         {
           "type": "shinny",
@@ -501,8 +492,8 @@
           "type": "skating_club",
           "start": "2026-03-02T15:45:00-07:00",
           "end": "2026-03-02T16:45:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026",
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv",
           "color": "#06B6D4",
           "type_display": "Skating Club / Programs"
         },
@@ -510,8 +501,8 @@
           "type": "skating_club",
           "start": "2026-03-02T17:00:00-07:00",
           "end": "2026-03-02T19:45:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026",
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv",
           "color": "#06B6D4",
           "type_display": "Skating Club / Programs"
         },
@@ -537,8 +528,8 @@
           "type": "other",
           "start": "2026-03-03T07:00:00-07:00",
           "end": "2026-03-03T08:00:00-07:00",
-          "label": "Rich McDonald",
-          "notes": "Rich McDonald",
+          "label": "Rich McDonald March 2026 inv",
+          "notes": "Rich McDonald March 2026 inv",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -556,7 +547,7 @@
           "start": "2026-03-03T13:30:00-07:00",
           "end": "2026-03-03T14:30:00-07:00",
           "label": "Female and male room needed",
-          "notes": "Grizzlys Academy- Deer Meadow - Female and male room needed",
+          "notes": "Grizzlys Academy- Deer Meadow March 2026 inv - Female and male room needed",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -645,8 +636,8 @@
           "type": "skating_club",
           "start": "2026-03-04T15:45:00-07:00",
           "end": "2026-03-04T16:45:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026",
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv",
           "color": "#06B6D4",
           "type_display": "Skating Club / Programs"
         },
@@ -654,8 +645,8 @@
           "type": "skating_club",
           "start": "2026-03-04T17:00:00-07:00",
           "end": "2026-03-04T19:45:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026",
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv",
           "color": "#06B6D4",
           "type_display": "Skating Club / Programs"
         },
@@ -700,7 +691,7 @@
           "start": "2026-03-05T13:30:00-07:00",
           "end": "2026-03-05T14:30:00-07:00",
           "label": "Female and male room needed",
-          "notes": "Grizzlys Academy- Deer Meadow - Female and male room needed",
+          "notes": "Grizzlys Academy- Deer Meadow March 2026 inv - Female and male room needed",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -762,8 +753,8 @@
           "type": "other",
           "start": "2026-03-06T06:30:00-07:00",
           "end": "2026-03-06T07:30:00-07:00",
-          "label": "Knutson",
-          "notes": "Knutson",
+          "label": "Knutson March 2026 inv",
+          "notes": "Knutson March 2026 inv",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -780,8 +771,8 @@
           "type": "skating_club",
           "start": "2026-03-06T15:45:00-07:00",
           "end": "2026-03-06T17:15:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026",
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv",
           "color": "#06B6D4",
           "type_display": "Skating Club / Programs"
         },

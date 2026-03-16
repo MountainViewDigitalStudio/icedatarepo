@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-09T09:30:11.901057Z",
+  "generated_at": "2026-03-16T09:37:14.436382Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena"
@@ -221,7 +221,7 @@
       "type": "practice",
       "start": "2026-03-04T19:30:00",
       "end": "2026-03-04T20:20:00",
-      "label": "SMH- Practice U15",
+      "label": "SMH-Practice U15",
       "notes": "7:30 PM - 8:20 PM",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"

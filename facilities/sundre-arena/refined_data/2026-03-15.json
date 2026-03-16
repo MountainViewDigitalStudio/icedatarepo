@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-09T09:30:11.901929Z",
+  "generated_at": "2026-03-16T09:37:14.438172Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena"
@@ -9,5 +9,51 @@
     "start_date": "2026-03-15",
     "end_date": "2026-03-21"
   },
-  "slots": []
+  "slots": [
+    {
+      "type": "games",
+      "start": "2026-03-15T09:00:00",
+      "end": "2026-03-15T10:15:00",
+      "label": "SMH-Game U9W vs Crossfield",
+      "notes": "9:00 AM - 10:15 AM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "type": "skating_club",
+      "start": "2026-03-15T10:30:00",
+      "end": "2026-03-15T16:00:00",
+      "label": "Sundre Skating Club Carnival",
+      "notes": "10:30 AM - 4:00 PM",
+      "color": "#06B6D4",
+      "type_display": "Skating Club / Programs"
+    },
+    {
+      "type": "rentals",
+      "start": "2026-03-15T16:30:00",
+      "end": "2026-03-15T17:30:00",
+      "label": "Birthday Ice Time",
+      "notes": "4:30 PM - 5:30 PM",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "type": "rentals",
+      "start": "2026-03-15T17:30:00",
+      "end": "2026-03-15T19:30:00",
+      "label": "Clubroom-Birthday",
+      "notes": "5:30 PM - 7:30 PM",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "type": "games",
+      "start": "2026-03-15T20:00:00",
+      "end": "2026-03-15T21:30:00",
+      "label": "Mens Hockey- Ice Men's vs Rhinos",
+      "notes": "8:00 PM - 9:30 PM",
+      "color": "#EF4444",
+      "type_display": "Games"
+    }
+  ]
 }

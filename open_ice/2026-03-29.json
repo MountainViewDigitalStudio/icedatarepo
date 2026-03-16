@@ -1,0 +1,51 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-03-16T09:37:14.563832Z",
+  "facility": {
+    "id": "open-ice",
+    "name": "Open Ice (Public & Shinny)"
+  },
+  "week": {
+    "start_date": "2026-03-29",
+    "end_date": "2026-04-04"
+  },
+  "view": "open_ice",
+  "slots": [
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-03-29T12:00:00-07:00",
+      "end": "2026-03-29T13:15:00-07:00",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-03-29T17:45:00-07:00",
+      "end": "2026-03-29T19:45:00-07:00",
+      "label": "2:30-4:30 is not available",
+      "notes": "Public Booking - 2:30-4:30 is not available",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-03-30T21:45:00-07:00",
+      "end": "2026-03-30T23:00:00-07:00",
+      "label": "Vercaigne Shinny March 2026 PD",
+      "notes": "Vercaigne Shinny March 2026 PD",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    }
+  ]
+}

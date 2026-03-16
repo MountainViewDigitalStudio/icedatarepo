@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-09T09:30:11.929902Z",
+  "generated_at": "2026-03-16T09:37:14.478573Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -28,8 +28,8 @@
           "type": "games",
           "start": "2026-03-15T10:45:00-07:00",
           "end": "2026-03-15T12:45:00-07:00",
-          "label": "Possible playoff game",
-          "notes": "OMHA March 2026 - Possible playoff game",
+          "label": "U13C VS Hanna",
+          "notes": "OMHA March 2026 - U13C VS Hanna",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -37,8 +37,8 @@
           "type": "games",
           "start": "2026-03-15T13:00:00-07:00",
           "end": "2026-03-15T15:00:00-07:00",
-          "label": "U15 B VS Wetaskiwin, if possible do 2 floods",
-          "notes": "OMHA March 2026 - U15 B VS Wetaskiwin, if possible do 2 floods",
+          "label": "U15 B VS Wetaskiwin",
+          "notes": "OMHA March 2026 - U15 B VS Wetaskiwin",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -52,31 +52,31 @@
           "type_display": "Games"
         },
         {
-          "type": "other",
-          "start": "2026-03-15T19:45:00-07:00",
-          "end": "2026-03-15T21:15:00-07:00",
-          "label": "hold",
-          "notes": "Stingers March 2026 - hold",
-          "color": "#64748B",
-          "type_display": "Other"
+          "type": "games",
+          "start": "2026-03-15T17:45:00-07:00",
+          "end": "2026-03-15T20:15:00-07:00",
+          "label": "U18A vs Kneehill  enough time for OT",
+          "notes": "OMHA March 2026 - U18A vs Kneehill  enough time for OT",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-03-15T20:30:00-07:00",
+          "end": "2026-03-15T22:00:00-07:00",
+          "label": "Stingers vs Barons",
+          "notes": "Stingers March 2026 inv - Stingers vs Barons",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "skating_club",
           "start": "2026-03-16T15:45:00-07:00",
           "end": "2026-03-16T19:45:00-07:00",
           "label": "Photo night and Dress Rehearsal, need #1,2,7,8 dressing rooms until 6:30pm, after 6:30 and 1 & 2,",
-          "notes": "Olds Figure Skating Club March 2026 - Photo night and Dress Rehearsal, need #1,2,7,8 dressing rooms until 6:30pm, after 6:30 and 1 & 2,",
+          "notes": "Olds Figure Skating Club March 2026 inv - Photo night and Dress Rehearsal, need #1,2,7,8 dressing rooms until 6:30pm, after 6:30 and 1 & 2,",
           "color": "#06B6D4",
           "type_display": "Skating Club / Programs"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-16T20:00:00-07:00",
-          "end": "2026-03-16T21:00:00-07:00",
-          "label": "U13A last skate",
-          "notes": "OMHA March 2026 - U13A last skate",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
         },
         {
           "type": "shinny",
@@ -91,8 +91,8 @@
           "type": "other",
           "start": "2026-03-17T06:45:00-07:00",
           "end": "2026-03-17T07:45:00-07:00",
-          "label": "Norrie",
-          "notes": "Norrie",
+          "label": "Klausen",
+          "notes": "Norrie, Jan, Feb, March 2026 PD - Klausen",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -109,8 +109,8 @@
           "type": "practice",
           "start": "2026-03-17T17:30:00-07:00",
           "end": "2026-03-17T18:30:00-07:00",
-          "label": "U11 Female",
-          "notes": "OMHA March 2026 - U11 Female",
+          "label": "U11 AA",
+          "notes": "OMHA March 2026 - U11 AA",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -118,8 +118,8 @@
           "type": "practice",
           "start": "2026-03-17T18:45:00-07:00",
           "end": "2026-03-17T19:45:00-07:00",
-          "label": "U11AA",
-          "notes": "OMHA March 2026 - U11AA",
+          "label": "U11 Female",
+          "notes": "OMHA March 2026 - U11 Female",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -127,42 +127,42 @@
           "type": "practice",
           "start": "2026-03-17T20:00:00-07:00",
           "end": "2026-03-17T21:00:00-07:00",
-          "label": "U15 Female",
-          "notes": "OMHA March 2026 - U15 Female",
+          "label": "U18A",
+          "notes": "OMHA March 2026 - U18A",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
         {
-          "type": "practice",
+          "type": "other",
           "start": "2026-03-17T21:15:00-07:00",
           "end": "2026-03-17T22:15:00-07:00",
-          "label": "U18B",
-          "notes": "OMHA March 2026 - U18B",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "Broncos Hockey March 17,18 inv",
+          "notes": "Broncos Hockey March 17,18 inv",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-03-18T15:45:00-07:00",
+          "end": "2026-03-18T16:45:00-07:00",
+          "label": "Broncos Hockey March 17,18 inv",
+          "notes": "Broncos Hockey March 17,18 inv",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "games",
           "start": "2026-03-18T17:00:00-07:00",
           "end": "2026-03-18T21:00:00-07:00",
           "label": "Charity Hockey Game - 4 dressing rooms- females and males playing",
-          "notes": "SAOC Game - Charity Hockey Game - 4 dressing rooms- females and males playing",
+          "notes": "SAOC Game PD - Charity Hockey Game - 4 dressing rooms- females and males playing",
           "color": "#EF4444",
           "type_display": "Games"
         },
         {
           "type": "practice",
-          "start": "2026-03-19T16:30:00-07:00",
-          "end": "2026-03-19T17:30:00-07:00",
-          "label": "U11A",
-          "notes": "OMHA March 2026 - U11A",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-19T17:45:00-07:00",
-          "end": "2026-03-19T18:45:00-07:00",
+          "start": "2026-03-19T17:15:00-07:00",
+          "end": "2026-03-19T18:15:00-07:00",
           "label": "U11AA",
           "notes": "OMHA March 2026 - U11AA",
           "color": "#8B5CF6",
@@ -170,8 +170,8 @@
         },
         {
           "type": "practice",
-          "start": "2026-03-19T19:00:00-07:00",
-          "end": "2026-03-19T20:00:00-07:00",
+          "start": "2026-03-19T18:30:00-07:00",
+          "end": "2026-03-19T19:30:00-07:00",
           "label": "U15 FEmale",
           "notes": "OMHA March 2026 - U15 FEmale",
           "color": "#8B5CF6",
@@ -179,19 +179,19 @@
         },
         {
           "type": "practice",
-          "start": "2026-03-19T20:15:00-07:00",
-          "end": "2026-03-19T21:15:00-07:00",
-          "label": "U18 B",
-          "notes": "OMHA March 2026 - U18 B",
+          "start": "2026-03-19T19:45:00-07:00",
+          "end": "2026-03-19T20:45:00-07:00",
+          "label": "U18 A",
+          "notes": "OMHA March 2026 - U18 A",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
         {
           "type": "other",
-          "start": "2026-03-19T21:45:00-07:00",
-          "end": "2026-03-19T23:15:00-07:00",
-          "label": "SIR 2025-2026",
-          "notes": "SIR 2025-2026",
+          "start": "2026-03-19T21:30:00-07:00",
+          "end": "2026-03-19T23:00:00-07:00",
+          "label": "SIR March 2026 inv",
+          "notes": "SIR March 2026 inv",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -208,17 +208,17 @@
           "type": "skating_club",
           "start": "2026-03-20T14:30:00-07:00",
           "end": "2026-03-20T15:30:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026",
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv",
           "color": "#06B6D4",
           "type_display": "Skating Club / Programs"
         },
         {
           "type": "games",
-          "start": "2026-03-20T16:30:00-07:00",
-          "end": "2026-03-20T18:00:00-07:00",
-          "label": "Olds vs CA Warriors",
-          "notes": "OMHA U11 Female Tournament - Olds vs CA Warriors",
+          "start": "2026-03-20T18:00:00-07:00",
+          "end": "2026-03-20T19:00:00-07:00",
+          "label": "Olds U9 vs  Bowden",
+          "notes": "OMHA U11 Female / U9 Tournament inv - Olds U9 vs  Bowden",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -232,49 +232,49 @@
           "type_display": "Games"
         },
         {
-          "type": "practice",
-          "start": "2026-03-21T09:45:00-07:00",
-          "end": "2026-03-21T10:45:00-07:00",
-          "label": "U9",
-          "notes": "OMHA March 2026 - U9",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
-        },
-        {
           "type": "games",
-          "start": "2026-03-21T11:00:00-07:00",
-          "end": "2026-03-21T12:30:00-07:00",
-          "label": "St. Albert vs Olds",
-          "notes": "OMHA U11 Female Tournament - St. Albert vs Olds",
+          "start": "2026-03-21T09:30:00-07:00",
+          "end": "2026-03-21T10:30:00-07:00",
+          "label": "Thunderstars vs Wildcat",
+          "notes": "OMHA U11 Female / U9 Tournament inv - Thunderstars vs Wildcat",
           "color": "#EF4444",
           "type_display": "Games"
         },
         {
-          "type": "practice",
-          "start": "2026-03-21T12:45:00-07:00",
-          "end": "2026-03-21T13:45:00-07:00",
-          "label": "U9",
-          "notes": "OMHA March 2026 - U9",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
-        },
-        {
           "type": "games",
-          "start": "2026-03-21T15:00:00-07:00",
-          "end": "2026-03-21T16:30:00-07:00",
-          "label": "St. Albert vs CA Warriors",
-          "notes": "OMHA U11 Female Tournament - St. Albert vs CA Warriors",
+          "start": "2026-03-21T10:45:00-07:00",
+          "end": "2026-03-21T12:15:00-07:00",
+          "label": "Wood Buffalo vs St. Albert U11 fem",
+          "notes": "OMHA U11 Female / U9 Tournament inv - Wood Buffalo vs St. Albert U11 fem",
           "color": "#EF4444",
           "type_display": "Games"
         },
         {
-          "type": "practice",
-          "start": "2026-03-21T16:45:00-07:00",
-          "end": "2026-03-21T17:45:00-07:00",
-          "label": "U9",
-          "notes": "OMHA March 2026 - U9",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "type": "games",
+          "start": "2026-03-21T13:00:00-07:00",
+          "end": "2026-03-21T14:00:00-07:00",
+          "label": "Olds vs Wildcat",
+          "notes": "OMHA U11 Female / U9 Tournament inv - Olds vs Wildcat",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-03-21T14:15:00-07:00",
+          "end": "2026-03-21T15:45:00-07:00",
+          "label": "Olds vs Wood Buffalo U11 fem",
+          "notes": "OMHA U11 Female / U9 Tournament inv - Olds vs Wood Buffalo U11 fem",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-03-21T16:15:00-07:00",
+          "end": "2026-03-21T17:15:00-07:00",
+          "label": "Olds vs Thunderstars",
+          "notes": "OMHA U11 Female / U9 Tournament inv - Olds vs Thunderstars",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "games",
@@ -336,20 +336,20 @@
           "type_display": "Games"
         },
         {
-          "type": "games",
-          "start": "2026-03-15T15:45:00-07:00",
+          "type": "public",
+          "start": "2026-03-15T16:00:00-07:00",
           "end": "2026-03-15T17:30:00-07:00",
-          "label": "possible  playoff  game if still have teams in",
-          "notes": "OMHA March 2026 - possible  playoff  game if still have teams in",
-          "color": "#EF4444",
-          "type_display": "Games"
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
         },
         {
           "type": "other",
           "start": "2026-03-15T18:00:00-07:00",
           "end": "2026-03-15T19:30:00-07:00",
-          "label": "Wilde March 2026",
-          "notes": "Wilde March 2026",
+          "label": "Wilde March 2026 inv",
+          "notes": "Wilde March 2026 inv",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -373,28 +373,10 @@
         },
         {
           "type": "practice",
-          "start": "2026-03-16T16:15:00-07:00",
-          "end": "2026-03-16T17:15:00-07:00",
-          "label": "U9C Black last skate",
-          "notes": "OMHA March 2026 - U9C Black last skate",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
-        },
-        {
-          "type": "practice",
           "start": "2026-03-16T17:30:00-07:00",
           "end": "2026-03-16T18:30:00-07:00",
-          "label": "U9C Yellow last skate",
-          "notes": "OMHA March 2026 - U9C Yellow last skate",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-16T18:45:00-07:00",
-          "end": "2026-03-16T19:45:00-07:00",
-          "label": "U13B last skate",
-          "notes": "OMHA March 2026 - U13B last skate",
+          "label": "U9B Black last skate",
+          "notes": "OMHA March 2026 - U9B Black last skate",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -420,8 +402,8 @@
           "type": "other",
           "start": "2026-03-17T13:30:00-07:00",
           "end": "2026-03-17T14:30:00-07:00",
-          "label": "Grizzlys Academy- Deer Meadow",
-          "notes": "Grizzlys Academy- Deer Meadow",
+          "label": "Grizzlys Academy- Deer Meadow March 2026 inv",
+          "notes": "Grizzlys Academy- Deer Meadow March 2026 inv",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -429,8 +411,8 @@
           "type": "practice",
           "start": "2026-03-17T16:30:00-07:00",
           "end": "2026-03-17T17:30:00-07:00",
-          "label": "U9B last ice",
-          "notes": "OMHA March 2026 - U9B last ice",
+          "label": "U9 female",
+          "notes": "OMHA March 2026 - U9 female",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -447,19 +429,19 @@
           "type": "practice",
           "start": "2026-03-17T19:15:00-07:00",
           "end": "2026-03-17T20:15:00-07:00",
-          "label": "U11AA",
-          "notes": "OMHA March 2026 - U11AA",
+          "label": "U15 Female",
+          "notes": "OMHA March 2026 - U15 Female",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
         {
-          "type": "other",
+          "type": "practice",
           "start": "2026-03-17T20:30:00-07:00",
           "end": "2026-03-17T21:30:00-07:00",
-          "label": "OMHA March 2026",
-          "notes": "OMHA March 2026",
-          "color": "#64748B",
-          "type_display": "Other"
+          "label": "U18B",
+          "notes": "OMHA March 2026 - U18B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "shinny",
@@ -474,8 +456,8 @@
           "type": "skating_club",
           "start": "2026-03-18T15:45:00-07:00",
           "end": "2026-03-18T16:45:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026",
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv",
           "color": "#06B6D4",
           "type_display": "Skating Club / Programs"
         },
@@ -483,8 +465,8 @@
           "type": "skating_club",
           "start": "2026-03-18T17:00:00-07:00",
           "end": "2026-03-18T19:45:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026",
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv",
           "color": "#06B6D4",
           "type_display": "Skating Club / Programs"
         },
@@ -501,8 +483,8 @@
           "type": "other",
           "start": "2026-03-19T06:45:00-07:00",
           "end": "2026-03-19T07:45:00-07:00",
-          "label": "Haaland - Hockey",
-          "notes": "Haaland - Hockey",
+          "label": "Haaland March 2026 inv",
+          "notes": "Haaland March 2026 inv",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -519,19 +501,10 @@
           "type": "other",
           "start": "2026-03-19T13:30:00-07:00",
           "end": "2026-03-19T14:30:00-07:00",
-          "label": "Grizzlys Academy- Deer Meadow",
-          "notes": "Grizzlys Academy- Deer Meadow",
+          "label": "Grizzlys Academy- Deer Meadow March 2026 inv",
+          "notes": "Grizzlys Academy- Deer Meadow March 2026 inv",
           "color": "#64748B",
           "type_display": "Other"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-19T16:15:00-07:00",
-          "end": "2026-03-19T17:15:00-07:00",
-          "label": "U9 fem?",
-          "notes": "OMHA March 2026 - U9 fem?",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
@@ -552,29 +525,20 @@
           "type_display": "Practice / Other"
         },
         {
-          "type": "other",
+          "type": "practice",
           "start": "2026-03-19T20:00:00-07:00",
           "end": "2026-03-19T21:00:00-07:00",
-          "label": "omha",
-          "notes": "OMHA March 2026 - omha",
-          "color": "#64748B",
-          "type_display": "Other"
-        },
-        {
-          "type": "other",
-          "start": "2026-03-19T21:15:00-07:00",
-          "end": "2026-03-19T22:15:00-07:00",
-          "label": "omha",
-          "notes": "OMHA March 2026 - omha",
-          "color": "#64748B",
-          "type_display": "Other"
+          "label": "U18B",
+          "notes": "OMHA March 2026 - U18B",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "other",
           "start": "2026-03-20T06:30:00-07:00",
           "end": "2026-03-20T07:30:00-07:00",
-          "label": "Knutson",
-          "notes": "Knutson",
+          "label": "Knutson March 2026 inv",
+          "notes": "Knutson March 2026 inv",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -591,17 +555,17 @@
           "type": "skating_club",
           "start": "2026-03-20T15:45:00-07:00",
           "end": "2026-03-20T17:15:00-07:00",
-          "label": "Olds Figure Skating Club March 2026",
-          "notes": "Olds Figure Skating Club March 2026",
+          "label": "Olds Figure Skating Club March 2026 inv",
+          "notes": "Olds Figure Skating Club March 2026 inv",
           "color": "#06B6D4",
           "type_display": "Skating Club / Programs"
         },
         {
           "type": "games",
-          "start": "2026-03-20T17:30:00-07:00",
-          "end": "2026-03-20T19:00:00-07:00",
-          "label": "Wood Buffalo VS St. Alberta",
-          "notes": "OMHA U11 Female Tournament - Wood Buffalo VS St. Alberta",
+          "start": "2026-03-20T17:45:00-07:00",
+          "end": "2026-03-20T19:15:00-07:00",
+          "label": "Wood  Buffalo vs CA Warriors",
+          "notes": "OMHA U11 Female / U9 Tournament inv - Wood  Buffalo vs CA Warriors",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -615,49 +579,49 @@
           "type_display": "Games"
         },
         {
-          "type": "practice",
-          "start": "2026-03-21T10:00:00-07:00",
-          "end": "2026-03-21T11:00:00-07:00",
-          "label": "U9",
-          "notes": "OMHA March 2026 - U9",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
-        },
-        {
           "type": "games",
-          "start": "2026-03-21T11:15:00-07:00",
-          "end": "2026-03-21T12:30:00-07:00",
-          "label": "Wood Buffalo vs CA Warriors",
-          "notes": "OMHA U11 Female Tournament - Wood Buffalo vs CA Warriors",
+          "start": "2026-03-21T10:30:00-07:00",
+          "end": "2026-03-21T12:00:00-07:00",
+          "label": "Olds vs CA Warriors U11 fem",
+          "notes": "OMHA U11 Female / U9 Tournament inv - Olds vs CA Warriors U11 fem",
           "color": "#EF4444",
           "type_display": "Games"
         },
         {
-          "type": "practice",
-          "start": "2026-03-21T13:00:00-07:00",
-          "end": "2026-03-21T14:00:00-07:00",
-          "label": "U9",
-          "notes": "OMHA March 2026 - U9",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
-        },
-        {
           "type": "games",
-          "start": "2026-03-21T15:15:00-07:00",
-          "end": "2026-03-21T16:45:00-07:00",
-          "label": "Olds VS Wood Buffalo",
-          "notes": "OMHA U11 Female Tournament - Olds VS Wood Buffalo",
+          "start": "2026-03-21T12:45:00-07:00",
+          "end": "2026-03-21T13:45:00-07:00",
+          "label": "Bowden vs Thunderstars",
+          "notes": "OMHA U11 Female / U9 Tournament inv - Bowden vs Thunderstars",
           "color": "#EF4444",
           "type_display": "Games"
         },
         {
-          "type": "practice",
-          "start": "2026-03-21T17:00:00-07:00",
-          "end": "2026-03-21T18:00:00-07:00",
-          "label": "U9",
-          "notes": "OMHA March 2026 - U9",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "type": "games",
+          "start": "2026-03-21T14:15:00-07:00",
+          "end": "2026-03-21T15:45:00-07:00",
+          "label": "St. Albert vs Warriors U11 fem",
+          "notes": "OMHA U11 Female / U9 Tournament inv - St. Albert vs Warriors U11 fem",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-03-21T16:00:00-07:00",
+          "end": "2026-03-21T17:00:00-07:00",
+          "label": "Wildcat vs Bowden",
+          "notes": "OMHA U11 Female / U9 Tournament inv - Wildcat vs Bowden",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-03-21T17:30:00-07:00",
+          "end": "2026-03-21T19:00:00-07:00",
+          "label": "St. Albert vs Olds U11 fem",
+          "notes": "OMHA U11 Female / U9 Tournament inv - St. Albert vs Olds U11 fem",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "games",

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-09T09:30:11.945882Z",
+  "generated_at": "2026-03-16T09:37:14.494041Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena"
@@ -468,6 +468,15 @@
       "notes": "Mens Hockey - FLOOD",
       "color": "#F59E0B",
       "type_display": "Adult Rec Hockey"
+    },
+    {
+      "start": "2026-03-07T15:45:00-07:00",
+      "end": "2026-03-07T18:00:00-07:00",
+      "type": "games",
+      "label": "U11 A vs Airdrie",
+      "notes": "U11 A vs Airdrie",
+      "color": "#EF4444",
+      "type_display": "Games"
     },
     {
       "start": "2026-03-07T18:00:00-07:00",

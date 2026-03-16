@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-09T09:30:12.008846Z",
+  "generated_at": "2026-03-16T09:37:14.563621Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
@@ -106,30 +106,6 @@
       "notes": "Public Skating",
       "color": "#10B981",
       "type_display": "Public / Family"
-    },
-    {
-      "facility_id": "kurt-browning-arena",
-      "facility_name": "Kurt Browning Arena",
-      "city": null,
-      "type": "shinny",
-      "start": "2026-03-27T17:00:00-07:00",
-      "end": "2026-03-27T18:00:00-07:00",
-      "label": "Sticks & Pucks",
-      "notes": "Sticks & Pucks",
-      "color": "#3B82F6",
-      "type_display": "Shinny / Stick & Puck"
-    },
-    {
-      "facility_id": "kurt-browning-arena",
-      "facility_name": "Kurt Browning Arena",
-      "city": null,
-      "type": "shinny",
-      "start": "2026-03-27T18:00:00-07:00",
-      "end": "2026-03-27T18:15:00-07:00",
-      "label": "Maintenance",
-      "notes": "Sticks & Pucks - FLOOD",
-      "color": "#3B82F6",
-      "type_display": "Shinny / Stick & Puck"
     }
   ]
 }

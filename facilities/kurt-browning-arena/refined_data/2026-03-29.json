@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-03-16T09:37:14.495997Z",
+  "facility": {
+    "id": "kurt-browning-arena",
+    "name": "Kurt Browning Arena"
+  },
+  "week": {
+    "start_date": "2026-03-29",
+    "end_date": "2026-04-04"
+  },
+  "slots": [
+    {
+      "start": "2026-03-31T14:00:00-07:00",
+      "end": "2026-03-31T20:30:00-07:00",
+      "type": "other",
+      "label": "Open House",
+      "notes": "Open House",
+      "color": "#64748B",
+      "type_display": "Other"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-09T09:30:12.008126Z",
+  "generated_at": "2026-03-16T09:37:14.562821Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
@@ -152,18 +152,6 @@
       "end": "2026-03-05T13:00:00-07:00",
       "label": "Public Skating",
       "notes": "Public Skating",
-      "color": "#10B981",
-      "type_display": "Public / Family"
-    },
-    {
-      "facility_id": "olds-sportsplex",
-      "facility_name": "Olds Sportsplex",
-      "city": null,
-      "type": "public",
-      "start": "2026-03-06T11:00:00-07:00",
-      "end": "2026-03-06T12:00:00-07:00",
-      "label": "Public Booking",
-      "notes": "Public Booking",
       "color": "#10B981",
       "type_display": "Public / Family"
     },
