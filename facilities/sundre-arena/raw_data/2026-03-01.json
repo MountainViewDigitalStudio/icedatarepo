@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-09T09:27:52.351478Z",
+  "generated_at": "2026-03-16T09:36:07.744800Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena",
@@ -211,6 +211,13 @@
       "notes": "6:00 PM - 6:50 PM"
     },
     {
+      "type": "skating_club",
+      "start": "2026-03-05T18:00:00",
+      "end": "2026-03-05T20:00:00",
+      "label": "Sundre Skating Club Star Skate",
+      "notes": "6:00 PM - 8:00 PM"
+    },
+    {
       "type": "practice",
       "start": "2026-03-02T18:30:00",
       "end": "2026-03-02T19:20:00",
@@ -230,13 +237,6 @@
       "end": "2026-03-04T19:20:00",
       "label": "SMH- Practice U13",
       "notes": "6:30 PM - 7:20 PM"
-    },
-    {
-      "type": "skating_club",
-      "start": "2026-03-05T18:00:00",
-      "end": "2026-03-05T20:00:00",
-      "label": "Sundre Skating Club Star Skate",
-      "notes": "6:00 PM - 8:00 PM"
     },
     {
       "type": "practice",
@@ -263,7 +263,7 @@
       "type": "practice",
       "start": "2026-03-04T19:30:00",
       "end": "2026-03-04T20:20:00",
-      "label": "SMH- Practice U15",
+      "label": "SMH-Practice U15",
       "notes": "7:30 PM - 8:20 PM"
     },
     {
@@ -274,18 +274,18 @@
       "notes": "8:00 PM - 9:30 PM"
     },
     {
-      "type": "adult_rec",
-      "start": "2026-03-08T20:00:00",
-      "end": "2026-03-08T21:30:00",
-      "label": "Mens Hockey- Ice Man's vs Cremona",
-      "notes": "8:00 PM - 9:30 PM"
-    },
-    {
       "type": "practice",
       "start": "2026-03-04T20:30:00",
       "end": "2026-03-04T21:20:00",
       "label": "SMH-Practice U18",
       "notes": "8:30 PM - 9:20 PM"
+    },
+    {
+      "type": "adult_rec",
+      "start": "2026-03-08T20:00:00",
+      "end": "2026-03-08T21:30:00",
+      "label": "Mens Hockey- Ice Man's vs Cremona",
+      "notes": "8:00 PM - 9:30 PM"
     },
     {
       "type": "adult_rec",

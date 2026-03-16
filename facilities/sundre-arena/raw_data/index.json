@@ -7,7 +7,8 @@
     "source_url": "https://www.sundre.com/p/arena"
   },
   "available_weeks": [
-    "2026-03-01"
+    "2026-03-01",
+    "2026-03-08"
   ],
   "weeks": [
     {
@@ -16,7 +17,14 @@
       "end_date": "2026-03-08",
       "file": "2026-03-01.json",
       "is_current": false
+    },
+    {
+      "sunday": "2026-03-08",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-15",
+      "file": "2026-03-08.json",
+      "is_current": false
     }
   ],
-  "generated_at": "2026-03-09T09:27:52.351478Z"
+  "generated_at": "2026-03-16T09:36:07.744800Z"
 }
