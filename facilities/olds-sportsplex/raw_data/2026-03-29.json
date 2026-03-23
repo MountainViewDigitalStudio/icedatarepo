@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-16T09:34:29.924663Z",
+  "generated_at": "2026-03-23T09:32:25.554750Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -28,8 +28,8 @@
           "type": "practice",
           "start": "2026-03-29T11:30:00-07:00",
           "end": "2026-03-29T12:30:00-07:00",
-          "label": "U15AA ID Camp",
-          "notes": "OMHA March 2026 - U15AA ID Camp"
+          "label": "U15AA Team A practice",
+          "notes": "OMHA March 2026 - U15AA Team A practice"
         },
         {
           "type": "practice",
@@ -47,24 +47,17 @@
         },
         {
           "type": "practice",
-          "start": "2026-03-29T17:45:00-07:00",
-          "end": "2026-03-29T19:45:00-07:00",
-          "label": "2:30-4:30 is not available",
-          "notes": "Public Booking - 2:30-4:30 is not available"
-        },
-        {
-          "type": "practice",
           "start": "2026-03-30T17:15:00-07:00",
           "end": "2026-03-30T18:15:00-07:00",
-          "label": "U11AA",
-          "notes": "OMHA March 2026 - U11AA"
+          "label": "U11AA Team A",
+          "notes": "OMHA March 2026 - U11AA Team A"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-30T18:30:00-07:00",
           "end": "2026-03-30T19:30:00-07:00",
-          "label": "U11AA",
-          "notes": "OMHA March 2026 - U11AA"
+          "label": "U11AA Team B vs C",
+          "notes": "OMHA March 2026 - U11AA Team B vs C"
         },
         {
           "type": "practice",
@@ -91,22 +84,22 @@
           "type": "practice",
           "start": "2026-03-31T16:00:00-07:00",
           "end": "2026-03-31T17:00:00-07:00",
-          "label": "U11AA",
-          "notes": "OMHA March 2026 - U11AA"
+          "label": "U11AA Team B",
+          "notes": "OMHA March 2026 - U11AA Team B"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-31T17:15:00-07:00",
           "end": "2026-03-31T18:15:00-07:00",
-          "label": "U11AA",
-          "notes": "OMHA March 2026 - U11AA"
+          "label": "U11AA Team A vs C",
+          "notes": "OMHA March 2026 - U11AA Team A vs C"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-03-31T18:30:00-07:00",
           "end": "2026-03-31T19:30:00-07:00",
-          "label": "U13AA",
-          "notes": "OMHA March 2026 - U13AA"
+          "label": "U13AA B vs C",
+          "notes": "OMHA March 2026 - U13AA B vs C"
         },
         {
           "type": "practice",
@@ -119,8 +112,8 @@
           "type": "practice",
           "start": "2026-03-31T19:45:00-07:00",
           "end": "2026-03-31T20:45:00-07:00",
-          "label": "U13AA",
-          "notes": "OMHA March 2026 - U13AA"
+          "label": "U13AA Team A",
+          "notes": "OMHA March 2026 - U13AA Team A"
         },
         {
           "type": "practice",
@@ -142,6 +135,13 @@
           "end": "2026-04-01T22:00:00-07:00",
           "label": "Longhorns U15 Female",
           "notes": "Longhorns 2026 - Longhorns U15 Female"
+        },
+        {
+          "type": "practice",
+          "start": "2026-04-02T06:45:00-07:00",
+          "end": "2026-04-02T07:45:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie"
         },
         {
           "type": "practice",
@@ -173,6 +173,13 @@
         },
         {
           "type": "practice",
+          "start": "2026-04-03T06:45:00-07:00",
+          "end": "2026-04-03T07:45:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie"
+        },
+        {
+          "type": "practice",
           "start": "2026-04-03T16:30:00-07:00",
           "end": "2026-04-03T17:30:00-07:00",
           "label": "Longhorns JR Goalies",
@@ -201,17 +208,10 @@
         },
         {
           "type": "practice",
-          "start": "2026-04-04T08:00:00-07:00",
-          "end": "2026-04-04T09:00:00-07:00",
-          "label": "Longhorns",
-          "notes": "Longhorns 2026 - Longhorns"
-        },
-        {
-          "type": "game",
-          "start": "2026-04-04T09:45:00-07:00",
+          "start": "2026-04-04T10:45:00-07:00",
           "end": "2026-04-04T11:45:00-07:00",
-          "label": "Longhorns  U11 Female Game",
-          "notes": "Longhorns 2026 - Longhorns  U11 Female Game"
+          "label": "U15 Female",
+          "notes": "OMHA March 2026 - U15 Female"
         },
         {
           "type": "practice",
@@ -238,15 +238,15 @@
           "type": "practice",
           "start": "2026-04-04T18:15:00-07:00",
           "end": "2026-04-04T19:15:00-07:00",
-          "label": "OMHA March 2026",
-          "notes": "OMHA March 2026"
+          "label": "U13AA Team B",
+          "notes": "OMHA March 2026 - U13AA Team B"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-04-04T19:30:00-07:00",
           "end": "2026-04-04T20:30:00-07:00",
-          "label": "OMHA March 2026",
-          "notes": "OMHA March 2026"
+          "label": "U13AA Team A vs C",
+          "notes": "OMHA March 2026 - U13AA Team A vs C"
         }
       ]
     },
@@ -278,15 +278,15 @@
           "type": "practice",
           "start": "2026-03-29T16:30:00-07:00",
           "end": "2026-03-29T17:30:00-07:00",
-          "label": "Longhorns 2026",
-          "notes": "Longhorns 2026"
+          "label": "JR Longhorns Goalie Development",
+          "notes": "Longhorns 2026 - JR Longhorns Goalie Development"
         },
         {
           "type": "practice",
           "start": "2026-03-29T17:45:00-07:00",
           "end": "2026-03-29T18:45:00-07:00",
-          "label": "Longhorns 2026",
-          "notes": "Longhorns 2026"
+          "label": "JR Longhorns Goalie Development",
+          "notes": "Longhorns 2026 - JR Longhorns Goalie Development"
         }
       ]
     }
