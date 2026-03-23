@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-16T09:37:14.478573Z",
+  "generated_at": "2026-03-23T09:35:13.056624Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -80,8 +80,8 @@
         },
         {
           "type": "shinny",
-          "start": "2026-03-16T21:45:00-07:00",
-          "end": "2026-03-16T23:00:00-07:00",
+          "start": "2026-03-16T21:15:00-07:00",
+          "end": "2026-03-16T22:30:00-07:00",
           "label": "Vercaigne Shinny March 2026 PD",
           "notes": "Vercaigne Shinny March 2026 PD",
           "color": "#3B82F6",
@@ -93,6 +93,15 @@
           "end": "2026-03-17T07:45:00-07:00",
           "label": "Klausen",
           "notes": "Norrie, Jan, Feb, March 2026 PD - Klausen",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-03-17T15:15:00-07:00",
+          "end": "2026-03-17T16:00:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -160,6 +169,15 @@
           "type_display": "Games"
         },
         {
+          "type": "other",
+          "start": "2026-03-19T11:00:00-07:00",
+          "end": "2026-03-19T12:00:00-07:00",
+          "label": "March 19th 2026 Grizzlys",
+          "notes": "March 19th 2026 Grizzlys",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
           "type": "practice",
           "start": "2026-03-19T17:15:00-07:00",
           "end": "2026-03-19T18:15:00-07:00",
@@ -172,8 +190,8 @@
           "type": "practice",
           "start": "2026-03-19T18:30:00-07:00",
           "end": "2026-03-19T19:30:00-07:00",
-          "label": "U15 FEmale",
-          "notes": "OMHA March 2026 - U15 FEmale",
+          "label": "U15 Female",
+          "notes": "OMHA March 2026 - U15 Female",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -197,10 +215,28 @@
         },
         {
           "type": "other",
+          "start": "2026-03-20T10:00:00-07:00",
+          "end": "2026-03-20T11:00:00-07:00",
+          "label": "Haaland March 2026 inv",
+          "notes": "Haaland March 2026 inv",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-03-20T11:15:00-07:00",
+          "end": "2026-03-20T12:15:00-07:00",
+          "label": "Knight-Lutz",
+          "notes": "Knight-Lutz",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
           "start": "2026-03-20T12:30:00-07:00",
           "end": "2026-03-20T16:00:00-07:00",
-          "label": "Peak Heritage Consulting",
-          "notes": "Peak Heritage Consulting",
+          "label": "Peak Heritage Consulting Paid",
+          "notes": "Peak Heritage Consulting Paid",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -354,15 +390,6 @@
           "type_display": "Other"
         },
         {
-          "type": "other",
-          "start": "2026-03-16T06:30:00-07:00",
-          "end": "2026-03-16T07:30:00-07:00",
-          "label": "HC - March 2026",
-          "notes": "HC - March 2026",
-          "color": "#64748B",
-          "type_display": "Other"
-        },
-        {
           "type": "shinny",
           "start": "2026-03-16T12:00:00-07:00",
           "end": "2026-03-16T13:00:00-07:00",
@@ -420,8 +447,8 @@
           "type": "other",
           "start": "2026-03-17T17:45:00-07:00",
           "end": "2026-03-17T19:00:00-07:00",
-          "label": "Thrive",
-          "notes": "Thrive",
+          "label": "Thrive March 17, inv",
+          "notes": "Thrive March 17, inv",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -469,24 +496,6 @@
           "notes": "Olds Figure Skating Club March 2026 inv",
           "color": "#06B6D4",
           "type_display": "Skating Club / Programs"
-        },
-        {
-          "type": "practice",
-          "start": "2026-03-18T20:00:00-07:00",
-          "end": "2026-03-18T21:00:00-07:00",
-          "label": "U15B last skate",
-          "notes": "OMHA March 2026 - U15B last skate",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
-        },
-        {
-          "type": "other",
-          "start": "2026-03-19T06:45:00-07:00",
-          "end": "2026-03-19T07:45:00-07:00",
-          "label": "Haaland March 2026 inv",
-          "notes": "Haaland March 2026 inv",
-          "color": "#64748B",
-          "type_display": "Other"
         },
         {
           "type": "public",
@@ -577,6 +586,15 @@
           "notes": "Gonch and Panty Tournament - Panthers vs Boozers",
           "color": "#EF4444",
           "type_display": "Games"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-21T09:15:00-07:00",
+          "end": "2026-03-21T10:15:00-07:00",
+          "label": "U15 Female",
+          "notes": "OMHA March 2026 - U15 Female",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         },
         {
           "type": "games",

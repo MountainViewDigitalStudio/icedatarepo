@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-03-23T09:35:13.143297Z",
+  "facility": {
+    "id": "open-ice",
+    "name": "Open Ice (Public & Shinny)"
+  },
+  "week": {
+    "start_date": "2026-04-05",
+    "end_date": "2026-04-11"
+  },
+  "view": "open_ice",
+  "slots": [
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-04-07T21:45:00-07:00",
+      "end": "2026-04-07T23:00:00-07:00",
+      "label": "Vercaigne Shinny Feb 2026 PD",
+      "notes": "Vercaigne Shinny Feb 2026 PD",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-16T09:37:14.479354Z",
+  "generated_at": "2026-03-23T09:35:13.057415Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -52,6 +52,24 @@
           "type_display": "Skating Club / Programs"
         },
         {
+          "type": "public",
+          "start": "2026-03-22T18:00:00-07:00",
+          "end": "2026-03-22T19:00:00-07:00",
+          "label": "Public Booking",
+          "notes": "Public Booking",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
+          "type": "public",
+          "start": "2026-03-23T16:00:00-07:00",
+          "end": "2026-03-23T17:00:00-07:00",
+          "label": "Public Booking",
+          "notes": "Public Booking",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
           "type": "practice",
           "start": "2026-03-23T17:15:00-07:00",
           "end": "2026-03-23T18:15:00-07:00",
@@ -64,6 +82,15 @@
           "type": "practice",
           "start": "2026-03-23T18:30:00-07:00",
           "end": "2026-03-23T19:30:00-07:00",
+          "label": "U11AA",
+          "notes": "OMHA March 2026 - U11AA",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-23T19:45:00-07:00",
+          "end": "2026-03-23T20:45:00-07:00",
           "label": "U18A",
           "notes": "OMHA March 2026 - U18A",
           "color": "#8B5CF6",
@@ -71,8 +98,8 @@
         },
         {
           "type": "shinny",
-          "start": "2026-03-23T21:45:00-07:00",
-          "end": "2026-03-23T23:00:00-07:00",
+          "start": "2026-03-23T21:15:00-07:00",
+          "end": "2026-03-23T22:30:00-07:00",
           "label": "Vercaigne Shinny March 2026 PD",
           "notes": "Vercaigne Shinny March 2026 PD",
           "color": "#3B82F6",
@@ -89,28 +116,46 @@
         },
         {
           "type": "practice",
-          "start": "2026-03-24T17:15:00-07:00",
-          "end": "2026-03-24T18:15:00-07:00",
-          "label": "U11AA?",
-          "notes": "OMHA March 2026 - U11AA?",
+          "start": "2026-03-24T16:00:00-07:00",
+          "end": "2026-03-24T17:00:00-07:00",
+          "label": "Broncos Practice Ice",
+          "notes": "Broncos Practice Ice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
         {
           "type": "practice",
-          "start": "2026-03-24T18:30:00-07:00",
-          "end": "2026-03-24T19:30:00-07:00",
-          "label": "U15 fem",
-          "notes": "OMHA March 2026 - U15 fem",
+          "start": "2026-03-24T18:00:00-07:00",
+          "end": "2026-03-24T19:00:00-07:00",
+          "label": "U11AA",
+          "notes": "OMHA March 2026 - U11AA",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
         {
           "type": "practice",
-          "start": "2026-03-25T17:15:00-07:00",
-          "end": "2026-03-25T18:15:00-07:00",
-          "label": "U11AA?",
-          "notes": "OMHA March 2026 - U11AA?",
+          "start": "2026-03-24T19:15:00-07:00",
+          "end": "2026-03-24T20:15:00-07:00",
+          "label": "U15 Female",
+          "notes": "OMHA March 2026 - U15 Female",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-03-25T06:30:00-07:00",
+          "end": "2026-03-25T07:30:00-07:00",
+          "label": "HC - March 2026",
+          "notes": "HC - March 2026",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-25T16:00:00-07:00",
+          "end": "2026-03-25T17:00:00-07:00",
+          "label": "Broncos Practice Ice",
+          "notes": "Broncos Practice Ice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -125,19 +170,19 @@
         },
         {
           "type": "practice",
-          "start": "2026-03-26T17:15:00-07:00",
-          "end": "2026-03-26T18:15:00-07:00",
-          "label": "U15B last ice?",
-          "notes": "OMHA March 2026 - U15B last ice?",
+          "start": "2026-03-26T18:30:00-07:00",
+          "end": "2026-03-26T19:30:00-07:00",
+          "label": "U15 fem",
+          "notes": "OMHA March 2026 - U15 fem",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
         {
           "type": "practice",
-          "start": "2026-03-26T18:30:00-07:00",
-          "end": "2026-03-26T19:30:00-07:00",
-          "label": "U15 fem",
-          "notes": "OMHA March 2026 - U15 fem",
+          "start": "2026-03-26T19:45:00-07:00",
+          "end": "2026-03-26T20:45:00-07:00",
+          "label": "U15B last ice",
+          "notes": "OMHA March 2026 - U15B last ice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -178,13 +223,13 @@
           "type_display": "Practice / Other"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-03-27T20:15:00-07:00",
           "end": "2026-03-27T21:15:00-07:00",
-          "label": "U15AA ID Camp",
-          "notes": "OMHA March 2026 - U15AA ID Camp",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U15AA  A vs B",
+          "notes": "OMHA March 2026 - U15AA  A vs B",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "games",
@@ -208,8 +253,8 @@
           "type": "practice",
           "start": "2026-03-28T14:00:00-07:00",
           "end": "2026-03-28T15:00:00-07:00",
-          "label": "U15AA ID Camp",
-          "notes": "OMHA March 2026 - U15AA ID Camp",
+          "label": "U15AA Team B practice",
+          "notes": "OMHA March 2026 - U15AA Team B practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -232,13 +277,13 @@
           "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-03-28T20:30:00-07:00",
           "end": "2026-03-28T21:30:00-07:00",
-          "label": "U15AA ID Camp",
-          "notes": "OMHA March 2026 - U15AA ID Camp",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U15AA  A vs C",
+          "notes": "OMHA March 2026 - U15AA  A vs C",
+          "color": "#EF4444",
+          "type_display": "Games"
         }
       ]
     },
@@ -278,6 +323,15 @@
           "end": "2026-03-22T15:30:00-07:00",
           "label": "Flood",
           "notes": "Flood",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-03-22T15:45:00-07:00",
+          "end": "2026-03-22T16:45:00-07:00",
+          "label": "Moreau Hockey",
+          "notes": "Moreau Hockey",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -325,6 +379,15 @@
           "notes": "Public Skating",
           "color": "#10B981",
           "type_display": "Public / Family"
+        },
+        {
+          "type": "other",
+          "start": "2026-03-24T16:15:00-07:00",
+          "end": "2026-03-24T17:15:00-07:00",
+          "label": "Haaland",
+          "notes": "Haaland",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "practice",
@@ -447,8 +510,8 @@
           "type": "practice",
           "start": "2026-03-27T19:15:00-07:00",
           "end": "2026-03-27T20:15:00-07:00",
-          "label": "U15AA ID Camp",
-          "notes": "OMHA March 2026 - U15AA ID Camp",
+          "label": "U15AA Team C practice",
+          "notes": "OMHA March 2026 - U15AA Team C practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-16T09:37:14.495676Z",
+  "generated_at": "2026-03-23T09:35:13.074027Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena"
@@ -47,24 +47,6 @@
       "type_display": "Public / Family"
     },
     {
-      "start": "2026-03-23T17:45:00-07:00",
-      "end": "2026-03-23T18:45:00-07:00",
-      "type": "rentals",
-      "label": "Ice Rental",
-      "notes": "Private skate - Mcauley Skate",
-      "color": "#F97316",
-      "type_display": "Rentals"
-    },
-    {
-      "start": "2026-03-23T18:45:00-07:00",
-      "end": "2026-03-23T19:00:00-07:00",
-      "type": "rentals",
-      "label": "Ice Rental",
-      "notes": "Private skate - Flood",
-      "color": "#F97316",
-      "type_display": "Rentals"
-    },
-    {
       "start": "2026-03-23T19:00:00-07:00",
       "end": "2026-03-23T20:00:00-07:00",
       "type": "games",
@@ -76,24 +58,6 @@
     {
       "start": "2026-03-23T20:00:00-07:00",
       "end": "2026-03-23T20:15:00-07:00",
-      "type": "practice",
-      "label": "Hockey - PRACTICES - Flood",
-      "notes": "PRACTICES - Flood",
-      "color": "#8B5CF6",
-      "type_display": "Practice / Other"
-    },
-    {
-      "start": "2026-03-23T20:15:00-07:00",
-      "end": "2026-03-23T21:15:00-07:00",
-      "type": "games",
-      "label": "Hockey - PRACTICES - U15 Parent Game",
-      "notes": "PRACTICES - U15 Parent Game",
-      "color": "#EF4444",
-      "type_display": "Games"
-    },
-    {
-      "start": "2026-03-23T21:15:00-07:00",
-      "end": "2026-03-23T21:30:00-07:00",
       "type": "practice",
       "label": "Hockey - PRACTICES - Flood",
       "notes": "PRACTICES - Flood",

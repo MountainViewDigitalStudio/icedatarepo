@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-16T09:37:14.495159Z",
+  "generated_at": "2026-03-23T09:35:13.073444Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena"
@@ -103,11 +103,11 @@
     {
       "start": "2026-03-16T15:45:00-07:00",
       "end": "2026-03-16T16:45:00-07:00",
-      "type": "practice",
-      "label": "Hockey - PRACTICES - U5/U7 No flood",
-      "notes": "PRACTICES - U5/U7 No flood",
-      "color": "#8B5CF6",
-      "type_display": "Practice / Other"
+      "type": "games",
+      "label": "Hockey - PRACTICES - U5/U7 No flood - Parent Game",
+      "notes": "PRACTICES - U5/U7 No flood - Parent Game",
+      "color": "#EF4444",
+      "type_display": "Games"
     },
     {
       "start": "2026-03-16T16:45:00-07:00",
@@ -121,11 +121,11 @@
     {
       "start": "2026-03-16T17:45:00-07:00",
       "end": "2026-03-16T18:45:00-07:00",
-      "type": "practice",
-      "label": "Hockey - PRACTICES - U11 C",
-      "notes": "PRACTICES - U11 C",
-      "color": "#8B5CF6",
-      "type_display": "Practice / Other"
+      "type": "games",
+      "label": "Hockey - PRACTICES - U11 C - Parent Game",
+      "notes": "PRACTICES - U11 C - Parent Game",
+      "color": "#EF4444",
+      "type_display": "Games"
     },
     {
       "start": "2026-03-16T18:45:00-07:00",
@@ -194,8 +194,8 @@
       "start": "2026-03-17T17:30:00-07:00",
       "end": "2026-03-17T18:45:00-07:00",
       "type": "practice",
-      "label": "Hockey - Practice Ice - Preliminary Skate",
-      "notes": "Practice Ice - Preliminary Skate",
+      "label": "Hockey - Practice Ice - Prelim Skate",
+      "notes": "Practice Ice - Prelim Skate",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
     },
@@ -223,15 +223,6 @@
       "type": "practice",
       "label": "Hockey - Practice Ice - FLOOD",
       "notes": "Practice Ice - FLOOD",
-      "color": "#8B5CF6",
-      "type_display": "Practice / Other"
-    },
-    {
-      "start": "2026-03-18T15:45:00-07:00",
-      "end": "2026-03-18T16:45:00-07:00",
-      "type": "practice",
-      "label": "Hockey - PRACTICES - U5 / U7 no flood",
-      "notes": "PRACTICES - U5 / U7 no flood",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
     },
@@ -284,8 +275,8 @@
       "start": "2026-03-18T20:15:00-07:00",
       "end": "2026-03-18T21:30:00-07:00",
       "type": "games",
-      "label": "Hockey - PRACTICES - U18 parent game",
-      "notes": "PRACTICES - U18 parent game",
+      "label": "Hockey - PRACTICES - U18 Parent Game",
+      "notes": "PRACTICES - U18 Parent Game",
       "color": "#EF4444",
       "type_display": "Games"
     },
@@ -320,8 +311,8 @@
       "start": "2026-03-19T17:30:00-07:00",
       "end": "2026-03-19T18:45:00-07:00",
       "type": "practice",
-      "label": "Hockey - Practice Ice - Preliminary Skate",
-      "notes": "Practice Ice - Preliminary Skate",
+      "label": "Hockey - Practice Ice - Prelim Skate",
+      "notes": "Practice Ice - Prelim Skate",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
     },
@@ -378,6 +369,24 @@
       "notes": "Sticks & Pucks - FLOOD",
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "start": "2026-03-20T18:15:00-07:00",
+      "end": "2026-03-20T19:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U15 Banner Skate",
+      "notes": "PRACTICES - U15 Banner Skate",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-03-20T19:15:00-07:00",
+      "end": "2026-03-20T19:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
     },
     {
       "start": "2026-03-21T10:45:00-07:00",

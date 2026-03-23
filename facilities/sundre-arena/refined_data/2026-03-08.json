@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-16T09:37:14.437287Z",
+  "generated_at": "2026-03-23T09:35:13.029251Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena"
@@ -117,6 +117,15 @@
       "notes": "9:30 PM - 11:00 PM",
       "color": "#F59E0B",
       "type_display": "Adult Rec Hockey"
+    },
+    {
+      "type": "other",
+      "start": "2026-03-10T10:00:00",
+      "end": "2026-03-10T10:00:00",
+      "label": "Ice time",
+      "notes": "10:00 AM - 10:00 AM",
+      "color": "#64748B",
+      "type_display": "Other"
     },
     {
       "type": "shinny",
@@ -239,7 +248,7 @@
       "type": "games",
       "start": "2026-03-11T18:30:00",
       "end": "2026-03-11T21:00:00",
-      "label": "SMH- GAME U16 vs Airdrie",
+      "label": "SMH- GAME U15 vs Airdrie",
       "notes": "6:30 PM - 9:00 PM",
       "color": "#EF4444",
       "type_display": "Games"
@@ -317,13 +326,13 @@
       "type_display": "Rentals"
     },
     {
-      "type": "adult_rec",
+      "type": "games",
       "start": "2026-03-13T21:30:00",
       "end": "2026-03-13T23:00:00",
-      "label": "Men's Hockey- Ram Ice",
+      "label": "Men's Hockey- Rampage vs Ice",
       "notes": "9:30 PM - 11:00 PM",
-      "color": "#F59E0B",
-      "type_display": "Adult Rec Hockey"
+      "color": "#EF4444",
+      "type_display": "Games"
     },
     {
       "type": "skating_club",
@@ -336,10 +345,10 @@
     },
     {
       "type": "skating_club",
-      "start": "2026-03-14T09:00:00",
+      "start": "2026-03-14T09:15:00",
       "end": "2026-03-14T10:30:00",
-      "label": "Sundre Skating Club - Off Ice",
-      "notes": "9:00 AM - 10:30 AM",
+      "label": "Sundre Skating Club - Sk8 to Skate",
+      "notes": "9:15 AM - 10:30 AM",
       "color": "#06B6D4",
       "type_display": "Skating Club / Programs"
     },

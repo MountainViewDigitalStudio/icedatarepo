@@ -1,0 +1,367 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-03-23T09:35:13.058638Z",
+  "facility": {
+    "id": "olds-sportsplex",
+    "name": "Olds Sportsplex",
+    "city": "Olds",
+    "address": "5133 52 St, Olds, AB"
+  },
+  "week": {
+    "start_date": "2026-04-05",
+    "end_date": "2026-04-11"
+  },
+  "ice_surfaces": {
+    "main": {
+      "name": "Main Ice Surface",
+      "slots": [
+        {
+          "type": "other",
+          "start": "2026-04-05T09:15:00-07:00",
+          "end": "2026-04-05T11:15:00-07:00",
+          "label": "A",
+          "notes": "Longhorns 2026 - A",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "games",
+          "start": "2026-04-05T11:30:00-07:00",
+          "end": "2026-04-05T13:30:00-07:00",
+          "label": "Longhorns  2016 Exhibition",
+          "notes": "Longhorns 2026 - Longhorns  2016 Exhibition",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-04-05T13:45:00-07:00",
+          "end": "2026-04-05T15:45:00-07:00",
+          "label": "Longhorns  2014 Exhibition Game",
+          "notes": "Longhorns 2026 - Longhorns  2014 Exhibition Game",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "practice",
+          "start": "2026-04-05T16:00:00-07:00",
+          "end": "2026-04-05T17:00:00-07:00",
+          "label": "U11AA Team C",
+          "notes": "OMHA March 2026 - U11AA Team C",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "games",
+          "start": "2026-04-05T17:15:00-07:00",
+          "end": "2026-04-05T18:15:00-07:00",
+          "label": "U11AA A vs B",
+          "notes": "OMHA March 2026 - U11AA A vs B",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-04-05T18:30:00-07:00",
+          "end": "2026-04-05T19:30:00-07:00",
+          "label": "U13AA,  A vs B",
+          "notes": "OMHA March 2026 - U13AA,  A vs B",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "practice",
+          "start": "2026-04-05T19:45:00-07:00",
+          "end": "2026-04-05T20:45:00-07:00",
+          "label": "U13AA Team C",
+          "notes": "OMHA March 2026 - U13AA Team C",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-04-06T06:45:00-07:00",
+          "end": "2026-04-06T07:45:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-04-06T16:30:00-07:00",
+          "end": "2026-04-06T17:30:00-07:00",
+          "label": "2018 Longhorns Powerskating",
+          "notes": "Longhorns 2026 - 2018 Longhorns Powerskating",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-04-06T17:45:00-07:00",
+          "end": "2026-04-06T18:45:00-07:00",
+          "label": "Longhorns  U11 Female",
+          "notes": "Longhorns 2026 - Longhorns  U11 Female",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-04-06T19:00:00-07:00",
+          "end": "2026-04-06T20:00:00-07:00",
+          "label": "Longhorns  2016",
+          "notes": "Longhorns 2026 - Longhorns  2016",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-04-06T20:15:00-07:00",
+          "end": "2026-04-06T21:30:00-07:00",
+          "label": "JET U18 Spring Prep",
+          "notes": "Longhorns 2026 - JET U18 Spring Prep",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-04-07T06:45:00-07:00",
+          "end": "2026-04-07T07:45:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-04-07T16:30:00-07:00",
+          "end": "2026-04-07T17:30:00-07:00",
+          "label": "Longhorns 2018",
+          "notes": "Longhorns 2026 - Longhorns 2018",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-04-07T17:45:00-07:00",
+          "end": "2026-04-07T18:45:00-07:00",
+          "label": "Longhorns 2017",
+          "notes": "Longhorns 2026 - Longhorns 2017",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-04-07T19:00:00-07:00",
+          "end": "2026-04-07T20:00:00-07:00",
+          "label": "Longhorns 2013",
+          "notes": "Longhorns 2026 - Longhorns 2013",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-04-07T20:15:00-07:00",
+          "end": "2026-04-07T21:30:00-07:00",
+          "label": "JET U15 Spring Prep",
+          "notes": "Longhorns 2026 - JET U15 Spring Prep",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-04-07T21:45:00-07:00",
+          "end": "2026-04-07T23:00:00-07:00",
+          "label": "Vercaigne Shinny Feb 2026 PD",
+          "notes": "Vercaigne Shinny Feb 2026 PD",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
+          "type": "other",
+          "start": "2026-04-08T16:00:00-07:00",
+          "end": "2026-04-08T17:00:00-07:00",
+          "label": "April 2026",
+          "notes": "April 2026",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-04-08T17:15:00-07:00",
+          "end": "2026-04-08T18:45:00-07:00",
+          "label": "Longhorns 2014",
+          "notes": "Longhorns 2026 - Longhorns 2014",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-04-08T19:00:00-07:00",
+          "end": "2026-04-08T20:00:00-07:00",
+          "label": "Longhorns 2016",
+          "notes": "Longhorns 2026 - Longhorns 2016",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-04-08T20:15:00-07:00",
+          "end": "2026-04-08T21:45:00-07:00",
+          "label": "Longhorns U15 Female",
+          "notes": "Longhorns 2026 - Longhorns U15 Female",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-04-09T19:00:00-07:00",
+          "end": "2026-04-09T20:00:00-07:00",
+          "label": "Longhorns 2013",
+          "notes": "Longhorns 2026 - Longhorns 2013",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-04-09T20:15:00-07:00",
+          "end": "2026-04-09T21:30:00-07:00",
+          "label": "JET U15 Spring Prep",
+          "notes": "Longhorns 2026 - JET U15 Spring Prep",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "games",
+          "start": "2026-04-10T13:15:00-07:00",
+          "end": "2026-04-10T14:15:00-07:00",
+          "label": "BLACK vs WHITE",
+          "notes": "Prospect Cup 2026 inv - BLACK vs WHITE",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-04-10T14:30:00-07:00",
+          "end": "2026-04-10T15:30:00-07:00",
+          "label": "SKY BLUE vs YELLOW",
+          "notes": "Prospect Cup 2026 inv - SKY BLUE vs YELLOW",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-04-10T15:45:00-07:00",
+          "end": "2026-04-10T16:45:00-07:00",
+          "label": "GREEN vs GREY",
+          "notes": "Prospect Cup 2026 inv - GREEN vs GREY",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-04-10T17:00:00-07:00",
+          "end": "2026-04-10T18:00:00-07:00",
+          "label": "RED vs ROYAL BLUE",
+          "notes": "Prospect Cup 2026 inv - RED vs ROYAL BLUE",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "other",
+          "start": "2026-04-10T18:15:00-07:00",
+          "end": "2026-04-10T19:15:00-07:00",
+          "label": "BLACK/WHITE/SKY BLUE/YELLOW",
+          "notes": "Prospect Cup 2026 inv - BLACK/WHITE/SKY BLUE/YELLOW",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-04-10T19:30:00-07:00",
+          "end": "2026-04-10T20:30:00-07:00",
+          "label": "GREEN/GREY/RED/ROYAL BLUE",
+          "notes": "Prospect Cup 2026 inv - GREEN/GREY/RED/ROYAL BLUE",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "games",
+          "start": "2026-04-11T08:30:00-07:00",
+          "end": "2026-04-11T09:45:00-07:00",
+          "label": "BLACK vs WHITE",
+          "notes": "Prospect Cup 2026 inv - BLACK vs WHITE",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-04-11T10:00:00-07:00",
+          "end": "2026-04-11T11:15:00-07:00",
+          "label": "SKY BLUE vs YELLOW",
+          "notes": "Prospect Cup 2026 inv - SKY BLUE vs YELLOW",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-04-11T11:30:00-07:00",
+          "end": "2026-04-11T12:45:00-07:00",
+          "label": "GREEN vs GREY",
+          "notes": "Prospect Cup 2026 inv - GREEN vs GREY",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-04-11T13:00:00-07:00",
+          "end": "2026-04-11T14:15:00-07:00",
+          "label": "RED vs ROYAL BLUE",
+          "notes": "Prospect Cup 2026 inv - RED vs ROYAL BLUE",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-04-11T15:15:00-07:00",
+          "end": "2026-04-11T16:30:00-07:00",
+          "label": "BLACK vs YELLOW",
+          "notes": "Prospect Cup 2026 inv - BLACK vs YELLOW",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-04-11T16:45:00-07:00",
+          "end": "2026-04-11T18:00:00-07:00",
+          "label": "WHITE vs SKY BLUE",
+          "notes": "Prospect Cup 2026 inv - WHITE vs SKY BLUE",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-04-11T18:15:00-07:00",
+          "end": "2026-04-11T19:30:00-07:00",
+          "label": "GREEN vs RED",
+          "notes": "Prospect Cup 2026 inv - GREEN vs RED",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-04-11T19:45:00-07:00",
+          "end": "2026-04-11T21:00:00-07:00",
+          "label": "GREY vs ROYAL BLUE",
+          "notes": "Prospect Cup 2026 inv - GREY vs ROYAL BLUE",
+          "color": "#EF4444",
+          "type_display": "Games"
+        }
+      ]
+    },
+    "auxiliary": {
+      "name": "Auxiliary Ice Surface",
+      "slots": []
+    }
+  }
+}
