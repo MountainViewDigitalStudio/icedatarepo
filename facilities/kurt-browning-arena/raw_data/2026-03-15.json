@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-03-15",
   "week_end": "2026-03-21",
-  "last_updated": "2026-03-16T02:34:21.193803-07:00",
+  "last_updated": "2026-03-23T02:32:07.045923-07:00",
   "slots": [
     {
       "start": "2026-03-15T09:45:00-07:00",
@@ -80,8 +80,8 @@
       "start": "2026-03-16T15:45:00-07:00",
       "end": "2026-03-16T16:45:00-07:00",
       "type": "practice",
-      "label": "Hockey - PRACTICES - U5/U7 No flood",
-      "notes": "PRACTICES - U5/U7 No flood"
+      "label": "Hockey - PRACTICES - U5/U7 No flood - Parent Game",
+      "notes": "PRACTICES - U5/U7 No flood - Parent Game"
     },
     {
       "start": "2026-03-16T16:45:00-07:00",
@@ -94,8 +94,8 @@
       "start": "2026-03-16T17:45:00-07:00",
       "end": "2026-03-16T18:45:00-07:00",
       "type": "practice",
-      "label": "Hockey - PRACTICES - U11 C",
-      "notes": "PRACTICES - U11 C"
+      "label": "Hockey - PRACTICES - U11 C - Parent Game",
+      "notes": "PRACTICES - U11 C - Parent Game"
     },
     {
       "start": "2026-03-16T18:45:00-07:00",
@@ -150,8 +150,8 @@
       "start": "2026-03-17T17:30:00-07:00",
       "end": "2026-03-17T18:45:00-07:00",
       "type": "practice",
-      "label": "Hockey - Practice Ice - Preliminary Skate",
-      "notes": "Practice Ice - Preliminary Skate"
+      "label": "Hockey - Practice Ice - Prelim Skate",
+      "notes": "Practice Ice - Prelim Skate"
     },
     {
       "start": "2026-03-17T18:45:00-07:00",
@@ -173,13 +173,6 @@
       "type": "practice",
       "label": "Hockey - Practice Ice - FLOOD",
       "notes": "Practice Ice - FLOOD"
-    },
-    {
-      "start": "2026-03-18T15:45:00-07:00",
-      "end": "2026-03-18T16:45:00-07:00",
-      "type": "practice",
-      "label": "Hockey - PRACTICES - U5 / U7 no flood",
-      "notes": "PRACTICES - U5 / U7 no flood"
     },
     {
       "start": "2026-03-18T16:45:00-07:00",
@@ -220,8 +213,8 @@
       "start": "2026-03-18T20:15:00-07:00",
       "end": "2026-03-18T21:30:00-07:00",
       "type": "practice",
-      "label": "Hockey - PRACTICES - U18 parent game",
-      "notes": "PRACTICES - U18 parent game"
+      "label": "Hockey - PRACTICES - U18 Parent Game",
+      "notes": "PRACTICES - U18 Parent Game"
     },
     {
       "start": "2026-03-18T21:30:00-07:00",
@@ -248,8 +241,8 @@
       "start": "2026-03-19T17:30:00-07:00",
       "end": "2026-03-19T18:45:00-07:00",
       "type": "practice",
-      "label": "Hockey - Practice Ice - Preliminary Skate",
-      "notes": "Practice Ice - Preliminary Skate"
+      "label": "Hockey - Practice Ice - Prelim Skate",
+      "notes": "Practice Ice - Prelim Skate"
     },
     {
       "start": "2026-03-19T18:45:00-07:00",
@@ -292,6 +285,20 @@
       "type": "maintenance",
       "label": "Maintenance",
       "notes": "Sticks & Pucks - FLOOD"
+    },
+    {
+      "start": "2026-03-20T18:15:00-07:00",
+      "end": "2026-03-20T19:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - U15 Banner Skate",
+      "notes": "PRACTICES - U15 Banner Skate"
+    },
+    {
+      "start": "2026-03-20T19:15:00-07:00",
+      "end": "2026-03-20T19:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - PRACTICES - Flood",
+      "notes": "PRACTICES - Flood"
     },
     {
       "start": "2026-03-21T10:45:00-07:00",

@@ -4,14 +4,14 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-03-29",
   "week_end": "2026-04-04",
-  "last_updated": "2026-03-16T02:34:21.655701-07:00",
+  "last_updated": "2026-03-23T02:32:07.873840-07:00",
   "slots": [
     {
       "start": "2026-03-31T14:00:00-07:00",
       "end": "2026-03-31T20:30:00-07:00",
       "type": "other",
-      "label": "Open House",
-      "notes": "Open House"
+      "label": "Open House - West Country ASP's OPEN HOUSE",
+      "notes": "Open House - West Country ASP's OPEN HOUSE"
     }
   ]
 }

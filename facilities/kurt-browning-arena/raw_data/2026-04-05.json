@@ -1,0 +1,31 @@
+{
+  "facility_name": "Kurt Browning Arena",
+  "facility_id": "kurt-browning-arena",
+  "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
+  "week_start": "2026-04-05",
+  "week_end": "2026-04-11",
+  "last_updated": "2026-03-23T02:32:08.077387-07:00",
+  "slots": [
+    {
+      "start": "2026-04-08T07:00:00-07:00",
+      "end": "2026-04-08T09:00:00-07:00",
+      "type": "other",
+      "label": "Monthly Meetings-Taqa",
+      "notes": "Monthly Meetings-Taqa"
+    },
+    {
+      "start": "2026-04-10T17:00:00-07:00",
+      "end": "2026-04-10T20:00:00-07:00",
+      "type": "other",
+      "label": "Colts Awards",
+      "notes": "Colts Awards"
+    },
+    {
+      "start": "2026-04-10T17:00:00-07:00",
+      "end": "2026-04-10T20:00:00-07:00",
+      "type": "other",
+      "label": "Colts Awards",
+      "notes": "Colts Awards"
+    }
+  ]
+}

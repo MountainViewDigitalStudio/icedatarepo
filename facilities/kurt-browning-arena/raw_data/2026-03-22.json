@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-03-22",
   "week_end": "2026-03-28",
-  "last_updated": "2026-03-16T02:34:21.331798-07:00",
+  "last_updated": "2026-03-23T02:32:07.440802-07:00",
   "slots": [
     {
       "start": "2026-03-22T09:00:00-07:00",
@@ -35,20 +35,6 @@
       "notes": "Public Skating - FLOOD"
     },
     {
-      "start": "2026-03-23T17:45:00-07:00",
-      "end": "2026-03-23T18:45:00-07:00",
-      "type": "rental",
-      "label": "Ice Rental",
-      "notes": "Private skate - Mcauley Skate"
-    },
-    {
-      "start": "2026-03-23T18:45:00-07:00",
-      "end": "2026-03-23T19:00:00-07:00",
-      "type": "rental",
-      "label": "Ice Rental",
-      "notes": "Private skate - Flood"
-    },
-    {
       "start": "2026-03-23T19:00:00-07:00",
       "end": "2026-03-23T20:00:00-07:00",
       "type": "practice",
@@ -58,20 +44,6 @@
     {
       "start": "2026-03-23T20:00:00-07:00",
       "end": "2026-03-23T20:15:00-07:00",
-      "type": "practice",
-      "label": "Hockey - PRACTICES - Flood",
-      "notes": "PRACTICES - Flood"
-    },
-    {
-      "start": "2026-03-23T20:15:00-07:00",
-      "end": "2026-03-23T21:15:00-07:00",
-      "type": "practice",
-      "label": "Hockey - PRACTICES - U15 Parent Game",
-      "notes": "PRACTICES - U15 Parent Game"
-    },
-    {
-      "start": "2026-03-23T21:15:00-07:00",
-      "end": "2026-03-23T21:30:00-07:00",
       "type": "practice",
       "label": "Hockey - PRACTICES - Flood",
       "notes": "PRACTICES - Flood"
