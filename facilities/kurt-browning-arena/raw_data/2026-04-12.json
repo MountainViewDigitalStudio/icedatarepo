@@ -1,0 +1,31 @@
+{
+  "facility_name": "Kurt Browning Arena",
+  "facility_id": "kurt-browning-arena",
+  "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
+  "week_start": "2026-04-12",
+  "week_end": "2026-04-18",
+  "last_updated": "2026-03-30T02:42:34.501935-07:00",
+  "slots": [
+    {
+      "start": "2026-04-13T17:00:00-07:00",
+      "end": "2026-04-13T20:00:00-07:00",
+      "type": "other",
+      "label": "Monthly Meeting Ag Board 2026",
+      "notes": "Monthly Meeting Ag Board 2026"
+    },
+    {
+      "start": "2026-04-15T09:00:00-07:00",
+      "end": "2026-04-15T21:00:00-07:00",
+      "type": "other",
+      "label": "Volunteer Appreciation",
+      "notes": "Volunteer Appreciation"
+    },
+    {
+      "start": "2026-04-15T09:00:00-07:00",
+      "end": "2026-04-15T21:00:00-07:00",
+      "type": "other",
+      "label": "Volunteer Appreciation",
+      "notes": "Volunteer Appreciation"
+    }
+  ]
+}
