@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-23T09:35:13.057415Z",
+  "generated_at": "2026-03-30T09:46:02.472431Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -142,15 +142,6 @@
           "type_display": "Practice / Other"
         },
         {
-          "type": "other",
-          "start": "2026-03-25T06:30:00-07:00",
-          "end": "2026-03-25T07:30:00-07:00",
-          "label": "HC - March 2026",
-          "notes": "HC - March 2026",
-          "color": "#64748B",
-          "type_display": "Other"
-        },
-        {
           "type": "practice",
           "start": "2026-03-25T16:00:00-07:00",
           "end": "2026-03-25T17:00:00-07:00",
@@ -167,6 +158,15 @@
           "notes": "OMHA March 2026 - U18A",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-03-26T15:15:00-07:00",
+          "end": "2026-03-26T16:00:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "practice",
@@ -199,8 +199,8 @@
           "type": "games",
           "start": "2026-03-27T12:00:00-07:00",
           "end": "2026-03-27T14:15:00-07:00",
-          "label": "Olds vs APHL",
-          "notes": "U15 Female Provincials 2026 inv - Olds vs APHL",
+          "label": "Olds vs Sexsmith",
+          "notes": "U15 Female Provincials 2026 inv - Olds vs Sexsmith",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -208,8 +208,8 @@
           "type": "games",
           "start": "2026-03-27T14:30:00-07:00",
           "end": "2026-03-27T16:45:00-07:00",
-          "label": "ECAFHL vs WC1",
-          "notes": "U15 Female Provincials 2026 inv - ECAFHL vs WC1",
+          "label": "Lakeland vs Edmonton",
+          "notes": "U15 Female Provincials 2026 inv - Lakeland vs Edmonton",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -235,8 +235,8 @@
           "type": "games",
           "start": "2026-03-28T09:00:00-07:00",
           "end": "2026-03-28T11:15:00-07:00",
-          "label": "Olds vs ECAFHL",
-          "notes": "U15 Female Provincials 2026 inv - Olds vs ECAFHL",
+          "label": "Olds vs Lakeland",
+          "notes": "U15 Female Provincials 2026 inv - Olds vs Lakeland",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -244,8 +244,8 @@
           "type": "games",
           "start": "2026-03-28T11:30:00-07:00",
           "end": "2026-03-28T13:45:00-07:00",
-          "label": "GHC vs RMFHL",
-          "notes": "U15 Female Provincials 2026 inv - GHC vs RMFHL",
+          "label": "GHC vs 3 C's",
+          "notes": "U15 Female Provincials 2026 inv - GHC vs 3 C's",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -262,8 +262,8 @@
           "type": "games",
           "start": "2026-03-28T15:30:00-07:00",
           "end": "2026-03-28T17:45:00-07:00",
-          "label": "APHL vs ECAFHL",
-          "notes": "U15 Female Provincials 2026 inv - APHL vs ECAFHL",
+          "label": "Sexsmith vs Lakeland",
+          "notes": "U15 Female Provincials 2026 inv - Sexsmith vs Lakeland",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -271,8 +271,8 @@
           "type": "games",
           "start": "2026-03-28T18:00:00-07:00",
           "end": "2026-03-28T20:15:00-07:00",
-          "label": "WC2 vs GHC",
-          "notes": "U15 Female Provincials 2026 inv - WC2 vs GHC",
+          "label": "Beaverlodge vs GHC",
+          "notes": "U15 Female Provincials 2026 inv - Beaverlodge vs GHC",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -330,8 +330,8 @@
           "type": "other",
           "start": "2026-03-22T15:45:00-07:00",
           "end": "2026-03-22T16:45:00-07:00",
-          "label": "Moreau Hockey",
-          "notes": "Moreau Hockey",
+          "label": "Moreau Hockey PD",
+          "notes": "Moreau Hockey PD",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -379,6 +379,15 @@
           "notes": "Public Skating",
           "color": "#10B981",
           "type_display": "Public / Family"
+        },
+        {
+          "type": "other",
+          "start": "2026-03-24T15:15:00-07:00",
+          "end": "2026-03-24T16:00:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "other",
@@ -483,8 +492,8 @@
           "type": "games",
           "start": "2026-03-27T12:15:00-07:00",
           "end": "2026-03-27T14:30:00-07:00",
-          "label": "GHC vs EFHL",
-          "notes": "U15 Female Provincials 2026 inv - GHC vs EFHL",
+          "label": "GHC vs Fort Saskatchewan",
+          "notes": "U15 Female Provincials 2026 inv - GHC vs Fort Saskatchewan",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -492,8 +501,8 @@
           "type": "games",
           "start": "2026-03-27T14:45:00-07:00",
           "end": "2026-03-27T17:00:00-07:00",
-          "label": "RMFHLvs WC2",
-          "notes": "U15 Female Provincials 2026 inv - RMFHLvs WC2",
+          "label": "C's vs Beaverlodge",
+          "notes": "U15 Female Provincials 2026 inv - C's vs Beaverlodge",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -519,8 +528,8 @@
           "type": "games",
           "start": "2026-03-28T09:15:00-07:00",
           "end": "2026-03-28T11:30:00-07:00",
-          "label": "APHL vs WC1",
-          "notes": "U15 Female Provincials 2026 inv - APHL vs WC1",
+          "label": "Sexsmith vs Edmonton",
+          "notes": "U15 Female Provincials 2026 inv - Sexsmith vs Edmonton",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -528,17 +537,26 @@
           "type": "games",
           "start": "2026-03-28T11:45:00-07:00",
           "end": "2026-03-28T14:00:00-07:00",
-          "label": "EFHL vs WC2",
-          "notes": "U15 Female Provincials 2026 inv - EFHL vs WC2",
+          "label": "Fort Saskatchewan vs Beaverlodge",
+          "notes": "U15 Female Provincials 2026 inv - Fort Saskatchewan vs Beaverlodge",
           "color": "#EF4444",
           "type_display": "Games"
+        },
+        {
+          "type": "other",
+          "start": "2026-03-28T14:15:00-07:00",
+          "end": "2026-03-28T15:30:00-07:00",
+          "label": "Pears- PD",
+          "notes": "Pears- PD",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "games",
           "start": "2026-03-28T15:45:00-07:00",
           "end": "2026-03-28T18:00:00-07:00",
-          "label": "WC1 vs Olds",
-          "notes": "U15 Female Provincials 2026 inv - WC1 vs Olds",
+          "label": "Edmonton vs Olds",
+          "notes": "U15 Female Provincials 2026 inv - Edmonton vs Olds",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -546,8 +564,8 @@
           "type": "games",
           "start": "2026-03-28T18:15:00-07:00",
           "end": "2026-03-28T20:30:00-07:00",
-          "label": "RMFHL vs EFHL",
-          "notes": "U15 Female Provincials 2026 inv - RMFHL vs EFHL",
+          "label": "3 C's vs Fort Saskatchewan",
+          "notes": "U15 Female Provincials 2026 inv - 3 C's vs Fort Saskatchewan",
           "color": "#EF4444",
           "type_display": "Games"
         }

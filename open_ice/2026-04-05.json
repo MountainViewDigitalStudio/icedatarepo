@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-23T09:35:13.143297Z",
+  "generated_at": "2026-03-30T09:46:02.553487Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
@@ -16,10 +16,82 @@
       "facility_name": "Olds Sportsplex",
       "city": null,
       "type": "shinny",
+      "start": "2026-04-06T12:00:00-07:00",
+      "end": "2026-04-06T13:00:00-07:00",
+      "label": "Sticks & Pucks - $5 fee",
+      "notes": "Sticks & Pucks - $5 fee",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-04-07T12:00:00-07:00",
+      "end": "2026-04-07T13:00:00-07:00",
+      "label": "Public Skating - No Fee",
+      "notes": "Public Skating - No Fee",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
       "start": "2026-04-07T21:45:00-07:00",
       "end": "2026-04-07T23:00:00-07:00",
       "label": "Vercaigne Shinny Feb 2026 PD",
       "notes": "Vercaigne Shinny Feb 2026 PD",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-04-08T10:30:00-07:00",
+      "end": "2026-04-08T11:30:00-07:00",
+      "label": "Public Skating - No Fee",
+      "notes": "Public Skating - No Fee",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-04-08T12:00:00-07:00",
+      "end": "2026-04-08T13:00:00-07:00",
+      "label": "Sticks & Pucks - $5 fee",
+      "notes": "Sticks & Pucks - $5 fee",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-04-09T12:00:00-07:00",
+      "end": "2026-04-09T13:00:00-07:00",
+      "label": "Public Skating - No Fee",
+      "notes": "Public Skating - No Fee",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-04-10T12:00:00-07:00",
+      "end": "2026-04-10T13:00:00-07:00",
+      "label": "Sticks & Pucks - $5 fee",
+      "notes": "Sticks & Pucks - $5 fee",
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
     }

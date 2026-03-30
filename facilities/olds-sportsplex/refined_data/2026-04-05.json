@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-23T09:35:13.058638Z",
+  "generated_at": "2026-03-30T09:46:02.473772Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -88,6 +88,15 @@
           "type_display": "Other"
         },
         {
+          "type": "shinny",
+          "start": "2026-04-06T12:00:00-07:00",
+          "end": "2026-04-06T13:00:00-07:00",
+          "label": "Sticks & Pucks - $5 fee",
+          "notes": "Sticks & Pucks - $5 fee",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
           "type": "other",
           "start": "2026-04-06T16:30:00-07:00",
           "end": "2026-04-06T17:30:00-07:00",
@@ -131,6 +140,15 @@
           "notes": "Norrie",
           "color": "#64748B",
           "type_display": "Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-04-07T12:00:00-07:00",
+          "end": "2026-04-07T13:00:00-07:00",
+          "label": "Public Skating - No Fee",
+          "notes": "Public Skating - No Fee",
+          "color": "#10B981",
+          "type_display": "Public / Family"
         },
         {
           "type": "other",
@@ -178,6 +196,24 @@
           "type_display": "Shinny / Stick & Puck"
         },
         {
+          "type": "public",
+          "start": "2026-04-08T10:30:00-07:00",
+          "end": "2026-04-08T11:30:00-07:00",
+          "label": "Public Skating - No Fee",
+          "notes": "Public Skating - No Fee",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-04-08T12:00:00-07:00",
+          "end": "2026-04-08T13:00:00-07:00",
+          "label": "Sticks & Pucks - $5 fee",
+          "notes": "Sticks & Pucks - $5 fee",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
           "type": "other",
           "start": "2026-04-08T16:00:00-07:00",
           "end": "2026-04-08T17:00:00-07:00",
@@ -214,6 +250,15 @@
           "type_display": "Practice / Other"
         },
         {
+          "type": "public",
+          "start": "2026-04-09T12:00:00-07:00",
+          "end": "2026-04-09T13:00:00-07:00",
+          "label": "Public Skating - No Fee",
+          "notes": "Public Skating - No Fee",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
           "type": "other",
           "start": "2026-04-09T19:00:00-07:00",
           "end": "2026-04-09T20:00:00-07:00",
@@ -230,6 +275,15 @@
           "notes": "Longhorns 2026 - JET U15 Spring Prep",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-04-10T12:00:00-07:00",
+          "end": "2026-04-10T13:00:00-07:00",
+          "label": "Sticks & Pucks - $5 fee",
+          "notes": "Sticks & Pucks - $5 fee",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
         },
         {
           "type": "games",

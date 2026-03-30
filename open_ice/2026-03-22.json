@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-23T09:35:13.142971Z",
+  "generated_at": "2026-03-30T09:46:02.553044Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
@@ -45,7 +45,8 @@
       "label": "Public Skating",
       "notes": "Public Skating",
       "color": "#10B981",
-      "type_display": "Public / Family"
+      "type_display": "Public / Family",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     },
     {
       "facility_id": "kurt-browning-arena",
@@ -57,7 +58,8 @@
       "label": "Public Skating",
       "notes": "Public Skating - FLOOD",
       "color": "#10B981",
-      "type_display": "Public / Family"
+      "type_display": "Public / Family",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     },
     {
       "facility_id": "olds-sportsplex",
@@ -130,6 +132,32 @@
       "notes": "Public Skating",
       "color": "#10B981",
       "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "public",
+      "start": "2026-03-26T17:00:00-07:00",
+      "end": "2026-03-26T18:00:00-07:00",
+      "label": "Ice Rental",
+      "notes": "Private Ice Rental - Family Skate",
+      "color": "#10B981",
+      "type_display": "Public / Family",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "public",
+      "start": "2026-03-26T18:00:00-07:00",
+      "end": "2026-03-26T18:15:00-07:00",
+      "label": "Ice Rental",
+      "notes": "Private Ice Rental - Family Skate",
+      "color": "#10B981",
+      "type_display": "Public / Family",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     }
   ]
 }

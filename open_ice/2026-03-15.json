@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-23T09:35:13.142700Z",
+  "generated_at": "2026-03-30T09:46:02.552728Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
@@ -33,7 +33,8 @@
       "label": "Public Skating",
       "notes": "Public Skating",
       "color": "#10B981",
-      "type_display": "Public / Family"
+      "type_display": "Public / Family",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     },
     {
       "facility_id": "kurt-browning-arena",
@@ -45,7 +46,8 @@
       "label": "Public Skating",
       "notes": "Public Skating - FLOOD",
       "color": "#10B981",
-      "type_display": "Public / Family"
+      "type_display": "Public / Family",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     },
     {
       "facility_id": "olds-sportsplex",
@@ -189,7 +191,8 @@
       "label": "Sticks & Pucks",
       "notes": "Sticks & Pucks",
       "color": "#3B82F6",
-      "type_display": "Shinny / Stick & Puck"
+      "type_display": "Shinny / Stick & Puck",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     },
     {
       "facility_id": "kurt-browning-arena",
@@ -201,7 +204,8 @@
       "label": "Maintenance",
       "notes": "Sticks & Pucks - FLOOD",
       "color": "#3B82F6",
-      "type_display": "Shinny / Stick & Puck"
+      "type_display": "Shinny / Stick & Puck",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     },
     {
       "facility_id": "sundre-arena",

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-23T09:35:13.029876Z",
+  "generated_at": "2026-03-30T09:46:02.444264Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena"
@@ -221,7 +221,7 @@
       "type": "games",
       "start": "2026-03-19T20:00:00",
       "end": "2026-03-19T21:30:00",
-      "label": "Men's Hockey - Rhinos vs Caroline Wranglers",
+      "label": "Men's Hockey- Rhinos vs Caroline Wranglers",
       "notes": "8:00 PM - 9:30 PM",
       "color": "#EF4444",
       "type_display": "Games"

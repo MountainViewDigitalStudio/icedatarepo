@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-23T09:35:13.058116Z",
+  "generated_at": "2026-03-30T09:46:02.473163Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -52,6 +52,33 @@
           "type_display": "Practice / Other"
         },
         {
+          "type": "other",
+          "start": "2026-03-30T06:45:00-07:00",
+          "end": "2026-03-30T07:45:00-07:00",
+          "label": "Klausen",
+          "notes": "Norrie, Jan, Feb, March 2026 PD - Klausen",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-03-30T12:00:00-07:00",
+          "end": "2026-03-30T13:00:00-07:00",
+          "label": "Sticks & Pucks - $5 fee",
+          "notes": "Sticks & Pucks - $5 fee",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
+          "type": "practice",
+          "start": "2026-03-30T16:00:00-07:00",
+          "end": "2026-03-30T17:00:00-07:00",
+          "label": "Broncos Practice Ice",
+          "notes": "Broncos Practice Ice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
           "type": "practice",
           "start": "2026-03-30T17:15:00-07:00",
           "end": "2026-03-30T18:15:00-07:00",
@@ -80,8 +107,8 @@
         },
         {
           "type": "shinny",
-          "start": "2026-03-30T21:45:00-07:00",
-          "end": "2026-03-30T23:00:00-07:00",
+          "start": "2026-03-30T21:00:00-07:00",
+          "end": "2026-03-30T22:15:00-07:00",
           "label": "Vercaigne Shinny March 2026 PD",
           "notes": "Vercaigne Shinny March 2026 PD",
           "color": "#3B82F6",
@@ -89,12 +116,21 @@
         },
         {
           "type": "other",
-          "start": "2026-03-31T06:45:00-07:00",
-          "end": "2026-03-31T07:45:00-07:00",
-          "label": "Klausen",
-          "notes": "Norrie, Jan, Feb, March 2026 PD - Klausen",
+          "start": "2026-03-31T06:30:00-07:00",
+          "end": "2026-03-31T07:30:00-07:00",
+          "label": "HC - March 2026 PD",
+          "notes": "HC - March 2026 PD",
           "color": "#64748B",
           "type_display": "Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-03-31T12:00:00-07:00",
+          "end": "2026-03-31T13:00:00-07:00",
+          "label": "Public Skating - No Fee",
+          "notes": "Public Skating - No Fee",
+          "color": "#10B981",
+          "type_display": "Public / Family"
         },
         {
           "type": "practice",
@@ -143,6 +179,33 @@
         },
         {
           "type": "practice",
+          "start": "2026-03-31T21:00:00-07:00",
+          "end": "2026-03-31T22:00:00-07:00",
+          "label": "Broncos Practice Ice",
+          "notes": "Broncos Practice Ice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-04-01T10:30:00-07:00",
+          "end": "2026-04-01T11:30:00-07:00",
+          "label": "Public Skating - No Fee",
+          "notes": "Public Skating - No Fee",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-04-01T12:00:00-07:00",
+          "end": "2026-04-01T13:00:00-07:00",
+          "label": "Sticks & Pucks - $5 fee",
+          "notes": "Sticks & Pucks - $5 fee",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
+          "type": "practice",
           "start": "2026-04-01T16:30:00-07:00",
           "end": "2026-04-01T17:30:00-07:00",
           "label": "Longhorns U11 Female",
@@ -176,6 +239,15 @@
           "notes": "Norrie",
           "color": "#64748B",
           "type_display": "Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-04-02T12:00:00-07:00",
+          "end": "2026-04-02T13:00:00-07:00",
+          "label": "Public Skating - No Fee",
+          "notes": "Public Skating - No Fee",
+          "color": "#10B981",
+          "type_display": "Public / Family"
         },
         {
           "type": "other",
@@ -214,6 +286,15 @@
           "type_display": "Practice / Other"
         },
         {
+          "type": "games",
+          "start": "2026-04-02T21:45:00-07:00",
+          "end": "2026-04-02T23:15:00-07:00",
+          "label": "SIR Game",
+          "notes": "SIR Game",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
           "type": "other",
           "start": "2026-04-03T06:45:00-07:00",
           "end": "2026-04-03T07:45:00-07:00",
@@ -221,6 +302,15 @@
           "notes": "Norrie",
           "color": "#64748B",
           "type_display": "Other"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-04-03T12:00:00-07:00",
+          "end": "2026-04-03T13:00:00-07:00",
+          "label": "Sticks & Pucks - $5 fee",
+          "notes": "Sticks & Pucks - $5 fee",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
         },
         {
           "type": "other",
