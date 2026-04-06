@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-30T09:46:02.473772Z",
+  "generated_at": "2026-04-06T09:42:11.838811Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -16,13 +16,13 @@
       "name": "Main Ice Surface",
       "slots": [
         {
-          "type": "other",
+          "type": "shinny",
           "start": "2026-04-05T09:15:00-07:00",
           "end": "2026-04-05T11:15:00-07:00",
-          "label": "A",
-          "notes": "Longhorns 2026 - A",
-          "color": "#64748B",
-          "type_display": "Other"
+          "label": "U11 Female Longhorns vs Puck Adventures- Wolverines",
+          "notes": "Longhorns 2026 - U11 Female Longhorns vs Puck Adventures- Wolverines",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
         },
         {
           "type": "games",
@@ -79,15 +79,6 @@
           "type_display": "Practice / Other"
         },
         {
-          "type": "other",
-          "start": "2026-04-06T06:45:00-07:00",
-          "end": "2026-04-06T07:45:00-07:00",
-          "label": "Norrie",
-          "notes": "Norrie",
-          "color": "#64748B",
-          "type_display": "Other"
-        },
-        {
           "type": "shinny",
           "start": "2026-04-06T12:00:00-07:00",
           "end": "2026-04-06T13:00:00-07:00",
@@ -131,15 +122,6 @@
           "notes": "Longhorns 2026 - JET U18 Spring Prep",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
-        },
-        {
-          "type": "other",
-          "start": "2026-04-07T06:45:00-07:00",
-          "end": "2026-04-07T07:45:00-07:00",
-          "label": "Norrie",
-          "notes": "Norrie",
-          "color": "#64748B",
-          "type_display": "Other"
         },
         {
           "type": "public",
@@ -275,6 +257,15 @@
           "notes": "Longhorns 2026 - JET U15 Spring Prep",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-04-10T10:30:00-07:00",
+          "end": "2026-04-10T11:30:00-07:00",
+          "label": "Fleming PD",
+          "notes": "Fleming PD",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "shinny",
