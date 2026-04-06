@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-30T09:42:47.831543Z",
+  "generated_at": "2026-04-06T09:39:27.857746Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -49,8 +49,8 @@
           "type": "game",
           "start": "2026-04-12T15:30:00-07:00",
           "end": "2026-04-12T17:30:00-07:00",
-          "label": "Longhorns 2014 Game",
-          "notes": "Longhorns 2026 - Longhorns 2014 Game"
+          "label": "2014 Longhorns vs 2014 Attack",
+          "notes": "Longhorns 2026 - 2014 Longhorns vs 2014 Attack"
         },
         {
           "type": "practice",
@@ -245,8 +245,8 @@
           "type": "game",
           "start": "2026-04-18T09:15:00-07:00",
           "end": "2026-04-18T11:15:00-07:00",
-          "label": "Longhorns  2016  Game",
-          "notes": "Longhorns 2026 - Longhorns  2016  Game"
+          "label": "2016 Longhorns vs Okotoks Steele",
+          "notes": "Longhorns 2026 - 2016 Longhorns vs Okotoks Steele"
         },
         {
           "type": "game",
@@ -275,6 +275,13 @@
           "end": "2026-04-18T20:15:00-07:00",
           "label": "Longhorns  2014 Game",
           "notes": "Longhorns 2026 - Longhorns  2014 Game"
+        },
+        {
+          "type": "game",
+          "start": "2026-04-18T21:00:00-07:00",
+          "end": "2026-04-18T23:00:00-07:00",
+          "label": "Griffiths- Hockey Game",
+          "notes": "Griffiths- Hockey Game"
         }
       ]
     },
