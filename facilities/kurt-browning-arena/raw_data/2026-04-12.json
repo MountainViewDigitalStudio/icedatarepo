@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-04-12",
   "week_end": "2026-04-18",
-  "last_updated": "2026-03-30T02:42:34.501935-07:00",
+  "last_updated": "2026-04-06T02:39:09.231550-07:00",
   "slots": [
     {
       "start": "2026-04-13T17:00:00-07:00",
@@ -26,6 +26,13 @@
       "type": "other",
       "label": "Volunteer Appreciation",
       "notes": "Volunteer Appreciation"
+    },
+    {
+      "start": "2026-04-15T11:00:00-07:00",
+      "end": "2026-04-15T12:00:00-07:00",
+      "type": "other",
+      "label": "Meeting - Kurt Room - Client Meeting",
+      "notes": "Meeting - Kurt Room - Client Meeting"
     }
   ]
 }

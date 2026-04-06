@@ -1,0 +1,17 @@
+{
+  "facility_name": "Kurt Browning Arena",
+  "facility_id": "kurt-browning-arena",
+  "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
+  "week_start": "2026-04-19",
+  "week_end": "2026-04-25",
+  "last_updated": "2026-04-06T02:39:09.711557-07:00",
+  "slots": [
+    {
+      "start": "2026-04-23T17:00:00-07:00",
+      "end": "2026-04-23T20:00:00-07:00",
+      "type": "other",
+      "label": "Awards Night",
+      "notes": "Awards Night"
+    }
+  ]
+}
