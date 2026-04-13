@@ -1,0 +1,24 @@
+{
+  "facility_name": "Kurt Browning Arena",
+  "facility_id": "kurt-browning-arena",
+  "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
+  "week_start": "2026-04-26",
+  "week_end": "2026-05-02",
+  "last_updated": "2026-04-13T02:46:58.227375-07:00",
+  "slots": [
+    {
+      "start": "2026-04-28T19:00:00-07:00",
+      "end": "2026-04-28T21:00:00-07:00",
+      "type": "other",
+      "label": "Caroline Ladies Ball - Ballin Beavers - Caroline Ladies Ball - Ballin Beavers",
+      "notes": "Caroline Ladies Ball - Ballin Beavers - Caroline Ladies Ball - Ballin Beavers"
+    },
+    {
+      "start": "2026-04-30T19:00:00-07:00",
+      "end": "2026-04-30T21:00:00-07:00",
+      "type": "other",
+      "label": "Caroline Dance West Meeting",
+      "notes": "Caroline Dance West Meeting"
+    }
+  ]
+}
