@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-06T09:39:27.857746Z",
+  "generated_at": "2026-04-13T09:47:15.044454Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -205,6 +205,13 @@
           "end": "2026-04-16T21:30:00-07:00",
           "label": "JET U15 Spring Prep",
           "notes": "Longhorns 2026 - JET U15 Spring Prep"
+        },
+        {
+          "type": "game",
+          "start": "2026-04-16T21:45:00-07:00",
+          "end": "2026-04-16T23:15:00-07:00",
+          "label": "SIR Game",
+          "notes": "SIR Game"
         },
         {
           "type": "practice",
