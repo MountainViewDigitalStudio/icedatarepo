@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-06T09:42:11.838811Z",
+  "generated_at": "2026-04-13T09:50:30.356168Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -134,6 +134,15 @@
         },
         {
           "type": "other",
+          "start": "2026-04-07T15:15:00-07:00",
+          "end": "2026-04-07T16:00:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
           "start": "2026-04-07T16:30:00-07:00",
           "end": "2026-04-07T17:30:00-07:00",
           "label": "Longhorns 2018",
@@ -257,6 +266,15 @@
           "notes": "Longhorns 2026 - JET U15 Spring Prep",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
+        },
+        {
+          "type": "games",
+          "start": "2026-04-09T21:45:00-07:00",
+          "end": "2026-04-09T23:15:00-07:00",
+          "label": "SIR Game",
+          "notes": "SIR Game",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "other",
