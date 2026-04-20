@@ -4,8 +4,15 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-04-26",
   "week_end": "2026-05-02",
-  "last_updated": "2026-04-13T02:46:58.227375-07:00",
+  "last_updated": "2026-04-20T02:45:13.771942-07:00",
   "slots": [
+    {
+      "start": "2026-04-01T09:00:00-07:00",
+      "end": "2026-04-01T21:00:00-07:00",
+      "type": "other",
+      "label": "Celebration of Life for Steve Molnar",
+      "notes": "Celebration of Life for Steve Molnar"
+    },
     {
       "start": "2026-04-28T19:00:00-07:00",
       "end": "2026-04-28T21:00:00-07:00",

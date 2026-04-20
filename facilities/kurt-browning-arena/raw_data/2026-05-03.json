@@ -1,0 +1,38 @@
+{
+  "facility_name": "Kurt Browning Arena",
+  "facility_id": "kurt-browning-arena",
+  "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
+  "week_start": "2026-05-03",
+  "week_end": "2026-05-09",
+  "last_updated": "2026-04-20T02:45:14.350317-07:00",
+  "slots": [
+    {
+      "start": "2026-05-05T19:00:00-07:00",
+      "end": "2026-05-05T21:00:00-07:00",
+      "type": "other",
+      "label": "Caroline Ladies Ball - Ballin Beavers - Caroline Ladies Ball - Ballin Beavers",
+      "notes": "Caroline Ladies Ball - Ballin Beavers - Caroline Ladies Ball - Ballin Beavers"
+    },
+    {
+      "start": "2026-05-05T19:00:00-07:00",
+      "end": "2026-05-05T21:00:00-07:00",
+      "type": "other",
+      "label": "Caroline Ladies Ball - Fuglies - Ladies Ball - Fuglies",
+      "notes": "Caroline Ladies Ball - Fuglies - Ladies Ball - Fuglies"
+    },
+    {
+      "start": "2026-05-07T17:00:00-07:00",
+      "end": "2026-05-07T21:00:00-07:00",
+      "type": "other",
+      "label": "Workshop",
+      "notes": "Workshop"
+    },
+    {
+      "start": "2026-05-08T10:00:00-07:00",
+      "end": "2026-05-08T20:00:00-07:00",
+      "type": "other",
+      "label": "Farmers Market",
+      "notes": "Farmers Market"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-04-12",
   "week_end": "2026-04-18",
-  "last_updated": "2026-04-13T02:46:57.481774-07:00",
+  "last_updated": "2026-04-20T02:45:13.029012-07:00",
   "slots": [
     {
       "start": "2026-04-13T17:00:00-07:00",
@@ -33,6 +33,13 @@
       "type": "other",
       "label": "Meeting - Kurt Room - Client Meeting",
       "notes": "Meeting - Kurt Room - Client Meeting"
+    },
+    {
+      "start": "2026-04-16T13:00:00-07:00",
+      "end": "2026-04-16T16:00:00-07:00",
+      "type": "other",
+      "label": "Kurt Room - Client Meeting 1pm-4pm",
+      "notes": "Kurt Room - Client Meeting 1pm-4pm"
     }
   ]
 }
