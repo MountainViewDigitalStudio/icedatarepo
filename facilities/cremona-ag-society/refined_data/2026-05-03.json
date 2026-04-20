@@ -1,13 +1,13 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-20T09:48:44.026856Z",
+  "generated_at": "2026-04-20T09:48:44.027420Z",
   "facility": {
     "id": "cremona-ag-society",
     "name": "Cremona Ag Society"
   },
   "week": {
-    "start_date": "2026-04-19",
-    "end_date": "2026-04-25"
+    "start_date": "2026-05-03",
+    "end_date": "2026-05-09"
   },
   "slots": []
 }

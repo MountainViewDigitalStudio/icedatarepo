@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-13T09:50:30.372571Z",
+  "generated_at": "2026-04-20T09:48:44.022057Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena",
@@ -44,6 +44,15 @@
       "type": "other",
       "label": "Meeting - Kurt Room - Client Meeting",
       "notes": "Meeting - Kurt Room - Client Meeting",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-04-16T13:00:00-07:00",
+      "end": "2026-04-16T16:00:00-07:00",
+      "type": "other",
+      "label": "Kurt Room - Client Meeting 1pm-4pm",
+      "notes": "Kurt Room - Client Meeting 1pm-4pm",
       "color": "#64748B",
       "type_display": "Other"
     }
