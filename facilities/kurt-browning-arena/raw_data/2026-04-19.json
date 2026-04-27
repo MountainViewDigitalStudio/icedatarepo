@@ -4,14 +4,77 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-04-19",
   "week_end": "2026-04-25",
-  "last_updated": "2026-04-06T02:39:09.711557-07:00",
+  "last_updated": "2026-04-27T02:54:52.193992-07:00",
   "slots": [
     {
-      "start": "2026-04-23T17:00:00-07:00",
-      "end": "2026-04-23T20:00:00-07:00",
+      "start": "2026-04-22T15:30:00-07:00",
+      "end": "2026-04-22T15:35:00-07:00",
       "type": "other",
-      "label": "Awards Night",
-      "notes": "Awards Night"
+      "label": "2026 Caroline Minor Ball - T-Ball Ages 3-4 Season Fee",
+      "notes": "2026 Caroline Minor Ball - T-Ball Ages 3-4 Season Fee"
+    },
+    {
+      "start": "2026-04-22T15:35:00-07:00",
+      "end": "2026-04-22T15:40:00-07:00",
+      "type": "other",
+      "label": "2026 Caroline Minor Ball - Rally Cap Ages 4-5 Season Fee",
+      "notes": "2026 Caroline Minor Ball - Rally Cap Ages 4-5 Season Fee"
+    },
+    {
+      "start": "2026-04-22T16:30:00-07:00",
+      "end": "2026-04-22T16:35:00-07:00",
+      "type": "other",
+      "label": "2026 Caroline Minor Ball - Rookie 1 Grades 1-4 Season Fee",
+      "notes": "2026 Caroline Minor Ball - Rookie 1 Grades 1-4 Season Fee"
+    },
+    {
+      "start": "2026-04-22T16:35:00-07:00",
+      "end": "2026-04-22T16:40:00-07:00",
+      "type": "other",
+      "label": "2026 Caroline Minor Ball - Rookie 2 Grades 1-4 Season Fee",
+      "notes": "2026 Caroline Minor Ball - Rookie 2 Grades 1-4 Season Fee"
+    },
+    {
+      "start": "2026-04-22T16:40:00-07:00",
+      "end": "2026-04-22T16:45:00-07:00",
+      "type": "other",
+      "label": "2026 Caroline Minor Ball - Rookie 3 Grades 5-8 Season Fee",
+      "notes": "2026 Caroline Minor Ball - Rookie 3 Grades 5-8 Season Fee"
+    },
+    {
+      "start": "2026-04-22T16:45:00-07:00",
+      "end": "2026-04-22T16:50:00-07:00",
+      "type": "other",
+      "label": "2026 Caroline Minor Ball - Mosquito Grades 5-8 Season Fee",
+      "notes": "2026 Caroline Minor Ball - Mosquito Grades 5-8 Season Fee"
+    },
+    {
+      "start": "2026-04-22T17:00:00-07:00",
+      "end": "2026-04-22T17:05:00-07:00",
+      "type": "other",
+      "label": "2026 Caroline Minor Ball - Midget Grades 9-12 Season Fee",
+      "notes": "2026 Caroline Minor Ball - Midget Grades 9-12 Season Fee"
+    },
+    {
+      "start": "2026-04-22T19:30:00-07:00",
+      "end": "2026-04-22T19:35:00-07:00",
+      "type": "other",
+      "label": "2026 Shilo Slo-Pitch League - GAMES",
+      "notes": "2026 Shilo Slo-Pitch League - GAMES"
+    },
+    {
+      "start": "2026-04-22T19:35:00-07:00",
+      "end": "2026-04-22T19:40:00-07:00",
+      "type": "other",
+      "label": "2026 Shilo Slo-Pitch League - GAMES",
+      "notes": "2026 Shilo Slo-Pitch League - GAMES"
+    },
+    {
+      "start": "2026-04-22T19:40:00-07:00",
+      "end": "2026-04-22T19:45:00-07:00",
+      "type": "other",
+      "label": "2026 Shilo Slo-Pitch League - GAMES",
+      "notes": "2026 Shilo Slo-Pitch League - GAMES"
     }
   ]
 }

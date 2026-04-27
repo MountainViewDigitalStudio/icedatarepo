@@ -1,0 +1,227 @@
+{
+  "facility_name": "Kurt Browning Arena",
+  "facility_id": "kurt-browning-arena",
+  "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
+  "week_start": "2026-05-10",
+  "week_end": "2026-05-16",
+  "last_updated": "2026-04-27T02:54:53.867408-07:00",
+  "slots": [
+    {
+      "start": "2026-05-11T15:30:00-07:00",
+      "end": "2026-05-11T16:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rally Cap (Ages 4-5yrs) PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rally Cap (Ages 4-5yrs) PRACTICE"
+    },
+    {
+      "start": "2026-05-11T15:30:00-07:00",
+      "end": "2026-05-11T16:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - T-Ball (Ages 3-4yrs) PRACTICE",
+      "notes": "2026 Caroline Minor Ball - T-Ball (Ages 3-4yrs) PRACTICE"
+    },
+    {
+      "start": "2026-05-11T16:30:00-07:00",
+      "end": "2026-05-11T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rookie - Grades 1-4 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rookie - Grades 1-4 PRACTICE"
+    },
+    {
+      "start": "2026-05-11T16:30:00-07:00",
+      "end": "2026-05-11T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rookies  - Grades 1-4 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rookies  - Grades 1-4 PRACTICE"
+    },
+    {
+      "start": "2026-05-11T17:00:00-07:00",
+      "end": "2026-05-11T20:00:00-07:00",
+      "type": "other",
+      "label": "Monthly Meeting Ag Board 2026",
+      "notes": "Monthly Meeting Ag Board 2026"
+    },
+    {
+      "start": "2026-05-11T18:00:00-07:00",
+      "end": "2026-05-11T19:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Midget - Grades 9-12 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Midget - Grades 9-12 PRACTICE"
+    },
+    {
+      "start": "2026-05-11T18:00:00-07:00",
+      "end": "2026-05-11T19:30:00-07:00",
+      "type": "game",
+      "label": "Rookies - Caroline 2 vs W5 Black",
+      "notes": "2026 Caroline Minor Ball GAMES - Rookies - Caroline 2 vs W5 Black"
+    },
+    {
+      "start": "2026-05-11T19:30:00-07:00",
+      "end": "2026-05-11T21:00:00-07:00",
+      "type": "game",
+      "label": "Pine Martens vs Thunder",
+      "notes": "2026 Shilo Slo-Pitch League - GAMES - Pine Martens vs Thunder"
+    },
+    {
+      "start": "2026-05-12T16:30:00-07:00",
+      "end": "2026-05-12T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE"
+    },
+    {
+      "start": "2026-05-12T16:30:00-07:00",
+      "end": "2026-05-12T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE"
+    },
+    {
+      "start": "2026-05-12T18:00:00-07:00",
+      "end": "2026-05-12T19:30:00-07:00",
+      "type": "game",
+      "label": "Mosquitos - Caroline vs Arbutus 1",
+      "notes": "2026 Caroline Minor Ball GAMES - Mosquitos - Caroline vs Arbutus 1"
+    },
+    {
+      "start": "2026-05-12T19:30:00-07:00",
+      "end": "2026-05-12T21:30:00-07:00",
+      "type": "other",
+      "label": "Caroline Ladies Ball - Ballin Beavers",
+      "notes": "Caroline Ladies Ball - Ballin Beavers"
+    },
+    {
+      "start": "2026-05-13T07:00:00-07:00",
+      "end": "2026-05-13T09:00:00-07:00",
+      "type": "other",
+      "label": "Monthly Meetings-Taqa",
+      "notes": "Monthly Meetings-Taqa"
+    },
+    {
+      "start": "2026-05-13T09:00:00-07:00",
+      "end": "2026-05-13T21:00:00-07:00",
+      "type": "other",
+      "label": "Meeting - Full Hall + Kitchen",
+      "notes": "Meeting - Full Hall + Kitchen"
+    },
+    {
+      "start": "2026-05-13T09:00:00-07:00",
+      "end": "2026-05-13T21:00:00-07:00",
+      "type": "other",
+      "label": "Meeting - Full Hall + Kitchen",
+      "notes": "Meeting - Full Hall + Kitchen"
+    },
+    {
+      "start": "2026-05-13T15:30:00-07:00",
+      "end": "2026-05-13T16:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rally Cap (Ages 4-5yrs) PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rally Cap (Ages 4-5yrs) PRACTICE"
+    },
+    {
+      "start": "2026-05-13T15:30:00-07:00",
+      "end": "2026-05-13T16:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - T-Ball (Ages 3-4yrs) PRACTICE",
+      "notes": "2026 Caroline Minor Ball - T-Ball (Ages 3-4yrs) PRACTICE"
+    },
+    {
+      "start": "2026-05-13T16:30:00-07:00",
+      "end": "2026-05-13T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rookie - Grades 1-4 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rookie - Grades 1-4 PRACTICE"
+    },
+    {
+      "start": "2026-05-13T16:30:00-07:00",
+      "end": "2026-05-13T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rookies  - Grades 1-4 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rookies  - Grades 1-4 PRACTICE"
+    },
+    {
+      "start": "2026-05-13T18:00:00-07:00",
+      "end": "2026-05-13T19:30:00-07:00",
+      "type": "game",
+      "label": "Midgets - Caroline vs W5 Royal",
+      "notes": "2026 Caroline Minor Ball GAMES - Midgets - Caroline vs W5 Royal"
+    },
+    {
+      "start": "2026-05-13T18:00:00-07:00",
+      "end": "2026-05-13T19:30:00-07:00",
+      "type": "game",
+      "label": "Rookies - Caroline 2 vs Caroline 3",
+      "notes": "2026 Caroline Minor Ball GAMES - Rookies - Caroline 2 vs Caroline 3"
+    },
+    {
+      "start": "2026-05-13T19:30:00-07:00",
+      "end": "2026-05-13T21:00:00-07:00",
+      "type": "game",
+      "label": "Juiced vs Ump Yours",
+      "notes": "2026 Shilo Slo-Pitch League - GAMES - Juiced vs Ump Yours"
+    },
+    {
+      "start": "2026-05-13T19:30:00-07:00",
+      "end": "2026-05-13T21:00:00-07:00",
+      "type": "game",
+      "label": "Pine Martens vs Beerly Legal",
+      "notes": "2026 Shilo Slo-Pitch League - GAMES - Pine Martens vs Beerly Legal"
+    },
+    {
+      "start": "2026-05-14T16:30:00-07:00",
+      "end": "2026-05-14T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE"
+    },
+    {
+      "start": "2026-05-14T16:30:00-07:00",
+      "end": "2026-05-14T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE"
+    },
+    {
+      "start": "2026-05-15T09:00:00-07:00",
+      "end": "2026-05-15T21:00:00-07:00",
+      "type": "other",
+      "label": "2026 4H Show & Sale",
+      "notes": "2026 4H Show & Sale"
+    },
+    {
+      "start": "2026-05-15T09:00:00-07:00",
+      "end": "2026-05-15T21:00:00-07:00",
+      "type": "other",
+      "label": "2026 4H Show & Sale",
+      "notes": "2026 4H Show & Sale"
+    },
+    {
+      "start": "2026-05-15T09:00:00-07:00",
+      "end": "2026-05-15T21:00:00-07:00",
+      "type": "other",
+      "label": "2026 4H Show & Sale",
+      "notes": "2026 4H Show & Sale"
+    },
+    {
+      "start": "2026-05-16T09:00:00-07:00",
+      "end": "2026-05-16T21:00:00-07:00",
+      "type": "other",
+      "label": "2026 4H Show & Sale",
+      "notes": "2026 4H Show & Sale"
+    },
+    {
+      "start": "2026-05-16T09:00:00-07:00",
+      "end": "2026-05-16T21:00:00-07:00",
+      "type": "other",
+      "label": "2026 4H Show & Sale",
+      "notes": "2026 4H Show & Sale"
+    },
+    {
+      "start": "2026-05-16T09:00:00-07:00",
+      "end": "2026-05-16T21:00:00-07:00",
+      "type": "other",
+      "label": "2026 4H Show & Sale",
+      "notes": "2026 4H Show & Sale"
+    }
+  ]
+}
