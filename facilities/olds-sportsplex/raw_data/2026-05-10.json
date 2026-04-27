@@ -1,0 +1,202 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-04-27T09:55:11.971734Z",
+  "facility": {
+    "id": "olds-sportsplex",
+    "name": "Olds Sportsplex",
+    "city": "Olds",
+    "address": "5133 52 St, Olds, AB",
+    "source_url": "https://app.univerusrec.com/oldsrecreationpub/calendars/facilities/index.asp"
+  },
+  "week": {
+    "start_date": "2026-05-10",
+    "end_date": "2026-05-16",
+    "sunday": "2026-05-10"
+  },
+  "ice_surfaces": {
+    "main": {
+      "name": "Main Ice Surface",
+      "slots": [
+        {
+          "type": "practice",
+          "start": "2026-05-10T09:00:00-07:00",
+          "end": "2026-05-10T15:00:00-07:00",
+          "label": "Olds Grizzlys Spring Camps",
+          "notes": "Olds Grizzlys Spring Camps"
+        },
+        {
+          "type": "game",
+          "start": "2026-05-10T15:30:00-07:00",
+          "end": "2026-05-10T17:30:00-07:00",
+          "label": "2015 Longhorns vs Central Alberta Vikings",
+          "notes": "Longhorns 2026 - 2015 Longhorns vs Central Alberta Vikings"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-11T12:00:00-07:00",
+          "end": "2026-05-11T13:00:00-07:00",
+          "label": "Sticks & Pucks - $5 fee",
+          "notes": "Sticks & Pucks - $5 fee"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-11T16:30:00-07:00",
+          "end": "2026-05-11T17:30:00-07:00",
+          "label": "2013 Longhorns Powerskating",
+          "notes": "Longhorns 2026 - 2013 Longhorns Powerskating"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-11T17:45:00-07:00",
+          "end": "2026-05-11T18:45:00-07:00",
+          "label": "Longhorns U11 Female",
+          "notes": "Longhorns 2026 - Longhorns U11 Female"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-11T19:00:00-07:00",
+          "end": "2026-05-11T20:00:00-07:00",
+          "label": "Longhorns 2016",
+          "notes": "Longhorns 2026 - Longhorns 2016"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-11T20:15:00-07:00",
+          "end": "2026-05-11T21:30:00-07:00",
+          "label": "Jet U18 Spring Prep",
+          "notes": "Longhorns 2026 - Jet U18 Spring Prep"
+        },
+        {
+          "type": "public_skate",
+          "start": "2026-05-12T12:00:00-07:00",
+          "end": "2026-05-12T13:00:00-07:00",
+          "label": "Public Skating - No Fee",
+          "notes": "Public Skating - No Fee"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-12T16:30:00-07:00",
+          "end": "2026-05-12T17:30:00-07:00",
+          "label": "Longhorns 2018",
+          "notes": "Longhorns 2026 - Longhorns 2018"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-12T17:45:00-07:00",
+          "end": "2026-05-12T18:45:00-07:00",
+          "label": "Longhorns 2017",
+          "notes": "Longhorns 2026 - Longhorns 2017"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-12T19:00:00-07:00",
+          "end": "2026-05-12T20:00:00-07:00",
+          "label": "Longhorns 2013",
+          "notes": "Longhorns 2026 - Longhorns 2013"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-12T20:15:00-07:00",
+          "end": "2026-05-12T21:30:00-07:00",
+          "label": "JET U15 Spring Prep",
+          "notes": "Longhorns 2026 - JET U15 Spring Prep"
+        },
+        {
+          "type": "public_skate",
+          "start": "2026-05-13T10:30:00-07:00",
+          "end": "2026-05-13T11:30:00-07:00",
+          "label": "Public Skating - No Fee",
+          "notes": "Public Skating - No Fee"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-13T12:00:00-07:00",
+          "end": "2026-05-13T13:00:00-07:00",
+          "label": "Sticks & Pucks - $5 fee",
+          "notes": "Sticks & Pucks - $5 fee"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-13T16:30:00-07:00",
+          "end": "2026-05-13T17:30:00-07:00",
+          "label": "Longhorns U11 Female",
+          "notes": "Longhorns 2026 - Longhorns U11 Female"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-13T17:45:00-07:00",
+          "end": "2026-05-13T19:00:00-07:00",
+          "label": "Longhorns 2014",
+          "notes": "Longhorns 2026 - Longhorns 2014"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-13T19:15:00-07:00",
+          "end": "2026-05-13T20:15:00-07:00",
+          "label": "Longhorns 2016",
+          "notes": "Longhorns 2026 - Longhorns 2016"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-13T20:30:00-07:00",
+          "end": "2026-05-13T22:00:00-07:00",
+          "label": "Longhorns U15 Female",
+          "notes": "Longhorns 2026 - Longhorns U15 Female"
+        },
+        {
+          "type": "public_skate",
+          "start": "2026-05-14T12:00:00-07:00",
+          "end": "2026-05-14T13:00:00-07:00",
+          "label": "Public Skating - No Fee",
+          "notes": "Public Skating - No Fee"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-14T16:30:00-07:00",
+          "end": "2026-05-14T17:30:00-07:00",
+          "label": "Longhorns 2015",
+          "notes": "Longhorns 2026 - Longhorns 2015"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-14T17:45:00-07:00",
+          "end": "2026-05-14T18:45:00-07:00",
+          "label": "Longhorns 2017",
+          "notes": "Longhorns 2026 - Longhorns 2017"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-14T19:00:00-07:00",
+          "end": "2026-05-14T20:00:00-07:00",
+          "label": "Longhorns 2013",
+          "notes": "Longhorns 2026 - Longhorns 2013"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-14T20:15:00-07:00",
+          "end": "2026-05-14T21:30:00-07:00",
+          "label": "JET U15 Spring Prep",
+          "notes": "Longhorns 2026 - JET U15 Spring Prep"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-15T12:00:00-07:00",
+          "end": "2026-05-15T13:00:00-07:00",
+          "label": "Sticks & Pucks - $5 fee",
+          "notes": "Sticks & Pucks - $5 fee"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-16T09:00:00-07:00",
+          "end": "2026-05-16T10:00:00-07:00",
+          "label": "2019 Stars Hockey Spring Team PD",
+          "notes": "2019 Stars Hockey Spring Team PD"
+        }
+      ]
+    },
+    "auxiliary": {
+      "name": "Auxiliary Ice Surface",
+      "slots": []
+    }
+  }
+}
