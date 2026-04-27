@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-20T09:48:44.005272Z",
+  "generated_at": "2026-04-27T09:58:23.772452Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -82,8 +82,8 @@
           "type": "other",
           "start": "2026-04-13T15:15:00-07:00",
           "end": "2026-04-13T16:00:00-07:00",
-          "label": "Norrie",
-          "notes": "Norrie",
+          "label": "Norrie-PD",
+          "notes": "Norrie-PD",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -235,8 +235,8 @@
           "type": "other",
           "start": "2026-04-16T13:30:00-07:00",
           "end": "2026-04-16T14:30:00-07:00",
-          "label": "Norrie",
-          "notes": "Norrie",
+          "label": "Norrie-PD",
+          "notes": "Norrie-PD",
           "color": "#64748B",
           "type_display": "Other"
         },
