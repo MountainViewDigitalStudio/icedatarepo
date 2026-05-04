@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-27T09:58:23.774048Z",
+  "generated_at": "2026-05-04T09:59:01.866353Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -23,15 +23,6 @@
           "notes": "2019 Stars Hockey Spring Team PD",
           "color": "#64748B",
           "type_display": "Other"
-        },
-        {
-          "type": "games",
-          "start": "2026-05-03T11:30:00-07:00",
-          "end": "2026-05-03T13:30:00-07:00",
-          "label": "Longhorns U11 Female Game",
-          "notes": "Longhorns 2026 - Longhorns U11 Female Game",
-          "color": "#EF4444",
-          "type_display": "Games"
         },
         {
           "type": "games",
@@ -242,19 +233,82 @@
         },
         {
           "type": "other",
-          "start": "2026-05-08T09:00:00-07:00",
-          "end": "2026-05-08T19:00:00-07:00",
-          "label": "Olds Grizzlys Spring Camps",
-          "notes": "Olds Grizzlys Spring Camps",
+          "start": "2026-05-08T10:00:00-07:00",
+          "end": "2026-05-08T11:00:00-07:00",
+          "label": "Team Black Room 1",
+          "notes": "Olds Grizzlys Spring Camps - Team Black Room 1",
           "color": "#64748B",
           "type_display": "Other"
         },
         {
           "type": "other",
+          "start": "2026-05-08T11:15:00-07:00",
+          "end": "2026-05-08T12:15:00-07:00",
+          "label": "Team Gold Room 2",
+          "notes": "Olds Grizzlys Spring Camps - Team Gold Room 2",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-05-08T13:00:00-07:00",
+          "end": "2026-05-08T14:00:00-07:00",
+          "label": "Team Grey Room 7",
+          "notes": "Olds Grizzlys Spring Camps - Team Grey Room 7",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-05-08T14:15:00-07:00",
+          "end": "2026-05-08T15:15:00-07:00",
+          "label": "Team Orange Room 8",
+          "notes": "Olds Grizzlys Spring Camps - Team Orange Room 8",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "skating_club",
+          "start": "2026-05-08T18:00:00-07:00",
+          "end": "2026-05-08T20:00:00-07:00",
+          "label": "Carstairs Figure Skating Club",
+          "notes": "Carstairs Figure Skating Club",
+          "color": "#06B6D4",
+          "type_display": "Skating Club / Programs"
+        },
+        {
+          "type": "other",
           "start": "2026-05-09T09:00:00-07:00",
-          "end": "2026-05-09T19:00:00-07:00",
-          "label": "Olds Grizzlys Spring Camps",
-          "notes": "Olds Grizzlys Spring Camps",
+          "end": "2026-05-09T10:00:00-07:00",
+          "label": "Black  room 1, Gold room 2",
+          "notes": "Olds Grizzlys Spring Camps - Black  room 1, Gold room 2",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-05-09T10:15:00-07:00",
+          "end": "2026-05-09T11:15:00-07:00",
+          "label": "Grey room 7, Orange room 8",
+          "notes": "Olds Grizzlys Spring Camps - Grey room 7, Orange room 8",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-05-09T13:00:00-07:00",
+          "end": "2026-05-09T14:15:00-07:00",
+          "label": "Black room 1, Grey room 7",
+          "notes": "Olds Grizzlys Spring Camps - Black room 1, Grey room 7",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-05-09T14:30:00-07:00",
+          "end": "2026-05-09T15:30:00-07:00",
+          "label": "Gold  room 2, Orange room 8",
+          "notes": "Olds Grizzlys Spring Camps - Gold  room 2, Orange room 8",
           "color": "#64748B",
           "type_display": "Other"
         }

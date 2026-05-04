@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-27T09:58:23.774466Z",
+  "generated_at": "2026-05-04T09:59:01.866830Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -18,11 +18,20 @@
         {
           "type": "other",
           "start": "2026-05-10T09:00:00-07:00",
-          "end": "2026-05-10T15:00:00-07:00",
-          "label": "Olds Grizzlys Spring Camps",
-          "notes": "Olds Grizzlys Spring Camps",
+          "end": "2026-05-10T10:00:00-07:00",
+          "label": "1st place, 2nd place",
+          "notes": "Olds Grizzlys Spring Camps - 1st place, 2nd place",
           "color": "#64748B",
           "type_display": "Other"
+        },
+        {
+          "type": "games",
+          "start": "2026-05-10T10:15:00-07:00",
+          "end": "2026-05-10T11:15:00-07:00",
+          "label": "3rd vs 4th",
+          "notes": "Olds Grizzlys Spring Camps - 3rd vs 4th",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "games",
@@ -221,24 +230,6 @@
           "notes": "Longhorns 2026 - JET U15 Spring Prep",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
-        },
-        {
-          "type": "shinny",
-          "start": "2026-05-15T12:00:00-07:00",
-          "end": "2026-05-15T13:00:00-07:00",
-          "label": "Sticks & Pucks - $5 fee",
-          "notes": "Sticks & Pucks - $5 fee",
-          "color": "#3B82F6",
-          "type_display": "Shinny / Stick & Puck"
-        },
-        {
-          "type": "other",
-          "start": "2026-05-16T09:00:00-07:00",
-          "end": "2026-05-16T10:00:00-07:00",
-          "label": "2019 Stars Hockey Spring Team PD",
-          "notes": "2019 Stars Hockey Spring Team PD",
-          "color": "#64748B",
-          "type_display": "Other"
         }
       ]
     },

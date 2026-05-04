@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-27T09:58:23.773572Z",
+  "generated_at": "2026-05-04T09:59:01.865837Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -44,6 +44,15 @@
         },
         {
           "type": "other",
+          "start": "2026-04-27T15:15:00-07:00",
+          "end": "2026-04-27T16:00:00-07:00",
+          "label": "Norrie Paid",
+          "notes": "Norrie Paid",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
           "start": "2026-04-27T16:30:00-07:00",
           "end": "2026-04-27T17:30:00-07:00",
           "label": "2015 Longhorns Powerskating",
@@ -52,13 +61,13 @@
           "type_display": "Other"
         },
         {
-          "type": "practice",
+          "type": "other",
           "start": "2026-04-27T17:45:00-07:00",
           "end": "2026-04-27T18:45:00-07:00",
-          "label": "Longhorns U11 Female",
-          "notes": "Longhorns April 2026 INV - Longhorns U11 Female",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "Longhorns 2015",
+          "notes": "Longhorns April 2026 INV - Longhorns 2015",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "other",
@@ -95,6 +104,15 @@
           "notes": "Public Skating - No Fee",
           "color": "#10B981",
           "type_display": "Public / Family"
+        },
+        {
+          "type": "other",
+          "start": "2026-04-28T14:00:00-07:00",
+          "end": "2026-04-28T14:30:00-07:00",
+          "label": "Ogilvie PD",
+          "notes": "Ogilvie PD",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "other",
