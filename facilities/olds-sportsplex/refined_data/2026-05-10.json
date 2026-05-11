@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-04T09:59:01.866830Z",
+  "generated_at": "2026-05-11T10:26:57.388325Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -43,6 +43,15 @@
           "type_display": "Games"
         },
         {
+          "type": "other",
+          "start": "2026-05-11T07:00:00-07:00",
+          "end": "2026-05-11T08:00:00-07:00",
+          "label": "Jax and Cruz",
+          "notes": "Norrie - Jax and Cruz",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
           "type": "shinny",
           "start": "2026-05-11T12:00:00-07:00",
           "end": "2026-05-11T13:00:00-07:00",
@@ -50,6 +59,15 @@
           "notes": "Sticks & Pucks - $5 fee",
           "color": "#3B82F6",
           "type_display": "Shinny / Stick & Puck"
+        },
+        {
+          "type": "other",
+          "start": "2026-05-11T15:15:00-07:00",
+          "end": "2026-05-11T16:00:00-07:00",
+          "label": "Tucker T",
+          "notes": "Norrie Paid - Tucker T",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "other",
@@ -172,8 +190,8 @@
           "type": "other",
           "start": "2026-05-13T19:15:00-07:00",
           "end": "2026-05-13T20:15:00-07:00",
-          "label": "Longhorns 2016",
-          "notes": "Longhorns 2026 - Longhorns 2016",
+          "label": "Longhorns 2013",
+          "notes": "Longhorns 2026 - Longhorns 2013",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -217,8 +235,8 @@
           "type": "other",
           "start": "2026-05-14T19:00:00-07:00",
           "end": "2026-05-14T20:00:00-07:00",
-          "label": "Longhorns 2013",
-          "notes": "Longhorns 2026 - Longhorns 2013",
+          "label": "Longhorns 2016",
+          "notes": "Longhorns 2026 - Longhorns 2016",
           "color": "#64748B",
           "type_display": "Other"
         },

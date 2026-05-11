@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-04T09:59:01.865837Z",
+  "generated_at": "2026-05-11T10:26:57.387312Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -46,8 +46,8 @@
           "type": "other",
           "start": "2026-04-27T15:15:00-07:00",
           "end": "2026-04-27T16:00:00-07:00",
-          "label": "Norrie Paid",
-          "notes": "Norrie Paid",
+          "label": "Tucker T",
+          "notes": "Norrie Paid - Tucker T",
           "color": "#64748B",
           "type_display": "Other"
         },

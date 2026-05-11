@@ -6,11 +6,6 @@
   },
   "weeks": [
     {
-      "sunday": "2026-04-19",
-      "file": "2026-04-19.json",
-      "is_current": false
-    },
-    {
       "sunday": "2026-04-26",
       "file": "2026-04-26.json",
       "is_current": false
@@ -18,16 +13,21 @@
     {
       "sunday": "2026-05-03",
       "file": "2026-05-03.json",
-      "is_current": true
+      "is_current": false
     },
     {
       "sunday": "2026-05-10",
       "file": "2026-05-10.json",
-      "is_current": false
+      "is_current": true
     },
     {
       "sunday": "2026-05-17",
       "file": "2026-05-17.json",
+      "is_current": false
+    },
+    {
+      "sunday": "2026-05-24",
+      "file": "2026-05-24.json",
       "is_current": false
     }
   ]
