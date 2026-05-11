@@ -1,0 +1,234 @@
+{
+  "facility_name": "Kurt Browning Arena",
+  "facility_id": "kurt-browning-arena",
+  "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
+  "week_start": "2026-05-24",
+  "week_end": "2026-05-30",
+  "last_updated": "2026-05-11T03:24:03.308590-07:00",
+  "slots": [
+    {
+      "start": "2026-05-24T09:00:00-07:00",
+      "end": "2026-05-24T21:00:00-07:00",
+      "type": "other",
+      "label": "2026 4H Show & Sale",
+      "notes": "2026 4H Show & Sale"
+    },
+    {
+      "start": "2026-05-24T09:00:00-07:00",
+      "end": "2026-05-24T21:00:00-07:00",
+      "type": "other",
+      "label": "2026 4H Show & Sale",
+      "notes": "2026 4H Show & Sale"
+    },
+    {
+      "start": "2026-05-24T09:00:00-07:00",
+      "end": "2026-05-24T21:00:00-07:00",
+      "type": "other",
+      "label": "2026 4H Show & Sale",
+      "notes": "2026 4H Show & Sale"
+    },
+    {
+      "start": "2026-05-25T09:00:00-07:00",
+      "end": "2026-05-25T21:00:00-07:00",
+      "type": "other",
+      "label": "2026 4H Show & Sale",
+      "notes": "2026 4H Show & Sale"
+    },
+    {
+      "start": "2026-05-25T09:00:00-07:00",
+      "end": "2026-05-25T21:00:00-07:00",
+      "type": "other",
+      "label": "2026 4H Show & Sale",
+      "notes": "2026 4H Show & Sale"
+    },
+    {
+      "start": "2026-05-25T09:00:00-07:00",
+      "end": "2026-05-25T21:00:00-07:00",
+      "type": "other",
+      "label": "2026 4H Show & Sale",
+      "notes": "2026 4H Show & Sale"
+    },
+    {
+      "start": "2026-05-25T15:30:00-07:00",
+      "end": "2026-05-25T16:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rally Cap (Ages 4-5yrs) PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rally Cap (Ages 4-5yrs) PRACTICE"
+    },
+    {
+      "start": "2026-05-25T15:30:00-07:00",
+      "end": "2026-05-25T16:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - T-Ball (Ages 3-4yrs) PRACTICE",
+      "notes": "2026 Caroline Minor Ball - T-Ball (Ages 3-4yrs) PRACTICE"
+    },
+    {
+      "start": "2026-05-25T16:30:00-07:00",
+      "end": "2026-05-25T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rookie - Grades 1-4 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rookie - Grades 1-4 PRACTICE"
+    },
+    {
+      "start": "2026-05-25T16:30:00-07:00",
+      "end": "2026-05-25T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rookies  - Grades 1-4 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rookies  - Grades 1-4 PRACTICE"
+    },
+    {
+      "start": "2026-05-25T18:00:00-07:00",
+      "end": "2026-05-25T19:30:00-07:00",
+      "type": "game",
+      "label": "Midgets - Caroline vs W5 Red",
+      "notes": "2026 Caroline Minor Ball GAMES - Midgets - Caroline vs W5 Red"
+    },
+    {
+      "start": "2026-05-25T18:00:00-07:00",
+      "end": "2026-05-25T19:30:00-07:00",
+      "type": "game",
+      "label": "Rookies - Caroline 2 vs W5 Red",
+      "notes": "2026 Caroline Minor Ball GAMES - Rookies - Caroline 2 vs W5 Red"
+    },
+    {
+      "start": "2026-05-25T19:30:00-07:00",
+      "end": "2026-05-25T21:00:00-07:00",
+      "type": "game",
+      "label": "Pound Dogs vs Ump Yours",
+      "notes": "2026 Shilo Slo-Pitch League - GAMES - Pound Dogs vs Ump Yours"
+    },
+    {
+      "start": "2026-05-26T09:00:00-07:00",
+      "end": "2026-05-26T21:00:00-07:00",
+      "type": "other",
+      "label": "2026 4H Show & Sale",
+      "notes": "2026 4H Show & Sale"
+    },
+    {
+      "start": "2026-05-26T09:00:00-07:00",
+      "end": "2026-05-26T21:00:00-07:00",
+      "type": "other",
+      "label": "2026 4H Show & Sale",
+      "notes": "2026 4H Show & Sale"
+    },
+    {
+      "start": "2026-05-26T09:00:00-07:00",
+      "end": "2026-05-26T21:00:00-07:00",
+      "type": "other",
+      "label": "2026 4H Show & Sale",
+      "notes": "2026 4H Show & Sale"
+    },
+    {
+      "start": "2026-05-26T16:30:00-07:00",
+      "end": "2026-05-26T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE"
+    },
+    {
+      "start": "2026-05-26T16:30:00-07:00",
+      "end": "2026-05-26T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE"
+    },
+    {
+      "start": "2026-05-26T18:00:00-07:00",
+      "end": "2026-05-26T19:30:00-07:00",
+      "type": "game",
+      "label": "Mosquitos - Caroline vs Arbutus 3",
+      "notes": "2026 Caroline Minor Ball GAMES - Mosquitos - Caroline vs Arbutus 3"
+    },
+    {
+      "start": "2026-05-26T19:30:00-07:00",
+      "end": "2026-05-26T21:30:00-07:00",
+      "type": "other",
+      "label": "Caroline Ladies Ball - Fuglies - Ladies Ball - Fuglies",
+      "notes": "Caroline Ladies Ball - Fuglies - Ladies Ball - Fuglies"
+    },
+    {
+      "start": "2026-05-27T15:30:00-07:00",
+      "end": "2026-05-27T16:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rally Cap (Ages 4-5yrs) PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rally Cap (Ages 4-5yrs) PRACTICE"
+    },
+    {
+      "start": "2026-05-27T15:30:00-07:00",
+      "end": "2026-05-27T16:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - T-Ball (Ages 3-4yrs) PRACTICE",
+      "notes": "2026 Caroline Minor Ball - T-Ball (Ages 3-4yrs) PRACTICE"
+    },
+    {
+      "start": "2026-05-27T16:30:00-07:00",
+      "end": "2026-05-27T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rookie - Grades 1-4 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rookie - Grades 1-4 PRACTICE"
+    },
+    {
+      "start": "2026-05-27T16:30:00-07:00",
+      "end": "2026-05-27T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rookies  - Grades 1-4 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rookies  - Grades 1-4 PRACTICE"
+    },
+    {
+      "start": "2026-05-27T18:00:00-07:00",
+      "end": "2026-05-27T19:30:00-07:00",
+      "type": "game",
+      "label": "Midgets - Caroline vs Arbutus",
+      "notes": "2026 Caroline Minor Ball GAMES - Midgets - Caroline vs Arbutus"
+    },
+    {
+      "start": "2026-05-27T18:00:00-07:00",
+      "end": "2026-05-27T19:30:00-07:00",
+      "type": "game",
+      "label": "Rookies - Caroline 3 vs Arbutus 3",
+      "notes": "2026 Caroline Minor Ball GAMES - Rookies - Caroline 3 vs Arbutus 3"
+    },
+    {
+      "start": "2026-05-27T19:30:00-07:00",
+      "end": "2026-05-27T21:00:00-07:00",
+      "type": "game",
+      "label": "Pound Dogs vs Whitecap Savages",
+      "notes": "2026 Shilo Slo-Pitch League - GAMES - Pound Dogs vs Whitecap Savages"
+    },
+    {
+      "start": "2026-05-28T16:30:00-07:00",
+      "end": "2026-05-28T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE"
+    },
+    {
+      "start": "2026-05-28T16:30:00-07:00",
+      "end": "2026-05-28T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE"
+    },
+    {
+      "start": "2026-05-28T19:30:00-07:00",
+      "end": "2026-05-28T21:30:00-07:00",
+      "type": "other",
+      "label": "Caroline Ladies Ball - Ballin Beavers",
+      "notes": "Caroline Ladies Ball - Ballin Beavers"
+    },
+    {
+      "start": "2026-05-28T19:30:00-07:00",
+      "end": "2026-05-28T21:30:00-07:00",
+      "type": "other",
+      "label": "Caroline Ladies Ball - Fuglies - Ladies Ball - Fuglies",
+      "notes": "Caroline Ladies Ball - Fuglies - Ladies Ball - Fuglies"
+    },
+    {
+      "start": "2026-05-29T08:00:00-07:00",
+      "end": "2026-05-29T17:00:00-07:00",
+      "type": "other",
+      "label": "Appraisal Event - Auction",
+      "notes": "Appraisal Event - Auction"
+    }
+  ]
+}
