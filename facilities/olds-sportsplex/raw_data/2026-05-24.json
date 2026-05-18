@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-11T10:24:10.585332Z",
+  "generated_at": "2026-05-18T10:38:19.436633Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -29,14 +29,14 @@
           "start": "2026-05-24T11:30:00-07:00",
           "end": "2026-05-24T13:30:00-07:00",
           "label": "U11 Female Longhorns vs Bisons",
-          "notes": "Longhorns 2026 - U11 Female Longhorns vs Bisons"
+          "notes": "Longhorns 2026 May 2026 inv - U11 Female Longhorns vs Bisons"
         },
         {
           "type": "game",
           "start": "2026-05-24T13:45:00-07:00",
           "end": "2026-05-24T15:45:00-07:00",
           "label": "2013 Longhorns vs Avalanche",
-          "notes": "Longhorns 2026 - 2013 Longhorns vs Avalanche"
+          "notes": "Longhorns 2026 May 2026 inv - 2013 Longhorns vs Avalanche"
         },
         {
           "type": "practice",
@@ -56,15 +56,15 @@
           "type": "practice",
           "start": "2026-05-25T16:30:00-07:00",
           "end": "2026-05-25T17:30:00-07:00",
-          "label": "2019 Stars Hockey Spring Team PD",
-          "notes": "2019 Stars Hockey Spring Team PD"
+          "label": "2019 Stars PD",
+          "notes": "2019 Stars PD"
         },
         {
           "type": "practice",
           "start": "2026-05-25T17:45:00-07:00",
           "end": "2026-05-25T18:45:00-07:00",
           "label": "Longhorns U11 Female",
-          "notes": "Longhorns 2026 - Longhorns U11 Female"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns U11 Female"
         },
         {
           "type": "public_skate",
@@ -78,28 +78,28 @@
           "start": "2026-05-26T16:30:00-07:00",
           "end": "2026-05-26T17:30:00-07:00",
           "label": "Longhorns 2018",
-          "notes": "Longhorns 2026 - Longhorns 2018"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2018"
         },
         {
           "type": "practice",
           "start": "2026-05-26T17:45:00-07:00",
           "end": "2026-05-26T18:45:00-07:00",
           "label": "Longhorns 2017",
-          "notes": "Longhorns 2026 - Longhorns 2017"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2017"
         },
         {
           "type": "practice",
           "start": "2026-05-26T19:00:00-07:00",
           "end": "2026-05-26T20:00:00-07:00",
           "label": "Longhorns 2015",
-          "notes": "Longhorns 2026 - Longhorns 2015"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2015"
         },
         {
           "type": "practice",
           "start": "2026-05-26T20:15:00-07:00",
           "end": "2026-05-26T21:15:00-07:00",
           "label": "Longhorns 2013",
-          "notes": "Longhorns 2026 - Longhorns 2013"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2013"
         },
         {
           "type": "public_skate",
@@ -120,28 +120,28 @@
           "start": "2026-05-27T16:30:00-07:00",
           "end": "2026-05-27T17:30:00-07:00",
           "label": "Longhorns U11 Female",
-          "notes": "Longhorns 2026 - Longhorns U11 Female"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns U11 Female"
         },
         {
           "type": "practice",
           "start": "2026-05-27T17:45:00-07:00",
           "end": "2026-05-27T19:00:00-07:00",
           "label": "Longhorns 2014",
-          "notes": "Longhorns 2026 - Longhorns 2014"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2014"
         },
         {
           "type": "practice",
           "start": "2026-05-27T19:15:00-07:00",
           "end": "2026-05-27T20:15:00-07:00",
           "label": "Longhorns 2016",
-          "notes": "Longhorns 2026 - Longhorns 2016"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2016"
         },
         {
           "type": "practice",
           "start": "2026-05-27T20:30:00-07:00",
           "end": "2026-05-27T22:00:00-07:00",
           "label": "Longhorns U15 Female",
-          "notes": "Longhorns 2026 - Longhorns U15 Female"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns U15 Female"
         },
         {
           "type": "public_skate",
@@ -162,7 +162,7 @@
           "start": "2026-05-28T19:00:00-07:00",
           "end": "2026-05-28T20:00:00-07:00",
           "label": "Longhorns 2013",
-          "notes": "Longhorns 2026 - Longhorns 2013"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2013"
         },
         {
           "type": "practice",
@@ -182,8 +182,15 @@
           "type": "practice",
           "start": "2026-05-29T18:00:00-07:00",
           "end": "2026-05-29T20:00:00-07:00",
-          "label": "Carstairs Figure Skating Club",
-          "notes": "Carstairs Figure Skating Club"
+          "label": "Carstairs Figure Skating Club - PD",
+          "notes": "Carstairs Figure Skating Club - PD"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-30T13:00:00-07:00",
+          "end": "2026-05-30T14:00:00-07:00",
+          "label": "Luke Ball Birthday Party",
+          "notes": "Luke Ball Birthday Party"
         }
       ]
     },

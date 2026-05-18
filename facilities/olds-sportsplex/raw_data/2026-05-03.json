@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-11T10:24:10.585332Z",
+  "generated_at": "2026-05-18T10:38:19.436633Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -29,14 +29,14 @@
           "start": "2026-05-03T13:45:00-07:00",
           "end": "2026-05-03T15:45:00-07:00",
           "label": "2016 Longhorns vs Okotoks Golden Bucks",
-          "notes": "Longhorns 2026 - 2016 Longhorns vs Okotoks Golden Bucks"
+          "notes": "Longhorns 2026 May 2026 inv - 2016 Longhorns vs Okotoks Golden Bucks"
         },
         {
           "type": "game",
           "start": "2026-05-03T16:00:00-07:00",
           "end": "2026-05-03T18:00:00-07:00",
           "label": "Longhorns 2013 vs Red Deer Rustlers",
-          "notes": "Longhorns 2026 - Longhorns 2013 vs Red Deer Rustlers"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2013 vs Red Deer Rustlers"
         },
         {
           "type": "practice",
@@ -57,28 +57,28 @@
           "start": "2026-05-04T16:30:00-07:00",
           "end": "2026-05-04T17:30:00-07:00",
           "label": "2014 Longhorns Powerskating",
-          "notes": "Longhorns 2026 - 2014 Longhorns Powerskating"
+          "notes": "Longhorns 2026 May 2026 inv - 2014 Longhorns Powerskating"
         },
         {
           "type": "practice",
           "start": "2026-05-04T17:45:00-07:00",
           "end": "2026-05-04T18:45:00-07:00",
           "label": "Longhorns U11 Female",
-          "notes": "Longhorns 2026 - Longhorns U11 Female"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns U11 Female"
         },
         {
           "type": "practice",
           "start": "2026-05-04T19:00:00-07:00",
           "end": "2026-05-04T20:00:00-07:00",
           "label": "Longhorns 2016",
-          "notes": "Longhorns 2026 - Longhorns 2016"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2016"
         },
         {
           "type": "practice",
           "start": "2026-05-04T20:15:00-07:00",
           "end": "2026-05-04T21:30:00-07:00",
           "label": "JET U18 Spring Prep",
-          "notes": "Longhorns 2026 - JET U18 Spring Prep"
+          "notes": "Longhorns 2026 May 2026 inv - JET U18 Spring Prep"
         },
         {
           "type": "public_skate",
@@ -92,28 +92,28 @@
           "start": "2026-05-05T16:30:00-07:00",
           "end": "2026-05-05T17:30:00-07:00",
           "label": "Longhorns 2018",
-          "notes": "Longhorns 2026 - Longhorns 2018"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2018"
         },
         {
           "type": "practice",
           "start": "2026-05-05T17:45:00-07:00",
           "end": "2026-05-05T18:45:00-07:00",
           "label": "Longhorns 2017",
-          "notes": "Longhorns 2026 - Longhorns 2017"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2017"
         },
         {
           "type": "practice",
           "start": "2026-05-05T19:00:00-07:00",
           "end": "2026-05-05T20:00:00-07:00",
           "label": "Longhorns 2013",
-          "notes": "Longhorns 2026 - Longhorns 2013"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2013"
         },
         {
           "type": "practice",
           "start": "2026-05-05T20:15:00-07:00",
           "end": "2026-05-05T21:30:00-07:00",
           "label": "JET U15 Spring Prep",
-          "notes": "Longhorns 2026 - JET U15 Spring Prep"
+          "notes": "Longhorns 2026 May 2026 inv - JET U15 Spring Prep"
         },
         {
           "type": "public_skate",
@@ -134,28 +134,28 @@
           "start": "2026-05-06T16:30:00-07:00",
           "end": "2026-05-06T17:30:00-07:00",
           "label": "Longhorns U11 Female",
-          "notes": "Longhorns 2026 - Longhorns U11 Female"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns U11 Female"
         },
         {
           "type": "practice",
           "start": "2026-05-06T17:45:00-07:00",
           "end": "2026-05-06T19:00:00-07:00",
           "label": "Longhorns 2014",
-          "notes": "Longhorns 2026 - Longhorns 2014"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2014"
         },
         {
           "type": "practice",
           "start": "2026-05-06T19:15:00-07:00",
           "end": "2026-05-06T20:15:00-07:00",
           "label": "Longhorns 2016",
-          "notes": "Longhorns 2026 - Longhorns 2016"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2016"
         },
         {
           "type": "practice",
           "start": "2026-05-06T20:30:00-07:00",
           "end": "2026-05-06T22:00:00-07:00",
           "label": "U15 Female",
-          "notes": "Longhorns 2026 - U15 Female"
+          "notes": "Longhorns 2026 May 2026 inv - U15 Female"
         },
         {
           "type": "public_skate",
@@ -169,28 +169,28 @@
           "start": "2026-05-07T16:30:00-07:00",
           "end": "2026-05-07T17:30:00-07:00",
           "label": "Longhorns 2015",
-          "notes": "Longhorns 2026 - Longhorns 2015"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2015"
         },
         {
           "type": "practice",
           "start": "2026-05-07T17:45:00-07:00",
           "end": "2026-05-07T18:45:00-07:00",
           "label": "Longhorns 2017",
-          "notes": "Longhorns 2026 - Longhorns 2017"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2017"
         },
         {
           "type": "practice",
           "start": "2026-05-07T19:00:00-07:00",
           "end": "2026-05-07T20:00:00-07:00",
           "label": "JET U18 Prep",
-          "notes": "Longhorns 2026 - JET U18 Prep"
+          "notes": "Longhorns 2026 May 2026 inv - JET U18 Prep"
         },
         {
           "type": "practice",
           "start": "2026-05-07T20:15:00-07:00",
           "end": "2026-05-07T21:30:00-07:00",
           "label": "JET U15 Prep",
-          "notes": "Longhorns 2026 - JET U15 Prep"
+          "notes": "Longhorns 2026 May 2026 inv - JET U15 Prep"
         },
         {
           "type": "practice",
@@ -231,8 +231,8 @@
           "type": "practice",
           "start": "2026-05-08T18:00:00-07:00",
           "end": "2026-05-08T20:00:00-07:00",
-          "label": "Carstairs Figure Skating Club",
-          "notes": "Carstairs Figure Skating Club"
+          "label": "Carstairs Figure Skating Club - PD",
+          "notes": "Carstairs Figure Skating Club - PD"
         },
         {
           "type": "practice",

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-11T10:24:10.585332Z",
+  "generated_at": "2026-05-18T10:38:19.436633Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -28,29 +28,29 @@
           "type": "practice",
           "start": "2026-05-18T14:30:00-07:00",
           "end": "2026-05-18T16:00:00-07:00",
-          "label": "Carstairs Figure Skating Club",
-          "notes": "Carstairs Figure Skating Club"
+          "label": "Carstairs Figure Skating Club - PD",
+          "notes": "Carstairs Figure Skating Club - PD"
         },
         {
           "type": "practice",
           "start": "2026-05-18T16:30:00-07:00",
           "end": "2026-05-18T17:30:00-07:00",
           "label": "U11 Female Longhorns Powerskating",
-          "notes": "Longhorns 2026 - U11 Female Longhorns Powerskating"
+          "notes": "Longhorns 2026 May 2026 inv - U11 Female Longhorns Powerskating"
         },
         {
           "type": "practice",
           "start": "2026-05-18T17:45:00-07:00",
           "end": "2026-05-18T18:45:00-07:00",
           "label": "Longhorns U11 Female",
-          "notes": "Longhorns 2026 - Longhorns U11 Female"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns U11 Female"
         },
         {
           "type": "practice",
           "start": "2026-05-18T19:00:00-07:00",
           "end": "2026-05-18T20:00:00-07:00",
           "label": "Longhorns 2016",
-          "notes": "Longhorns 2026 - Longhorns 2016"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2016"
         },
         {
           "type": "public_skate",
@@ -61,31 +61,38 @@
         },
         {
           "type": "practice",
+          "start": "2026-05-19T15:15:00-07:00",
+          "end": "2026-05-19T16:15:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie"
+        },
+        {
+          "type": "practice",
           "start": "2026-05-19T16:30:00-07:00",
           "end": "2026-05-19T17:30:00-07:00",
           "label": "Longhorns 2018",
-          "notes": "Longhorns 2026 - Longhorns 2018"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2018"
         },
         {
           "type": "practice",
           "start": "2026-05-19T17:45:00-07:00",
           "end": "2026-05-19T18:45:00-07:00",
           "label": "Longhorns 2017",
-          "notes": "Longhorns 2026 - Longhorns 2017"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2017"
         },
         {
           "type": "practice",
           "start": "2026-05-19T19:00:00-07:00",
           "end": "2026-05-19T20:00:00-07:00",
           "label": "Longhorns 2015",
-          "notes": "Longhorns 2026 - Longhorns 2015"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2015"
         },
         {
           "type": "practice",
           "start": "2026-05-19T20:15:00-07:00",
           "end": "2026-05-19T21:15:00-07:00",
           "label": "Longhorns 2013",
-          "notes": "Longhorns 2026 - Longhorns 2013"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2013"
         },
         {
           "type": "public_skate",
@@ -105,29 +112,29 @@
           "type": "practice",
           "start": "2026-05-20T16:00:00-07:00",
           "end": "2026-05-20T17:00:00-07:00",
-          "label": "2019 Stars Hockey Spring Team PD",
-          "notes": "2019 Stars Hockey Spring Team PD"
+          "label": "2019 Stars PD",
+          "notes": "2019 Stars PD"
         },
         {
           "type": "practice",
           "start": "2026-05-20T17:15:00-07:00",
           "end": "2026-05-20T18:45:00-07:00",
           "label": "Longhorns 2014",
-          "notes": "Longhorns 2026 - Longhorns 2014"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2014"
         },
         {
           "type": "practice",
           "start": "2026-05-20T19:00:00-07:00",
           "end": "2026-05-20T20:00:00-07:00",
           "label": "Longhorns 2016",
-          "notes": "Longhorns 2026 - Longhorns 2016"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2016"
         },
         {
           "type": "practice",
           "start": "2026-05-20T20:15:00-07:00",
           "end": "2026-05-20T21:45:00-07:00",
           "label": "Longhorns U15 Female",
-          "notes": "Longhorns 2026 - Longhorns U15 Female"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns U15 Female"
         },
         {
           "type": "public_skate",
@@ -141,28 +148,28 @@
           "start": "2026-05-21T16:30:00-07:00",
           "end": "2026-05-21T17:30:00-07:00",
           "label": "Longhorns 2018",
-          "notes": "Longhorns 2026 - Longhorns 2018"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2018"
         },
         {
           "type": "practice",
           "start": "2026-05-21T17:45:00-07:00",
           "end": "2026-05-21T18:45:00-07:00",
           "label": "Longhorns 2017",
-          "notes": "Longhorns 2026 - Longhorns 2017"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2017"
         },
         {
           "type": "practice",
           "start": "2026-05-21T19:00:00-07:00",
           "end": "2026-05-21T20:00:00-07:00",
           "label": "Longhorns 2015",
-          "notes": "Longhorns 2026 - Longhorns 2015"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2015"
         },
         {
           "type": "practice",
           "start": "2026-05-21T20:15:00-07:00",
           "end": "2026-05-21T21:15:00-07:00",
           "label": "Longhorns 2013",
-          "notes": "Longhorns 2026 - Longhorns 2013"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2013"
         },
         {
           "type": "practice",
@@ -183,14 +190,14 @@
           "start": "2026-05-22T17:45:00-07:00",
           "end": "2026-05-22T18:45:00-07:00",
           "label": "Longhorns U11 Female",
-          "notes": "Longhorns 2026 - Longhorns U11 Female"
+          "notes": "Longhorns 2026 May 2026 inv - Longhorns U11 Female"
         },
         {
           "type": "game",
           "start": "2026-05-22T19:00:00-07:00",
           "end": "2026-05-22T21:00:00-07:00",
           "label": "2013 Longhorns vs Red Deer Rustlers",
-          "notes": "Longhorns 2026 - 2013 Longhorns vs Red Deer Rustlers"
+          "notes": "Longhorns 2026 May 2026 inv - 2013 Longhorns vs Red Deer Rustlers"
         },
         {
           "type": "practice",
@@ -200,32 +207,39 @@
           "notes": "2019 Stars Hockey Spring Team PD"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-05-23T10:15:00-07:00",
+          "end": "2026-05-23T11:45:00-07:00",
+          "label": "Spartan 2013 vs Mustangs 2013 (no flood during game)",
+          "notes": "Airdrie Stars PD - Spartan 2013 vs Mustangs 2013 (no flood during game)"
+        },
+        {
+          "type": "game",
+          "start": "2026-05-23T12:00:00-07:00",
           "end": "2026-05-23T13:30:00-07:00",
-          "label": "Airdrie Stars",
-          "notes": "Airdrie Stars"
+          "label": "Battle Green vs 2013 Okanogan Ravens (no flood during game)",
+          "notes": "Airdrie Stars PD - Battle Green vs 2013 Okanogan Ravens (no flood during game)"
         },
         {
           "type": "game",
           "start": "2026-05-23T13:45:00-07:00",
           "end": "2026-05-23T15:45:00-07:00",
           "label": "2013 Longhorns vs Calgary Lions HC",
-          "notes": "Longhorns 2026 - 2013 Longhorns vs Calgary Lions HC"
+          "notes": "Longhorns 2026 May 2026 inv - 2013 Longhorns vs Calgary Lions HC"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-05-23T16:00:00-07:00",
           "end": "2026-05-23T17:30:00-07:00",
-          "label": "Airdrie Stars",
-          "notes": "Airdrie Stars"
+          "label": "2013 Okanogan Ravens vs Spartans",
+          "notes": "Airdrie Stars PD - 2013 Okanogan Ravens vs Spartans"
         },
         {
           "type": "practice",
           "start": "2026-05-23T18:00:00-07:00",
           "end": "2026-05-23T20:00:00-07:00",
-          "label": "Carstairs Figure Skating Club",
-          "notes": "Carstairs Figure Skating Club"
+          "label": "Carstairs Figure Skating Club - PD",
+          "notes": "Carstairs Figure Skating Club - PD"
         }
       ]
     },
