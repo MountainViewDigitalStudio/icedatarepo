@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-05-18T10:40:29.143749Z",
+  "facility": {
+    "id": "olds-sportsplex",
+    "name": "Olds Sportsplex",
+    "city": "Olds",
+    "address": "5133 52 St, Olds, AB"
+  },
+  "week": {
+    "start_date": "2026-05-31",
+    "end_date": "2026-06-06"
+  },
+  "ice_surfaces": {
+    "main": {
+      "name": "Main Ice Surface",
+      "slots": []
+    },
+    "auxiliary": {
+      "name": "Auxiliary Ice Surface",
+      "slots": []
+    }
+  }
+}
