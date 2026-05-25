@@ -1,0 +1,203 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-05-25T10:44:03.544943Z",
+  "facility": {
+    "id": "kurt-browning-arena",
+    "name": "Kurt Browning Arena"
+  },
+  "week": {
+    "start_date": "2026-06-07",
+    "end_date": "2026-06-13"
+  },
+  "slots": [
+    {
+      "start": "2026-06-08T15:30:00-07:00",
+      "end": "2026-06-08T16:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rally Cap (Ages 4-5yrs) PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rally Cap (Ages 4-5yrs) PRACTICE",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-06-08T15:30:00-07:00",
+      "end": "2026-06-08T16:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - T-Ball (Ages 3-4yrs) PRACTICE",
+      "notes": "2026 Caroline Minor Ball - T-Ball (Ages 3-4yrs) PRACTICE",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-06-08T16:30:00-07:00",
+      "end": "2026-06-08T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rookie - Grades 1-4 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rookie - Grades 1-4 PRACTICE",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-06-08T16:30:00-07:00",
+      "end": "2026-06-08T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rookies  - Grades 1-4 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rookies  - Grades 1-4 PRACTICE",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-06-08T17:00:00-07:00",
+      "end": "2026-06-08T20:00:00-07:00",
+      "type": "other",
+      "label": "Monthly Meeting Ag Board 2026",
+      "notes": "Monthly Meeting Ag Board 2026",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-06-08T18:00:00-07:00",
+      "end": "2026-06-08T19:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Midget - Grades 9-12 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Midget - Grades 9-12 PRACTICE",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-06-08T18:00:00-07:00",
+      "end": "2026-06-08T19:30:00-07:00",
+      "type": "games",
+      "label": "Rookies - Caroline 2 vs Arbutus 1",
+      "notes": "2026 Caroline Minor Ball GAMES - Rookies - Caroline 2 vs Arbutus 1",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-08T19:30:00-07:00",
+      "end": "2026-06-08T21:00:00-07:00",
+      "type": "games",
+      "label": "Pound Dogs vs Pine Martens",
+      "notes": "2026 Shilo Slo-Pitch League - GAMES - Pound Dogs vs Pine Martens",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-09T16:30:00-07:00",
+      "end": "2026-06-09T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-06-09T16:30:00-07:00",
+      "end": "2026-06-09T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-06-09T18:00:00-07:00",
+      "end": "2026-06-09T19:30:00-07:00",
+      "type": "games",
+      "label": "Mosquitos - Caroline vs W5 Black",
+      "notes": "2026 Caroline Minor Ball GAMES - Mosquitos - Caroline vs W5 Black",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-10T07:00:00-07:00",
+      "end": "2026-06-10T09:00:00-07:00",
+      "type": "other",
+      "label": "Monthly Meetings-Taqa",
+      "notes": "Monthly Meetings-Taqa",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-06-10T15:30:00-07:00",
+      "end": "2026-06-10T16:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rally Cap (Ages 4-5yrs) PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rally Cap (Ages 4-5yrs) PRACTICE",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-06-10T15:30:00-07:00",
+      "end": "2026-06-10T16:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - T-Ball (Ages 3-4yrs) PRACTICE",
+      "notes": "2026 Caroline Minor Ball - T-Ball (Ages 3-4yrs) PRACTICE",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-06-10T16:30:00-07:00",
+      "end": "2026-06-10T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rookie - Grades 1-4 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rookie - Grades 1-4 PRACTICE",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-06-10T16:30:00-07:00",
+      "end": "2026-06-10T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rookies  - Grades 1-4 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rookies  - Grades 1-4 PRACTICE",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-06-10T18:00:00-07:00",
+      "end": "2026-06-10T19:30:00-07:00",
+      "type": "games",
+      "label": "Midgets - Caroline vs W5 Red",
+      "notes": "2026 Caroline Minor Ball GAMES - Midgets - Caroline vs W5 Red",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-10T18:00:00-07:00",
+      "end": "2026-06-10T19:30:00-07:00",
+      "type": "games",
+      "label": "Rookies - Caroline 2 vs Caroline 1",
+      "notes": "2026 Caroline Minor Ball GAMES - Rookies - Caroline 2 vs Caroline 1",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-10T19:30:00-07:00",
+      "end": "2026-06-10T21:00:00-07:00",
+      "type": "games",
+      "label": "Pound Dogs vs Sons of Pitches",
+      "notes": "2026 Shilo Slo-Pitch League - GAMES - Pound Dogs vs Sons of Pitches",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-11T16:30:00-07:00",
+      "end": "2026-06-11T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-06-11T16:30:00-07:00",
+      "end": "2026-06-11T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    }
+  ]
+}

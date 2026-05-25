@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-18T10:40:29.143154Z",
+  "generated_at": "2026-05-25T10:44:03.513523Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -62,10 +62,10 @@
         },
         {
           "type": "other",
-          "start": "2026-05-25T16:30:00-07:00",
+          "start": "2026-05-25T16:15:00-07:00",
           "end": "2026-05-25T17:30:00-07:00",
-          "label": "2019 Stars PD",
-          "notes": "2019 Stars PD",
+          "label": "2019 Stars",
+          "notes": "2019 Stars",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -77,6 +77,15 @@
           "notes": "Longhorns 2026 May 2026 inv - Longhorns U11 Female",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-05-25T19:15:00-07:00",
+          "end": "2026-05-25T20:15:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "public",
@@ -188,6 +197,15 @@
         },
         {
           "type": "other",
+          "start": "2026-05-28T15:15:00-07:00",
+          "end": "2026-05-28T16:15:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
           "start": "2026-05-28T16:30:00-07:00",
           "end": "2026-05-28T18:30:00-07:00",
           "label": "2019 Stars Hockey Spring Team PD",
@@ -201,6 +219,15 @@
           "end": "2026-05-28T20:00:00-07:00",
           "label": "Longhorns 2013",
           "notes": "Longhorns 2026 May 2026 inv - Longhorns 2013",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-05-28T20:15:00-07:00",
+          "end": "2026-05-28T21:15:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -237,6 +264,15 @@
           "end": "2026-05-30T14:00:00-07:00",
           "label": "Luke Ball Birthday Party",
           "notes": "Luke Ball Birthday Party",
+          "color": "#F97316",
+          "type_display": "Rentals"
+        },
+        {
+          "type": "rentals",
+          "start": "2026-05-30T15:00:00-07:00",
+          "end": "2026-05-30T16:00:00-07:00",
+          "label": "Birthday party - 2 rooms",
+          "notes": "Flinn - Birthday party - 2 rooms",
           "color": "#F97316",
           "type_display": "Rentals"
         }

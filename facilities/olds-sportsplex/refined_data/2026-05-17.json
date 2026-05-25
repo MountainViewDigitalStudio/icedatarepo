@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-18T10:40:29.142456Z",
+  "generated_at": "2026-05-25T10:44:03.512766Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -136,8 +136,8 @@
           "type": "other",
           "start": "2026-05-20T16:00:00-07:00",
           "end": "2026-05-20T17:00:00-07:00",
-          "label": "2019 Stars PD",
-          "notes": "2019 Stars PD",
+          "label": "2019 Stars",
+          "notes": "2019 Stars",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -232,20 +232,11 @@
           "type_display": "Shinny / Stick & Puck"
         },
         {
-          "type": "practice",
-          "start": "2026-05-22T17:45:00-07:00",
-          "end": "2026-05-22T18:45:00-07:00",
-          "label": "Longhorns U11 Female",
-          "notes": "Longhorns 2026 May 2026 inv - Longhorns U11 Female",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
-        },
-        {
           "type": "games",
-          "start": "2026-05-22T19:00:00-07:00",
-          "end": "2026-05-22T21:00:00-07:00",
-          "label": "2013 Longhorns vs Red Deer Rustlers",
-          "notes": "Longhorns 2026 May 2026 inv - 2013 Longhorns vs Red Deer Rustlers",
+          "start": "2026-05-22T18:15:00-07:00",
+          "end": "2026-05-22T20:30:00-07:00",
+          "label": "U11 Female Longhorns Game vs TBD",
+          "notes": "Longhorns 2026 May 2026 inv - U11 Female Longhorns Game vs TBD",
           "color": "#EF4444",
           "type_display": "Games"
         },
