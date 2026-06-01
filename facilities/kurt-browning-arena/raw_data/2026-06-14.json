@@ -1,0 +1,185 @@
+{
+  "facility_name": "Kurt Browning Arena",
+  "facility_id": "kurt-browning-arena",
+  "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
+  "week_start": "2026-06-14",
+  "week_end": "2026-06-20",
+  "last_updated": "2026-06-01T03:55:16.610060-07:00",
+  "slots": [
+    {
+      "start": "2026-06-14T13:00:00-07:00",
+      "end": "2026-06-14T17:00:00-07:00",
+      "type": "other",
+      "label": "Let's talk Alberta",
+      "notes": "Let's talk Alberta"
+    },
+    {
+      "start": "2026-06-15T15:30:00-07:00",
+      "end": "2026-06-15T16:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rally Cap (Ages 4-5yrs) PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rally Cap (Ages 4-5yrs) PRACTICE"
+    },
+    {
+      "start": "2026-06-15T15:30:00-07:00",
+      "end": "2026-06-15T16:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - T-Ball (Ages 3-4yrs) PRACTICE",
+      "notes": "2026 Caroline Minor Ball - T-Ball (Ages 3-4yrs) PRACTICE"
+    },
+    {
+      "start": "2026-06-15T16:30:00-07:00",
+      "end": "2026-06-15T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rookie - Grades 1-4 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rookie - Grades 1-4 PRACTICE"
+    },
+    {
+      "start": "2026-06-15T16:30:00-07:00",
+      "end": "2026-06-15T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rookies  - Grades 1-4 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rookies  - Grades 1-4 PRACTICE"
+    },
+    {
+      "start": "2026-06-15T18:00:00-07:00",
+      "end": "2026-06-15T19:30:00-07:00",
+      "type": "game",
+      "label": "Midgets - Caroline vs Arbutus",
+      "notes": "2026 Caroline Minor Ball GAMES - Midgets - Caroline vs Arbutus"
+    },
+    {
+      "start": "2026-06-15T18:00:00-07:00",
+      "end": "2026-06-15T19:30:00-07:00",
+      "type": "game",
+      "label": "Rookies - Caroline 3 vs W5 Gold",
+      "notes": "2026 Caroline Minor Ball GAMES - Rookies - Caroline 3 vs W5 Gold"
+    },
+    {
+      "start": "2026-06-16T16:30:00-07:00",
+      "end": "2026-06-16T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE"
+    },
+    {
+      "start": "2026-06-16T16:30:00-07:00",
+      "end": "2026-06-16T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE"
+    },
+    {
+      "start": "2026-06-16T18:00:00-07:00",
+      "end": "2026-06-16T19:30:00-07:00",
+      "type": "game",
+      "label": "Mosquitos - Caroline vs Arbutus 2",
+      "notes": "2026 Caroline Minor Ball GAMES - Mosquitos - Caroline vs Arbutus 2"
+    },
+    {
+      "start": "2026-06-17T15:30:00-07:00",
+      "end": "2026-06-17T16:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rally Cap (Ages 4-5yrs) PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rally Cap (Ages 4-5yrs) PRACTICE"
+    },
+    {
+      "start": "2026-06-17T15:30:00-07:00",
+      "end": "2026-06-17T16:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - T-Ball (Ages 3-4yrs) PRACTICE",
+      "notes": "2026 Caroline Minor Ball - T-Ball (Ages 3-4yrs) PRACTICE"
+    },
+    {
+      "start": "2026-06-17T16:30:00-07:00",
+      "end": "2026-06-17T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rookie - Grades 1-4 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rookie - Grades 1-4 PRACTICE"
+    },
+    {
+      "start": "2026-06-17T16:30:00-07:00",
+      "end": "2026-06-17T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Rookies  - Grades 1-4 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Rookies  - Grades 1-4 PRACTICE"
+    },
+    {
+      "start": "2026-06-17T18:00:00-07:00",
+      "end": "2026-06-17T19:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Midget - Grades 9-12 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Midget - Grades 9-12 PRACTICE"
+    },
+    {
+      "start": "2026-06-17T18:00:00-07:00",
+      "end": "2026-06-17T19:30:00-07:00",
+      "type": "game",
+      "label": "Rookies - Caroline 1 vs W5 Royal",
+      "notes": "2026 Caroline Minor Ball GAMES - Rookies - Caroline 1 vs W5 Royal"
+    },
+    {
+      "start": "2026-06-17T19:00:00-07:00",
+      "end": "2026-06-17T21:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Caroline Minor Hockey Meeting 2025/26",
+      "notes": "Caroline Minor Hockey Meeting 2025/26"
+    },
+    {
+      "start": "2026-06-17T19:30:00-07:00",
+      "end": "2026-06-17T21:00:00-07:00",
+      "type": "game",
+      "label": "Juiced vs Whitecap Savages",
+      "notes": "2026 Shilo Slo-Pitch League - GAMES - Juiced vs Whitecap Savages"
+    },
+    {
+      "start": "2026-06-17T19:30:00-07:00",
+      "end": "2026-06-17T21:00:00-07:00",
+      "type": "game",
+      "label": "Pine Martens vs Striders",
+      "notes": "2026 Shilo Slo-Pitch League - GAMES - Pine Martens vs Striders"
+    },
+    {
+      "start": "2026-06-18T16:30:00-07:00",
+      "end": "2026-06-18T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE"
+    },
+    {
+      "start": "2026-06-18T16:30:00-07:00",
+      "end": "2026-06-18T17:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - 2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
+      "notes": "2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE"
+    },
+    {
+      "start": "2026-06-19T09:00:00-07:00",
+      "end": "2026-06-19T12:00:00-07:00",
+      "type": "other",
+      "label": "Wedding(Darbi Cunningham)",
+      "notes": "Wedding(Darbi Cunningham)"
+    },
+    {
+      "start": "2026-06-19T09:00:00-07:00",
+      "end": "2026-06-19T12:00:00-07:00",
+      "type": "other",
+      "label": "Wedding(Darbi Cunningham)",
+      "notes": "Wedding(Darbi Cunningham)"
+    },
+    {
+      "start": "2026-06-20T09:00:00-07:00",
+      "end": "2026-06-20T12:00:00-07:00",
+      "type": "other",
+      "label": "Wedding(Darbi Cunningham)",
+      "notes": "Wedding(Darbi Cunningham)"
+    },
+    {
+      "start": "2026-06-20T09:00:00-07:00",
+      "end": "2026-06-20T12:00:00-07:00",
+      "type": "other",
+      "label": "Wedding(Darbi Cunningham)",
+      "notes": "Wedding(Darbi Cunningham)"
+    }
+  ]
+}
