@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-25T10:41:49.645557Z",
+  "generated_at": "2026-06-01T10:55:31.862205Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -40,13 +40,6 @@
         },
         {
           "type": "practice",
-          "start": "2026-05-25T07:00:00-07:00",
-          "end": "2026-05-25T08:00:00-07:00",
-          "label": "Jax and Cruz",
-          "notes": "Norrie - Jax and Cruz"
-        },
-        {
-          "type": "practice",
           "start": "2026-05-25T12:00:00-07:00",
           "end": "2026-05-25T13:00:00-07:00",
           "label": "Sticks & Pucks - $5 fee",
@@ -81,18 +74,18 @@
           "notes": "Public Skating - No Fee"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-05-26T16:30:00-07:00",
           "end": "2026-05-26T17:30:00-07:00",
-          "label": "Longhorns 2018",
-          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2018"
+          "label": "2018 Longhorns vs Parents- 2 Rooms",
+          "notes": "Longhorns 2026 May 2026 inv - 2018 Longhorns vs Parents- 2 Rooms"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-05-26T17:45:00-07:00",
           "end": "2026-05-26T18:45:00-07:00",
-          "label": "Longhorns 2017",
-          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2017"
+          "label": "2017 Longhorns vs Parents- 2 Rooms",
+          "notes": "Longhorns 2026 May 2026 inv - 2017 Longhorns vs Parents- 2 Rooms"
         },
         {
           "type": "practice",
@@ -133,15 +126,15 @@
           "type": "practice",
           "start": "2026-05-27T17:45:00-07:00",
           "end": "2026-05-27T19:00:00-07:00",
-          "label": "Longhorns 2014",
-          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2014"
+          "label": "U20 JET- 1 room",
+          "notes": "Longhorns 2026 May 2026 inv - U20 JET- 1 room"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-05-27T19:15:00-07:00",
           "end": "2026-05-27T20:15:00-07:00",
-          "label": "Longhorns 2016",
-          "notes": "Longhorns 2026 May 2026 inv - Longhorns 2016"
+          "label": "2016 Longhorns vs Parents- 2 Rooms",
+          "notes": "Longhorns 2026 May 2026 inv - 2016 Longhorns vs Parents- 2 Rooms"
         },
         {
           "type": "practice",
@@ -191,6 +184,13 @@
           "end": "2026-05-29T08:00:00-07:00",
           "label": "Jax and Cruz",
           "notes": "Norrie - Jax and Cruz"
+        },
+        {
+          "type": "practice",
+          "start": "2026-05-29T09:00:00-07:00",
+          "end": "2026-05-29T10:00:00-07:00",
+          "label": "Summer Camps Meeting",
+          "notes": "Summer Camps Meeting"
         },
         {
           "type": "practice",

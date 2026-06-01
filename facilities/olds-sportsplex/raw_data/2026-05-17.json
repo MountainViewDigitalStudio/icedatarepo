@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-25T10:41:49.645557Z",
+  "generated_at": "2026-06-01T10:55:31.862205Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -175,8 +175,8 @@
           "type": "practice",
           "start": "2026-05-22T07:00:00-07:00",
           "end": "2026-05-22T08:00:00-07:00",
-          "label": "Jax and Cruz",
-          "notes": "Norrie - Jax and Cruz"
+          "label": "Jax, Cruz, Finn",
+          "notes": "Norrie - Jax, Cruz, Finn"
         },
         {
           "type": "practice",
