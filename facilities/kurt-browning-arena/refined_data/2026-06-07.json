@@ -1,9 +1,10 @@
 {
   "version": "1.0",
-  "generated_at": "2026-05-25T10:44:03.544943Z",
+  "generated_at": "2026-06-01T10:57:45.400751Z",
   "facility": {
     "id": "kurt-browning-arena",
-    "name": "Kurt Browning Arena"
+    "name": "Kurt Browning Arena",
+    "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
   },
   "week": {
     "start_date": "2026-06-07",

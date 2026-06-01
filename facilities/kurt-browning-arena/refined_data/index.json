@@ -1,14 +1,10 @@
 {
   "facility": {
     "id": "kurt-browning-arena",
-    "name": "Kurt Browning Arena"
+    "name": "Kurt Browning Arena",
+    "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
   },
   "weeks": [
-    {
-      "sunday": "2026-05-10",
-      "file": "2026-05-10.json",
-      "is_current": false
-    },
     {
       "sunday": "2026-05-17",
       "file": "2026-05-17.json",
@@ -17,16 +13,21 @@
     {
       "sunday": "2026-05-24",
       "file": "2026-05-24.json",
-      "is_current": true
+      "is_current": false
     },
     {
       "sunday": "2026-05-31",
       "file": "2026-05-31.json",
-      "is_current": false
+      "is_current": true
     },
     {
       "sunday": "2026-06-07",
       "file": "2026-06-07.json",
+      "is_current": false
+    },
+    {
+      "sunday": "2026-06-14",
+      "file": "2026-06-14.json",
       "is_current": false
     }
   ]
