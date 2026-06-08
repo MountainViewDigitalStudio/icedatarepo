@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-08T10:46:48.485662Z",
+  "generated_at": "2026-06-08T10:46:48.486195Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -8,8 +8,8 @@
     "address": "5133 52 St, Olds, AB"
   },
   "week": {
-    "start_date": "2026-06-07",
-    "end_date": "2026-06-13"
+    "start_date": "2026-06-21",
+    "end_date": "2026-06-27"
   },
   "ice_surfaces": {
     "main": {
@@ -17,8 +17,8 @@
       "slots": [
         {
           "type": "other",
-          "start": "2026-06-09T16:30:00-07:00",
-          "end": "2026-06-09T19:30:00-07:00",
+          "start": "2026-06-23T16:30:00-07:00",
+          "end": "2026-06-23T19:30:00-07:00",
           "label": "Canada Day Meeting",
           "notes": "Canada Day Meeting",
           "color": "#64748B",

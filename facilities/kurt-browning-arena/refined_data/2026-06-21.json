@@ -1,0 +1,132 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-06-08T10:46:48.506399Z",
+  "facility": {
+    "id": "kurt-browning-arena",
+    "name": "Kurt Browning Arena",
+    "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+  },
+  "week": {
+    "start_date": "2026-06-21",
+    "end_date": "2026-06-27"
+  },
+  "slots": [
+    {
+      "start": "2026-06-21T09:00:00-07:00",
+      "end": "2026-06-21T12:00:00-07:00",
+      "type": "other",
+      "label": "Wedding(Darbi Cunningham)",
+      "notes": "Wedding(Darbi Cunningham)",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-06-21T09:00:00-07:00",
+      "end": "2026-06-21T12:00:00-07:00",
+      "type": "other",
+      "label": "Wedding(Darbi Cunningham)",
+      "notes": "Wedding(Darbi Cunningham)",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-06-22T07:00:00-07:00",
+      "end": "2026-06-22T19:00:00-07:00",
+      "type": "other",
+      "label": "Out of School Care - Summer Programming",
+      "notes": "Out of School Care - Summer Programming",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-06-22T07:00:00-07:00",
+      "end": "2026-06-22T19:00:00-07:00",
+      "type": "other",
+      "label": "Out of School Care - Summer Programming",
+      "notes": "Out of School Care - Summer Programming",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-06-22T19:30:00-07:00",
+      "end": "2026-06-22T21:00:00-07:00",
+      "type": "games",
+      "label": "Pound Dogs vs Juiced",
+      "notes": "2026 Shilo Slo-Pitch League - GAMES - Pound Dogs vs Juiced",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-24T19:30:00-07:00",
+      "end": "2026-06-24T21:00:00-07:00",
+      "type": "games",
+      "label": "Juiced vs Thunder",
+      "notes": "2026 Shilo Slo-Pitch League - GAMES - Juiced vs Thunder",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-26T08:00:00-07:00",
+      "end": "2026-06-26T22:00:00-07:00",
+      "type": "games",
+      "label": "Justin Dezall Memorial Ball Tournament",
+      "notes": "Justin Dezall Memorial Ball Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-26T18:00:00-07:00",
+      "end": "2026-06-26T21:30:00-07:00",
+      "type": "games",
+      "label": "Justin Dezall Memorial Ball Tournament",
+      "notes": "Justin Dezall Memorial Ball Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-26T18:00:00-07:00",
+      "end": "2026-06-26T21:30:00-07:00",
+      "type": "games",
+      "label": "Justin Dezall Memorial Ball Tournament",
+      "notes": "Justin Dezall Memorial Ball Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-27T08:00:00-07:00",
+      "end": "2026-06-27T22:00:00-07:00",
+      "type": "games",
+      "label": "Justin Dezall Memorial Ball Tournament",
+      "notes": "Justin Dezall Memorial Ball Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-27T08:00:00-07:00",
+      "end": "2026-06-27T22:00:00-07:00",
+      "type": "games",
+      "label": "Justin Dezall Memorial Ball Tournament",
+      "notes": "Justin Dezall Memorial Ball Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-27T08:00:00-07:00",
+      "end": "2026-06-27T22:00:00-07:00",
+      "type": "games",
+      "label": "Justin Dezall Memorial Ball Tournament",
+      "notes": "Justin Dezall Memorial Ball Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-27T13:00:00-07:00",
+      "end": "2026-06-27T16:00:00-07:00",
+      "type": "rentals",
+      "label": "Baby Shower 30-50 ppl 1/2 Hall Rental",
+      "notes": "Baby Shower 30-50 ppl 1/2 Hall Rental",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    }
+  ]
+}
