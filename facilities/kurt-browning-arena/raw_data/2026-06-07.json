@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-06-07",
   "week_end": "2026-06-13",
-  "last_updated": "2026-06-01T03:55:15.953631-07:00",
+  "last_updated": "2026-06-08T03:44:54.321310-07:00",
   "slots": [
     {
       "start": "2026-06-08T15:30:00-07:00",
@@ -152,6 +152,34 @@
       "type": "practice",
       "label": "Hockey - 2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE",
       "notes": "2026 Caroline Minor Ball - Mosquitos - Grades 5-8 PRACTICE"
+    },
+    {
+      "start": "2026-06-12T08:00:00-07:00",
+      "end": "2026-06-12T17:00:00-07:00",
+      "type": "other",
+      "label": "Edward Schrader - Memorial Service",
+      "notes": "Edward Schrader - Memorial Service"
+    },
+    {
+      "start": "2026-06-13T09:00:00-07:00",
+      "end": "2026-06-13T21:00:00-07:00",
+      "type": "other",
+      "label": "Celebration of Life for Edward Schrader",
+      "notes": "Celebration of Life for Edward Schrader"
+    },
+    {
+      "start": "2026-06-13T09:00:00-07:00",
+      "end": "2026-06-13T21:00:00-07:00",
+      "type": "other",
+      "label": "Celebration of Life for Edward Schrader",
+      "notes": "Celebration of Life for Edward Schrader"
+    },
+    {
+      "start": "2026-06-13T09:00:00-07:00",
+      "end": "2026-06-13T21:00:00-07:00",
+      "type": "other",
+      "label": "Celebration of Life for Edward Schrader",
+      "notes": "Celebration of Life for Edward Schrader"
     }
   ]
 }
