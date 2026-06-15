@@ -1,13 +1,13 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-15T11:18:33.563588Z",
+  "generated_at": "2026-06-15T11:18:33.563692Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
   },
   "week": {
-    "start_date": "2026-06-21",
-    "end_date": "2026-06-27"
+    "start_date": "2026-06-28",
+    "end_date": "2026-07-04"
   },
   "view": "open_ice",
   "slots": []

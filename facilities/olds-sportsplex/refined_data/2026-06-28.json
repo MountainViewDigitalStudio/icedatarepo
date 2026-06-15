@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-15T11:18:33.478071Z",
+  "generated_at": "2026-06-15T11:18:33.478604Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -8,8 +8,8 @@
     "address": "5133 52 St, Olds, AB"
   },
   "week": {
-    "start_date": "2026-06-14",
-    "end_date": "2026-06-20"
+    "start_date": "2026-06-28",
+    "end_date": "2026-07-04"
   },
   "ice_surfaces": {
     "main": {
@@ -17,10 +17,10 @@
       "slots": [
         {
           "type": "other",
-          "start": "2026-06-15T13:00:00-07:00",
-          "end": "2026-06-15T16:30:00-07:00",
-          "label": "Team Meeting",
-          "notes": "Team Meeting",
+          "start": "2026-06-30T09:00:00-07:00",
+          "end": "2026-06-30T16:30:00-07:00",
+          "label": "Summer Camp Planning",
+          "notes": "Summer Camp Planning",
           "color": "#64748B",
           "type_display": "Other"
         }

@@ -1,14 +1,158 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-08T10:46:48.505091Z",
+  "generated_at": "2026-06-15T11:18:33.501438Z",
   "facility": {
     "id": "kurt-browning-arena",
-    "name": "Kurt Browning Arena",
-    "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+    "name": "Kurt Browning Arena"
   },
   "week": {
     "start_date": "2026-05-31",
     "end_date": "2026-06-06"
   },
-  "slots": []
+  "slots": [
+    {
+      "start": "2026-06-01T07:00:00-07:00",
+      "end": "2026-06-01T19:00:00-07:00",
+      "type": "other",
+      "label": "Out of School Care - Summer Programming",
+      "notes": "Out of School Care - Summer Programming",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-06-01T07:00:00-07:00",
+      "end": "2026-06-01T19:00:00-07:00",
+      "type": "other",
+      "label": "Out of School Care - Summer Programming",
+      "notes": "Out of School Care - Summer Programming",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-06-01T09:00:00-07:00",
+      "end": "2026-06-01T17:00:00-07:00",
+      "type": "other",
+      "label": "CANADA DAY - Community Picnic",
+      "notes": "CANADA DAY - Community Picnic",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-06-01T09:00:00-07:00",
+      "end": "2026-06-01T17:00:00-07:00",
+      "type": "other",
+      "label": "CANADA DAY - Community Picnic",
+      "notes": "CANADA DAY - Community Picnic",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-06-02T09:00:00-07:00",
+      "end": "2026-06-02T22:00:00-07:00",
+      "type": "other",
+      "label": "Torkelson Wedding",
+      "notes": "Torkelson Wedding",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-06-02T09:00:00-07:00",
+      "end": "2026-06-02T22:00:00-07:00",
+      "type": "other",
+      "label": "Torkelson Wedding",
+      "notes": "Torkelson Wedding",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-06-03T09:00:00-07:00",
+      "end": "2026-06-03T21:00:00-07:00",
+      "type": "games",
+      "label": "Shilo Slow-Pitch Tournament",
+      "notes": "Shilo Slow-Pitch Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-03T09:00:00-07:00",
+      "end": "2026-06-03T21:00:00-07:00",
+      "type": "games",
+      "label": "Shilo Slow-Pitch Tournament",
+      "notes": "Shilo Slow-Pitch Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-03T09:00:00-07:00",
+      "end": "2026-06-03T21:00:00-07:00",
+      "type": "games",
+      "label": "Shilo Slow-Pitch Tournament",
+      "notes": "Shilo Slow-Pitch Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-03T09:00:00-07:00",
+      "end": "2026-06-03T22:00:00-07:00",
+      "type": "other",
+      "label": "Torkelson Wedding",
+      "notes": "Torkelson Wedding",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-06-03T09:00:00-07:00",
+      "end": "2026-06-03T22:00:00-07:00",
+      "type": "other",
+      "label": "Torkelson Wedding",
+      "notes": "Torkelson Wedding",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-06-04T09:00:00-07:00",
+      "end": "2026-06-04T21:00:00-07:00",
+      "type": "games",
+      "label": "Shilo Slow-Pitch Tournament",
+      "notes": "Shilo Slow-Pitch Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-04T09:00:00-07:00",
+      "end": "2026-06-04T21:00:00-07:00",
+      "type": "games",
+      "label": "Shilo Slow-Pitch Tournament",
+      "notes": "Shilo Slow-Pitch Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-04T09:00:00-07:00",
+      "end": "2026-06-04T21:00:00-07:00",
+      "type": "games",
+      "label": "Shilo Slow-Pitch Tournament",
+      "notes": "Shilo Slow-Pitch Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-04T09:00:00-07:00",
+      "end": "2026-06-04T22:00:00-07:00",
+      "type": "other",
+      "label": "Torkelson Wedding",
+      "notes": "Torkelson Wedding",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-06-04T09:00:00-07:00",
+      "end": "2026-06-04T22:00:00-07:00",
+      "type": "other",
+      "label": "Torkelson Wedding",
+      "notes": "Torkelson Wedding",
+      "color": "#64748B",
+      "type_display": "Other"
+    }
+  ]
 }

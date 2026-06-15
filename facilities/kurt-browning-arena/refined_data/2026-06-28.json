@@ -1,0 +1,59 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-06-15T11:18:33.503351Z",
+  "facility": {
+    "id": "kurt-browning-arena",
+    "name": "Kurt Browning Arena"
+  },
+  "week": {
+    "start_date": "2026-06-28",
+    "end_date": "2026-07-04"
+  },
+  "slots": [
+    {
+      "start": "2026-06-28T08:00:00-07:00",
+      "end": "2026-06-28T22:00:00-07:00",
+      "type": "games",
+      "label": "Justin Dezall Memorial Ball Tournament",
+      "notes": "Justin Dezall Memorial Ball Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-28T08:00:00-07:00",
+      "end": "2026-06-28T22:00:00-07:00",
+      "type": "games",
+      "label": "Justin Dezall Memorial Ball Tournament",
+      "notes": "Justin Dezall Memorial Ball Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-28T08:00:00-07:00",
+      "end": "2026-06-28T22:00:00-07:00",
+      "type": "games",
+      "label": "Justin Dezall Memorial Ball Tournament",
+      "notes": "Justin Dezall Memorial Ball Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-29T19:30:00-07:00",
+      "end": "2026-06-29T21:00:00-07:00",
+      "type": "games",
+      "label": "Juiced vs Beerly Legal",
+      "notes": "2026 Shilo Slo-Pitch League - GAMES - Juiced vs Beerly Legal",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-29T19:30:00-07:00",
+      "end": "2026-06-29T21:00:00-07:00",
+      "type": "games",
+      "label": "Pine Martens vs Sons of Pitches",
+      "notes": "2026 Shilo Slo-Pitch League - GAMES - Pine Martens vs Sons of Pitches",
+      "color": "#EF4444",
+      "type_display": "Games"
+    }
+  ]
+}
