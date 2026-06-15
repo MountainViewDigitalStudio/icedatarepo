@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-08T10:45:06.992540Z",
+  "generated_at": "2026-06-15T11:17:24.926545Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -16,7 +16,15 @@
   "ice_surfaces": {
     "main": {
       "name": "Main Ice Surface",
-      "slots": []
+      "slots": [
+        {
+          "type": "practice",
+          "start": "2026-06-15T13:00:00-07:00",
+          "end": "2026-06-15T16:30:00-07:00",
+          "label": "Team Meeting",
+          "notes": "Team Meeting"
+        }
+      ]
     },
     "auxiliary": {
       "name": "Auxiliary Ice Surface",
