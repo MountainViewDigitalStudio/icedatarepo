@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-06-14",
   "week_end": "2026-06-20",
-  "last_updated": "2026-06-08T03:44:54.462834-07:00",
+  "last_updated": "2026-06-15T04:17:00.744060-07:00",
   "slots": [
     {
       "start": "2026-06-14T13:00:00-07:00",
@@ -75,6 +75,13 @@
       "type": "game",
       "label": "Mosquitos - Caroline vs Arbutus 2",
       "notes": "2026 Caroline Minor Ball GAMES - Mosquitos - Caroline vs Arbutus 2"
+    },
+    {
+      "start": "2026-06-16T19:00:00-07:00",
+      "end": "2026-06-16T21:00:00-07:00",
+      "type": "other",
+      "label": "2026 Shilo Slo-Pitch League - GAMES - Make up Game - June 10 - Rained Out",
+      "notes": "2026 Shilo Slo-Pitch League - GAMES - Make up Game - June 10 - Rained Out"
     },
     {
       "start": "2026-06-17T15:30:00-07:00",
