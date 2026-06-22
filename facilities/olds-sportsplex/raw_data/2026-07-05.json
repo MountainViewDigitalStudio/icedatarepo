@@ -9,22 +9,14 @@
     "source_url": "https://app.univerusrec.com/oldsrecreationpub/calendars/facilities/index.asp"
   },
   "week": {
-    "start_date": "2026-06-21",
-    "end_date": "2026-06-27",
-    "sunday": "2026-06-21"
+    "start_date": "2026-07-05",
+    "end_date": "2026-07-11",
+    "sunday": "2026-07-05"
   },
   "ice_surfaces": {
     "main": {
       "name": "Main Ice Surface",
-      "slots": [
-        {
-          "type": "practice",
-          "start": "2026-06-23T09:00:00-07:00",
-          "end": "2026-06-23T12:00:00-07:00",
-          "label": "Summer Camp Meeting",
-          "notes": "Summer Camp Meeting"
-        }
-      ]
+      "slots": []
     },
     "auxiliary": {
       "name": "Auxiliary Ice Surface",
