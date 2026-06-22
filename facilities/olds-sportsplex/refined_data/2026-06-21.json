@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-15T11:18:33.478351Z",
+  "generated_at": "2026-06-22T11:08:25.647080Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -17,10 +17,10 @@
       "slots": [
         {
           "type": "other",
-          "start": "2026-06-23T16:30:00-07:00",
-          "end": "2026-06-23T19:30:00-07:00",
-          "label": "Canada Day Meeting",
-          "notes": "Canada Day Meeting",
+          "start": "2026-06-23T09:00:00-07:00",
+          "end": "2026-06-23T12:00:00-07:00",
+          "label": "Summer Camp Meeting",
+          "notes": "Summer Camp Meeting",
           "color": "#64748B",
           "type_display": "Other"
         }
