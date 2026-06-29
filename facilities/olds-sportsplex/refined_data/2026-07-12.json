@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-06-29T10:46:06.986258Z",
+  "facility": {
+    "id": "olds-sportsplex",
+    "name": "Olds Sportsplex",
+    "city": "Olds",
+    "address": "5133 52 St, Olds, AB"
+  },
+  "week": {
+    "start_date": "2026-07-12",
+    "end_date": "2026-07-18"
+  },
+  "ice_surfaces": {
+    "main": {
+      "name": "Main Ice Surface",
+      "slots": [
+        {
+          "type": "public",
+          "start": "2026-07-14T10:00:00-07:00",
+          "end": "2026-07-14T11:00:00-07:00",
+          "label": "MVES outreach- Drop in",
+          "notes": "MVES outreach- Drop in",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        }
+      ]
+    },
+    "auxiliary": {
+      "name": "Auxiliary Ice Surface",
+      "slots": []
+    }
+  }
+}

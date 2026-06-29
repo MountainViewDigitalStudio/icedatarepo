@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-06-22T11:08:25.666958Z",
+  "generated_at": "2026-06-29T10:46:07.004684Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena"
@@ -54,6 +54,24 @@
       "notes": "2026 Shilo Slo-Pitch League - GAMES - Pound Dogs vs Juiced",
       "color": "#EF4444",
       "type_display": "Games"
+    },
+    {
+      "start": "2026-06-23T19:00:00-07:00",
+      "end": "2026-06-23T21:30:00-07:00",
+      "type": "games",
+      "label": "Make up game - Rained out",
+      "notes": "Make up game - Rained out",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-06-24T18:00:00-07:00",
+      "end": "2026-06-24T21:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Meeting - Sylvan Lake & Caroline Minor Hockey 30ppl",
+      "notes": "Meeting - Sylvan Lake & Caroline Minor Hockey 30ppl",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
     },
     {
       "start": "2026-06-24T19:30:00-07:00",

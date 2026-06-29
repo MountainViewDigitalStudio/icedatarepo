@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-06-29T10:46:07.068779Z",
+  "facility": {
+    "id": "open-ice",
+    "name": "Open Ice (Public & Shinny)"
+  },
+  "week": {
+    "start_date": "2026-07-12",
+    "end_date": "2026-07-18"
+  },
+  "view": "open_ice",
+  "slots": [
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-07-14T10:00:00-07:00",
+      "end": "2026-07-14T11:00:00-07:00",
+      "label": "MVES outreach- Drop in",
+      "notes": "MVES outreach- Drop in",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    }
+  ]
+}
