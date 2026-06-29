@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-06-21",
   "week_end": "2026-06-27",
-  "last_updated": "2026-06-22T04:06:58.799255-07:00",
+  "last_updated": "2026-06-29T03:44:43.794131-07:00",
   "slots": [
     {
       "start": "2026-06-21T09:00:00-07:00",
@@ -40,6 +40,20 @@
       "type": "game",
       "label": "Pound Dogs vs Juiced",
       "notes": "2026 Shilo Slo-Pitch League - GAMES - Pound Dogs vs Juiced"
+    },
+    {
+      "start": "2026-06-23T19:00:00-07:00",
+      "end": "2026-06-23T21:30:00-07:00",
+      "type": "other",
+      "label": "Make up game - Rained out",
+      "notes": "Make up game - Rained out"
+    },
+    {
+      "start": "2026-06-24T18:00:00-07:00",
+      "end": "2026-06-24T21:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Meeting - Sylvan Lake & Caroline Minor Hockey 30ppl",
+      "notes": "Meeting - Sylvan Lake & Caroline Minor Hockey 30ppl"
     },
     {
       "start": "2026-06-24T19:30:00-07:00",
