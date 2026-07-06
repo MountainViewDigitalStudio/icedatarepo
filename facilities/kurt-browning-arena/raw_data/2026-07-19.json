@@ -1,0 +1,52 @@
+{
+  "facility_name": "Kurt Browning Arena",
+  "facility_id": "kurt-browning-arena",
+  "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
+  "week_start": "2026-07-19",
+  "week_end": "2026-07-25",
+  "last_updated": "2026-07-06T03:41:43.099502-07:00",
+  "slots": [
+    {
+      "start": "2026-07-20T08:00:00-07:00",
+      "end": "2026-07-20T20:00:00-07:00",
+      "type": "other",
+      "label": "Maintenance - Ceiling Tile Replacement",
+      "notes": "Maintenance - Ceiling Tile Replacement"
+    },
+    {
+      "start": "2026-07-21T08:00:00-07:00",
+      "end": "2026-07-21T20:00:00-07:00",
+      "type": "other",
+      "label": "Maintenance - Ceiling Tile Replacement",
+      "notes": "Maintenance - Ceiling Tile Replacement"
+    },
+    {
+      "start": "2026-07-22T08:00:00-07:00",
+      "end": "2026-07-22T20:00:00-07:00",
+      "type": "other",
+      "label": "Maintenance - Ceiling Tile Replacement",
+      "notes": "Maintenance - Ceiling Tile Replacement"
+    },
+    {
+      "start": "2026-07-23T08:00:00-07:00",
+      "end": "2026-07-23T20:00:00-07:00",
+      "type": "other",
+      "label": "Maintenance - Ceiling Tile Replacement",
+      "notes": "Maintenance - Ceiling Tile Replacement"
+    },
+    {
+      "start": "2026-07-24T08:00:00-07:00",
+      "end": "2026-07-24T20:00:00-07:00",
+      "type": "other",
+      "label": "Maintenance - Ceiling Tile Replacement",
+      "notes": "Maintenance - Ceiling Tile Replacement"
+    },
+    {
+      "start": "2026-07-25T08:00:00-07:00",
+      "end": "2026-07-25T20:00:00-07:00",
+      "type": "other",
+      "label": "Maintenance - Ceiling Tile Replacement",
+      "notes": "Maintenance - Ceiling Tile Replacement"
+    }
+  ]
+}
