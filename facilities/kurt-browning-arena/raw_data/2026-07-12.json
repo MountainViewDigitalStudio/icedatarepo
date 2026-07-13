@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-07-12",
   "week_end": "2026-07-18",
-  "last_updated": "2026-07-06T03:41:42.514033-07:00",
+  "last_updated": "2026-07-13T03:12:55.899907-07:00",
   "slots": [
     {
       "start": "2026-07-13T08:00:00-07:00",
@@ -33,13 +33,6 @@
       "type": "other",
       "label": "Monthly Meetings-Taqa",
       "notes": "Monthly Meetings-Taqa"
-    },
-    {
-      "start": "2026-07-15T19:00:00-07:00",
-      "end": "2026-07-15T21:00:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Caroline Minor Hockey Meeting 2025/26",
-      "notes": "Caroline Minor Hockey Meeting 2025/26"
     }
   ]
 }
