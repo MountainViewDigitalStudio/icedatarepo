@@ -1,0 +1,55 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-07-20T10:08:42.347470Z",
+  "facility": {
+    "id": "olds-sportsplex",
+    "name": "Olds Sportsplex",
+    "city": "Olds",
+    "address": "5133 52 St, Olds, AB",
+    "source_url": "https://app.univerusrec.com/oldsrecreationpub/calendars/facilities/index.asp"
+  },
+  "week": {
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-08",
+    "sunday": "2026-08-02"
+  },
+  "ice_surfaces": {
+    "main": {
+      "name": "Main Ice Surface",
+      "slots": []
+    },
+    "auxiliary": {
+      "name": "Auxiliary Ice Surface",
+      "slots": [
+        {
+          "type": "practice",
+          "start": "2026-08-04T07:00:00-07:00",
+          "end": "2026-08-04T17:00:00-07:00",
+          "label": "Summer Camps",
+          "notes": "Summer Camps"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-05T07:00:00-07:00",
+          "end": "2026-08-05T17:00:00-07:00",
+          "label": "Summer Camps",
+          "notes": "Summer Camps"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-06T07:00:00-07:00",
+          "end": "2026-08-06T17:00:00-07:00",
+          "label": "Summer Camps",
+          "notes": "Summer Camps"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-07T07:00:00-07:00",
+          "end": "2026-08-07T17:00:00-07:00",
+          "label": "Summer Camps",
+          "notes": "Summer Camps"
+        }
+      ]
+    }
+  }
+}
