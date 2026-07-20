@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-13T10:14:56.008216Z",
+  "generated_at": "2026-07-20T10:09:55.336752Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena",
@@ -12,13 +12,13 @@
   },
   "slots": [
     {
-      "start": "2026-07-20T08:00:00-07:00",
+      "start": "2026-07-20T15:00:00-07:00",
       "end": "2026-07-20T20:00:00-07:00",
-      "type": "adult_rec",
-      "label": "Maintenance - Ceiling Tile Replacement",
-      "notes": "Maintenance - Ceiling Tile Replacement",
-      "color": "#F59E0B",
-      "type_display": "Adult Rec Hockey"
+      "type": "other",
+      "label": "Seniors Housing Open House",
+      "notes": "Seniors Housing Open House",
+      "color": "#64748B",
+      "type_display": "Other"
     },
     {
       "start": "2026-07-21T08:00:00-07:00",
