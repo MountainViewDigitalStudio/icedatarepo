@@ -1,0 +1,24 @@
+{
+  "facility_name": "Kurt Browning Arena",
+  "facility_id": "kurt-browning-arena",
+  "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
+  "week_start": "2026-08-02",
+  "week_end": "2026-08-08",
+  "last_updated": "2026-07-20T03:08:31.750731-07:00",
+  "slots": [
+    {
+      "start": "2026-08-08T10:00:00-07:00",
+      "end": "2026-08-08T12:45:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "Ringette Camp - 1 FLOOD 11am  2 FLOOD 12:30pm"
+    },
+    {
+      "start": "2026-08-08T14:00:00-07:00",
+      "end": "2026-08-08T19:00:00-07:00",
+      "type": "other",
+      "label": "Darryl ST. GERMAIN - Funeral",
+      "notes": "Darryl ST. GERMAIN - Funeral"
+    }
+  ]
+}
