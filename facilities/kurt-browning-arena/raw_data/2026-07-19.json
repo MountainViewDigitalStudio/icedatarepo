@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-07-19",
   "week_end": "2026-07-25",
-  "last_updated": "2026-07-20T03:08:30.320360-07:00",
+  "last_updated": "2026-07-27T03:24:53.776002-07:00",
   "slots": [
     {
       "start": "2026-07-20T15:00:00-07:00",
@@ -33,6 +33,13 @@
       "type": "other",
       "label": "Maintenance - Ceiling Tile Replacement",
       "notes": "Maintenance - Ceiling Tile Replacement"
+    },
+    {
+      "start": "2026-07-23T09:00:00-07:00",
+      "end": "2026-07-23T12:00:00-07:00",
+      "type": "other",
+      "label": "Recovery Alberta",
+      "notes": "Recovery Alberta"
     },
     {
       "start": "2026-07-24T08:00:00-07:00",
