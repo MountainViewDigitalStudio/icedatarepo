@@ -1,0 +1,63 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-07-27T10:27:21.739076Z",
+  "facility": {
+    "id": "open-ice",
+    "name": "Open Ice (Public & Shinny)"
+  },
+  "week": {
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-15"
+  },
+  "view": "open_ice",
+  "slots": [
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-08-10T20:15:00-07:00",
+      "end": "2026-08-10T21:15:00-07:00",
+      "label": "Public Booking",
+      "notes": "Public Booking",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-08-11T10:00:00-07:00",
+      "end": "2026-08-11T11:00:00-07:00",
+      "label": "MVES outreach- Drop in",
+      "notes": "MVES outreach- Drop in",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-08-12T19:45:00-07:00",
+      "end": "2026-08-12T20:45:00-07:00",
+      "label": "Public Booking",
+      "notes": "Public Booking",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-08-14T20:15:00-07:00",
+      "end": "2026-08-14T21:15:00-07:00",
+      "label": "Public Booking",
+      "notes": "Public Booking",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    }
+  ]
+}
