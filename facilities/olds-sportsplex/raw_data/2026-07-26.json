@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-27T10:25:12.255403Z",
+  "generated_at": "2026-08-03T10:24:03.333340Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -16,7 +16,50 @@
   "ice_surfaces": {
     "main": {
       "name": "Main Ice Surface",
-      "slots": []
+      "slots": [
+        {
+          "type": "practice",
+          "start": "2026-07-27T09:00:00-07:00",
+          "end": "2026-07-27T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-07-28T09:00:00-07:00",
+          "end": "2026-07-28T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-07-29T09:00:00-07:00",
+          "end": "2026-07-29T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-07-30T09:00:00-07:00",
+          "end": "2026-07-30T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-07-31T09:00:00-07:00",
+          "end": "2026-07-31T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-01T09:00:00-07:00",
+          "end": "2026-08-01T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
+        }
+      ]
     },
     "auxiliary": {
       "name": "Auxiliary Ice Surface",

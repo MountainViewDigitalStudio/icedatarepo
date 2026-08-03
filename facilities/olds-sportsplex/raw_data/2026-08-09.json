@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-27T10:25:12.255403Z",
+  "generated_at": "2026-08-03T10:24:03.333340Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -19,6 +19,13 @@
       "slots": [
         {
           "type": "practice",
+          "start": "2026-08-10T09:00:00-07:00",
+          "end": "2026-08-10T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
+        },
+        {
+          "type": "practice",
           "start": "2026-08-10T18:00:00-07:00",
           "end": "2026-08-10T20:00:00-07:00",
           "label": "Carstairs Skating Club",
@@ -33,10 +40,10 @@
         },
         {
           "type": "practice",
-          "start": "2026-08-11T10:00:00-07:00",
-          "end": "2026-08-11T11:00:00-07:00",
-          "label": "MVES outreach- Drop in",
-          "notes": "MVES outreach- Drop in"
+          "start": "2026-08-11T09:00:00-07:00",
+          "end": "2026-08-11T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
         },
         {
           "type": "practice",
@@ -51,6 +58,13 @@
           "end": "2026-08-11T19:30:00-07:00",
           "label": "Body Contact",
           "notes": "Grizzlys  August 2026 Hockey School - Body Contact"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-12T09:00:00-07:00",
+          "end": "2026-08-12T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
         },
         {
           "type": "practice",
@@ -75,6 +89,13 @@
         },
         {
           "type": "practice",
+          "start": "2026-08-13T09:00:00-07:00",
+          "end": "2026-08-13T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
+        },
+        {
+          "type": "practice",
           "start": "2026-08-13T17:15:00-07:00",
           "end": "2026-08-13T18:15:00-07:00",
           "label": "Shoot to Score",
@@ -89,6 +110,13 @@
         },
         {
           "type": "practice",
+          "start": "2026-08-14T09:00:00-07:00",
+          "end": "2026-08-14T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
+        },
+        {
+          "type": "practice",
           "start": "2026-08-14T18:00:00-07:00",
           "end": "2026-08-14T20:00:00-07:00",
           "label": "Carstairs Skating Club",
@@ -100,6 +128,13 @@
           "end": "2026-08-14T21:15:00-07:00",
           "label": "Public Booking",
           "notes": "Public Booking"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-15T09:00:00-07:00",
+          "end": "2026-08-15T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
         }
       ]
     },

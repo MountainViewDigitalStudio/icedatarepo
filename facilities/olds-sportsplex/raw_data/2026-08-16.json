@@ -1,0 +1,139 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-08-03T10:24:03.333340Z",
+  "facility": {
+    "id": "olds-sportsplex",
+    "name": "Olds Sportsplex",
+    "city": "Olds",
+    "address": "5133 52 St, Olds, AB",
+    "source_url": "https://app.univerusrec.com/oldsrecreationpub/calendars/facilities/index.asp"
+  },
+  "week": {
+    "start_date": "2026-08-16",
+    "end_date": "2026-08-22",
+    "sunday": "2026-08-16"
+  },
+  "ice_surfaces": {
+    "main": {
+      "name": "Main Ice Surface",
+      "slots": [
+        {
+          "type": "practice",
+          "start": "2026-08-17T09:00:00-07:00",
+          "end": "2026-08-17T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-17T13:15:00-07:00",
+          "end": "2026-08-17T14:30:00-07:00",
+          "label": "Group A",
+          "notes": "Grizzlys  August 2026 Hockey School - Group A"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-17T18:00:00-07:00",
+          "end": "2026-08-17T20:00:00-07:00",
+          "label": "Carstairs Skating Club",
+          "notes": "Carstairs Skating Club"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-17T20:15:00-07:00",
+          "end": "2026-08-17T21:15:00-07:00",
+          "label": "Public Booking",
+          "notes": "Public Booking"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-18T09:00:00-07:00",
+          "end": "2026-08-18T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-18T13:15:00-07:00",
+          "end": "2026-08-18T14:30:00-07:00",
+          "label": "Group B",
+          "notes": "Grizzlys  August 2026 Hockey School - Group B"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-19T09:00:00-07:00",
+          "end": "2026-08-19T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-19T13:15:00-07:00",
+          "end": "2026-08-19T14:30:00-07:00",
+          "label": "Group A",
+          "notes": "Grizzlys  August 2026 Hockey School - Group A"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-19T18:00:00-07:00",
+          "end": "2026-08-19T20:00:00-07:00",
+          "label": "Carstairs Skating Club",
+          "notes": "Carstairs Skating Club"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-19T20:15:00-07:00",
+          "end": "2026-08-19T21:15:00-07:00",
+          "label": "Public Booking",
+          "notes": "Public Booking"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-20T09:00:00-07:00",
+          "end": "2026-08-20T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-20T13:15:00-07:00",
+          "end": "2026-08-20T14:30:00-07:00",
+          "label": "Group B",
+          "notes": "Grizzlys  August 2026 Hockey School - Group B"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-20T18:00:00-07:00",
+          "end": "2026-08-20T20:00:00-07:00",
+          "label": "Carstairs Skating Club",
+          "notes": "Carstairs Skating Club"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-21T09:00:00-07:00",
+          "end": "2026-08-21T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-21T19:00:00-07:00",
+          "end": "2026-08-21T20:00:00-07:00",
+          "label": "Public Booking",
+          "notes": "Public Booking"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-22T09:00:00-07:00",
+          "end": "2026-08-22T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
+        }
+      ]
+    },
+    "auxiliary": {
+      "name": "Auxiliary Ice Surface",
+      "slots": []
+    }
+  }
+}
