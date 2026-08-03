@@ -4,8 +4,29 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-08-02",
   "week_end": "2026-08-08",
-  "last_updated": "2026-07-27T03:24:54.583036-07:00",
+  "last_updated": "2026-08-03T03:23:50.044313-07:00",
   "slots": [
+    {
+      "start": "2026-08-06T09:00:00-07:00",
+      "end": "2026-08-06T12:00:00-07:00",
+      "type": "other",
+      "label": "Recovery Alberta Meeting",
+      "notes": "Recovery Alberta Meeting"
+    },
+    {
+      "start": "2026-08-07T15:00:00-07:00",
+      "end": "2026-08-07T20:00:00-07:00",
+      "type": "other",
+      "label": "Funeral Service Errol St. Germaine",
+      "notes": "Funeral Service Errol St. Germaine"
+    },
+    {
+      "start": "2026-08-08T08:00:00-07:00",
+      "end": "2026-08-08T20:00:00-07:00",
+      "type": "other",
+      "label": "Funeral Service Errol St. Germaine",
+      "notes": "Funeral Service Errol St. Germaine"
+    },
     {
       "start": "2026-08-08T10:00:00-07:00",
       "end": "2026-08-08T12:45:00-07:00",
@@ -17,8 +38,8 @@
       "start": "2026-08-08T14:00:00-07:00",
       "end": "2026-08-08T19:00:00-07:00",
       "type": "other",
-      "label": "Darryl ST. GERMAIN - Funeral",
-      "notes": "Darryl ST. GERMAIN - Funeral"
+      "label": "Funeral Service Errol St. Germaine",
+      "notes": "Funeral Service Errol St. Germaine"
     }
   ]
 }
