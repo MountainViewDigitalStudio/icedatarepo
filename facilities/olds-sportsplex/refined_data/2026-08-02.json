@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-27T10:27:21.658039Z",
+  "generated_at": "2026-08-03T10:25:42.111893Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -14,7 +14,62 @@
   "ice_surfaces": {
     "main": {
       "name": "Main Ice Surface",
-      "slots": []
+      "slots": [
+        {
+          "type": "other",
+          "start": "2026-08-03T09:00:00-07:00",
+          "end": "2026-08-03T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-04T09:00:00-07:00",
+          "end": "2026-08-04T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-05T09:00:00-07:00",
+          "end": "2026-08-05T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-06T09:00:00-07:00",
+          "end": "2026-08-06T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-07T09:00:00-07:00",
+          "end": "2026-08-07T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-08T09:00:00-07:00",
+          "end": "2026-08-08T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School",
+          "color": "#64748B",
+          "type_display": "Other"
+        }
+      ]
     },
     "auxiliary": {
       "name": "Auxiliary Ice Surface",

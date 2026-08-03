@@ -1,0 +1,60 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-08-03T10:25:42.133324Z",
+  "facility": {
+    "id": "kurt-browning-arena",
+    "name": "Kurt Browning Arena",
+    "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+  },
+  "week": {
+    "start_date": "2026-08-16",
+    "end_date": "2026-08-22"
+  },
+  "slots": [
+    {
+      "start": "2026-08-16T10:00:00-07:00",
+      "end": "2026-08-16T12:45:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "2026 Ringette Camp - Group 2 - FLOOD 1 11am  FLOOD 2 12:30pm",
+      "color": "#6B7280",
+      "type_display": "Maintenance"
+    },
+    {
+      "start": "2026-08-17T10:00:00-07:00",
+      "end": "2026-08-17T12:45:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "2026 Ringette Camp - Group 2 - FLOOD 1 11am  FLOOD 2 12:30pm",
+      "color": "#6B7280",
+      "type_display": "Maintenance"
+    },
+    {
+      "start": "2026-08-18T10:00:00-07:00",
+      "end": "2026-08-18T12:45:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "2026 Ringette Camp - Group 2 - FLOOD 1 11am  FLOOD 2 12:30pm",
+      "color": "#6B7280",
+      "type_display": "Maintenance"
+    },
+    {
+      "start": "2026-08-19T10:00:00-07:00",
+      "end": "2026-08-19T12:45:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "2026 Ringette Camp - Group 2 - FLOOD 1 11am  FLOOD 2 12:30pm",
+      "color": "#6B7280",
+      "type_display": "Maintenance"
+    },
+    {
+      "start": "2026-08-20T09:00:00-07:00",
+      "end": "2026-08-20T12:00:00-07:00",
+      "type": "other",
+      "label": "Recovery Alberta Meeting",
+      "notes": "Recovery Alberta Meeting",
+      "color": "#64748B",
+      "type_display": "Other"
+    }
+  ]
+}

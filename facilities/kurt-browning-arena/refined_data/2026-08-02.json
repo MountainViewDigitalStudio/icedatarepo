@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-27T10:27:21.677999Z",
+  "generated_at": "2026-08-03T10:25:42.132678Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena",
@@ -11,6 +11,33 @@
     "end_date": "2026-08-08"
   },
   "slots": [
+    {
+      "start": "2026-08-06T09:00:00-07:00",
+      "end": "2026-08-06T12:00:00-07:00",
+      "type": "other",
+      "label": "Recovery Alberta Meeting",
+      "notes": "Recovery Alberta Meeting",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-08-07T15:00:00-07:00",
+      "end": "2026-08-07T20:00:00-07:00",
+      "type": "other",
+      "label": "Funeral Service Errol St. Germaine",
+      "notes": "Funeral Service Errol St. Germaine",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-08-08T08:00:00-07:00",
+      "end": "2026-08-08T20:00:00-07:00",
+      "type": "other",
+      "label": "Funeral Service Errol St. Germaine",
+      "notes": "Funeral Service Errol St. Germaine",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
     {
       "start": "2026-08-08T10:00:00-07:00",
       "end": "2026-08-08T12:45:00-07:00",
@@ -24,8 +51,8 @@
       "start": "2026-08-08T14:00:00-07:00",
       "end": "2026-08-08T19:00:00-07:00",
       "type": "other",
-      "label": "Darryl ST. GERMAIN - Funeral",
-      "notes": "Darryl ST. GERMAIN - Funeral",
+      "label": "Funeral Service Errol St. Germaine",
+      "notes": "Funeral Service Errol St. Germaine",
       "color": "#64748B",
       "type_display": "Other"
     }

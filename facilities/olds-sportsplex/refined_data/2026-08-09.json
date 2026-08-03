@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-07-27T10:27:21.658240Z",
+  "generated_at": "2026-08-03T10:25:42.112182Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -15,6 +15,15 @@
     "main": {
       "name": "Main Ice Surface",
       "slots": [
+        {
+          "type": "other",
+          "start": "2026-08-10T09:00:00-07:00",
+          "end": "2026-08-10T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
         {
           "type": "skating_club",
           "start": "2026-08-10T18:00:00-07:00",
@@ -34,13 +43,13 @@
           "type_display": "Public / Family"
         },
         {
-          "type": "public",
-          "start": "2026-08-11T10:00:00-07:00",
-          "end": "2026-08-11T11:00:00-07:00",
-          "label": "MVES outreach- Drop in",
-          "notes": "MVES outreach- Drop in",
-          "color": "#10B981",
-          "type_display": "Public / Family"
+          "type": "other",
+          "start": "2026-08-11T09:00:00-07:00",
+          "end": "2026-08-11T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "other",
@@ -57,6 +66,15 @@
           "end": "2026-08-11T19:30:00-07:00",
           "label": "Body Contact",
           "notes": "Grizzlys  August 2026 Hockey School - Body Contact",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-12T09:00:00-07:00",
+          "end": "2026-08-12T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -89,6 +107,15 @@
         },
         {
           "type": "other",
+          "start": "2026-08-13T09:00:00-07:00",
+          "end": "2026-08-13T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
           "start": "2026-08-13T17:15:00-07:00",
           "end": "2026-08-13T18:15:00-07:00",
           "label": "Shoot to Score",
@@ -102,6 +129,15 @@
           "end": "2026-08-13T19:30:00-07:00",
           "label": "Body Contact",
           "notes": "Grizzlys  August 2026 Hockey School - Body Contact",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-14T09:00:00-07:00",
+          "end": "2026-08-14T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -122,6 +158,15 @@
           "notes": "Public Booking",
           "color": "#10B981",
           "type_display": "Public / Family"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-15T09:00:00-07:00",
+          "end": "2026-08-15T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School",
+          "color": "#64748B",
+          "type_display": "Other"
         }
       ]
     },

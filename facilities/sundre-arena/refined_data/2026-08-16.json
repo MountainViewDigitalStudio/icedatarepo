@@ -1,13 +1,13 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-03T10:25:42.080430Z",
+  "generated_at": "2026-08-03T10:25:42.081079Z",
   "facility": {
     "id": "sundre-arena",
     "name": "Sundre Arena"
   },
   "week": {
-    "start_date": "2026-08-02",
-    "end_date": "2026-08-08"
+    "start_date": "2026-08-16",
+    "end_date": "2026-08-22"
   },
   "slots": []
 }
