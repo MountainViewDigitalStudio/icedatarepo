@@ -4,21 +4,21 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-08-09",
   "week_end": "2026-08-15",
-  "last_updated": "2026-08-03T03:23:50.460430-07:00",
+  "last_updated": "2026-08-10T02:38:14.213438-07:00",
   "slots": [
     {
       "start": "2026-08-09T10:00:00-07:00",
       "end": "2026-08-09T12:45:00-07:00",
       "type": "maintenance",
       "label": "Maintenance",
-      "notes": "Ringette Camp - 1 FLOOD 11am  2 FLOOD 12:30pm"
+      "notes": "Ringette Camp - Group 1 - See Aug 8 for Flood Schedule"
     },
     {
       "start": "2026-08-10T10:00:00-07:00",
       "end": "2026-08-10T12:45:00-07:00",
       "type": "maintenance",
       "label": "Maintenance",
-      "notes": "Ringette Camp - 1 FLOOD 11am  2 FLOOD 12:30pm"
+      "notes": "Ringette Camp - Group 1 - See Aug 8 for Flood Schedule"
     },
     {
       "start": "2026-08-10T17:00:00-07:00",
@@ -32,7 +32,7 @@
       "end": "2026-08-11T12:45:00-07:00",
       "type": "maintenance",
       "label": "Maintenance",
-      "notes": "Ringette Camp - 1 FLOOD 11am  2 FLOOD 12:30pm"
+      "notes": "Ringette Camp - Group 1 - See Aug 8 for Flood Schedule"
     },
     {
       "start": "2026-08-12T07:00:00-07:00",

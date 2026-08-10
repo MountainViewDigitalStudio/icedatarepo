@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-08-02",
   "week_end": "2026-08-08",
-  "last_updated": "2026-08-03T03:23:50.044313-07:00",
+  "last_updated": "2026-08-10T02:38:13.856917-07:00",
   "slots": [
     {
       "start": "2026-08-06T09:00:00-07:00",
@@ -29,10 +29,31 @@
     },
     {
       "start": "2026-08-08T10:00:00-07:00",
+      "end": "2026-08-08T11:15:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Ringette Camp - Group 1 - SKATE Ringette Group 1"
+    },
+    {
+      "start": "2026-08-08T11:15:00-07:00",
+      "end": "2026-08-08T11:30:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "Ringette Camp - Group 1 - FLOOD 1"
+    },
+    {
+      "start": "2026-08-08T11:30:00-07:00",
+      "end": "2026-08-08T12:30:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Ringette Camp - Group 1 - SKATE Ringette Group 1"
+    },
+    {
+      "start": "2026-08-08T12:30:00-07:00",
       "end": "2026-08-08T12:45:00-07:00",
       "type": "maintenance",
       "label": "Maintenance",
-      "notes": "Ringette Camp - 1 FLOOD 11am  2 FLOOD 12:30pm"
+      "notes": "Ringette Camp - Group 1 - FLOOD 2"
     },
     {
       "start": "2026-08-08T14:00:00-07:00",
