@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-03T10:25:42.132980Z",
+  "generated_at": "2026-08-10T09:40:07.119451Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena",
@@ -16,7 +16,7 @@
       "end": "2026-08-09T12:45:00-07:00",
       "type": "maintenance",
       "label": "Maintenance",
-      "notes": "Ringette Camp - 1 FLOOD 11am  2 FLOOD 12:30pm",
+      "notes": "Ringette Camp - Group 1 - See Aug 8 for Flood Schedule",
       "color": "#6B7280",
       "type_display": "Maintenance"
     },
@@ -25,7 +25,7 @@
       "end": "2026-08-10T12:45:00-07:00",
       "type": "maintenance",
       "label": "Maintenance",
-      "notes": "Ringette Camp - 1 FLOOD 11am  2 FLOOD 12:30pm",
+      "notes": "Ringette Camp - Group 1 - See Aug 8 for Flood Schedule",
       "color": "#6B7280",
       "type_display": "Maintenance"
     },
@@ -43,7 +43,7 @@
       "end": "2026-08-11T12:45:00-07:00",
       "type": "maintenance",
       "label": "Maintenance",
-      "notes": "Ringette Camp - 1 FLOOD 11am  2 FLOOD 12:30pm",
+      "notes": "Ringette Camp - Group 1 - See Aug 8 for Flood Schedule",
       "color": "#6B7280",
       "type_display": "Maintenance"
     },

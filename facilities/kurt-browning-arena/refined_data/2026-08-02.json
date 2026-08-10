@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-03T10:25:42.132678Z",
+  "generated_at": "2026-08-10T09:40:07.119110Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena",
@@ -40,10 +40,37 @@
     },
     {
       "start": "2026-08-08T10:00:00-07:00",
+      "end": "2026-08-08T11:15:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Ringette Camp - Group 1 - SKATE Ringette Group 1",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-08-08T11:15:00-07:00",
+      "end": "2026-08-08T11:30:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "Ringette Camp - Group 1 - FLOOD 1",
+      "color": "#6B7280",
+      "type_display": "Maintenance"
+    },
+    {
+      "start": "2026-08-08T11:30:00-07:00",
+      "end": "2026-08-08T12:30:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Ringette Camp - Group 1 - SKATE Ringette Group 1",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-08-08T12:30:00-07:00",
       "end": "2026-08-08T12:45:00-07:00",
       "type": "maintenance",
       "label": "Maintenance",
-      "notes": "Ringette Camp - 1 FLOOD 11am  2 FLOOD 12:30pm",
+      "notes": "Ringette Camp - Group 1 - FLOOD 2",
       "color": "#6B7280",
       "type_display": "Maintenance"
     },
