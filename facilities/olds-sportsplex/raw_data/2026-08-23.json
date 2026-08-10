@@ -1,0 +1,209 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-08-10T09:38:30.119978Z",
+  "facility": {
+    "id": "olds-sportsplex",
+    "name": "Olds Sportsplex",
+    "city": "Olds",
+    "address": "5133 52 St, Olds, AB",
+    "source_url": "https://app.univerusrec.com/oldsrecreationpub/calendars/facilities/index.asp"
+  },
+  "week": {
+    "start_date": "2026-08-23",
+    "end_date": "2026-08-29",
+    "sunday": "2026-08-23"
+  },
+  "ice_surfaces": {
+    "main": {
+      "name": "Main Ice Surface",
+      "slots": [
+        {
+          "type": "practice",
+          "start": "2026-08-24T09:00:00-07:00",
+          "end": "2026-08-24T21:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-24T16:00:00-07:00",
+          "end": "2026-08-24T17:30:00-07:00",
+          "label": "Broncos Hockey 2026/2027 Practices",
+          "notes": "Broncos Hockey 2026/2027 Practices - Practice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-24T17:30:00-07:00",
+          "end": "2026-08-24T19:45:00-07:00",
+          "label": "Carstairs Skating Club",
+          "notes": "Carstairs Skating Club"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-25T07:00:00-07:00",
+          "end": "2026-08-25T08:15:00-07:00",
+          "label": "Broncos Hockey 2026/2027 Practices",
+          "notes": "Broncos Hockey 2026/2027 Practices - Practice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-25T09:00:00-07:00",
+          "end": "2026-08-25T17:00:00-07:00",
+          "label": "Back To School",
+          "notes": "Back To School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-25T17:15:00-07:00",
+          "end": "2026-08-25T18:15:00-07:00",
+          "label": "U11 AA Grp 1 Cond 1, 2 rooms",
+          "notes": "OMHA 2026-2027 - U11 AA Grp 1 Cond 1, 2 rooms"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-25T18:30:00-07:00",
+          "end": "2026-08-25T19:30:00-07:00",
+          "label": "U11 AA Grp 2 Cond 1, 2 rooms",
+          "notes": "OMHA 2026-2027 - U11 AA Grp 2 Cond 1, 2 rooms"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-25T18:30:00-07:00",
+          "end": "2026-08-25T21:00:00-07:00",
+          "label": "OAC Meeting",
+          "notes": "OAC Meeting"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-25T19:45:00-07:00",
+          "end": "2026-08-25T20:45:00-07:00",
+          "label": "U15 AA Grp 1 Camp 1 , 2 rooms",
+          "notes": "OMHA 2026-2027 - U15 AA Grp 1 Camp 1 , 2 rooms"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-26T17:15:00-07:00",
+          "end": "2026-08-26T18:15:00-07:00",
+          "label": "U11 AA Grp 1 Camp 2 ,2 rooms",
+          "notes": "OMHA 2026-2027 - U11 AA Grp 1 Camp 2 ,2 rooms"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-26T18:30:00-07:00",
+          "end": "2026-08-26T19:30:00-07:00",
+          "label": "U11 AA Grp 2 Camp 2 , 2 rooms",
+          "notes": "OMHA 2026-2027 - U11 AA Grp 2 Camp 2 , 2 rooms"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-26T19:45:00-07:00",
+          "end": "2026-08-26T20:45:00-07:00",
+          "label": "U15 AA Grp 2 Camp 1 ,2 rooms",
+          "notes": "OMHA 2026-2027 - U15 AA Grp 2 Camp 1 ,2 rooms"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-27T07:00:00-07:00",
+          "end": "2026-08-27T08:15:00-07:00",
+          "label": "Broncos Hockey 2026/2027 Practices",
+          "notes": "Broncos Hockey 2026/2027 Practices - Practice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-27T16:00:00-07:00",
+          "end": "2026-08-27T17:00:00-07:00",
+          "label": "U11 AA Grp 2 Cond 3",
+          "notes": "OMHA 2026-2027 - U11 AA Grp 2 Cond 3"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-27T17:15:00-07:00",
+          "end": "2026-08-27T18:15:00-07:00",
+          "label": "U11 AA Gr 1 Cond 3",
+          "notes": "OMHA 2026-2027 - U11 AA Gr 1 Cond 3"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-27T18:30:00-07:00",
+          "end": "2026-08-27T19:30:00-07:00",
+          "label": "U13 AA Grp 2 Camp 1",
+          "notes": "OMHA 2026-2027 - U13 AA Grp 2 Camp 1"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-27T19:45:00-07:00",
+          "end": "2026-08-27T20:45:00-07:00",
+          "label": "U13 AA Grp 1 Camp 1",
+          "notes": "OMHA 2026-2027 - U13 AA Grp 1 Camp 1"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-28T06:30:00-07:00",
+          "end": "2026-08-28T07:30:00-07:00",
+          "label": "Broncos Hockey 2026/2027 Practices",
+          "notes": "Broncos Hockey 2026/2027 Practices - Practice"
+        },
+        {
+          "type": "game",
+          "start": "2026-08-28T09:00:00-07:00",
+          "end": "2026-08-28T10:15:00-07:00",
+          "label": "White vs Green",
+          "notes": "Grizzlys  August 2026 Rookie Camp - White vs Green"
+        },
+        {
+          "type": "game",
+          "start": "2026-08-28T10:30:00-07:00",
+          "end": "2026-08-28T11:45:00-07:00",
+          "label": "Orange vs Purple",
+          "notes": "Grizzlys  August 2026 Rookie Camp - Orange vs Purple"
+        },
+        {
+          "type": "game",
+          "start": "2026-08-28T15:00:00-07:00",
+          "end": "2026-08-28T16:15:00-07:00",
+          "label": "White vs Orange",
+          "notes": "Grizzlys  August 2026 Rookie Camp - White vs Orange"
+        },
+        {
+          "type": "game",
+          "start": "2026-08-28T16:30:00-07:00",
+          "end": "2026-08-28T17:45:00-07:00",
+          "label": "Green vs Purple",
+          "notes": "Grizzlys  August 2026 Rookie Camp - Green vs Purple"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-28T18:00:00-07:00",
+          "end": "2026-08-28T20:00:00-07:00",
+          "label": "Carstairs Skating Club",
+          "notes": "Carstairs Skating Club"
+        },
+        {
+          "type": "game",
+          "start": "2026-08-29T09:00:00-07:00",
+          "end": "2026-08-29T10:15:00-07:00",
+          "label": "White vs Purple",
+          "notes": "Grizzlys  August 2026 Rookie Camp - White vs Purple"
+        },
+        {
+          "type": "game",
+          "start": "2026-08-29T10:30:00-07:00",
+          "end": "2026-08-29T11:45:00-07:00",
+          "label": "Green vs Orange",
+          "notes": "Grizzlys  August 2026 Rookie Camp - Green vs Orange"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-29T12:00:00-07:00",
+          "end": "2026-08-29T13:30:00-07:00",
+          "label": "Broncos Hockey 2026/2027 Practices",
+          "notes": "Broncos Hockey 2026/2027 Practices - Practice"
+        }
+      ]
+    },
+    "auxiliary": {
+      "name": "Auxiliary Ice Surface",
+      "slots": []
+    }
+  }
+}

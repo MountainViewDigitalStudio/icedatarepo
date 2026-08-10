@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-03T10:24:03.333340Z",
+  "generated_at": "2026-08-10T09:38:30.119978Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -26,6 +26,20 @@
         },
         {
           "type": "practice",
+          "start": "2026-08-10T12:30:00-07:00",
+          "end": "2026-08-10T14:00:00-07:00",
+          "label": "Broncos Summer 2026",
+          "notes": "Broncos Summer 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-10T14:15:00-07:00",
+          "end": "2026-08-10T15:45:00-07:00",
+          "label": "Broncos Summer 2026",
+          "notes": "Broncos Summer 2026"
+        },
+        {
+          "type": "practice",
           "start": "2026-08-10T18:00:00-07:00",
           "end": "2026-08-10T20:00:00-07:00",
           "label": "Carstairs Skating Club",
@@ -35,8 +49,8 @@
           "type": "practice",
           "start": "2026-08-10T20:15:00-07:00",
           "end": "2026-08-10T21:15:00-07:00",
-          "label": "Public Booking",
-          "notes": "Public Booking"
+          "label": "van Vlaanderen",
+          "notes": "van Vlaanderen"
         },
         {
           "type": "practice",
@@ -44,6 +58,20 @@
           "end": "2026-08-11T21:00:00-07:00",
           "label": "Back To School",
           "notes": "Back To School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-11T12:30:00-07:00",
+          "end": "2026-08-11T14:00:00-07:00",
+          "label": "Broncos Summer 2026",
+          "notes": "Broncos Summer 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-11T14:15:00-07:00",
+          "end": "2026-08-11T15:45:00-07:00",
+          "label": "Broncos Summer 2026",
+          "notes": "Broncos Summer 2026"
         },
         {
           "type": "practice",
@@ -68,6 +96,20 @@
         },
         {
           "type": "practice",
+          "start": "2026-08-12T12:30:00-07:00",
+          "end": "2026-08-12T14:00:00-07:00",
+          "label": "Broncos Summer 2026",
+          "notes": "Broncos Summer 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-12T14:15:00-07:00",
+          "end": "2026-08-12T15:45:00-07:00",
+          "label": "Broncos Summer 2026",
+          "notes": "Broncos Summer 2026"
+        },
+        {
+          "type": "practice",
           "start": "2026-08-12T17:15:00-07:00",
           "end": "2026-08-12T18:15:00-07:00",
           "label": "Shoot to Score",
@@ -84,8 +126,8 @@
           "type": "practice",
           "start": "2026-08-12T19:45:00-07:00",
           "end": "2026-08-12T20:45:00-07:00",
-          "label": "Public Booking",
-          "notes": "Public Booking"
+          "label": "van Vlaanderen",
+          "notes": "van Vlaanderen"
         },
         {
           "type": "practice",
@@ -93,6 +135,20 @@
           "end": "2026-08-13T21:00:00-07:00",
           "label": "Back To School",
           "notes": "Back To School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-13T12:30:00-07:00",
+          "end": "2026-08-13T14:00:00-07:00",
+          "label": "Broncos Summer 2026",
+          "notes": "Broncos Summer 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-13T14:15:00-07:00",
+          "end": "2026-08-13T15:45:00-07:00",
+          "label": "Broncos Summer 2026",
+          "notes": "Broncos Summer 2026"
         },
         {
           "type": "practice",
@@ -117,6 +173,20 @@
         },
         {
           "type": "practice",
+          "start": "2026-08-14T12:30:00-07:00",
+          "end": "2026-08-14T14:00:00-07:00",
+          "label": "Broncos Summer 2026",
+          "notes": "Broncos Summer 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-14T14:15:00-07:00",
+          "end": "2026-08-14T15:45:00-07:00",
+          "label": "Broncos Summer 2026",
+          "notes": "Broncos Summer 2026"
+        },
+        {
+          "type": "practice",
           "start": "2026-08-14T18:00:00-07:00",
           "end": "2026-08-14T20:00:00-07:00",
           "label": "Carstairs Skating Club",
@@ -126,8 +196,8 @@
           "type": "practice",
           "start": "2026-08-14T20:15:00-07:00",
           "end": "2026-08-14T21:15:00-07:00",
-          "label": "Public Booking",
-          "notes": "Public Booking"
+          "label": "van Vlaanderen",
+          "notes": "van Vlaanderen"
         },
         {
           "type": "practice",

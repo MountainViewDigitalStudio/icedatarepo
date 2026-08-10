@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-03T10:24:03.333340Z",
+  "generated_at": "2026-08-10T09:38:30.119978Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -42,8 +42,8 @@
           "type": "practice",
           "start": "2026-08-17T20:15:00-07:00",
           "end": "2026-08-17T21:15:00-07:00",
-          "label": "Public Booking",
-          "notes": "Public Booking"
+          "label": "van Vlaanderen",
+          "notes": "van Vlaanderen"
         },
         {
           "type": "practice",
@@ -84,8 +84,8 @@
           "type": "practice",
           "start": "2026-08-19T20:15:00-07:00",
           "end": "2026-08-19T21:15:00-07:00",
-          "label": "Public Booking",
-          "notes": "Public Booking"
+          "label": "van Vlaanderen",
+          "notes": "van Vlaanderen"
         },
         {
           "type": "practice",
@@ -119,8 +119,8 @@
           "type": "practice",
           "start": "2026-08-21T19:00:00-07:00",
           "end": "2026-08-21T20:00:00-07:00",
-          "label": "Public Booking",
-          "notes": "Public Booking"
+          "label": "van Vlaanderen",
+          "notes": "van Vlaanderen"
         },
         {
           "type": "practice",
