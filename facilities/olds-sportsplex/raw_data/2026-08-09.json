@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-10T09:38:30.119978Z",
+  "generated_at": "2026-08-17T09:20:31.101079Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -37,6 +37,13 @@
           "end": "2026-08-10T15:45:00-07:00",
           "label": "Broncos Summer 2026",
           "notes": "Broncos Summer 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-10T16:00:00-07:00",
+          "end": "2026-08-10T16:30:00-07:00",
+          "label": "Pederson",
+          "notes": "Pederson"
         },
         {
           "type": "practice",
@@ -95,6 +102,13 @@
           "notes": "Back To School"
         },
         {
+          "type": "shinny",
+          "start": "2026-08-12T11:00:00-07:00",
+          "end": "2026-08-12T12:00:00-07:00",
+          "label": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "notes": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision"
+        },
+        {
           "type": "practice",
           "start": "2026-08-12T12:30:00-07:00",
           "end": "2026-08-12T14:00:00-07:00",
@@ -107,6 +121,13 @@
           "end": "2026-08-12T15:45:00-07:00",
           "label": "Broncos Summer 2026",
           "notes": "Broncos Summer 2026"
+        },
+        {
+          "type": "public_skate",
+          "start": "2026-08-12T16:00:00-07:00",
+          "end": "2026-08-12T17:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating"
         },
         {
           "type": "practice",
@@ -131,10 +152,24 @@
         },
         {
           "type": "practice",
+          "start": "2026-08-12T21:00:00-07:00",
+          "end": "2026-08-12T22:00:00-07:00",
+          "label": "Public Booking",
+          "notes": "Public Booking"
+        },
+        {
+          "type": "practice",
           "start": "2026-08-13T09:00:00-07:00",
           "end": "2026-08-13T21:00:00-07:00",
           "label": "Back To School",
           "notes": "Back To School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-13T10:00:00-07:00",
+          "end": "2026-08-13T11:00:00-07:00",
+          "label": "Gould",
+          "notes": "Gould"
         },
         {
           "type": "practice",
@@ -149,6 +184,13 @@
           "end": "2026-08-13T15:45:00-07:00",
           "label": "Broncos Summer 2026",
           "notes": "Broncos Summer 2026"
+        },
+        {
+          "type": "public_skate",
+          "start": "2026-08-13T16:00:00-07:00",
+          "end": "2026-08-13T17:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating"
         },
         {
           "type": "practice",
@@ -166,10 +208,31 @@
         },
         {
           "type": "practice",
+          "start": "2026-08-13T19:45:00-07:00",
+          "end": "2026-08-13T20:45:00-07:00",
+          "label": "Sandilands PD",
+          "notes": "Sandilands PD"
+        },
+        {
+          "type": "practice",
           "start": "2026-08-14T09:00:00-07:00",
           "end": "2026-08-14T21:00:00-07:00",
           "label": "Back To School",
           "notes": "Back To School"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-14T09:45:00-07:00",
+          "end": "2026-08-14T10:45:00-07:00",
+          "label": "Sandilands- PD",
+          "notes": "Sandilands- PD"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-08-14T11:00:00-07:00",
+          "end": "2026-08-14T12:00:00-07:00",
+          "label": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "notes": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision"
         },
         {
           "type": "practice",
@@ -184,6 +247,20 @@
           "end": "2026-08-14T15:45:00-07:00",
           "label": "Broncos Summer 2026",
           "notes": "Broncos Summer 2026"
+        },
+        {
+          "type": "public_skate",
+          "start": "2026-08-14T16:00:00-07:00",
+          "end": "2026-08-14T17:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-14T17:15:00-07:00",
+          "end": "2026-08-14T17:45:00-07:00",
+          "label": "Smyth - PD",
+          "notes": "Smyth - PD"
         },
         {
           "type": "practice",
@@ -205,6 +282,13 @@
           "end": "2026-08-15T21:00:00-07:00",
           "label": "Back To School",
           "notes": "Back To School"
+        },
+        {
+          "type": "public_skate",
+          "start": "2026-08-15T11:00:00-07:00",
+          "end": "2026-08-15T14:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating"
         }
       ]
     },
