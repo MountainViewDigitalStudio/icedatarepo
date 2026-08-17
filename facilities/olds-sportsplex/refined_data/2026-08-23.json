@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-10T09:40:07.098243Z",
+  "generated_at": "2026-08-17T09:22:15.999833Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -16,6 +16,24 @@
       "name": "Main Ice Surface",
       "slots": [
         {
+          "type": "public",
+          "start": "2026-08-23T11:00:00-07:00",
+          "end": "2026-08-23T14:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-23T14:15:00-07:00",
+          "end": "2026-08-23T15:15:00-07:00",
+          "label": "Broncos Hockey 2026/2027 Practices",
+          "notes": "Broncos Hockey 2026/2027 Practices",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
           "type": "other",
           "start": "2026-08-24T09:00:00-07:00",
           "end": "2026-08-24T21:00:00-07:00",
@@ -23,6 +41,24 @@
           "notes": "Back To School",
           "color": "#64748B",
           "type_display": "Other"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-08-24T11:00:00-07:00",
+          "end": "2026-08-24T12:00:00-07:00",
+          "label": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "notes": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
+          "type": "public",
+          "start": "2026-08-24T14:30:00-07:00",
+          "end": "2026-08-24T15:30:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
         },
         {
           "type": "practice",
@@ -43,6 +79,15 @@
           "type_display": "Skating Club / Programs"
         },
         {
+          "type": "other",
+          "start": "2026-08-24T20:00:00-07:00",
+          "end": "2026-08-24T20:45:00-07:00",
+          "label": "Smyth - PD",
+          "notes": "Smyth - PD",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
           "type": "practice",
           "start": "2026-08-25T07:00:00-07:00",
           "end": "2026-08-25T08:15:00-07:00",
@@ -59,6 +104,33 @@
           "notes": "Back To School",
           "color": "#64748B",
           "type_display": "Other"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-08-25T11:00:00-07:00",
+          "end": "2026-08-25T12:00:00-07:00",
+          "label": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "notes": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-25T12:15:00-07:00",
+          "end": "2026-08-25T13:15:00-07:00",
+          "label": "Moreau",
+          "notes": "Moreau",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-08-25T14:30:00-07:00",
+          "end": "2026-08-25T15:30:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
         },
         {
           "type": "practice",
@@ -97,6 +169,24 @@
           "type_display": "Practice / Other"
         },
         {
+          "type": "shinny",
+          "start": "2026-08-26T11:00:00-07:00",
+          "end": "2026-08-26T12:00:00-07:00",
+          "label": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "notes": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
+          "type": "public",
+          "start": "2026-08-26T14:30:00-07:00",
+          "end": "2026-08-26T15:30:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
           "type": "practice",
           "start": "2026-08-26T17:15:00-07:00",
           "end": "2026-08-26T18:15:00-07:00",
@@ -131,6 +221,33 @@
           "notes": "Broncos Hockey 2026/2027 Practices - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-08-27T11:00:00-07:00",
+          "end": "2026-08-27T12:00:00-07:00",
+          "label": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "notes": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-27T12:30:00-07:00",
+          "end": "2026-08-27T14:00:00-07:00",
+          "label": "Hockey Skills",
+          "notes": "Larocque - PD - Hockey Skills",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-08-27T14:30:00-07:00",
+          "end": "2026-08-27T15:30:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
         },
         {
           "type": "practice",
@@ -196,6 +313,15 @@
           "type_display": "Games"
         },
         {
+          "type": "public",
+          "start": "2026-08-28T12:00:00-07:00",
+          "end": "2026-08-28T13:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
           "type": "games",
           "start": "2026-08-28T15:00:00-07:00",
           "end": "2026-08-28T16:15:00-07:00",
@@ -248,6 +374,15 @@
           "notes": "Broncos Hockey 2026/2027 Practices - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-08-29T14:00:00-07:00",
+          "end": "2026-08-29T15:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
         }
       ]
     },

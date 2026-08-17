@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-10T09:40:07.097893Z",
+  "generated_at": "2026-08-17T09:22:15.999529Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -15,6 +15,24 @@
     "main": {
       "name": "Main Ice Surface",
       "slots": [
+        {
+          "type": "shinny",
+          "start": "2026-08-16T11:00:00-07:00",
+          "end": "2026-08-16T14:00:00-07:00",
+          "label": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "notes": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-17T09:00:00-07:00",
+          "end": "2026-08-17T10:15:00-07:00",
+          "label": "Group A",
+          "notes": "Grizzlys  August 2026 Hockey School - Group A",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
         {
           "type": "other",
           "start": "2026-08-17T09:00:00-07:00",
@@ -32,6 +50,15 @@
           "notes": "Grizzlys  August 2026 Hockey School - Group A",
           "color": "#64748B",
           "type_display": "Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-08-17T16:00:00-07:00",
+          "end": "2026-08-17T17:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
         },
         {
           "type": "skating_club",
@@ -54,6 +81,15 @@
         {
           "type": "other",
           "start": "2026-08-18T09:00:00-07:00",
+          "end": "2026-08-18T10:15:00-07:00",
+          "label": "Group B",
+          "notes": "Grizzlys  August 2026 Hockey School - Group B",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-18T09:00:00-07:00",
           "end": "2026-08-18T21:00:00-07:00",
           "label": "Back To School",
           "notes": "Back To School",
@@ -61,11 +97,38 @@
           "type_display": "Other"
         },
         {
+          "type": "shinny",
+          "start": "2026-08-18T11:00:00-07:00",
+          "end": "2026-08-18T12:00:00-07:00",
+          "label": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "notes": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
           "type": "other",
           "start": "2026-08-18T13:15:00-07:00",
           "end": "2026-08-18T14:30:00-07:00",
           "label": "Group B",
           "notes": "Grizzlys  August 2026 Hockey School - Group B",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-08-18T16:00:00-07:00",
+          "end": "2026-08-18T17:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-19T09:00:00-07:00",
+          "end": "2026-08-19T10:15:00-07:00",
+          "label": "Group A",
+          "notes": "Grizzlys  August 2026 Hockey School - Group A",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -79,6 +142,15 @@
           "type_display": "Other"
         },
         {
+          "type": "shinny",
+          "start": "2026-08-19T11:00:00-07:00",
+          "end": "2026-08-19T12:00:00-07:00",
+          "label": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "notes": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
           "type": "other",
           "start": "2026-08-19T13:15:00-07:00",
           "end": "2026-08-19T14:30:00-07:00",
@@ -86,6 +158,15 @@
           "notes": "Grizzlys  August 2026 Hockey School - Group A",
           "color": "#64748B",
           "type_display": "Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-08-19T16:00:00-07:00",
+          "end": "2026-08-19T17:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
         },
         {
           "type": "skating_club",
@@ -108,11 +189,29 @@
         {
           "type": "other",
           "start": "2026-08-20T09:00:00-07:00",
+          "end": "2026-08-20T10:15:00-07:00",
+          "label": "Group B",
+          "notes": "Grizzlys  August 2026 Hockey School - Group B",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-20T09:00:00-07:00",
           "end": "2026-08-20T21:00:00-07:00",
           "label": "Back To School",
           "notes": "Back To School",
           "color": "#64748B",
           "type_display": "Other"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-08-20T11:00:00-07:00",
+          "end": "2026-08-20T12:00:00-07:00",
+          "label": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "notes": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
         },
         {
           "type": "other",
@@ -122,6 +221,15 @@
           "notes": "Grizzlys  August 2026 Hockey School - Group B",
           "color": "#64748B",
           "type_display": "Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-08-20T16:00:00-07:00",
+          "end": "2026-08-20T17:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
         },
         {
           "type": "skating_club",
@@ -142,6 +250,24 @@
           "type_display": "Other"
         },
         {
+          "type": "shinny",
+          "start": "2026-08-21T11:00:00-07:00",
+          "end": "2026-08-21T14:00:00-07:00",
+          "label": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "notes": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
+          "type": "public",
+          "start": "2026-08-21T16:00:00-07:00",
+          "end": "2026-08-21T17:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
           "type": "other",
           "start": "2026-08-21T19:00:00-07:00",
           "end": "2026-08-21T20:00:00-07:00",
@@ -158,6 +284,24 @@
           "notes": "Back To School",
           "color": "#64748B",
           "type_display": "Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-08-22T11:00:00-07:00",
+          "end": "2026-08-22T14:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-22T14:15:00-07:00",
+          "end": "2026-08-22T15:15:00-07:00",
+          "label": "Broncos Hockey 2026/2027 Practices",
+          "notes": "Broncos Hockey 2026/2027 Practices",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
         }
       ]
     },

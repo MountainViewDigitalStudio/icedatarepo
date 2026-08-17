@@ -1,0 +1,394 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-08-17T09:22:16.000205Z",
+  "facility": {
+    "id": "olds-sportsplex",
+    "name": "Olds Sportsplex",
+    "city": "Olds",
+    "address": "5133 52 St, Olds, AB"
+  },
+  "week": {
+    "start_date": "2026-08-30",
+    "end_date": "2026-09-05"
+  },
+  "ice_surfaces": {
+    "main": {
+      "name": "Main Ice Surface",
+      "slots": [
+        {
+          "type": "games",
+          "start": "2026-08-30T09:00:00-07:00",
+          "end": "2026-08-30T10:15:00-07:00",
+          "label": "White vs Green",
+          "notes": "Grizzlys  August 2026 Rookie Camp - White vs Green",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-30T10:30:00-07:00",
+          "end": "2026-08-30T11:45:00-07:00",
+          "label": "Team White & Green",
+          "notes": "Grizzlys  August 2026 Rookie Camp - Team White & Green",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-08-30T12:00:00-07:00",
+          "end": "2026-08-30T13:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-31T08:30:00-07:00",
+          "end": "2026-08-31T10:00:00-07:00",
+          "label": "Broncos Hockey 2026/2027 Practices",
+          "notes": "Broncos Hockey 2026/2027 Practices - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-08-31T10:30:00-07:00",
+          "end": "2026-08-31T11:30:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-31T12:00:00-07:00",
+          "end": "2026-08-31T13:15:00-07:00",
+          "label": "Grizzlys Sept 2026- March 2027",
+          "notes": "Grizzlys Sept 2026- March 2027 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-31T13:45:00-07:00",
+          "end": "2026-08-31T15:00:00-07:00",
+          "label": "Grizzlys Sept 2026- March 2027",
+          "notes": "Grizzlys Sept 2026- March 2027 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-31T16:00:00-07:00",
+          "end": "2026-08-31T17:00:00-07:00",
+          "label": "U11 AA Grp 2 Cond 4, 2 rooms",
+          "notes": "OMHA 2026-2027 - U11 AA Grp 2 Cond 4, 2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-31T17:15:00-07:00",
+          "end": "2026-08-31T18:15:00-07:00",
+          "label": "U11 AA Gr 1 Cond 4, 2 rooms",
+          "notes": "OMHA 2026-2027 - U11 AA Gr 1 Cond 4, 2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-31T18:30:00-07:00",
+          "end": "2026-08-31T19:30:00-07:00",
+          "label": "U15 AA Grp 2 Camp 2, 2 rooms",
+          "notes": "OMHA 2026-2027 - U15 AA Grp 2 Camp 2, 2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-31T19:45:00-07:00",
+          "end": "2026-08-31T20:45:00-07:00",
+          "label": "U15 AA Grp 1 Camp 2, 2 rooms",
+          "notes": "OMHA 2026-2027 - U15 AA Grp 1 Camp 2, 2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-01T08:30:00-07:00",
+          "end": "2026-09-01T10:00:00-07:00",
+          "label": "Broncos Hockey 2026/2027 Practices",
+          "notes": "Broncos Hockey 2026/2027 Practices - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-01T10:00:00-07:00",
+          "end": "2026-09-01T11:15:00-07:00",
+          "label": "Grizzlys Sept 2026- March 2027",
+          "notes": "Grizzlys Sept 2026- March 2027 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-01T11:30:00-07:00",
+          "end": "2026-09-01T12:45:00-07:00",
+          "label": "Grizzlys Sept 2026- March 2027",
+          "notes": "Grizzlys Sept 2026- March 2027 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-01T16:00:00-07:00",
+          "end": "2026-09-01T17:00:00-07:00",
+          "label": "U11 AA Gr 2 Skills, 2 rooms",
+          "notes": "OMHA 2026-2027 - U11 AA Gr 2 Skills, 2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-01T17:15:00-07:00",
+          "end": "2026-09-01T18:15:00-07:00",
+          "label": "U13 AA Grp 1 Camp 2 2 rooms",
+          "notes": "OMHA 2026-2027 - U13 AA Grp 1 Camp 2 2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-01T18:30:00-07:00",
+          "end": "2026-09-01T19:30:00-07:00",
+          "label": "U13 AA Grp 2 Camp 2 2 rooms",
+          "notes": "OMHA 2026-2027 - U13 AA Grp 2 Camp 2 2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-01T19:45:00-07:00",
+          "end": "2026-09-01T20:45:00-07:00",
+          "label": "7:45-8:45 U15 AA Grp 2 Camp 3 2 rooms",
+          "notes": "OMHA 2026-2027 - 7:45-8:45 U15 AA Grp 2 Camp 3 2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-02T08:30:00-07:00",
+          "end": "2026-09-02T10:00:00-07:00",
+          "label": "Broncos Hockey 2026/2027 Practices",
+          "notes": "Broncos Hockey 2026/2027 Practices - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-02T11:15:00-07:00",
+          "end": "2026-09-02T12:30:00-07:00",
+          "label": "Grizzlys Sept 2026- March 2027",
+          "notes": "Grizzlys Sept 2026- March 2027 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-02T16:00:00-07:00",
+          "end": "2026-09-02T17:00:00-07:00",
+          "label": "U11 AA Gr 1 Skills 2 rooms",
+          "notes": "OMHA 2026-2027 - U11 AA Gr 1 Skills 2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "games",
+          "start": "2026-09-02T17:30:00-07:00",
+          "end": "2026-09-02T20:30:00-07:00",
+          "label": "Grizzlys vs Korea",
+          "notes": "Grizzlys Sept 2026- March 2027 - Grizzlys vs Korea",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-03T08:30:00-07:00",
+          "end": "2026-09-03T10:00:00-07:00",
+          "label": "Broncos Hockey 2026/2027 Practices",
+          "notes": "Broncos Hockey 2026/2027 Practices - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-03T10:00:00-07:00",
+          "end": "2026-09-03T11:15:00-07:00",
+          "label": "Grizzlys Sept 2026- March 2027",
+          "notes": "Grizzlys Sept 2026- March 2027 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-03T11:30:00-07:00",
+          "end": "2026-09-03T12:45:00-07:00",
+          "label": "Grizzlys Sept 2026- March 2027",
+          "notes": "Grizzlys Sept 2026- March 2027 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "games",
+          "start": "2026-09-03T16:00:00-07:00",
+          "end": "2026-09-03T18:00:00-07:00",
+          "label": "U11AA Game 1 BvsC AvsC AvsB, 3 rooms",
+          "notes": "OMHA 2026-2027 - U11AA Game 1 BvsC AvsC AvsB, 3 rooms",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-03T18:15:00-07:00",
+          "end": "2026-09-03T19:15:00-07:00",
+          "label": "U13 AA Grp 1 Camp 3, 2 rooms",
+          "notes": "OMHA 2026-2027 - U13 AA Grp 1 Camp 3, 2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-03T19:30:00-07:00",
+          "end": "2026-09-03T20:30:00-07:00",
+          "label": "U15 AA Grp 1 Camp 3, 2 rooms",
+          "notes": "OMHA 2026-2027 - U15 AA Grp 1 Camp 3, 2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-04T09:30:00-07:00",
+          "end": "2026-09-04T11:00:00-07:00",
+          "label": "Broncos Hockey 2026/2027 Practices",
+          "notes": "Broncos Hockey 2026/2027 Practices - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-04T11:15:00-07:00",
+          "end": "2026-09-04T12:30:00-07:00",
+          "label": "Grizzlys Sept 2026- March 2027",
+          "notes": "Grizzlys Sept 2026- March 2027 - Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "skating_club",
+          "start": "2026-09-04T15:45:00-07:00",
+          "end": "2026-09-04T16:45:00-07:00",
+          "label": "Olds Figure Skating Club 2026/27",
+          "notes": "Olds Figure Skating Club 2026/27",
+          "color": "#06B6D4",
+          "type_display": "Skating Club / Programs"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-04T17:00:00-07:00",
+          "end": "2026-09-04T18:00:00-07:00",
+          "label": "U13 AA Grp 2 Camp 3 , 2 rooms",
+          "notes": "OMHA 2026-2027 - U13 AA Grp 2 Camp 3 , 2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "games",
+          "start": "2026-09-04T18:30:00-07:00",
+          "end": "2026-09-04T21:30:00-07:00",
+          "label": "Exi Game vs Drumheller",
+          "notes": "Grizzlys Sept 2026- March 2027 - Exi Game vs Drumheller",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-09-05T09:00:00-07:00",
+          "end": "2026-09-05T11:00:00-07:00",
+          "label": "U11AA Game 2 AvsB CvsB CvsA, 3 rooms",
+          "notes": "OMHA 2026-2027 - U11AA Game 2 AvsB CvsB CvsA, 3 rooms",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-05T11:15:00-07:00",
+          "end": "2026-09-05T12:15:00-07:00",
+          "label": "U13 AA Grp 2 skills ,2 rooms",
+          "notes": "OMHA 2026-2027 - U13 AA Grp 2 skills ,2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-05T12:30:00-07:00",
+          "end": "2026-09-05T13:30:00-07:00",
+          "label": "U13 AA Grp 1 skills , 2 rooms",
+          "notes": "OMHA 2026-2027 - U13 AA Grp 1 skills , 2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-05T13:45:00-07:00",
+          "end": "2026-09-05T14:45:00-07:00",
+          "label": "U15 AA Grp 1 Skills , 2 rooms",
+          "notes": "OMHA 2026-2027 - U15 AA Grp 1 Skills , 2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-05T15:00:00-07:00",
+          "end": "2026-09-05T16:00:00-07:00",
+          "label": "U15 AA Grp 2 Skills ,2 rooms",
+          "notes": "OMHA 2026-2027 - U15 AA Grp 2 Skills ,2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-05T16:15:00-07:00",
+          "end": "2026-09-05T17:15:00-07:00",
+          "label": "U18AA Gr 1 Camp 1 , 2 rooms",
+          "notes": "OMHA 2026-2027 - U18AA Gr 1 Camp 1 , 2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-05T17:30:00-07:00",
+          "end": "2026-09-05T18:30:00-07:00",
+          "label": "U18AA Gr 2 Camp 1 , 2 rooms",
+          "notes": "OMHA 2026-2027 - U18AA Gr 2 Camp 1 , 2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-05T18:45:00-07:00",
+          "end": "2026-09-05T20:15:00-07:00",
+          "label": "Innisfail Eagles Practice",
+          "notes": "Innisfail Eagles Practice",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        }
+      ]
+    },
+    "auxiliary": {
+      "name": "Auxiliary Ice Surface",
+      "slots": []
+    }
+  }
+}

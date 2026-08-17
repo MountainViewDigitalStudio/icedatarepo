@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-10T09:40:07.097473Z",
+  "generated_at": "2026-08-17T09:22:15.999194Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -39,6 +39,15 @@
           "end": "2026-08-10T15:45:00-07:00",
           "label": "Broncos Summer 2026",
           "notes": "Broncos Summer 2026",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-10T16:00:00-07:00",
+          "end": "2026-08-10T16:30:00-07:00",
+          "label": "Pederson",
+          "notes": "Pederson",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -115,6 +124,15 @@
           "type_display": "Other"
         },
         {
+          "type": "shinny",
+          "start": "2026-08-12T11:00:00-07:00",
+          "end": "2026-08-12T12:00:00-07:00",
+          "label": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "notes": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
           "type": "other",
           "start": "2026-08-12T12:30:00-07:00",
           "end": "2026-08-12T14:00:00-07:00",
@@ -131,6 +149,15 @@
           "notes": "Broncos Summer 2026",
           "color": "#64748B",
           "type_display": "Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-08-12T16:00:00-07:00",
+          "end": "2026-08-12T17:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
         },
         {
           "type": "other",
@@ -160,11 +187,29 @@
           "type_display": "Other"
         },
         {
+          "type": "public",
+          "start": "2026-08-12T21:00:00-07:00",
+          "end": "2026-08-12T22:00:00-07:00",
+          "label": "Public Booking",
+          "notes": "Public Booking",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
           "type": "other",
           "start": "2026-08-13T09:00:00-07:00",
           "end": "2026-08-13T21:00:00-07:00",
           "label": "Back To School",
           "notes": "Back To School",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-13T10:00:00-07:00",
+          "end": "2026-08-13T11:00:00-07:00",
+          "label": "Gould",
+          "notes": "Gould",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -187,6 +232,15 @@
           "type_display": "Other"
         },
         {
+          "type": "public",
+          "start": "2026-08-13T16:00:00-07:00",
+          "end": "2026-08-13T17:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
           "type": "other",
           "start": "2026-08-13T17:15:00-07:00",
           "end": "2026-08-13T18:15:00-07:00",
@@ -206,12 +260,39 @@
         },
         {
           "type": "other",
+          "start": "2026-08-13T19:45:00-07:00",
+          "end": "2026-08-13T20:45:00-07:00",
+          "label": "Sandilands PD",
+          "notes": "Sandilands PD",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
           "start": "2026-08-14T09:00:00-07:00",
           "end": "2026-08-14T21:00:00-07:00",
           "label": "Back To School",
           "notes": "Back To School",
           "color": "#64748B",
           "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-14T09:45:00-07:00",
+          "end": "2026-08-14T10:45:00-07:00",
+          "label": "Sandilands- PD",
+          "notes": "Sandilands- PD",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-08-14T11:00:00-07:00",
+          "end": "2026-08-14T12:00:00-07:00",
+          "label": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "notes": "Shinny- Helmets, Gloves, Neck Guard mandatory, U12 require adult supervision",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
         },
         {
           "type": "other",
@@ -228,6 +309,24 @@
           "end": "2026-08-14T15:45:00-07:00",
           "label": "Broncos Summer 2026",
           "notes": "Broncos Summer 2026",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-08-14T16:00:00-07:00",
+          "end": "2026-08-14T17:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-14T17:15:00-07:00",
+          "end": "2026-08-14T17:45:00-07:00",
+          "label": "Smyth - PD",
+          "notes": "Smyth - PD",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -257,6 +356,15 @@
           "notes": "Back To School",
           "color": "#64748B",
           "type_display": "Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-08-15T11:00:00-07:00",
+          "end": "2026-08-15T14:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
         }
       ]
     },
