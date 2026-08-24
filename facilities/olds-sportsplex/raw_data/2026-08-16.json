@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-17T09:20:31.101079Z",
+  "generated_at": "2026-08-24T09:22:34.894209Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -44,6 +44,13 @@
           "end": "2026-08-17T14:30:00-07:00",
           "label": "Group A",
           "notes": "Grizzlys  August 2026 Hockey School - Group A"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-17T14:45:00-07:00",
+          "end": "2026-08-17T15:45:00-07:00",
+          "label": "Sandilands -PD",
+          "notes": "Sandilands -PD"
         },
         {
           "type": "public_skate",
@@ -100,6 +107,13 @@
           "end": "2026-08-18T17:00:00-07:00",
           "label": "Public Skating",
           "notes": "Public Skating"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-18T19:00:00-07:00",
+          "end": "2026-08-18T20:00:00-07:00",
+          "label": "Sandilands -PD",
+          "notes": "Sandilands -PD"
         },
         {
           "type": "practice",
@@ -195,6 +209,13 @@
         {
           "type": "practice",
           "start": "2026-08-21T09:00:00-07:00",
+          "end": "2026-08-21T10:00:00-07:00",
+          "label": "Public Booking",
+          "notes": "Public Booking"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-21T09:00:00-07:00",
           "end": "2026-08-21T21:00:00-07:00",
           "label": "Back To School",
           "notes": "Back To School"
@@ -219,6 +240,13 @@
           "end": "2026-08-21T20:00:00-07:00",
           "label": "van Vlaanderen",
           "notes": "van Vlaanderen"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-21T20:15:00-07:00",
+          "end": "2026-08-21T21:15:00-07:00",
+          "label": "Sandilands -PD",
+          "notes": "Sandilands -PD"
         },
         {
           "type": "practice",

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-17T09:20:31.101079Z",
+  "generated_at": "2026-08-24T09:22:34.894209Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -37,6 +37,13 @@
           "end": "2026-08-30T13:00:00-07:00",
           "label": "Public Skating",
           "notes": "Public Skating"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-30T13:30:00-07:00",
+          "end": "2026-08-30T14:30:00-07:00",
+          "label": "Smith - PD",
+          "notes": "Smith - PD"
         },
         {
           "type": "practice",
@@ -126,22 +133,22 @@
           "type": "practice",
           "start": "2026-09-01T17:15:00-07:00",
           "end": "2026-09-01T18:15:00-07:00",
-          "label": "U13 AA Grp 1 Camp 2 2 rooms",
-          "notes": "OMHA 2026-2027 - U13 AA Grp 1 Camp 2 2 rooms"
+          "label": "U13 AA Grp 1 Camp 3, 2 rooms",
+          "notes": "OMHA 2026-2027 - U13 AA Grp 1 Camp 3, 2 rooms"
         },
         {
           "type": "practice",
           "start": "2026-09-01T18:30:00-07:00",
           "end": "2026-09-01T19:30:00-07:00",
-          "label": "U13 AA Grp 2 Camp 2 2 rooms",
-          "notes": "OMHA 2026-2027 - U13 AA Grp 2 Camp 2 2 rooms"
+          "label": "U13 AA Grp 2 Camp 3 2 rooms",
+          "notes": "OMHA 2026-2027 - U13 AA Grp 2 Camp 3 2 rooms"
         },
         {
           "type": "practice",
           "start": "2026-09-01T19:45:00-07:00",
           "end": "2026-09-01T20:45:00-07:00",
-          "label": "7:45-8:45 U15 AA Grp 2 Camp 3 2 rooms",
-          "notes": "OMHA 2026-2027 - 7:45-8:45 U15 AA Grp 2 Camp 3 2 rooms"
+          "label": "U15 AA Grp 2 Camp 3 2 rooms",
+          "notes": "OMHA 2026-2027 - U15 AA Grp 2 Camp 3 2 rooms"
         },
         {
           "type": "practice",
@@ -250,24 +257,17 @@
         },
         {
           "type": "game",
-          "start": "2026-09-05T09:00:00-07:00",
-          "end": "2026-09-05T11:00:00-07:00",
+          "start": "2026-09-05T09:15:00-07:00",
+          "end": "2026-09-05T11:15:00-07:00",
           "label": "U11AA Game 2 AvsB CvsB CvsA, 3 rooms",
           "notes": "OMHA 2026-2027 - U11AA Game 2 AvsB CvsB CvsA, 3 rooms"
         },
         {
-          "type": "practice",
-          "start": "2026-09-05T11:15:00-07:00",
-          "end": "2026-09-05T12:15:00-07:00",
-          "label": "U13 AA Grp 2 skills ,2 rooms",
-          "notes": "OMHA 2026-2027 - U13 AA Grp 2 skills ,2 rooms"
-        },
-        {
-          "type": "practice",
-          "start": "2026-09-05T12:30:00-07:00",
+          "type": "game",
+          "start": "2026-09-05T11:30:00-07:00",
           "end": "2026-09-05T13:30:00-07:00",
-          "label": "U13 AA Grp 1 skills , 2 rooms",
-          "notes": "OMHA 2026-2027 - U13 AA Grp 1 skills , 2 rooms"
+          "label": "U13AA Game 1 BvsC AvsC AvsB  REF 4 rooms (1 female)",
+          "notes": "OMHA 2026-2027 - U13AA Game 1 BvsC AvsC AvsB  REF 4 rooms (1 female)"
         },
         {
           "type": "practice",
