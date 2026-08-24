@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-17T09:22:15.999833Z",
+  "generated_at": "2026-08-24T09:24:20.006290Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -106,6 +106,15 @@
           "type_display": "Other"
         },
         {
+          "type": "other",
+          "start": "2026-08-25T09:45:00-07:00",
+          "end": "2026-08-25T10:45:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
           "type": "shinny",
           "start": "2026-08-25T11:00:00-07:00",
           "end": "2026-08-25T12:00:00-07:00",
@@ -134,8 +143,8 @@
         },
         {
           "type": "practice",
-          "start": "2026-08-25T17:15:00-07:00",
-          "end": "2026-08-25T18:15:00-07:00",
+          "start": "2026-08-25T16:00:00-07:00",
+          "end": "2026-08-25T17:00:00-07:00",
           "label": "U11 AA Grp 1 Cond 1, 2 rooms",
           "notes": "OMHA 2026-2027 - U11 AA Grp 1 Cond 1, 2 rooms",
           "color": "#8B5CF6",
@@ -143,10 +152,19 @@
         },
         {
           "type": "practice",
-          "start": "2026-08-25T18:30:00-07:00",
-          "end": "2026-08-25T19:30:00-07:00",
+          "start": "2026-08-25T17:15:00-07:00",
+          "end": "2026-08-25T18:15:00-07:00",
           "label": "U11 AA Grp 2 Cond 1, 2 rooms",
           "notes": "OMHA 2026-2027 - U11 AA Grp 2 Cond 1, 2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-25T18:30:00-07:00",
+          "end": "2026-08-25T19:30:00-07:00",
+          "label": "U13 AA Grp 2 Camp 1 2 rooms",
+          "notes": "OMHA 2026-2027 - U13 AA Grp 2 Camp 1 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -188,10 +206,19 @@
         },
         {
           "type": "practice",
+          "start": "2026-08-26T16:00:00-07:00",
+          "end": "2026-08-26T17:00:00-07:00",
+          "label": "U11 AA Grp 1 Camp 2 2 rooms",
+          "notes": "OMHA 2026-2027 - U11 AA Grp 1 Camp 2 2 rooms",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
           "start": "2026-08-26T17:15:00-07:00",
           "end": "2026-08-26T18:15:00-07:00",
-          "label": "U11 AA Grp 1 Camp 2 ,2 rooms",
-          "notes": "OMHA 2026-2027 - U11 AA Grp 1 Camp 2 ,2 rooms",
+          "label": "U11 AA Grp 2 Camp 2 2 rooms",
+          "notes": "OMHA 2026-2027 - U11 AA Grp 2 Camp 2 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -199,8 +226,8 @@
           "type": "practice",
           "start": "2026-08-26T18:30:00-07:00",
           "end": "2026-08-26T19:30:00-07:00",
-          "label": "U11 AA Grp 2 Camp 2 , 2 rooms",
-          "notes": "OMHA 2026-2027 - U11 AA Grp 2 Camp 2 , 2 rooms",
+          "label": "U13 AA Grp 1 Camp 1, 2 rooms",
+          "notes": "OMHA 2026-2027 - U13 AA Grp 1 Camp 1, 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -221,6 +248,15 @@
           "notes": "Broncos Hockey 2026/2027 Practices - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-27T09:45:00-07:00",
+          "end": "2026-08-27T10:45:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "shinny",
@@ -253,8 +289,8 @@
           "type": "practice",
           "start": "2026-08-27T16:00:00-07:00",
           "end": "2026-08-27T17:00:00-07:00",
-          "label": "U11 AA Grp 2 Cond 3",
-          "notes": "OMHA 2026-2027 - U11 AA Grp 2 Cond 3",
+          "label": "U11 AA Grp 2 Cond 3,2 rooms",
+          "notes": "OMHA 2026-2027 - U11 AA Grp 2 Cond 3,2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -262,8 +298,8 @@
           "type": "practice",
           "start": "2026-08-27T17:15:00-07:00",
           "end": "2026-08-27T18:15:00-07:00",
-          "label": "U11 AA Gr 1 Cond 3",
-          "notes": "OMHA 2026-2027 - U11 AA Gr 1 Cond 3",
+          "label": "U11 AA Gr 1 Cond 3, 2 rooms",
+          "notes": "OMHA 2026-2027 - U11 AA Gr 1 Cond 3, 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -271,8 +307,8 @@
           "type": "practice",
           "start": "2026-08-27T18:30:00-07:00",
           "end": "2026-08-27T19:30:00-07:00",
-          "label": "U13 AA Grp 2 Camp 1",
-          "notes": "OMHA 2026-2027 - U13 AA Grp 2 Camp 1",
+          "label": "U13 AA Grp 2 Camp 2, 2 rooms",
+          "notes": "OMHA 2026-2027 - U13 AA Grp 2 Camp 2, 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -280,8 +316,8 @@
           "type": "practice",
           "start": "2026-08-27T19:45:00-07:00",
           "end": "2026-08-27T20:45:00-07:00",
-          "label": "U13 AA Grp 1 Camp 1",
-          "notes": "OMHA 2026-2027 - U13 AA Grp 1 Camp 1",
+          "label": "U13 AA Grp 1 Camp 2, 2 rooms",
+          "notes": "OMHA 2026-2027 - U13 AA Grp 1 Camp 2, 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },

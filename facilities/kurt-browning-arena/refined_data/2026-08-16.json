@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-17T09:22:16.016612Z",
+  "generated_at": "2026-08-24T09:24:20.027215Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena",
@@ -100,6 +100,15 @@
       "notes": "Recovery Alberta Meeting",
       "color": "#64748B",
       "type_display": "Other"
+    },
+    {
+      "start": "2026-08-20T19:00:00-07:00",
+      "end": "2026-08-20T20:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Private Ice Booking",
+      "color": "#F97316",
+      "type_display": "Rentals"
     }
   ]
 }

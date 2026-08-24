@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-17T09:22:15.999529Z",
+  "generated_at": "2026-08-24T09:24:20.005758Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -48,6 +48,15 @@
           "end": "2026-08-17T14:30:00-07:00",
           "label": "Group A",
           "notes": "Grizzlys  August 2026 Hockey School - Group A",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-17T14:45:00-07:00",
+          "end": "2026-08-17T15:45:00-07:00",
+          "label": "Sandilands -PD",
+          "notes": "Sandilands -PD",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -122,6 +131,15 @@
           "notes": "Public Skating",
           "color": "#10B981",
           "type_display": "Public / Family"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-18T19:00:00-07:00",
+          "end": "2026-08-18T20:00:00-07:00",
+          "label": "Sandilands -PD",
+          "notes": "Sandilands -PD",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "other",
@@ -241,6 +259,15 @@
           "type_display": "Skating Club / Programs"
         },
         {
+          "type": "public",
+          "start": "2026-08-21T09:00:00-07:00",
+          "end": "2026-08-21T10:00:00-07:00",
+          "label": "Public Booking",
+          "notes": "Public Booking",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
           "type": "other",
           "start": "2026-08-21T09:00:00-07:00",
           "end": "2026-08-21T21:00:00-07:00",
@@ -273,6 +300,15 @@
           "end": "2026-08-21T20:00:00-07:00",
           "label": "van Vlaanderen",
           "notes": "van Vlaanderen",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-08-21T20:15:00-07:00",
+          "end": "2026-08-21T21:15:00-07:00",
+          "label": "Sandilands -PD",
+          "notes": "Sandilands -PD",
           "color": "#64748B",
           "type_display": "Other"
         },
