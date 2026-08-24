@@ -1,0 +1,143 @@
+{
+  "facility_name": "Kurt Browning Arena",
+  "facility_id": "kurt-browning-arena",
+  "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
+  "week_start": "2026-09-06",
+  "week_end": "2026-09-12",
+  "last_updated": "2026-08-24T02:22:25.527265-07:00",
+  "slots": [
+    {
+      "start": "2026-09-07T16:30:00-07:00",
+      "end": "2026-09-07T20:45:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Power Skating"
+    },
+    {
+      "start": "2026-09-08T16:30:00-07:00",
+      "end": "2026-09-08T20:45:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Power Skating"
+    },
+    {
+      "start": "2026-09-09T07:00:00-07:00",
+      "end": "2026-09-09T09:00:00-07:00",
+      "type": "other",
+      "label": "Monthly Meetings-Taqa",
+      "notes": "Monthly Meetings-Taqa"
+    },
+    {
+      "start": "2026-09-09T16:30:00-07:00",
+      "end": "2026-09-09T20:45:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Power Skating"
+    },
+    {
+      "start": "2026-09-10T11:00:00-07:00",
+      "end": "2026-09-10T22:00:00-07:00",
+      "type": "other",
+      "label": "Cowboy Poetry",
+      "notes": "Cowboy Poetry"
+    },
+    {
+      "start": "2026-09-10T11:00:00-07:00",
+      "end": "2026-09-10T22:00:00-07:00",
+      "type": "other",
+      "label": "Cowboy Poetry",
+      "notes": "Cowboy Poetry"
+    },
+    {
+      "start": "2026-09-10T11:00:00-07:00",
+      "end": "2026-09-10T22:00:00-07:00",
+      "type": "other",
+      "label": "Cowboy Poetry",
+      "notes": "Cowboy Poetry"
+    },
+    {
+      "start": "2026-09-10T13:00:00-07:00",
+      "end": "2026-09-10T22:00:00-07:00",
+      "type": "other",
+      "label": "Cowboy Poetry",
+      "notes": "Cowboy Poetry"
+    },
+    {
+      "start": "2026-09-10T14:00:00-07:00",
+      "end": "2026-09-10T22:00:00-07:00",
+      "type": "other",
+      "label": "Cowboy Poetry",
+      "notes": "Cowboy Poetry"
+    },
+    {
+      "start": "2026-09-11T09:00:00-07:00",
+      "end": "2026-09-11T22:00:00-07:00",
+      "type": "other",
+      "label": "Cowboy Poetry",
+      "notes": "Cowboy Poetry"
+    },
+    {
+      "start": "2026-09-11T09:00:00-07:00",
+      "end": "2026-09-11T22:00:00-07:00",
+      "type": "other",
+      "label": "Cowboy Poetry",
+      "notes": "Cowboy Poetry"
+    },
+    {
+      "start": "2026-09-11T09:00:00-07:00",
+      "end": "2026-09-11T22:00:00-07:00",
+      "type": "other",
+      "label": "Cowboy Poetry",
+      "notes": "Cowboy Poetry"
+    },
+    {
+      "start": "2026-09-11T09:00:00-07:00",
+      "end": "2026-09-11T22:00:00-07:00",
+      "type": "other",
+      "label": "Cowboy Poetry",
+      "notes": "Cowboy Poetry"
+    },
+    {
+      "start": "2026-09-11T09:00:00-07:00",
+      "end": "2026-09-11T22:00:00-07:00",
+      "type": "other",
+      "label": "Cowboy Poetry",
+      "notes": "Cowboy Poetry"
+    },
+    {
+      "start": "2026-09-12T09:00:00-07:00",
+      "end": "2026-09-12T22:00:00-07:00",
+      "type": "other",
+      "label": "Cowboy Poetry",
+      "notes": "Cowboy Poetry"
+    },
+    {
+      "start": "2026-09-12T09:00:00-07:00",
+      "end": "2026-09-12T22:00:00-07:00",
+      "type": "other",
+      "label": "Cowboy Poetry",
+      "notes": "Cowboy Poetry"
+    },
+    {
+      "start": "2026-09-12T09:00:00-07:00",
+      "end": "2026-09-12T22:00:00-07:00",
+      "type": "other",
+      "label": "Cowboy Poetry",
+      "notes": "Cowboy Poetry"
+    },
+    {
+      "start": "2026-09-12T09:00:00-07:00",
+      "end": "2026-09-12T22:00:00-07:00",
+      "type": "other",
+      "label": "Cowboy Poetry",
+      "notes": "Cowboy Poetry"
+    },
+    {
+      "start": "2026-09-12T09:00:00-07:00",
+      "end": "2026-09-12T22:00:00-07:00",
+      "type": "other",
+      "label": "Cowboy Poetry",
+      "notes": "Cowboy Poetry"
+    }
+  ]
+}
