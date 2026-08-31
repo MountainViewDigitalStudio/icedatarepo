@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-24T09:24:20.027215Z",
+  "generated_at": "2026-08-31T09:29:18.215714Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena",
@@ -106,7 +106,7 @@
       "end": "2026-08-20T20:00:00-07:00",
       "type": "rentals",
       "label": "Ice Rental",
-      "notes": "Private Ice Booking",
+      "notes": "Trent Private Ice Booking",
       "color": "#F97316",
       "type_display": "Rentals"
     }

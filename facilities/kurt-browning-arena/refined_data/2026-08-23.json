@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-24T09:24:20.027571Z",
+  "generated_at": "2026-08-31T09:29:18.216175Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena",
@@ -60,8 +60,8 @@
       "start": "2026-08-26T17:00:00-07:00",
       "end": "2026-08-26T19:00:00-07:00",
       "type": "other",
-      "label": "Meeting - Ag Society Meeting",
-      "notes": "Meeting - Ag Society Meeting",
+      "label": "Monthly Meeting Ag Board 2026 - Ag Society Meeting",
+      "notes": "Monthly Meeting Ag Board 2026 - Ag Society Meeting",
       "color": "#64748B",
       "type_display": "Other"
     },
@@ -87,8 +87,8 @@
       "start": "2026-08-27T18:00:00-07:00",
       "end": "2026-08-27T20:00:00-07:00",
       "type": "other",
-      "label": "Meeting - Ag Society Meeting",
-      "notes": "Meeting - Ag Society Meeting",
+      "label": "Monthly Meeting Ag Board 2026 - Meeting with County",
+      "notes": "Monthly Meeting Ag Board 2026 - Meeting with County",
       "color": "#64748B",
       "type_display": "Other"
     },
@@ -97,7 +97,7 @@
       "end": "2026-08-27T20:00:00-07:00",
       "type": "rentals",
       "label": "Ice Rental",
-      "notes": "Private Ice Booking",
+      "notes": "Trent Private Ice Booking",
       "color": "#F97316",
       "type_display": "Rentals"
     },

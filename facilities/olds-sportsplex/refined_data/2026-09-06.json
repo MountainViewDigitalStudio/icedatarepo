@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-24T09:24:20.007393Z",
+  "generated_at": "2026-08-31T09:29:18.194501Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -124,6 +124,15 @@
           "type_display": "Practice / Other"
         },
         {
+          "type": "public",
+          "start": "2026-09-08T14:30:00-07:00",
+          "end": "2026-09-08T15:30:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
           "type": "practice",
           "start": "2026-09-08T16:00:00-07:00",
           "end": "2026-09-08T17:00:00-07:00",
@@ -169,6 +178,15 @@
           "type_display": "Practice / Other"
         },
         {
+          "type": "other",
+          "start": "2026-09-09T08:00:00-07:00",
+          "end": "2026-09-09T21:00:00-07:00",
+          "label": "Backpack Program",
+          "notes": "Backpack Program",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
           "type": "games",
           "start": "2026-09-09T11:00:00-07:00",
           "end": "2026-09-09T12:00:00-07:00",
@@ -176,6 +194,15 @@
           "notes": "Grizzlys Sept 2026- March 2027 - Pre-Game Skate",
           "color": "#EF4444",
           "type_display": "Games"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-09-09T14:30:00-07:00",
+          "end": "2026-09-09T15:30:00-07:00",
+          "label": "Sticks & Pucks $5 each",
+          "notes": "Sticks & Pucks $5 each",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
         },
         {
           "type": "practice",
@@ -196,6 +223,15 @@
           "type_display": "Games"
         },
         {
+          "type": "other",
+          "start": "2026-09-10T08:00:00-07:00",
+          "end": "2026-09-10T21:00:00-07:00",
+          "label": "Backpack Program",
+          "notes": "Backpack Program",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
           "type": "practice",
           "start": "2026-09-10T11:00:00-07:00",
           "end": "2026-09-10T12:15:00-07:00",
@@ -203,6 +239,15 @@
           "notes": "Grizzlys Sept 2026- March 2027 - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
+        },
+        {
+          "type": "public",
+          "start": "2026-09-10T14:30:00-07:00",
+          "end": "2026-09-10T15:30:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
         },
         {
           "type": "skating_club",
@@ -239,6 +284,15 @@
           "notes": "Grizzlys Sept 2026- March 2027 - Pre-Game Skate",
           "color": "#EF4444",
           "type_display": "Games"
+        },
+        {
+          "type": "shinny",
+          "start": "2026-09-11T14:30:00-07:00",
+          "end": "2026-09-11T15:30:00-07:00",
+          "label": "Sticks & Pucks $5 each",
+          "notes": "Sticks & Pucks $5 each",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
         },
         {
           "type": "skating_club",

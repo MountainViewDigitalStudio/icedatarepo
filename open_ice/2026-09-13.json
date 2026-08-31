@@ -1,13 +1,13 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-31T09:29:18.279696Z",
+  "generated_at": "2026-08-31T09:29:18.279829Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
   },
   "week": {
-    "start_date": "2026-09-06",
-    "end_date": "2026-09-12"
+    "start_date": "2026-09-13",
+    "end_date": "2026-09-19"
   },
   "view": "open_ice",
   "slots": [
@@ -15,33 +15,9 @@
       "facility_id": "olds-sportsplex",
       "facility_name": "Olds Sportsplex",
       "city": null,
-      "type": "public",
-      "start": "2026-09-08T10:00:00-07:00",
-      "end": "2026-09-08T11:00:00-07:00",
-      "label": "MVES outreach- Drop in",
-      "notes": "MVES outreach- Drop in",
-      "color": "#10B981",
-      "type_display": "Public / Family"
-    },
-    {
-      "facility_id": "olds-sportsplex",
-      "facility_name": "Olds Sportsplex",
-      "city": null,
-      "type": "public",
-      "start": "2026-09-08T14:30:00-07:00",
-      "end": "2026-09-08T15:30:00-07:00",
-      "label": "Public Skating",
-      "notes": "Public Skating",
-      "color": "#10B981",
-      "type_display": "Public / Family"
-    },
-    {
-      "facility_id": "olds-sportsplex",
-      "facility_name": "Olds Sportsplex",
-      "city": null,
       "type": "shinny",
-      "start": "2026-09-09T14:30:00-07:00",
-      "end": "2026-09-09T15:30:00-07:00",
+      "start": "2026-09-14T14:30:00-07:00",
+      "end": "2026-09-14T15:30:00-07:00",
       "label": "Sticks & Pucks $5 each",
       "notes": "Sticks & Pucks $5 each",
       "color": "#3B82F6",
@@ -52,8 +28,8 @@
       "facility_name": "Olds Sportsplex",
       "city": null,
       "type": "public",
-      "start": "2026-09-10T14:30:00-07:00",
-      "end": "2026-09-10T15:30:00-07:00",
+      "start": "2026-09-15T14:30:00-07:00",
+      "end": "2026-09-15T15:30:00-07:00",
       "label": "Public Skating",
       "notes": "Public Skating",
       "color": "#10B981",
@@ -64,12 +40,37 @@
       "facility_name": "Olds Sportsplex",
       "city": null,
       "type": "shinny",
-      "start": "2026-09-11T14:30:00-07:00",
-      "end": "2026-09-11T15:30:00-07:00",
+      "start": "2026-09-16T14:30:00-07:00",
+      "end": "2026-09-16T15:30:00-07:00",
       "label": "Sticks & Pucks $5 each",
       "notes": "Sticks & Pucks $5 each",
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-09-18T14:30:00-07:00",
+      "end": "2026-09-18T15:30:00-07:00",
+      "label": "Sticks & Pucks $5 each",
+      "notes": "Sticks & Pucks $5 each",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-09-18T17:00:00-07:00",
+      "end": "2026-09-18T18:00:00-07:00",
+      "label": "Sticks & Pucks",
+      "notes": "Sticks & Pucks",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     }
   ]
 }

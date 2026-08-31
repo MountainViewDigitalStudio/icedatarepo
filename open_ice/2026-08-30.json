@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-24T09:24:20.087446Z",
+  "generated_at": "2026-08-31T09:29:18.279552Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
@@ -34,6 +34,54 @@
       "notes": "Public Skating",
       "color": "#10B981",
       "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-09-01T14:30:00-07:00",
+      "end": "2026-09-01T15:30:00-07:00",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-09-02T14:30:00-07:00",
+      "end": "2026-09-02T15:30:00-07:00",
+      "label": "Sticks & Pucks $5 each",
+      "notes": "Sticks & Pucks $5 each",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-09-03T14:30:00-07:00",
+      "end": "2026-09-03T15:30:00-07:00",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-09-04T14:30:00-07:00",
+      "end": "2026-09-04T15:30:00-07:00",
+      "label": "Sticks & Pucks $5 each",
+      "notes": "Sticks & Pucks $5 each",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
     }
   ]
 }
