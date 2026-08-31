@@ -4,15 +4,8 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-08-30",
   "week_end": "2026-09-05",
-  "last_updated": "2026-08-24T02:22:25.173672-07:00",
+  "last_updated": "2026-08-31T02:27:25.756048-07:00",
   "slots": [
-    {
-      "start": "2026-08-01T19:00:00-07:00",
-      "end": "2026-08-01T20:00:00-07:00",
-      "type": "rental",
-      "label": "Ice Rental",
-      "notes": "Private Ice Booking"
-    },
     {
       "start": "2026-08-02T15:00:00-07:00",
       "end": "2026-08-02T20:00:00-07:00",
@@ -25,7 +18,7 @@
       "end": "2026-08-03T20:00:00-07:00",
       "type": "rental",
       "label": "Ice Rental",
-      "notes": "Private Ice Booking"
+      "notes": "Trent Private Ice Booking"
     },
     {
       "start": "2026-08-05T08:00:00-07:00",

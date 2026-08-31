@@ -4,21 +4,77 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-09-06",
   "week_end": "2026-09-12",
-  "last_updated": "2026-08-24T02:22:25.527265-07:00",
+  "last_updated": "2026-08-31T02:27:26.060985-07:00",
   "slots": [
     {
+      "start": "2026-09-06T18:00:00-07:00",
+      "end": "2026-09-06T19:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Trent Private Ice Booking"
+    },
+    {
       "start": "2026-09-07T16:30:00-07:00",
+      "end": "2026-09-07T17:30:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Power Skating - U11"
+    },
+    {
+      "start": "2026-09-07T17:30:00-07:00",
+      "end": "2026-09-07T18:30:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Power Skating - U11"
+    },
+    {
+      "start": "2026-09-07T18:45:00-07:00",
+      "end": "2026-09-07T19:45:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Power Skating - U13"
+    },
+    {
+      "start": "2026-09-07T19:45:00-07:00",
       "end": "2026-09-07T20:45:00-07:00",
       "type": "rental",
       "label": "Ice Rental",
-      "notes": "Power Skating"
+      "notes": "Power Skating - U13/U15"
     },
     {
       "start": "2026-09-08T16:30:00-07:00",
+      "end": "2026-09-08T17:30:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Power Skating - U11"
+    },
+    {
+      "start": "2026-09-08T17:00:00-07:00",
+      "end": "2026-09-08T20:00:00-07:00",
+      "type": "other",
+      "label": "Monthly Meeting Ag Board 2026 - Ag Society Meeting",
+      "notes": "Monthly Meeting Ag Board 2026 - Ag Society Meeting"
+    },
+    {
+      "start": "2026-09-08T17:30:00-07:00",
+      "end": "2026-09-08T18:30:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Power Skating - U11"
+    },
+    {
+      "start": "2026-09-08T18:45:00-07:00",
+      "end": "2026-09-08T19:45:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Power Skating - U13"
+    },
+    {
+      "start": "2026-09-08T19:45:00-07:00",
       "end": "2026-09-08T20:45:00-07:00",
       "type": "rental",
       "label": "Ice Rental",
-      "notes": "Power Skating"
+      "notes": "Power Skating - U13/U15"
     },
     {
       "start": "2026-09-09T07:00:00-07:00",
@@ -29,10 +85,38 @@
     },
     {
       "start": "2026-09-09T16:30:00-07:00",
+      "end": "2026-09-09T17:30:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Power Skating - U11"
+    },
+    {
+      "start": "2026-09-09T17:30:00-07:00",
+      "end": "2026-09-09T18:30:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Power Skating - U11"
+    },
+    {
+      "start": "2026-09-09T18:45:00-07:00",
+      "end": "2026-09-09T19:45:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Power Skating - U13"
+    },
+    {
+      "start": "2026-09-09T19:00:00-07:00",
+      "end": "2026-09-09T21:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Caroline Minor Hockey Meeting",
+      "notes": "Caroline Minor Hockey Meeting"
+    },
+    {
+      "start": "2026-09-09T19:45:00-07:00",
       "end": "2026-09-09T20:45:00-07:00",
       "type": "rental",
       "label": "Ice Rental",
-      "notes": "Power Skating"
+      "notes": "Power Skating - U13/U15"
     },
     {
       "start": "2026-09-10T11:00:00-07:00",

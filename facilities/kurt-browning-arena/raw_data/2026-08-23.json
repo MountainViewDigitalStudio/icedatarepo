@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-08-23",
   "week_end": "2026-08-29",
-  "last_updated": "2026-08-24T02:22:24.406003-07:00",
+  "last_updated": "2026-08-31T02:27:25.606183-07:00",
   "slots": [
     {
       "start": "2026-08-24T10:00:00-07:00",
@@ -45,8 +45,8 @@
       "start": "2026-08-26T17:00:00-07:00",
       "end": "2026-08-26T19:00:00-07:00",
       "type": "other",
-      "label": "Meeting - Ag Society Meeting",
-      "notes": "Meeting - Ag Society Meeting"
+      "label": "Monthly Meeting Ag Board 2026 - Ag Society Meeting",
+      "notes": "Monthly Meeting Ag Board 2026 - Ag Society Meeting"
     },
     {
       "start": "2026-08-26T18:00:00-07:00",
@@ -66,15 +66,15 @@
       "start": "2026-08-27T18:00:00-07:00",
       "end": "2026-08-27T20:00:00-07:00",
       "type": "other",
-      "label": "Meeting - Ag Society Meeting",
-      "notes": "Meeting - Ag Society Meeting"
+      "label": "Monthly Meeting Ag Board 2026 - Meeting with County",
+      "notes": "Monthly Meeting Ag Board 2026 - Meeting with County"
     },
     {
       "start": "2026-08-27T19:00:00-07:00",
       "end": "2026-08-27T20:00:00-07:00",
       "type": "rental",
       "label": "Ice Rental",
-      "notes": "Private Ice Booking"
+      "notes": "Trent Private Ice Booking"
     },
     {
       "start": "2026-08-28T15:00:00-07:00",

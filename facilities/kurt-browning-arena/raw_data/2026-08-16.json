@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-08-16",
   "week_end": "2026-08-22",
-  "last_updated": "2026-08-24T02:22:23.804186-07:00",
+  "last_updated": "2026-08-31T02:27:25.275016-07:00",
   "slots": [
     {
       "start": "2026-08-16T10:00:00-07:00",
@@ -81,7 +81,7 @@
       "end": "2026-08-20T20:00:00-07:00",
       "type": "rental",
       "label": "Ice Rental",
-      "notes": "Private Ice Booking"
+      "notes": "Trent Private Ice Booking"
     }
   ]
 }
