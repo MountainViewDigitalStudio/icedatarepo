@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-24T09:22:34.894209Z",
+  "generated_at": "2026-08-31T09:27:36.169025Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -29,7 +29,7 @@
           "start": "2026-08-23T14:15:00-07:00",
           "end": "2026-08-23T15:15:00-07:00",
           "label": "Broncos Hockey 2026/2027 Practices",
-          "notes": "Broncos Hockey 2026/2027 Practices"
+          "notes": "Broncos Hockey 2026/2027 Practices - Practice"
         },
         {
           "type": "practice",
@@ -55,7 +55,7 @@
         {
           "type": "practice",
           "start": "2026-08-24T16:00:00-07:00",
-          "end": "2026-08-24T17:30:00-07:00",
+          "end": "2026-08-24T17:15:00-07:00",
           "label": "Broncos Hockey 2026/2027 Practices",
           "notes": "Broncos Hockey 2026/2027 Practices - Practice"
         },
@@ -72,6 +72,13 @@
           "end": "2026-08-24T20:45:00-07:00",
           "label": "Smyth - PD",
           "notes": "Smyth - PD"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-24T21:00:00-07:00",
+          "end": "2026-08-24T22:00:00-07:00",
+          "label": "van Vlaanderen",
+          "notes": "van Vlaanderen"
         },
         {
           "type": "practice",
@@ -104,9 +111,9 @@
         {
           "type": "practice",
           "start": "2026-08-25T12:15:00-07:00",
-          "end": "2026-08-25T13:15:00-07:00",
-          "label": "Moreau",
-          "notes": "Moreau"
+          "end": "2026-08-25T13:45:00-07:00",
+          "label": "Moreau - PD",
+          "notes": "Moreau - PD"
         },
         {
           "type": "public_skate",
@@ -149,6 +156,20 @@
           "end": "2026-08-25T20:45:00-07:00",
           "label": "U15 AA Grp 1 Camp 1 , 2 rooms",
           "notes": "OMHA 2026-2027 - U15 AA Grp 1 Camp 1 , 2 rooms"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-25T21:00:00-07:00",
+          "end": "2026-08-25T22:00:00-07:00",
+          "label": "Gardner- PD",
+          "notes": "Gardner- PD"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-26T08:00:00-07:00",
+          "end": "2026-08-26T21:00:00-07:00",
+          "label": "Backpack Program",
+          "notes": "Backpack Program"
         },
         {
           "type": "shinny",
@@ -194,10 +215,17 @@
         },
         {
           "type": "practice",
-          "start": "2026-08-27T07:00:00-07:00",
-          "end": "2026-08-27T08:15:00-07:00",
+          "start": "2026-08-27T06:45:00-07:00",
+          "end": "2026-08-27T07:45:00-07:00",
           "label": "Broncos Hockey 2026/2027 Practices",
           "notes": "Broncos Hockey 2026/2027 Practices - Practice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-08-27T08:00:00-07:00",
+          "end": "2026-08-27T21:00:00-07:00",
+          "label": "Backpack Program",
+          "notes": "Backpack Program"
         },
         {
           "type": "practice",
@@ -305,6 +333,13 @@
           "notes": "Carstairs Skating Club"
         },
         {
+          "type": "practice",
+          "start": "2026-08-29T07:00:00-07:00",
+          "end": "2026-08-29T08:00:00-07:00",
+          "label": "Gardner- PD",
+          "notes": "Gardner- PD"
+        },
+        {
           "type": "game",
           "start": "2026-08-29T09:00:00-07:00",
           "end": "2026-08-29T10:15:00-07:00",
@@ -321,7 +356,7 @@
         {
           "type": "practice",
           "start": "2026-08-29T12:00:00-07:00",
-          "end": "2026-08-29T13:30:00-07:00",
+          "end": "2026-08-29T13:45:00-07:00",
           "label": "Broncos Hockey 2026/2027 Practices",
           "notes": "Broncos Hockey 2026/2027 Practices - Practice"
         },
