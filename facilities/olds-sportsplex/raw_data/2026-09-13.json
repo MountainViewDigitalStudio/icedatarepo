@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-31T09:27:36.169025Z",
+  "generated_at": "2026-09-07T09:28:38.367933Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -287,8 +287,8 @@
           "type": "practice",
           "start": "2026-09-17T15:45:00-07:00",
           "end": "2026-09-17T16:45:00-07:00",
-          "label": "Olds Figure Skating Club 2026/27",
-          "notes": "Olds Figure Skating Club 2026/27"
+          "label": "Jr./Sr. STAR ( one room)",
+          "notes": "Olds Figure Skating Club 2026/27 - Jr./Sr. STAR ( one room)"
         },
         {
           "type": "practice",
@@ -328,9 +328,16 @@
         {
           "type": "practice",
           "start": "2026-09-18T15:45:00-07:00",
+          "end": "2026-09-18T16:45:00-07:00",
+          "label": "STAR",
+          "notes": "Olds Figure Skating Club 2026/27 - STAR"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-18T17:00:00-07:00",
           "end": "2026-09-18T18:00:00-07:00",
-          "label": "Olds Figure Skating Club 2026/27",
-          "notes": "Olds Figure Skating Club 2026/27"
+          "label": "Powerskating",
+          "notes": "Olds Figure Skating Club 2026/27 - Powerskating"
         },
         {
           "type": "game",
