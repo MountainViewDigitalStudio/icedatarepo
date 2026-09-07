@@ -1,0 +1,101 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-09-07T09:30:25.438638Z",
+  "facility": {
+    "id": "open-ice",
+    "name": "Open Ice (Public & Shinny)"
+  },
+  "week": {
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-26"
+  },
+  "view": "open_ice",
+  "slots": [
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "public",
+      "start": "2026-09-20T18:00:00-07:00",
+      "end": "2026-09-20T19:00:00-07:00",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "color": "#10B981",
+      "type_display": "Public / Family",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-09-21T12:00:00-07:00",
+      "end": "2026-09-21T13:00:00-07:00",
+      "label": "Sticks and Pucks 2026/2027",
+      "notes": "Sticks and Pucks 2026/2027",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-09-22T12:00:00-07:00",
+      "end": "2026-09-22T13:00:00-07:00",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-09-23T12:00:00-07:00",
+      "end": "2026-09-23T13:00:00-07:00",
+      "label": "Sticks and Pucks 2026/2027",
+      "notes": "Sticks and Pucks 2026/2027",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "public",
+      "start": "2026-09-24T12:00:00-07:00",
+      "end": "2026-09-24T13:00:00-07:00",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-09-25T12:00:00-07:00",
+      "end": "2026-09-25T13:00:00-07:00",
+      "label": "Sticks and Pucks 2026/2027",
+      "notes": "Sticks and Pucks 2026/2027",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-09-25T17:00:00-07:00",
+      "end": "2026-09-25T18:00:00-07:00",
+      "label": "Sticks & Pucks",
+      "notes": "Sticks & Pucks",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-31T09:29:18.279829Z",
+  "generated_at": "2026-09-07T09:30:25.438331Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
@@ -58,6 +58,19 @@
       "notes": "Sticks & Pucks $5 each",
       "color": "#3B82F6",
       "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "public",
+      "start": "2026-09-18T16:00:00-07:00",
+      "end": "2026-09-18T17:00:00-07:00",
+      "label": "Public Skating",
+      "notes": "PD Day Public Skating",
+      "color": "#10B981",
+      "type_display": "Public / Family",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     },
     {
       "facility_id": "kurt-browning-arena",

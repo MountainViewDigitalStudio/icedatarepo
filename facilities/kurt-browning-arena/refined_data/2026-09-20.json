@@ -1,0 +1,150 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-09-07T09:30:25.373446Z",
+  "facility": {
+    "id": "kurt-browning-arena",
+    "name": "Kurt Browning Arena",
+    "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+  },
+  "week": {
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-26"
+  },
+  "slots": [
+    {
+      "start": "2026-09-20T09:00:00-07:00",
+      "end": "2026-09-20T17:00:00-07:00",
+      "type": "games",
+      "label": "Ringette TOURNAMENT",
+      "notes": "Ringette TOURNAMENT",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-09-20T18:00:00-07:00",
+      "end": "2026-09-20T19:00:00-07:00",
+      "type": "public",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "start": "2026-09-22T17:00:00-07:00",
+      "end": "2026-09-22T18:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Hockey Evaluations U11 & U13 - U11",
+      "notes": "Hockey Evaluations U11 & U13 - U11",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-09-22T18:00:00-07:00",
+      "end": "2026-09-22T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Hockey Evaluations U11 & U13 - U11",
+      "notes": "Hockey Evaluations U11 & U13 - U11",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-09-22T19:15:00-07:00",
+      "end": "2026-09-22T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Hockey Evaluations U11 & U13 - U13",
+      "notes": "Hockey Evaluations U11 & U13 - U13",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-09-22T20:15:00-07:00",
+      "end": "2026-09-22T21:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Hockey Evaluations U11 & U13 - U13",
+      "notes": "Hockey Evaluations U11 & U13 - U13",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-09-23T17:00:00-07:00",
+      "end": "2026-09-23T18:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Hockey Evaluations U11 & U13 - U11",
+      "notes": "Hockey Evaluations U11 & U13 - U11",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-09-23T18:00:00-07:00",
+      "end": "2026-09-23T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Hockey Evaluations U11 & U13 - U11",
+      "notes": "Hockey Evaluations U11 & U13 - U11",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-09-23T19:15:00-07:00",
+      "end": "2026-09-23T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Hockey Evaluations U11 & U13 - U13",
+      "notes": "Hockey Evaluations U11 & U13 - U13",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-09-23T20:15:00-07:00",
+      "end": "2026-09-23T21:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Hockey Evaluations U11 & U13 - U13",
+      "notes": "Hockey Evaluations U11 & U13 - U13",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-09-24T17:00:00-07:00",
+      "end": "2026-09-24T18:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Hockey Evaluations U11 & U13 - U11",
+      "notes": "Hockey Evaluations U11 & U13 - U11",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-09-24T18:00:00-07:00",
+      "end": "2026-09-24T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Hockey Evaluations U11 & U13 - U11",
+      "notes": "Hockey Evaluations U11 & U13 - U11",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-09-24T19:15:00-07:00",
+      "end": "2026-09-24T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Hockey Evaluations U11 & U13 - U13",
+      "notes": "Hockey Evaluations U11 & U13 - U13",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-09-24T20:15:00-07:00",
+      "end": "2026-09-24T21:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Hockey Evaluations U11 & U13 - U13",
+      "notes": "Hockey Evaluations U11 & U13 - U13",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-09-25T17:00:00-07:00",
+      "end": "2026-09-25T18:00:00-07:00",
+      "type": "shinny",
+      "label": "Sticks & Pucks",
+      "notes": "Sticks & Pucks",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    }
+  ]
+}

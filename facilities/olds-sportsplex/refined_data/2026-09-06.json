@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-31T09:29:18.194501Z",
+  "generated_at": "2026-09-07T09:30:25.346832Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -205,6 +205,15 @@
           "type_display": "Shinny / Stick & Puck"
         },
         {
+          "type": "public",
+          "start": "2026-09-09T15:45:00-07:00",
+          "end": "2026-09-09T16:45:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating",
+          "color": "#10B981",
+          "type_display": "Public / Family"
+        },
+        {
           "type": "practice",
           "start": "2026-09-09T17:00:00-07:00",
           "end": "2026-09-09T18:00:00-07:00",
@@ -253,8 +262,8 @@
           "type": "skating_club",
           "start": "2026-09-10T15:45:00-07:00",
           "end": "2026-09-10T16:45:00-07:00",
-          "label": "Olds Figure Skating Club 2026/27",
-          "notes": "Olds Figure Skating Club 2026/27",
+          "label": "Jr./Sr. STAR ( one room)",
+          "notes": "Olds Figure Skating Club 2026/27 - Jr./Sr. STAR ( one room)",
           "color": "#06B6D4",
           "type_display": "Skating Club / Programs"
         },
@@ -298,8 +307,8 @@
           "type": "skating_club",
           "start": "2026-09-11T15:45:00-07:00",
           "end": "2026-09-11T16:45:00-07:00",
-          "label": "Olds Figure Skating Club 2026/27",
-          "notes": "Olds Figure Skating Club 2026/27",
+          "label": "Jr./Sr. STAR ( one room)",
+          "notes": "Olds Figure Skating Club 2026/27 - Jr./Sr. STAR ( one room)",
           "color": "#06B6D4",
           "type_display": "Skating Club / Programs"
         },
@@ -343,8 +352,8 @@
           "type": "skating_club",
           "start": "2026-09-12T11:00:00-07:00",
           "end": "2026-09-12T12:00:00-07:00",
-          "label": "Olds Figure Skating Club 2026/27",
-          "notes": "Olds Figure Skating Club 2026/27",
+          "label": "Assistant Training (one room)",
+          "notes": "Olds Figure Skating Club 2026/27 - Assistant Training (one room)",
           "color": "#06B6D4",
           "type_display": "Skating Club / Programs"
         },
