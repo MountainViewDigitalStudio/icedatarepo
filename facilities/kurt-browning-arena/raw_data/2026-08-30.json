@@ -4,8 +4,15 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-08-30",
   "week_end": "2026-09-05",
-  "last_updated": "2026-08-31T02:27:25.756048-07:00",
+  "last_updated": "2026-09-07T02:28:23.412216-07:00",
   "slots": [
+    {
+      "start": "2026-08-02T10:00:00-07:00",
+      "end": "2026-08-02T12:00:00-07:00",
+      "type": "other",
+      "label": "Administrative Meeting",
+      "notes": "Administrative Meeting"
+    },
     {
       "start": "2026-08-02T15:00:00-07:00",
       "end": "2026-08-02T20:00:00-07:00",

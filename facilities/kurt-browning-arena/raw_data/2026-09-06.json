@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-09-06",
   "week_end": "2026-09-12",
-  "last_updated": "2026-08-31T02:27:26.060985-07:00",
+  "last_updated": "2026-09-07T02:28:24.014018-07:00",
   "slots": [
     {
       "start": "2026-09-06T18:00:00-07:00",
@@ -75,13 +75,6 @@
       "type": "rental",
       "label": "Ice Rental",
       "notes": "Power Skating - U13/U15"
-    },
-    {
-      "start": "2026-09-09T07:00:00-07:00",
-      "end": "2026-09-09T09:00:00-07:00",
-      "type": "other",
-      "label": "Monthly Meetings-Taqa",
-      "notes": "Monthly Meetings-Taqa"
     },
     {
       "start": "2026-09-09T16:30:00-07:00",
