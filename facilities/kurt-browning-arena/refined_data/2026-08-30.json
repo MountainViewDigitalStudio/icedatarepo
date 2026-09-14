@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-09-07T09:30:25.372209Z",
+  "generated_at": "2026-09-14T09:29:24.365496Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena",
@@ -19,6 +19,42 @@
       "notes": "Show  and shine",
       "color": "#64748B",
       "type_display": "Other"
+    },
+    {
+      "start": "2026-09-01T09:00:00-07:00",
+      "end": "2026-09-01T12:00:00-07:00",
+      "type": "other",
+      "label": "Recovery Alberta Meeting",
+      "notes": "Recovery Alberta Meeting",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-09-01T17:30:00-07:00",
+      "end": "2026-09-01T18:45:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Preliminary Fun Skate",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-09-01T19:00:00-07:00",
+      "end": "2026-09-01T21:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Junior Fun Skate",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-09-02T17:00:00-07:00",
+      "end": "2026-09-02T18:00:00-07:00",
+      "type": "shinny",
+      "label": "Sticks & Pucks",
+      "notes": "Sticks & Pucks",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
     }
   ]
 }
