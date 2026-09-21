@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-09-14T09:27:38.310909Z",
+  "generated_at": "2026-09-21T09:28:01.962226Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -17,6 +17,13 @@
     "main": {
       "name": "Main Ice Surface",
       "slots": [
+        {
+          "type": "practice",
+          "start": "2026-09-20T06:45:00-07:00",
+          "end": "2026-09-20T07:45:00-07:00",
+          "label": "Wright - PD",
+          "notes": "Wright - PD"
+        },
         {
           "type": "game",
           "start": "2026-09-20T08:00:00-07:00",
@@ -77,8 +84,8 @@
           "type": "practice",
           "start": "2026-09-21T06:15:00-07:00",
           "end": "2026-09-21T07:30:00-07:00",
-          "label": "Broncos Hockey 2026/2027 Practices",
-          "notes": "Broncos Hockey 2026/2027 Practices - Practice"
+          "label": "Broncos Hockey Practices September 2026 inv",
+          "notes": "Broncos Hockey Practices September 2026 inv - Practice"
         },
         {
           "type": "practice",
@@ -119,8 +126,8 @@
           "type": "practice",
           "start": "2026-09-22T06:15:00-07:00",
           "end": "2026-09-22T07:30:00-07:00",
-          "label": "Broncos Hockey 2026/2027 Practices",
-          "notes": "Broncos Hockey 2026/2027 Practices - Practice"
+          "label": "Broncos Hockey Practices September 2026 inv",
+          "notes": "Broncos Hockey Practices September 2026 inv - Practice"
         },
         {
           "type": "game",
@@ -161,8 +168,8 @@
           "type": "practice",
           "start": "2026-09-23T06:15:00-07:00",
           "end": "2026-09-23T07:30:00-07:00",
-          "label": "Broncos Hockey 2026/2027 Practices",
-          "notes": "Broncos Hockey 2026/2027 Practices - Practice"
+          "label": "Broncos Hockey Practices September 2026 inv",
+          "notes": "Broncos Hockey Practices September 2026 inv - Practice"
         },
         {
           "type": "practice",
@@ -203,8 +210,8 @@
           "type": "practice",
           "start": "2026-09-24T06:15:00-07:00",
           "end": "2026-09-24T07:30:00-07:00",
-          "label": "Broncos Hockey 2026/2027 Practices",
-          "notes": "Broncos Hockey 2026/2027 Practices - Practice"
+          "label": "Broncos Hockey Practices September 2026 inv",
+          "notes": "Broncos Hockey Practices September 2026 inv - Practice"
         },
         {
           "type": "practice",
@@ -266,8 +273,8 @@
           "type": "practice",
           "start": "2026-09-25T06:15:00-07:00",
           "end": "2026-09-25T07:30:00-07:00",
-          "label": "Broncos Hockey 2026/2027 Practices",
-          "notes": "Broncos Hockey 2026/2027 Practices - Practice"
+          "label": "Broncos Hockey Practices September 2026 inv",
+          "notes": "Broncos Hockey Practices September 2026 inv - Practice"
         },
         {
           "type": "game",
@@ -351,6 +358,13 @@
     "auxiliary": {
       "name": "Auxiliary Ice Surface",
       "slots": [
+        {
+          "type": "practice",
+          "start": "2026-09-21T07:00:00-07:00",
+          "end": "2026-09-21T07:45:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie"
+        },
         {
           "type": "practice",
           "start": "2026-09-21T12:00:00-07:00",

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-09-14T09:27:38.310909Z",
+  "generated_at": "2026-09-21T09:28:01.962226Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -77,8 +77,8 @@
           "type": "practice",
           "start": "2026-09-08T06:15:00-07:00",
           "end": "2026-09-08T07:30:00-07:00",
-          "label": "Broncos Hockey 2026/2027 Practices",
-          "notes": "Broncos Hockey 2026/2027 Practices - Practice"
+          "label": "Broncos Hockey Practices September 2026 inv",
+          "notes": "Broncos Hockey Practices September 2026 inv - Practice"
         },
         {
           "type": "practice",
@@ -140,8 +140,8 @@
           "type": "practice",
           "start": "2026-09-09T06:15:00-07:00",
           "end": "2026-09-09T07:30:00-07:00",
-          "label": "Broncos Hockey 2026/2027 Practices",
-          "notes": "Broncos Hockey 2026/2027 Practices - Practice"
+          "label": "Broncos Hockey Practices September 2026 inv",
+          "notes": "Broncos Hockey Practices September 2026 inv - Practice"
         },
         {
           "type": "practice",

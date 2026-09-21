@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-09-14T09:27:38.310909Z",
+  "generated_at": "2026-09-21T09:28:01.962226Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -56,8 +56,8 @@
           "type": "practice",
           "start": "2026-09-28T06:15:00-07:00",
           "end": "2026-09-28T07:30:00-07:00",
-          "label": "Broncos Hockey 2026/2027 Practices",
-          "notes": "Broncos Hockey 2026/2027 Practices - Practice"
+          "label": "Broncos Hockey Practices September 2026 inv",
+          "notes": "Broncos Hockey Practices September 2026 inv - Practice"
         },
         {
           "type": "practice",
@@ -112,8 +112,8 @@
           "type": "practice",
           "start": "2026-09-29T06:15:00-07:00",
           "end": "2026-09-29T07:30:00-07:00",
-          "label": "Broncos Hockey 2026/2027 Practices",
-          "notes": "Broncos Hockey 2026/2027 Practices - Practice"
+          "label": "Broncos Hockey Practices September 2026 inv",
+          "notes": "Broncos Hockey Practices September 2026 inv - Practice"
         },
         {
           "type": "practice",
@@ -175,8 +175,8 @@
           "type": "practice",
           "start": "2026-09-30T08:30:00-07:00",
           "end": "2026-09-30T10:30:00-07:00",
-          "label": "Broncos Hockey 2026/2027 Practices",
-          "notes": "Broncos Hockey 2026/2027 Practices - Practice"
+          "label": "Broncos Hockey Practices September 2026 inv",
+          "notes": "Broncos Hockey Practices September 2026 inv - Practice"
         },
         {
           "type": "practice",
@@ -392,6 +392,13 @@
           "end": "2026-09-27T20:15:00-07:00",
           "label": "PHL PD",
           "notes": "PHL PD"
+        },
+        {
+          "type": "practice",
+          "start": "2026-09-28T07:00:00-07:00",
+          "end": "2026-09-28T07:45:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie"
         },
         {
           "type": "practice",
