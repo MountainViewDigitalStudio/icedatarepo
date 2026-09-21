@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-09-14T09:29:24.347396Z",
+  "generated_at": "2026-09-21T09:29:12.941748Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -100,8 +100,8 @@
           "type": "practice",
           "start": "2026-09-14T06:15:00-07:00",
           "end": "2026-09-14T07:30:00-07:00",
-          "label": "Broncos Hockey 2026/2027 Practices",
-          "notes": "Broncos Hockey 2026/2027 Practices - Practice",
+          "label": "Broncos Hockey Practices September 2026 inv",
+          "notes": "Broncos Hockey Practices September 2026 inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -154,8 +154,8 @@
           "type": "practice",
           "start": "2026-09-15T06:15:00-07:00",
           "end": "2026-09-15T07:30:00-07:00",
-          "label": "Broncos Hockey 2026/2027 Practices",
-          "notes": "Broncos Hockey 2026/2027 Practices - Practice",
+          "label": "Broncos Hockey Practices September 2026 inv",
+          "notes": "Broncos Hockey Practices September 2026 inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -235,8 +235,8 @@
           "type": "practice",
           "start": "2026-09-16T06:15:00-07:00",
           "end": "2026-09-16T07:30:00-07:00",
-          "label": "Broncos Hockey 2026/2027 Practices",
-          "notes": "Broncos Hockey 2026/2027 Practices - Practice",
+          "label": "Broncos Hockey Practices September 2026 inv",
+          "notes": "Broncos Hockey Practices September 2026 inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -325,8 +325,8 @@
           "type": "practice",
           "start": "2026-09-17T06:15:00-07:00",
           "end": "2026-09-17T07:30:00-07:00",
-          "label": "Broncos Hockey 2026/2027 Practices",
-          "notes": "Broncos Hockey 2026/2027 Practices - Practice",
+          "label": "Broncos Hockey Practices September 2026 inv",
+          "notes": "Broncos Hockey Practices September 2026 inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -392,6 +392,15 @@
           "notes": "OMHA 2026-2027 - U15 Female Skills 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-09-18T07:00:00-07:00",
+          "end": "2026-09-18T07:45:00-07:00",
+          "label": "Norrie",
+          "notes": "Norrie",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "games",
