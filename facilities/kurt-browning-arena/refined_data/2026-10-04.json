@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-09-21T09:29:12.981249Z",
+  "generated_at": "2026-09-28T09:33:51.483080Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena",
@@ -39,15 +39,6 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-10-05T17:00:00-07:00",
-      "end": "2026-10-05T20:00:00-07:00",
-      "type": "other",
-      "label": "Monthly Meeting Ag Board 2026 - Special Meeting",
-      "notes": "Monthly Meeting Ag Board 2026 - Special Meeting",
-      "color": "#64748B",
-      "type_display": "Other"
-    },
-    {
       "start": "2026-10-05T17:15:00-07:00",
       "end": "2026-10-05T18:15:00-07:00",
       "type": "practice",
@@ -82,24 +73,6 @@
       "notes": "Minor Hockey Practices - U18 Practice",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
-    },
-    {
-      "start": "2026-10-06T17:30:00-07:00",
-      "end": "2026-10-06T18:45:00-07:00",
-      "type": "rentals",
-      "label": "Ice Rental",
-      "notes": "Caroline Skate Club - Preliminary Fun Skate",
-      "color": "#F97316",
-      "type_display": "Rentals"
-    },
-    {
-      "start": "2026-10-06T19:00:00-07:00",
-      "end": "2026-10-06T20:30:00-07:00",
-      "type": "rentals",
-      "label": "Ice Rental",
-      "notes": "Caroline Skate Club - Junior Fun Skate",
-      "color": "#F97316",
-      "type_display": "Rentals"
     },
     {
       "start": "2026-10-06T20:45:00-07:00",
@@ -154,33 +127,6 @@
       "notes": "Mens Adult Hockey",
       "color": "#F59E0B",
       "type_display": "Adult Rec Hockey"
-    },
-    {
-      "start": "2026-10-08T15:45:00-07:00",
-      "end": "2026-10-08T16:15:00-07:00",
-      "type": "rentals",
-      "label": "Ice Rental",
-      "notes": "Caroline Skate Club - Pre Skate",
-      "color": "#F97316",
-      "type_display": "Rentals"
-    },
-    {
-      "start": "2026-10-08T17:30:00-07:00",
-      "end": "2026-10-08T18:45:00-07:00",
-      "type": "rentals",
-      "label": "Ice Rental",
-      "notes": "Caroline Skate Club - Preliminary Fun Skate",
-      "color": "#F97316",
-      "type_display": "Rentals"
-    },
-    {
-      "start": "2026-10-08T19:00:00-07:00",
-      "end": "2026-10-08T21:00:00-07:00",
-      "type": "rentals",
-      "label": "Ice Rental",
-      "notes": "Caroline Skate Club - Junior Fun Skate",
-      "color": "#F97316",
-      "type_display": "Rentals"
     },
     {
       "start": "2026-10-09T07:00:00-07:00",

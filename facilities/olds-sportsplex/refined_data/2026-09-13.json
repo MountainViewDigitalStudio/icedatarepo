@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-09-21T09:29:12.941748Z",
+  "generated_at": "2026-09-28T09:33:51.455504Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -20,7 +20,7 @@
           "start": "2026-09-13T08:30:00-07:00",
           "end": "2026-09-13T09:30:00-07:00",
           "label": "U11/U11F Grp 2 Camp 2 3 rooms (1 female)",
-          "notes": "OMHA 2026-2027 - U11/U11F Grp 2 Camp 2 3 rooms (1 female)",
+          "notes": "OMHA Sept  2026 - U11/U11F Grp 2 Camp 2 3 rooms (1 female)",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -29,7 +29,7 @@
           "start": "2026-09-13T09:45:00-07:00",
           "end": "2026-09-13T10:45:00-07:00",
           "label": "U11/U11F Gr 1 Camp 2, 3 rooms (1 female)",
-          "notes": "OMHA 2026-2027 - U11/U11F Gr 1 Camp 2, 3 rooms (1 female)",
+          "notes": "OMHA Sept  2026 - U11/U11F Gr 1 Camp 2, 3 rooms (1 female)",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -38,7 +38,7 @@
           "start": "2026-09-13T11:00:00-07:00",
           "end": "2026-09-13T12:00:00-07:00",
           "label": "U13 Gr 2 Camp 2, 2 rooms",
-          "notes": "OMHA 2026-2027 - U13 Gr 2 Camp 2, 2 rooms",
+          "notes": "OMHA Sept  2026 - U13 Gr 2 Camp 2, 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -47,7 +47,7 @@
           "start": "2026-09-13T12:15:00-07:00",
           "end": "2026-09-13T13:15:00-07:00",
           "label": "U13 Gr 1 Camp 2, 2 rooms",
-          "notes": "OMHA 2026-2027 - U13 Gr 1 Camp 2, 2 rooms",
+          "notes": "OMHA Sept  2026 - U13 Gr 1 Camp 2, 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -56,7 +56,7 @@
           "start": "2026-09-13T13:30:00-07:00",
           "end": "2026-09-13T14:30:00-07:00",
           "label": "U13 Female Camp 2  2 rooms",
-          "notes": "OMHA 2026-2027 - U13 Female Camp 2  2 rooms",
+          "notes": "OMHA Sept  2026 - U13 Female Camp 2  2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -65,7 +65,7 @@
           "start": "2026-09-13T14:45:00-07:00",
           "end": "2026-09-13T16:45:00-07:00",
           "label": "U18AA Game 2 AvsB BvsC AvsC  REF  3rooms",
-          "notes": "OMHA 2026-2027 - U18AA Game 2 AvsB BvsC AvsC  REF  3rooms",
+          "notes": "OMHA Sept  2026 - U18AA Game 2 AvsB BvsC AvsC  REF  3rooms",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -74,7 +74,7 @@
           "start": "2026-09-13T17:00:00-07:00",
           "end": "2026-09-13T18:00:00-07:00",
           "label": "U15 Female Camp 2 2 rooms",
-          "notes": "OMHA 2026-2027 - U15 Female Camp 2 2 rooms",
+          "notes": "OMHA Sept  2026 - U15 Female Camp 2 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -83,7 +83,7 @@
           "start": "2026-09-13T18:15:00-07:00",
           "end": "2026-09-13T19:15:00-07:00",
           "label": "U18 Female Camp 2 2 rooms",
-          "notes": "OMHA 2026-2027 - U18 Female Camp 2 2 rooms",
+          "notes": "OMHA Sept  2026 - U18 Female Camp 2 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -119,7 +119,7 @@
           "start": "2026-09-14T16:00:00-07:00",
           "end": "2026-09-14T17:00:00-07:00",
           "label": "U11/U11F Gr 1 Camp 3 3 rooms (1 female)",
-          "notes": "OMHA 2026-2027 - U11/U11F Gr 1 Camp 3 3 rooms (1 female)",
+          "notes": "OMHA Sept  2026 - U11/U11F Gr 1 Camp 3 3 rooms (1 female)",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -128,7 +128,7 @@
           "start": "2026-09-14T17:15:00-07:00",
           "end": "2026-09-14T18:15:00-07:00",
           "label": "U15 Group 2 Camp 2 2 rooms",
-          "notes": "OMHA 2026-2027 - U15 Group 2 Camp 2 2 rooms",
+          "notes": "OMHA Sept  2026 - U15 Group 2 Camp 2 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -137,7 +137,7 @@
           "start": "2026-09-14T18:30:00-07:00",
           "end": "2026-09-14T19:30:00-07:00",
           "label": "U15  Group 1 Camp 2 2 rooms",
-          "notes": "OMHA 2026-2027 - U15  Group 1 Camp 2 2 rooms",
+          "notes": "OMHA Sept  2026 - U15  Group 1 Camp 2 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -146,7 +146,7 @@
           "start": "2026-09-14T19:45:00-07:00",
           "end": "2026-09-14T21:45:00-07:00",
           "label": "U18AA Game 3 AvsC AvsB BvsC  REF 3 rooms",
-          "notes": "OMHA 2026-2027 - U18AA Game 3 AvsC AvsB BvsC  REF 3 rooms",
+          "notes": "OMHA Sept  2026 - U18AA Game 3 AvsC AvsB BvsC  REF 3 rooms",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -191,7 +191,7 @@
           "start": "2026-09-15T16:00:00-07:00",
           "end": "2026-09-15T17:00:00-07:00",
           "label": "U11/U11F Grp 2 Camp 3 3 rooms (1 female)",
-          "notes": "OMHA 2026-2027 - U11/U11F Grp 2 Camp 3 3 rooms (1 female)",
+          "notes": "OMHA Sept  2026 - U11/U11F Grp 2 Camp 3 3 rooms (1 female)",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -200,7 +200,7 @@
           "start": "2026-09-15T17:15:00-07:00",
           "end": "2026-09-15T18:15:00-07:00",
           "label": "U15AA",
-          "notes": "OMHA 2026-2027 - U15AA",
+          "notes": "OMHA Sept  2026 - U15AA",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -209,7 +209,7 @@
           "start": "2026-09-15T18:30:00-07:00",
           "end": "2026-09-15T19:30:00-07:00",
           "label": "U13 Female Skills  2 rooms",
-          "notes": "OMHA 2026-2027 - U13 Female Skills  2 rooms",
+          "notes": "OMHA Sept  2026 - U13 Female Skills  2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -218,7 +218,7 @@
           "start": "2026-09-15T19:45:00-07:00",
           "end": "2026-09-15T20:45:00-07:00",
           "label": "U18AA Goalies  1 room",
-          "notes": "OMHA 2026-2027 - U18AA Goalies  1 room",
+          "notes": "OMHA Sept  2026 - U18AA Goalies  1 room",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -227,7 +227,7 @@
           "start": "2026-09-15T21:00:00-07:00",
           "end": "2026-09-15T22:00:00-07:00",
           "label": "U18 fem",
-          "notes": "OMHA 2026-2027 - U18 fem",
+          "notes": "OMHA Sept  2026 - U18 fem",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -281,7 +281,7 @@
           "start": "2026-09-16T16:00:00-07:00",
           "end": "2026-09-16T17:00:00-07:00",
           "label": "U13AA",
-          "notes": "OMHA 2026-2027 - U13AA",
+          "notes": "OMHA Sept  2026 - U13AA",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -290,7 +290,7 @@
           "start": "2026-09-16T17:15:00-07:00",
           "end": "2026-09-16T18:15:00-07:00",
           "label": "U13 Gr 2 skills 2 rooms",
-          "notes": "OMHA 2026-2027 - U13 Gr 2 skills 2 rooms",
+          "notes": "OMHA Sept  2026 - U13 Gr 2 skills 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -299,7 +299,7 @@
           "start": "2026-09-16T18:30:00-07:00",
           "end": "2026-09-16T19:30:00-07:00",
           "label": "U13 Gr 1 skills 2 rooms",
-          "notes": "OMHA 2026-2027 - U13 Gr 1 skills 2 rooms",
+          "notes": "OMHA Sept  2026 - U13 Gr 1 skills 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -308,7 +308,7 @@
           "start": "2026-09-16T19:45:00-07:00",
           "end": "2026-09-16T20:45:00-07:00",
           "label": "U18AA Black/Gold REF 2 rooms",
-          "notes": "OMHA 2026-2027 - U18AA Black/Gold REF 2 rooms",
+          "notes": "OMHA Sept  2026 - U18AA Black/Gold REF 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -317,7 +317,7 @@
           "start": "2026-09-16T21:00:00-07:00",
           "end": "2026-09-16T22:00:00-07:00",
           "label": "U18 fem",
-          "notes": "OMHA 2026-2027 - U18 fem",
+          "notes": "OMHA Sept  2026 - U18 fem",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -371,7 +371,7 @@
           "start": "2026-09-17T17:30:00-07:00",
           "end": "2026-09-17T18:30:00-07:00",
           "label": "U15 Group 1 Skills 2 rooms",
-          "notes": "OMHA 2026-2027 - U15 Group 1 Skills 2 rooms",
+          "notes": "OMHA Sept  2026 - U15 Group 1 Skills 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -380,7 +380,7 @@
           "start": "2026-09-17T18:45:00-07:00",
           "end": "2026-09-17T19:45:00-07:00",
           "label": "U15 Skills Group2 2 rooms",
-          "notes": "OMHA 2026-2027 - U15 Skills Group2 2 rooms",
+          "notes": "OMHA Sept  2026 - U15 Skills Group2 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -389,7 +389,7 @@
           "start": "2026-09-17T20:00:00-07:00",
           "end": "2026-09-17T21:00:00-07:00",
           "label": "U15 Female Skills 2 rooms",
-          "notes": "OMHA 2026-2027 - U15 Female Skills 2 rooms",
+          "notes": "OMHA Sept  2026 - U15 Female Skills 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -452,7 +452,7 @@
           "start": "2026-09-19T08:30:00-07:00",
           "end": "2026-09-19T09:30:00-07:00",
           "label": "U11/U11F Grp 2 Camp 4 3 rooms (1 female)",
-          "notes": "OMHA 2026-2027 - U11/U11F Grp 2 Camp 4 3 rooms (1 female)",
+          "notes": "OMHA Sept  2026 - U11/U11F Grp 2 Camp 4 3 rooms (1 female)",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -461,7 +461,7 @@
           "start": "2026-09-19T09:45:00-07:00",
           "end": "2026-09-19T10:45:00-07:00",
           "label": "U11/U11F Grp 1 Camp 4 3 rooms (1 female)",
-          "notes": "OMHA 2026-2027 - U11/U11F Grp 1 Camp 4 3 rooms (1 female)",
+          "notes": "OMHA Sept  2026 - U11/U11F Grp 1 Camp 4 3 rooms (1 female)",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -470,7 +470,7 @@
           "start": "2026-09-19T11:00:00-07:00",
           "end": "2026-09-19T12:00:00-07:00",
           "label": "U9 Grp 2 Camp 1 2 rooms",
-          "notes": "OMHA 2026-2027 - U9 Grp 2 Camp 1 2 rooms",
+          "notes": "OMHA Sept  2026 - U9 Grp 2 Camp 1 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -479,7 +479,7 @@
           "start": "2026-09-19T12:15:00-07:00",
           "end": "2026-09-19T13:15:00-07:00",
           "label": "U9 Grp 1 Camp 1 2 rooms",
-          "notes": "OMHA 2026-2027 - U9 Grp 1 Camp 1 2 rooms",
+          "notes": "OMHA Sept  2026 - U9 Grp 1 Camp 1 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -488,7 +488,7 @@
           "start": "2026-09-19T13:30:00-07:00",
           "end": "2026-09-19T15:30:00-07:00",
           "label": "U15 Game 1 B vs C  A vs B   REF 3 rooms",
-          "notes": "OMHA 2026-2027 - U15 Game 1 B vs C  A vs B   REF 3 rooms",
+          "notes": "OMHA Sept  2026 - U15 Game 1 B vs C  A vs B   REF 3 rooms",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -497,7 +497,7 @@
           "start": "2026-09-19T15:45:00-07:00",
           "end": "2026-09-19T16:45:00-07:00",
           "label": "U11AA, 2 rooms",
-          "notes": "OMHA 2026-2027 - U11AA, 2 rooms",
+          "notes": "OMHA Sept  2026 - U11AA, 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -506,7 +506,7 @@
           "start": "2026-09-19T17:00:00-07:00",
           "end": "2026-09-19T18:00:00-07:00",
           "label": "U18 Grp 2 Camp 1 2 rooms",
-          "notes": "OMHA 2026-2027 - U18 Grp 2 Camp 1 2 rooms",
+          "notes": "OMHA Sept  2026 - U18 Grp 2 Camp 1 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -515,7 +515,7 @@
           "start": "2026-09-19T18:15:00-07:00",
           "end": "2026-09-19T19:15:00-07:00",
           "label": "U18 Grp 1 Camp 1 2 rooms",
-          "notes": "OMHA 2026-2027 - U18 Grp 1 Camp 1 2 rooms",
+          "notes": "OMHA Sept  2026 - U18 Grp 1 Camp 1 2 rooms",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -524,7 +524,7 @@
           "start": "2026-09-19T19:30:00-07:00",
           "end": "2026-09-19T22:00:00-07:00",
           "label": "U18AA vs ?",
-          "notes": "OMHA 2026-2027 - U18AA vs ?",
+          "notes": "OMHA Sept  2026 - U18AA vs ?",
           "color": "#EF4444",
           "type_display": "Games"
         }
