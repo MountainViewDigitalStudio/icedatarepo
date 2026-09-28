@@ -1,0 +1,220 @@
+{
+  "facility_name": "Kurt Browning Arena",
+  "facility_id": "kurt-browning-arena",
+  "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
+  "week_start": "2026-10-11",
+  "week_end": "2026-10-17",
+  "last_updated": "2026-09-28T02:31:53.492722-07:00",
+  "slots": [
+    {
+      "start": "2026-10-11T18:00:00-07:00",
+      "end": "2026-10-11T19:00:00-07:00",
+      "type": "public_skate",
+      "label": "Public Skating",
+      "notes": "Public Skating"
+    },
+    {
+      "start": "2026-10-12T15:30:00-07:00",
+      "end": "2026-10-12T16:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U5/U7 Practice",
+      "notes": "Minor Hockey Practices - U5/U7 Practice"
+    },
+    {
+      "start": "2026-10-12T16:15:00-07:00",
+      "end": "2026-10-12T17:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U9 Practice",
+      "notes": "Minor Hockey Practices - U9 Practice"
+    },
+    {
+      "start": "2026-10-12T17:15:00-07:00",
+      "end": "2026-10-12T18:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U11C Practice",
+      "notes": "Minor Hockey Practices - U11C Practice"
+    },
+    {
+      "start": "2026-10-12T18:30:00-07:00",
+      "end": "2026-10-12T19:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U11A Practices",
+      "notes": "Minor Hockey Practices - U11A Practices"
+    },
+    {
+      "start": "2026-10-12T19:45:00-07:00",
+      "end": "2026-10-12T20:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U13A Practices",
+      "notes": "Minor Hockey Practices - U13A Practices"
+    },
+    {
+      "start": "2026-10-12T21:00:00-07:00",
+      "end": "2026-10-12T22:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U18 Practice",
+      "notes": "Minor Hockey Practices - U18 Practice"
+    },
+    {
+      "start": "2026-10-13T20:45:00-07:00",
+      "end": "2026-10-13T21:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U15 Practice",
+      "notes": "Minor Hockey Practices - U15 Practice"
+    },
+    {
+      "start": "2026-10-14T07:00:00-07:00",
+      "end": "2026-10-14T09:00:00-07:00",
+      "type": "other",
+      "label": "Monthly Meetings-Taqa",
+      "notes": "Monthly Meetings-Taqa"
+    },
+    {
+      "start": "2026-10-14T13:00:00-07:00",
+      "end": "2026-10-14T19:00:00-07:00",
+      "type": "other",
+      "label": "Community & Agricultural Services - Meeting",
+      "notes": "Community & Agricultural Services - Meeting"
+    },
+    {
+      "start": "2026-10-14T15:30:00-07:00",
+      "end": "2026-10-14T16:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U5/U7 Practice",
+      "notes": "Minor Hockey Practices - U5/U7 Practice"
+    },
+    {
+      "start": "2026-10-14T16:15:00-07:00",
+      "end": "2026-10-14T17:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U9 Practice",
+      "notes": "Minor Hockey Practices - U9 Practice"
+    },
+    {
+      "start": "2026-10-14T17:00:00-07:00",
+      "end": "2026-10-14T20:00:00-07:00",
+      "type": "other",
+      "label": "Monthly Meeting Ag Board 2026 - Ag Society Meeting",
+      "notes": "Monthly Meeting Ag Board 2026 - Ag Society Meeting"
+    },
+    {
+      "start": "2026-10-14T17:15:00-07:00",
+      "end": "2026-10-14T18:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U11B Practice",
+      "notes": "Minor Hockey Practices - U11B Practice"
+    },
+    {
+      "start": "2026-10-14T18:30:00-07:00",
+      "end": "2026-10-14T19:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U13B Practices",
+      "notes": "Minor Hockey Practices - U13B Practices"
+    },
+    {
+      "start": "2026-10-14T19:00:00-07:00",
+      "end": "2026-10-14T22:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Meeting",
+      "notes": "Minor Hockey Meeting"
+    },
+    {
+      "start": "2026-10-14T20:15:00-07:00",
+      "end": "2026-10-14T21:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Men's Rec League - Cowboy Mens Hockey",
+      "notes": "Men's Rec League - Cowboy Mens Hockey"
+    },
+    {
+      "start": "2026-10-15T09:00:00-07:00",
+      "end": "2026-10-15T12:00:00-07:00",
+      "type": "other",
+      "label": "Recovery Alberta Meeting",
+      "notes": "Recovery Alberta Meeting"
+    },
+    {
+      "start": "2026-10-16T07:00:00-07:00",
+      "end": "2026-10-16T08:00:00-07:00",
+      "type": "other",
+      "label": "Skills and Drills - Skills and Drills",
+      "notes": "Skills and Drills - Skills and Drills"
+    },
+    {
+      "start": "2026-10-16T14:00:00-07:00",
+      "end": "2026-10-16T15:30:00-07:00",
+      "type": "other",
+      "label": "Springbank Tournament - Game 1",
+      "notes": "Springbank Tournament - Game 1"
+    },
+    {
+      "start": "2026-10-16T15:30:00-07:00",
+      "end": "2026-10-16T17:00:00-07:00",
+      "type": "other",
+      "label": "Springbank Tournament - Game 2",
+      "notes": "Springbank Tournament - Game 2"
+    },
+    {
+      "start": "2026-10-16T17:00:00-07:00",
+      "end": "2026-10-16T18:00:00-07:00",
+      "type": "other",
+      "label": "Sticks & Pucks",
+      "notes": "Sticks & Pucks"
+    },
+    {
+      "start": "2026-10-16T18:30:00-07:00",
+      "end": "2026-10-16T20:00:00-07:00",
+      "type": "other",
+      "label": "Springbank Tournament - Game 3",
+      "notes": "Springbank Tournament - Game 3"
+    },
+    {
+      "start": "2026-10-16T21:00:00-07:00",
+      "end": "2026-10-16T22:15:00-07:00",
+      "type": "other",
+      "label": "Men's Rec League",
+      "notes": "Men's Rec League"
+    },
+    {
+      "start": "2026-10-17T09:30:00-07:00",
+      "end": "2026-10-17T11:00:00-07:00",
+      "type": "other",
+      "label": "Springbank Tournament - Game 4",
+      "notes": "Springbank Tournament - Game 4"
+    },
+    {
+      "start": "2026-10-17T11:00:00-07:00",
+      "end": "2026-10-17T12:30:00-07:00",
+      "type": "other",
+      "label": "Springbank Tournament - Game 5",
+      "notes": "Springbank Tournament - Game 5"
+    },
+    {
+      "start": "2026-10-17T12:30:00-07:00",
+      "end": "2026-10-17T14:00:00-07:00",
+      "type": "other",
+      "label": "Springbank Tournament - Game 6",
+      "notes": "Springbank Tournament - Game 6"
+    },
+    {
+      "start": "2026-10-17T14:00:00-07:00",
+      "end": "2026-10-17T15:30:00-07:00",
+      "type": "other",
+      "label": "Springbank Tournament - Game 7",
+      "notes": "Springbank Tournament - Game 7"
+    },
+    {
+      "start": "2026-10-17T15:30:00-07:00",
+      "end": "2026-10-17T17:00:00-07:00",
+      "type": "other",
+      "label": "Springbank Tournament - Game 8",
+      "notes": "Springbank Tournament - Game 8"
+    },
+    {
+      "start": "2026-10-17T17:00:00-07:00",
+      "end": "2026-10-17T18:30:00-07:00",
+      "type": "other",
+      "label": "Springbank Tournament - Game 9",
+      "notes": "Springbank Tournament - Game 9"
+    }
+  ]
+}

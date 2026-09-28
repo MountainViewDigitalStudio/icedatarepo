@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-09-20",
   "week_end": "2026-09-26",
-  "last_updated": "2026-09-21T02:27:48.091973-07:00",
+  "last_updated": "2026-09-28T02:31:52.641400-07:00",
   "slots": [
     {
       "start": "2026-09-20T11:30:00-07:00",
@@ -98,6 +98,13 @@
       "notes": "Hockey Evaluations U11 & U13 - U11"
     },
     {
+      "start": "2026-09-24T17:00:00-07:00",
+      "end": "2026-09-24T21:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Hockey Evaluations U11 & U13",
+      "notes": "Hockey Evaluations U11 & U13"
+    },
+    {
       "start": "2026-09-24T18:00:00-07:00",
       "end": "2026-09-24T19:00:00-07:00",
       "type": "practice",
@@ -140,11 +147,25 @@
       "notes": "Sticks & Pucks"
     },
     {
-      "start": "2026-09-26T10:00:00-07:00",
-      "end": "2026-09-26T17:00:00-07:00",
+      "start": "2026-09-26T10:30:00-07:00",
+      "end": "2026-09-26T12:00:00-07:00",
       "type": "other",
-      "label": "Ringette TOURNAMENT #2",
-      "notes": "Ringette TOURNAMENT #2"
+      "label": "Ringette TOURNAMENT #2 - Airdrie Sting v Red Deer Rush",
+      "notes": "Ringette TOURNAMENT #2 - Airdrie Sting v Red Deer Rush"
+    },
+    {
+      "start": "2026-09-26T12:30:00-07:00",
+      "end": "2026-09-26T14:00:00-07:00",
+      "type": "game",
+      "label": "Ringette TOURNAMENT #2 - Airdrie Sting vs CNW1 Bolt",
+      "notes": "Ringette TOURNAMENT #2 - Airdrie Sting vs CNW1 Bolt"
+    },
+    {
+      "start": "2026-09-26T14:30:00-07:00",
+      "end": "2026-09-26T16:00:00-07:00",
+      "type": "game",
+      "label": "Ringette TOURNAMENT #2 - CNW1 Bolt vs Red Deer Rush",
+      "notes": "Ringette TOURNAMENT #2 - CNW1 Bolt vs Red Deer Rush"
     }
   ]
 }
