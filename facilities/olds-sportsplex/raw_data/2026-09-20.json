@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-09-21T09:28:01.962226Z",
+  "generated_at": "2026-09-28T09:32:03.402080Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -29,56 +29,56 @@
           "start": "2026-09-20T08:00:00-07:00",
           "end": "2026-09-20T09:00:00-07:00",
           "label": "U13 Female Game 1 REF",
-          "notes": "OMHA 2026-2027 - U13 Female Game 1 REF"
+          "notes": "OMHA Sept  2026 - U13 Female Game 1 REF"
         },
         {
           "type": "practice",
           "start": "2026-09-20T09:15:00-07:00",
           "end": "2026-09-20T10:15:00-07:00",
           "label": "U11 Skills Grp 1 2 rooms",
-          "notes": "OMHA 2026-2027 - U11 Skills Grp 1 2 rooms"
+          "notes": "OMHA Sept  2026 - U11 Skills Grp 1 2 rooms"
         },
         {
           "type": "practice",
           "start": "2026-09-20T10:30:00-07:00",
           "end": "2026-09-20T11:30:00-07:00",
           "label": "U11 Skills Grp 2",
-          "notes": "OMHA 2026-2027 - U11 Skills Grp 2"
+          "notes": "OMHA Sept  2026 - U11 Skills Grp 2"
         },
         {
           "type": "game",
           "start": "2026-09-20T11:45:00-07:00",
           "end": "2026-09-20T12:45:00-07:00",
           "label": "U15 Female Game 1 REF 2 rooms",
-          "notes": "OMHA 2026-2027 - U15 Female Game 1 REF 2 rooms"
+          "notes": "OMHA Sept  2026 - U15 Female Game 1 REF 2 rooms"
         },
         {
           "type": "game",
           "start": "2026-09-20T13:00:00-07:00",
           "end": "2026-09-20T15:00:00-07:00",
           "label": "U13 Game 1 BvsC AvsC AvsB",
-          "notes": "OMHA 2026-2027 - U13 Game 1 BvsC AvsC AvsB"
+          "notes": "OMHA Sept  2026 - U13 Game 1 BvsC AvsC AvsB"
         },
         {
           "type": "game",
           "start": "2026-09-20T15:15:00-07:00",
           "end": "2026-09-20T17:45:00-07:00",
           "label": "U18AA vs ?",
-          "notes": "OMHA 2026-2027 - U18AA vs ?"
+          "notes": "OMHA Sept  2026 - U18AA vs ?"
         },
         {
           "type": "practice",
           "start": "2026-09-20T18:00:00-07:00",
           "end": "2026-09-20T19:00:00-07:00",
           "label": "U18 Grp 1 Camp 2 2 rooms",
-          "notes": "OMHA 2026-2027 - U18 Grp 1 Camp 2 2 rooms"
+          "notes": "OMHA Sept  2026 - U18 Grp 1 Camp 2 2 rooms"
         },
         {
           "type": "practice",
           "start": "2026-09-20T19:15:00-07:00",
           "end": "2026-09-20T20:15:00-07:00",
           "label": "U18 Grp 2 Camp 2 2 rooms",
-          "notes": "OMHA 2026-2027 - U18 Grp 2 Camp 2 2 rooms"
+          "notes": "OMHA Sept  2026 - U18 Grp 2 Camp 2 2 rooms"
         },
         {
           "type": "practice",
@@ -106,21 +106,21 @@
           "start": "2026-09-21T16:00:00-07:00",
           "end": "2026-09-21T18:00:00-07:00",
           "label": "U11 Game 1 BvsC AvsC AvsB  REF 3 rooms",
-          "notes": "OMHA 2026-2027 - U11 Game 1 BvsC AvsC AvsB  REF 3 rooms"
+          "notes": "OMHA Sept  2026 - U11 Game 1 BvsC AvsC AvsB  REF 3 rooms"
         },
         {
           "type": "game",
           "start": "2026-09-21T18:15:00-07:00",
           "end": "2026-09-21T20:15:00-07:00",
           "label": "U15 Game 2 A vs B C vs B C vs A  REF 3 rooms",
-          "notes": "OMHA 2026-2027 - U15 Game 2 A vs B C vs B C vs A  REF 3 rooms"
+          "notes": "OMHA Sept  2026 - U15 Game 2 A vs B C vs B C vs A  REF 3 rooms"
         },
         {
           "type": "game",
           "start": "2026-09-21T20:30:00-07:00",
           "end": "2026-09-21T21:30:00-07:00",
           "label": "U18 Game 1  2 rooms",
-          "notes": "OMHA 2026-2027 - U18 Game 1  2 rooms"
+          "notes": "OMHA Sept  2026 - U18 Game 1  2 rooms"
         },
         {
           "type": "practice",
@@ -141,28 +141,28 @@
           "start": "2026-09-22T16:00:00-07:00",
           "end": "2026-09-22T17:00:00-07:00",
           "label": "U13 Female Game 2 REF 2 rooms",
-          "notes": "OMHA 2026-2027 - U13 Female Game 2 REF 2 rooms"
+          "notes": "OMHA Sept  2026 - U13 Female Game 2 REF 2 rooms"
         },
         {
           "type": "game",
           "start": "2026-09-22T17:15:00-07:00",
           "end": "2026-09-22T19:15:00-07:00",
           "label": "U13 Game 2 AvsB CvsB CvsA  REF 3 rooms",
-          "notes": "OMHA 2026-2027 - U13 Game 2 AvsB CvsB CvsA  REF 3 rooms"
+          "notes": "OMHA Sept  2026 - U13 Game 2 AvsB CvsB CvsA  REF 3 rooms"
         },
         {
           "type": "game",
           "start": "2026-09-22T19:30:00-07:00",
           "end": "2026-09-22T20:30:00-07:00",
           "label": "U18 Game 2",
-          "notes": "OMHA 2026-2027 - U18 Game 2"
+          "notes": "OMHA Sept  2026 - U18 Game 2"
         },
         {
           "type": "practice",
           "start": "2026-09-22T20:45:00-07:00",
           "end": "2026-09-22T22:00:00-07:00",
           "label": "U18AA",
-          "notes": "OMHA 2026-2027 - U18AA"
+          "notes": "OMHA Sept  2026 - U18AA"
         },
         {
           "type": "practice",
@@ -183,28 +183,28 @@
           "start": "2026-09-23T16:00:00-07:00",
           "end": "2026-09-23T17:00:00-07:00",
           "label": "U11 fem",
-          "notes": "OMHA 2026-2027 - U11 fem"
+          "notes": "OMHA Sept  2026 - U11 fem"
         },
         {
           "type": "game",
           "start": "2026-09-23T17:15:00-07:00",
           "end": "2026-09-23T19:15:00-07:00",
           "label": "U11 Game 2 AvsB CvsB CvsA  REF 3 rooms",
-          "notes": "OMHA 2026-2027 - U11 Game 2 AvsB CvsB CvsA  REF 3 rooms"
+          "notes": "OMHA Sept  2026 - U11 Game 2 AvsB CvsB CvsA  REF 3 rooms"
         },
         {
           "type": "game",
           "start": "2026-09-23T19:30:00-07:00",
           "end": "2026-09-23T20:30:00-07:00",
           "label": "U15 Female Game 2 REF 2 rooms",
-          "notes": "OMHA 2026-2027 - U15 Female Game 2 REF 2 rooms"
+          "notes": "OMHA Sept  2026 - U15 Female Game 2 REF 2 rooms"
         },
         {
           "type": "practice",
           "start": "2026-09-23T20:45:00-07:00",
           "end": "2026-09-23T21:45:00-07:00",
           "label": "U18 fem",
-          "notes": "OMHA 2026-2027 - U18 fem"
+          "notes": "OMHA Sept  2026 - U18 fem"
         },
         {
           "type": "practice",
@@ -239,35 +239,35 @@
           "start": "2026-09-24T16:00:00-07:00",
           "end": "2026-09-24T17:00:00-07:00",
           "label": "U9 Grp 2 Skills",
-          "notes": "OMHA 2026-2027 - U9 Grp 2 Skills"
+          "notes": "OMHA Sept  2026 - U9 Grp 2 Skills"
         },
         {
           "type": "practice",
           "start": "2026-09-24T17:00:00-07:00",
           "end": "2026-09-24T18:00:00-07:00",
           "label": "U9 Grp 1 Skills 2 rooms/session",
-          "notes": "OMHA 2026-2027 - U9 Grp 1 Skills 2 rooms/session"
+          "notes": "OMHA Sept  2026 - U9 Grp 1 Skills 2 rooms/session"
         },
         {
           "type": "practice",
           "start": "2026-09-24T18:15:00-07:00",
           "end": "2026-09-24T19:15:00-07:00",
           "label": "U15 FInal Skate  2 rooms",
-          "notes": "OMHA 2026-2027 - U15 FInal Skate  2 rooms"
+          "notes": "OMHA Sept  2026 - U15 FInal Skate  2 rooms"
         },
         {
           "type": "game",
           "start": "2026-09-24T19:30:00-07:00",
           "end": "2026-09-24T20:30:00-07:00",
           "label": "U18 Game 3 REF 2 rooms",
-          "notes": "OMHA 2026-2027 - U18 Game 3 REF 2 rooms"
+          "notes": "OMHA Sept  2026 - U18 Game 3 REF 2 rooms"
         },
         {
           "type": "practice",
           "start": "2026-09-24T20:45:00-07:00",
           "end": "2026-09-24T21:45:00-07:00",
           "label": "U18 fem",
-          "notes": "OMHA 2026-2027 - U18 fem"
+          "notes": "OMHA Sept  2026 - U18 fem"
         },
         {
           "type": "practice",
@@ -295,14 +295,14 @@
           "start": "2026-09-25T16:00:00-07:00",
           "end": "2026-09-25T17:00:00-07:00",
           "label": "4:00-5:00 U7 Sorting  3 rooms",
-          "notes": "OMHA 2026-2027 - 4:00-5:00 U7 Sorting  3 rooms"
+          "notes": "OMHA Sept  2026 - 4:00-5:00 U7 Sorting  3 rooms"
         },
         {
           "type": "practice",
           "start": "2026-09-25T17:00:00-07:00",
           "end": "2026-09-25T18:00:00-07:00",
           "label": "U11/U13/ U13 fem Goalies 1 rooms",
-          "notes": "OMHA 2026-2027 - U11/U13/ U13 fem Goalies 1 rooms"
+          "notes": "OMHA Sept  2026 - U11/U13/ U13 fem Goalies 1 rooms"
         },
         {
           "type": "game",
@@ -316,35 +316,35 @@
           "start": "2026-09-26T09:30:00-07:00",
           "end": "2026-09-26T10:30:00-07:00",
           "label": "U7 Sorting",
-          "notes": "OMHA 2026-2027 - U7 Sorting"
+          "notes": "OMHA Sept  2026 - U7 Sorting"
         },
         {
           "type": "game",
           "start": "2026-09-26T10:45:00-07:00",
           "end": "2026-09-26T11:45:00-07:00",
-          "label": "U11 Final Game REF 2 rooms",
-          "notes": "OMHA 2026-2027 - U11 Final Game REF 2 rooms"
+          "label": "U11 Final Game  2 rooms",
+          "notes": "OMHA Sept  2026 - U11 Final Game  2 rooms"
         },
         {
           "type": "game",
           "start": "2026-09-26T12:00:00-07:00",
           "end": "2026-09-26T13:00:00-07:00",
-          "label": "U13 Final Game REF 2 rooms",
-          "notes": "OMHA 2026-2027 - U13 Final Game REF 2 rooms"
+          "label": "U13 Final Game  2 rooms",
+          "notes": "OMHA Sept  2026 - U13 Final Game  2 rooms"
         },
         {
           "type": "game",
           "start": "2026-09-26T13:15:00-07:00",
           "end": "2026-09-26T15:30:00-07:00",
           "label": "U13AA vs East Kootenay",
-          "notes": "OMHA 2026-2027 - U13AA vs East Kootenay"
+          "notes": "OMHA Sept  2026 - U13AA vs East Kootenay"
         },
         {
           "type": "game",
           "start": "2026-09-26T15:45:00-07:00",
           "end": "2026-09-26T18:00:00-07:00",
           "label": "U15AA vs West Central",
-          "notes": "OMHA 2026-2027 - U15AA vs West Central"
+          "notes": "OMHA Sept  2026 - U15AA vs West Central"
         },
         {
           "type": "game",
@@ -391,7 +391,7 @@
           "start": "2026-09-21T20:00:00-07:00",
           "end": "2026-09-21T21:00:00-07:00",
           "label": "u13AA",
-          "notes": "OMHA 2026-2027 - u13AA"
+          "notes": "OMHA Sept  2026 - u13AA"
         },
         {
           "type": "public_skate",
@@ -405,28 +405,28 @@
           "start": "2026-09-22T16:00:00-07:00",
           "end": "2026-09-22T17:00:00-07:00",
           "label": "U9 Grp 2 Camp 2",
-          "notes": "OMHA 2026-2027 - U9 Grp 2 Camp 2"
+          "notes": "OMHA Sept  2026 - U9 Grp 2 Camp 2"
         },
         {
           "type": "practice",
           "start": "2026-09-22T17:00:00-07:00",
           "end": "2026-09-22T18:00:00-07:00",
           "label": "U9 Grp 2 Camp 2",
-          "notes": "OMHA 2026-2027 - U9 Grp 2 Camp 2"
+          "notes": "OMHA Sept  2026 - U9 Grp 2 Camp 2"
         },
         {
           "type": "practice",
           "start": "2026-09-22T18:15:00-07:00",
           "end": "2026-09-22T19:30:00-07:00",
           "label": "U11AA",
-          "notes": "OMHA 2026-2027 - U11AA"
+          "notes": "OMHA Sept  2026 - U11AA"
         },
         {
           "type": "practice",
           "start": "2026-09-22T19:45:00-07:00",
           "end": "2026-09-22T21:00:00-07:00",
           "label": "U15AA",
-          "notes": "OMHA 2026-2027 - U15AA"
+          "notes": "OMHA Sept  2026 - U15AA"
         },
         {
           "type": "practice",
@@ -454,7 +454,7 @@
           "start": "2026-09-23T20:00:00-07:00",
           "end": "2026-09-23T21:15:00-07:00",
           "label": "U18AA",
-          "notes": "OMHA 2026-2027 - U18AA"
+          "notes": "OMHA Sept  2026 - U18AA"
         },
         {
           "type": "public_skate",
@@ -468,21 +468,21 @@
           "start": "2026-09-24T16:30:00-07:00",
           "end": "2026-09-24T17:30:00-07:00",
           "label": "U11AA",
-          "notes": "OMHA 2026-2027 - U11AA"
+          "notes": "OMHA Sept  2026 - U11AA"
         },
         {
           "type": "practice",
           "start": "2026-09-24T17:45:00-07:00",
           "end": "2026-09-24T19:00:00-07:00",
           "label": "U13AA",
-          "notes": "OMHA 2026-2027 - U13AA"
+          "notes": "OMHA Sept  2026 - U13AA"
         },
         {
           "type": "practice",
           "start": "2026-09-24T19:15:00-07:00",
           "end": "2026-09-24T20:30:00-07:00",
           "label": "U15AA",
-          "notes": "OMHA 2026-2027 - U15AA"
+          "notes": "OMHA Sept  2026 - U15AA"
         },
         {
           "type": "practice",
@@ -510,7 +510,7 @@
           "start": "2026-09-25T18:45:00-07:00",
           "end": "2026-09-25T19:45:00-07:00",
           "label": "U15/U15 fem U18 Goalies 1 room",
-          "notes": "OMHA 2026-2027 - U15/U15 fem U18 Goalies 1 room"
+          "notes": "OMHA Sept  2026 - U15/U15 fem U18 Goalies 1 room"
         },
         {
           "type": "practice",
@@ -524,35 +524,35 @@
           "start": "2026-09-26T09:45:00-07:00",
           "end": "2026-09-26T10:45:00-07:00",
           "label": "U11 Female",
-          "notes": "OMHA 2026-2027 - U11 Female"
+          "notes": "OMHA Sept  2026 - U11 Female"
         },
         {
           "type": "practice",
           "start": "2026-09-26T12:15:00-07:00",
           "end": "2026-09-26T13:15:00-07:00",
-          "label": "U15A fem",
-          "notes": "OMHA 2026-2027 - U15A fem"
+          "label": "U15B female",
+          "notes": "OMHA Sept  2026 - U15B female"
         },
         {
           "type": "practice",
           "start": "2026-09-26T13:30:00-07:00",
           "end": "2026-09-26T14:30:00-07:00",
-          "label": "U13A fem",
-          "notes": "OMHA 2026-2027 - U13A fem"
+          "label": "U13A female",
+          "notes": "OMHA Sept  2026 - U13A female"
         },
         {
           "type": "practice",
           "start": "2026-09-26T14:45:00-07:00",
           "end": "2026-09-26T15:45:00-07:00",
-          "label": "U15B fem",
-          "notes": "OMHA 2026-2027 - U15B fem"
+          "label": "U15A female",
+          "notes": "OMHA Sept  2026 - U15A female"
         },
         {
           "type": "practice",
           "start": "2026-09-26T16:00:00-07:00",
           "end": "2026-09-26T17:00:00-07:00",
           "label": "U13B fem",
-          "notes": "OMHA 2026-2027 - U13B fem"
+          "notes": "OMHA Sept  2026 - U13B fem"
         }
       ]
     }

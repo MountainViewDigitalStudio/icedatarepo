@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-09-21T09:28:01.962226Z",
+  "generated_at": "2026-09-28T09:32:03.402080Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -19,13 +19,6 @@
       "slots": [
         {
           "type": "practice",
-          "start": "2026-10-04T08:00:00-07:00",
-          "end": "2026-10-04T09:00:00-07:00",
-          "label": "OMHA 2026-2027",
-          "notes": "OMHA 2026-2027"
-        },
-        {
-          "type": "practice",
           "start": "2026-10-04T10:30:00-07:00",
           "end": "2026-10-04T11:30:00-07:00",
           "label": "U9 fem",
@@ -37,6 +30,13 @@
           "end": "2026-10-04T14:00:00-07:00",
           "label": "U13AA vs Lethbridge",
           "notes": "OMHA 2026-2027 - U13AA vs Lethbridge"
+        },
+        {
+          "type": "game",
+          "start": "2026-10-04T14:15:00-07:00",
+          "end": "2026-10-04T16:15:00-07:00",
+          "label": "U11AA vs Airdrie",
+          "notes": "OMHA 2026-2027 - U11AA vs Airdrie"
         },
         {
           "type": "practice",
@@ -110,6 +110,13 @@
         },
         {
           "type": "practice",
+          "start": "2026-10-05T21:45:00-07:00",
+          "end": "2026-10-05T23:00:00-07:00",
+          "label": "Berreth Hockey",
+          "notes": "Berreth Hockey"
+        },
+        {
+          "type": "practice",
           "start": "2026-10-06T06:15:00-07:00",
           "end": "2026-10-06T07:30:00-07:00",
           "label": "Broncos Hockey 2026/2027 Practices",
@@ -173,8 +180,8 @@
         },
         {
           "type": "practice",
-          "start": "2026-10-07T06:15:00-07:00",
-          "end": "2026-10-07T07:30:00-07:00",
+          "start": "2026-10-07T07:00:00-07:00",
+          "end": "2026-10-07T08:15:00-07:00",
           "label": "Broncos Hockey 2026/2027 Practices",
           "notes": "Broncos Hockey 2026/2027 Practices - Practice"
         },
@@ -264,17 +271,17 @@
         },
         {
           "type": "practice",
-          "start": "2026-10-08T17:00:00-07:00",
-          "end": "2026-10-08T18:00:00-07:00",
-          "label": "U11AA",
-          "notes": "OMHA 2026-2027 - U11AA"
+          "start": "2026-10-08T16:45:00-07:00",
+          "end": "2026-10-08T17:45:00-07:00",
+          "label": "U13A",
+          "notes": "OMHA 2026-2027 - U13A"
         },
         {
           "type": "practice",
-          "start": "2026-10-08T18:15:00-07:00",
+          "start": "2026-10-08T18:00:00-07:00",
           "end": "2026-10-08T19:00:00-07:00",
-          "label": "U13C",
-          "notes": "OMHA 2026-2027 - U13C"
+          "label": "U15A",
+          "notes": "OMHA 2026-2027 - U15A"
         },
         {
           "type": "practice",
@@ -348,6 +355,13 @@
         },
         {
           "type": "practice",
+          "start": "2026-10-10T09:00:00-07:00",
+          "end": "2026-10-10T10:00:00-07:00",
+          "label": "OMHA 2026-2027",
+          "notes": "OMHA 2026-2027"
+        },
+        {
+          "type": "practice",
           "start": "2026-10-10T10:15:00-07:00",
           "end": "2026-10-10T11:45:00-07:00",
           "label": "Practice - U18",
@@ -386,13 +400,6 @@
     "auxiliary": {
       "name": "Auxiliary Ice Surface",
       "slots": [
-        {
-          "type": "practice",
-          "start": "2026-10-04T08:00:00-07:00",
-          "end": "2026-10-04T09:00:00-07:00",
-          "label": "OMHA 2026-2027",
-          "notes": "OMHA 2026-2027"
-        },
         {
           "type": "practice",
           "start": "2026-10-04T10:00:00-07:00",
@@ -453,8 +460,8 @@
           "type": "practice",
           "start": "2026-10-05T20:00:00-07:00",
           "end": "2026-10-05T20:45:00-07:00",
-          "label": "U15A",
-          "notes": "OMHA 2026-2027 - U15A"
+          "label": "U15A/U15C",
+          "notes": "OMHA 2026-2027 - U15A/U15C"
         },
         {
           "type": "practice",
@@ -502,15 +509,15 @@
           "type": "practice",
           "start": "2026-10-06T18:00:00-07:00",
           "end": "2026-10-06T19:00:00-07:00",
-          "label": "U13AA",
-          "notes": "OMHA 2026-2027 - U13AA"
+          "label": "U15AA",
+          "notes": "OMHA 2026-2027 - U15AA"
         },
         {
           "type": "practice",
           "start": "2026-10-06T19:15:00-07:00",
           "end": "2026-10-06T20:15:00-07:00",
-          "label": "U15AA",
-          "notes": "OMHA 2026-2027 - U15AA"
+          "label": "OMHA 2026-2027",
+          "notes": "OMHA 2026-2027"
         },
         {
           "type": "practice",
@@ -565,8 +572,8 @@
           "type": "practice",
           "start": "2026-10-07T20:00:00-07:00",
           "end": "2026-10-07T21:00:00-07:00",
-          "label": "U15B",
-          "notes": "OMHA 2026-2027 - U15B"
+          "label": "U15B/U15C",
+          "notes": "OMHA 2026-2027 - U15B/U15C"
         },
         {
           "type": "practice",
@@ -606,28 +613,35 @@
         {
           "type": "practice",
           "start": "2026-10-08T16:45:00-07:00",
-          "end": "2026-10-08T17:45:00-07:00",
-          "label": "U13A",
-          "notes": "OMHA 2026-2027 - U13A"
-        },
-        {
-          "type": "practice",
-          "start": "2026-10-08T18:00:00-07:00",
-          "end": "2026-10-08T18:45:00-07:00",
+          "end": "2026-10-08T17:30:00-07:00",
           "label": "U13B",
           "notes": "OMHA 2026-2027 - U13B"
         },
         {
           "type": "practice",
-          "start": "2026-10-08T19:00:00-07:00",
-          "end": "2026-10-08T20:00:00-07:00",
-          "label": "U15A",
-          "notes": "OMHA 2026-2027 - U15A"
+          "start": "2026-10-08T17:45:00-07:00",
+          "end": "2026-10-08T18:30:00-07:00",
+          "label": "U13C",
+          "notes": "OMHA 2026-2027 - U13C"
         },
         {
           "type": "practice",
-          "start": "2026-10-08T20:15:00-07:00",
-          "end": "2026-10-08T21:15:00-07:00",
+          "start": "2026-10-08T18:45:00-07:00",
+          "end": "2026-10-08T19:45:00-07:00",
+          "label": "U11AA",
+          "notes": "OMHA 2026-2027 - U11AA"
+        },
+        {
+          "type": "practice",
+          "start": "2026-10-08T20:00:00-07:00",
+          "end": "2026-10-08T20:45:00-07:00",
+          "label": "U15A Female/U15B Female",
+          "notes": "OMHA 2026-2027 - U15A Female/U15B Female"
+        },
+        {
+          "type": "practice",
+          "start": "2026-10-08T21:00:00-07:00",
+          "end": "2026-10-08T22:00:00-07:00",
           "label": "U18A",
           "notes": "OMHA 2026-2027 - U18A"
         },
