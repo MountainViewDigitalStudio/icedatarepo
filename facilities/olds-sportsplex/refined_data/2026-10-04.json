@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-09-28T09:33:51.458117Z",
+  "generated_at": "2026-10-05T09:35:54.114612Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -172,8 +172,8 @@
           "type": "practice",
           "start": "2026-10-06T16:00:00-07:00",
           "end": "2026-10-06T16:45:00-07:00",
-          "label": "U7 Red Black/Yellow",
-          "notes": "OMHA 2026-2027 - U7 Red Black/Yellow",
+          "label": "U7 Blue Black/Yellow",
+          "notes": "OMHA 2026-2027 - U7 Blue Black/Yellow",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -415,8 +415,8 @@
           "type": "practice",
           "start": "2026-10-09T16:45:00-07:00",
           "end": "2026-10-09T17:30:00-07:00",
-          "label": "U7 Red",
-          "notes": "OMHA 2026-2027 - U7 Red",
+          "label": "U7 Blue",
+          "notes": "OMHA 2026-2027 - U7 Blue",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -439,22 +439,13 @@
           "type_display": "Games"
         },
         {
-          "type": "other",
+          "type": "games",
           "start": "2026-10-10T08:00:00-07:00",
-          "end": "2026-10-10T09:00:00-07:00",
-          "label": "OMHA 2026-2027",
-          "notes": "OMHA 2026-2027",
-          "color": "#64748B",
-          "type_display": "Other"
-        },
-        {
-          "type": "other",
-          "start": "2026-10-10T09:00:00-07:00",
           "end": "2026-10-10T10:00:00-07:00",
-          "label": "OMHA 2026-2027",
-          "notes": "OMHA 2026-2027",
-          "color": "#64748B",
-          "type_display": "Other"
+          "label": "Wilde Tournament - PD",
+          "notes": "Wilde Tournament - PD",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "practice",
@@ -475,13 +466,13 @@
           "type_display": "Practice / Other"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-10-10T14:15:00-07:00",
           "end": "2026-10-10T16:15:00-07:00",
-          "label": "U13A if have tier 1",
-          "notes": "OMHA 2026-2027 - U13A if have tier 1",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "Wilde Tournament - PD",
+          "notes": "Wilde Tournament - PD",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "practice",
@@ -998,6 +989,15 @@
           "end": "2026-10-10T20:00:00-07:00",
           "label": "B2 vs B4",
           "notes": "Wilde Tournament - PD - B2 vs B4",
+          "color": "#EF4444",
+          "type_display": "Games"
+        },
+        {
+          "type": "games",
+          "start": "2026-10-10T20:15:00-07:00",
+          "end": "2026-10-10T22:15:00-07:00",
+          "label": "U15A fem vs  Cochrane",
+          "notes": "OMHA 2026-2027 - U15A fem vs  Cochrane",
           "color": "#EF4444",
           "type_display": "Games"
         }

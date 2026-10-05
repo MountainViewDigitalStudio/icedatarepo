@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-09-28T09:33:51.483639Z",
+  "generated_at": "2026-10-05T09:35:54.141295Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena",
@@ -21,8 +21,8 @@
       "type_display": "Public / Family"
     },
     {
-      "start": "2026-10-12T15:30:00-07:00",
-      "end": "2026-10-12T16:15:00-07:00",
+      "start": "2026-10-12T15:45:00-07:00",
+      "end": "2026-10-12T16:45:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U5/U7 Practice",
       "notes": "Minor Hockey Practices - U5/U7 Practice",
@@ -30,8 +30,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-10-12T16:15:00-07:00",
-      "end": "2026-10-12T17:15:00-07:00",
+      "start": "2026-10-12T16:45:00-07:00",
+      "end": "2026-10-12T18:00:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U9 Practice",
       "notes": "Minor Hockey Practices - U9 Practice",
@@ -39,17 +39,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-10-12T17:15:00-07:00",
-      "end": "2026-10-12T18:15:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Minor Hockey Practices - U11C Practice",
-      "notes": "Minor Hockey Practices - U11C Practice",
-      "color": "#8B5CF6",
-      "type_display": "Practice / Other"
-    },
-    {
-      "start": "2026-10-12T18:30:00-07:00",
-      "end": "2026-10-12T19:30:00-07:00",
+      "start": "2026-10-12T18:00:00-07:00",
+      "end": "2026-10-12T19:15:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U11A Practices",
       "notes": "Minor Hockey Practices - U11A Practices",
@@ -57,8 +48,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-10-12T19:45:00-07:00",
-      "end": "2026-10-12T20:45:00-07:00",
+      "start": "2026-10-12T19:15:00-07:00",
+      "end": "2026-10-12T20:30:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U13A Practices",
       "notes": "Minor Hockey Practices - U13A Practices",
@@ -66,8 +57,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-10-12T21:00:00-07:00",
-      "end": "2026-10-12T22:15:00-07:00",
+      "start": "2026-10-12T20:30:00-07:00",
+      "end": "2026-10-12T22:00:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U18 Practice",
       "notes": "Minor Hockey Practices - U18 Practice",
@@ -76,7 +67,7 @@
     },
     {
       "start": "2026-10-13T20:45:00-07:00",
-      "end": "2026-10-13T21:45:00-07:00",
+      "end": "2026-10-13T22:00:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U15 Practice",
       "notes": "Minor Hockey Practices - U15 Practice",
@@ -102,8 +93,8 @@
       "type_display": "Other"
     },
     {
-      "start": "2026-10-14T15:30:00-07:00",
-      "end": "2026-10-14T16:15:00-07:00",
+      "start": "2026-10-14T15:45:00-07:00",
+      "end": "2026-10-14T16:45:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U5/U7 Practice",
       "notes": "Minor Hockey Practices - U5/U7 Practice",
@@ -111,8 +102,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-10-14T16:15:00-07:00",
-      "end": "2026-10-14T17:15:00-07:00",
+      "start": "2026-10-14T16:45:00-07:00",
+      "end": "2026-10-14T17:45:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U9 Practice",
       "notes": "Minor Hockey Practices - U9 Practice",
@@ -129,8 +120,8 @@
       "type_display": "Other"
     },
     {
-      "start": "2026-10-14T17:15:00-07:00",
-      "end": "2026-10-14T18:15:00-07:00",
+      "start": "2026-10-14T17:45:00-07:00",
+      "end": "2026-10-14T19:00:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U11B Practice",
       "notes": "Minor Hockey Practices - U11B Practice",
@@ -138,8 +129,8 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-10-14T18:30:00-07:00",
-      "end": "2026-10-14T19:30:00-07:00",
+      "start": "2026-10-14T19:00:00-07:00",
+      "end": "2026-10-14T20:15:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U13B Practices",
       "notes": "Minor Hockey Practices - U13B Practices",
@@ -159,8 +150,8 @@
       "start": "2026-10-14T20:15:00-07:00",
       "end": "2026-10-14T21:30:00-07:00",
       "type": "games",
-      "label": "Hockey - Men's Rec League - Cowboy Mens Hockey",
-      "notes": "Men's Rec League - Cowboy Mens Hockey",
+      "label": "Hockey - Cowboy Adult League - Cowboy Mens Hockey",
+      "notes": "Cowboy Adult League - Cowboy Mens Hockey",
       "color": "#EF4444",
       "type_display": "Games"
     },
@@ -222,8 +213,8 @@
       "start": "2026-10-16T21:00:00-07:00",
       "end": "2026-10-16T22:15:00-07:00",
       "type": "games",
-      "label": "Men's Rec League",
-      "notes": "Men's Rec League",
+      "label": "Stauffer Pond Scratchers Adult League",
+      "notes": "Stauffer Pond Scratchers Adult League",
       "color": "#EF4444",
       "type_display": "Games"
     },
