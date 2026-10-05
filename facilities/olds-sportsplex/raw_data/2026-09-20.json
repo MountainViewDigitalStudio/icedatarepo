@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-09-28T09:32:03.402080Z",
+  "generated_at": "2026-10-05T09:34:14.643404Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -358,13 +358,6 @@
     "auxiliary": {
       "name": "Auxiliary Ice Surface",
       "slots": [
-        {
-          "type": "practice",
-          "start": "2026-09-21T07:00:00-07:00",
-          "end": "2026-09-21T07:45:00-07:00",
-          "label": "Norrie",
-          "notes": "Norrie"
-        },
         {
           "type": "practice",
           "start": "2026-09-21T12:00:00-07:00",

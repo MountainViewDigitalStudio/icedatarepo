@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-09-28T09:32:03.402080Z",
+  "generated_at": "2026-10-05T09:34:14.643404Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -49,8 +49,8 @@
           "type": "game",
           "start": "2026-10-11T16:45:00-07:00",
           "end": "2026-10-11T19:00:00-07:00",
-          "label": "U18AA vs Bow VAlley",
-          "notes": "OMHA 2026-2027 - U18AA vs Bow VAlley"
+          "label": "U18AA vs Bow Valley",
+          "notes": "OMHA 2026-2027 - U18AA vs Bow Valley"
         },
         {
           "type": "practice",
@@ -250,7 +250,7 @@
         },
         {
           "type": "practice",
-          "start": "2026-10-17T08:30:00-07:00",
+          "start": "2026-10-17T08:45:00-07:00",
           "end": "2026-10-17T10:45:00-07:00",
           "label": "U11",
           "notes": "OMHA 2026-2027 - U11"
@@ -591,6 +591,13 @@
         },
         {
           "type": "practice",
+          "start": "2026-10-16T16:45:00-07:00",
+          "end": "2026-10-16T17:30:00-07:00",
+          "label": "U15B fem",
+          "notes": "OMHA 2026-2027 - U15B fem"
+        },
+        {
+          "type": "practice",
           "start": "2026-10-16T17:45:00-07:00",
           "end": "2026-10-16T19:45:00-07:00",
           "label": "U11",
@@ -600,19 +607,19 @@
           "type": "practice",
           "start": "2026-10-16T20:00:00-07:00",
           "end": "2026-10-16T22:15:00-07:00",
-          "label": "U18",
-          "notes": "OMHA 2026-2027 - U18"
+          "label": "U15",
+          "notes": "OMHA 2026-2027 - U15"
         },
         {
           "type": "practice",
-          "start": "2026-10-17T08:00:00-07:00",
-          "end": "2026-10-17T10:00:00-07:00",
+          "start": "2026-10-17T08:15:00-07:00",
+          "end": "2026-10-17T10:15:00-07:00",
           "label": "U11",
           "notes": "OMHA 2026-2027 - U11"
         },
         {
           "type": "practice",
-          "start": "2026-10-17T10:15:00-07:00",
+          "start": "2026-10-17T10:30:00-07:00",
           "end": "2026-10-17T12:30:00-07:00",
           "label": "U13",
           "notes": "OMHA 2026-2027 - U13"

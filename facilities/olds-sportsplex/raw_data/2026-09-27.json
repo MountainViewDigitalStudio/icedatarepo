@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-09-28T09:32:03.402080Z",
+  "generated_at": "2026-10-05T09:34:14.643404Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -273,8 +273,8 @@
           "type": "practice",
           "start": "2026-10-02T16:00:00-07:00",
           "end": "2026-10-02T17:00:00-07:00",
-          "label": "U7 Yellow/ U7 Red",
-          "notes": "OMHA 2026-2027 - U7 Yellow/ U7 Red"
+          "label": "U7 Red",
+          "notes": "OMHA 2026-2027 - U7 Red"
         },
         {
           "type": "practice",
@@ -308,8 +308,8 @@
           "type": "practice",
           "start": "2026-10-03T11:30:00-07:00",
           "end": "2026-10-03T12:30:00-07:00",
-          "label": "U15A",
-          "notes": "OMHA 2026-2027 - U15A"
+          "label": "u7 Yellow",
+          "notes": "OMHA 2026-2027 - u7 Yellow"
         },
         {
           "type": "practice",
@@ -322,8 +322,8 @@
           "type": "practice",
           "start": "2026-10-03T14:00:00-07:00",
           "end": "2026-10-03T15:00:00-07:00",
-          "label": "U15B",
-          "notes": "OMHA 2026-2027 - U15B"
+          "label": "U13AA",
+          "notes": "OMHA 2026-2027 - U13AA"
         },
         {
           "type": "practice",

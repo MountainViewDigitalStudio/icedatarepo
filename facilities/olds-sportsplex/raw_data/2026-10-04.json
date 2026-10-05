@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-09-28T09:32:03.402080Z",
+  "generated_at": "2026-10-05T09:34:14.643404Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -140,8 +140,8 @@
           "type": "practice",
           "start": "2026-10-06T16:00:00-07:00",
           "end": "2026-10-06T16:45:00-07:00",
-          "label": "U7 Red Black/Yellow",
-          "notes": "OMHA 2026-2027 - U7 Red Black/Yellow"
+          "label": "U7 Blue Black/Yellow",
+          "notes": "OMHA 2026-2027 - U7 Blue Black/Yellow"
         },
         {
           "type": "practice",
@@ -329,8 +329,8 @@
           "type": "practice",
           "start": "2026-10-09T16:45:00-07:00",
           "end": "2026-10-09T17:30:00-07:00",
-          "label": "U7 Red",
-          "notes": "OMHA 2026-2027 - U7 Red"
+          "label": "U7 Blue",
+          "notes": "OMHA 2026-2027 - U7 Blue"
         },
         {
           "type": "practice",
@@ -347,18 +347,11 @@
           "notes": "OMHA 2026-2027 - U18AA vs Red  Deer"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-10T08:00:00-07:00",
-          "end": "2026-10-10T09:00:00-07:00",
-          "label": "OMHA 2026-2027",
-          "notes": "OMHA 2026-2027"
-        },
-        {
-          "type": "practice",
-          "start": "2026-10-10T09:00:00-07:00",
           "end": "2026-10-10T10:00:00-07:00",
-          "label": "OMHA 2026-2027",
-          "notes": "OMHA 2026-2027"
+          "label": "Wilde Tournament - PD",
+          "notes": "Wilde Tournament - PD"
         },
         {
           "type": "practice",
@@ -375,11 +368,11 @@
           "notes": "OMHA 2026-2027 - U13B fem"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-10T14:15:00-07:00",
           "end": "2026-10-10T16:15:00-07:00",
-          "label": "U13A if have tier 1",
-          "notes": "OMHA 2026-2027 - U13A if have tier 1"
+          "label": "Wilde Tournament - PD",
+          "notes": "Wilde Tournament - PD"
         },
         {
           "type": "practice",
@@ -784,6 +777,13 @@
           "end": "2026-10-10T20:00:00-07:00",
           "label": "B2 vs B4",
           "notes": "Wilde Tournament - PD - B2 vs B4"
+        },
+        {
+          "type": "game",
+          "start": "2026-10-10T20:15:00-07:00",
+          "end": "2026-10-10T22:15:00-07:00",
+          "label": "U15A fem vs  Cochrane",
+          "notes": "OMHA 2026-2027 - U15A fem vs  Cochrane"
         }
       ]
     }
