@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-10-11",
   "week_end": "2026-10-17",
-  "last_updated": "2026-10-05T02:33:57.065172-07:00",
+  "last_updated": "2026-10-12T02:37:47.513344-07:00",
   "slots": [
     {
       "start": "2026-10-11T18:00:00-07:00",
@@ -70,6 +70,13 @@
       "notes": "Community & Agricultural Services - Meeting"
     },
     {
+      "start": "2026-10-14T13:00:00-07:00",
+      "end": "2026-10-14T19:00:00-07:00",
+      "type": "other",
+      "label": "Community & Agricultural Services - Meeting",
+      "notes": "Community & Agricultural Services - Meeting"
+    },
+    {
       "start": "2026-10-14T15:45:00-07:00",
       "end": "2026-10-14T16:45:00-07:00",
       "type": "practice",
@@ -87,8 +94,8 @@
       "start": "2026-10-14T17:00:00-07:00",
       "end": "2026-10-14T20:00:00-07:00",
       "type": "other",
-      "label": "Monthly Meeting Ag Board 2026 - Ag Society Meeting",
-      "notes": "Monthly Meeting Ag Board 2026 - Ag Society Meeting"
+      "label": "Monthly Meeting Ag Board 2026",
+      "notes": "Monthly Meeting Ag Board 2026"
     },
     {
       "start": "2026-10-14T17:45:00-07:00",
