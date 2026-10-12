@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-05T09:34:14.643404Z",
+  "generated_at": "2026-10-12T09:38:10.374660Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -21,22 +21,22 @@
           "type": "practice",
           "start": "2026-10-11T08:30:00-07:00",
           "end": "2026-10-11T09:15:00-07:00",
-          "label": "Pre Hock",
-          "notes": "OMHA 2026-2027 - Pre Hock"
+          "label": "Pre Hockey",
+          "notes": "OMHA 2026-2027 - Pre Hockey"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-11T09:30:00-07:00",
           "end": "2026-10-11T11:30:00-07:00",
-          "label": "U13 fem",
-          "notes": "OMHA 2026-2027 - U13 fem"
+          "label": "U13B vs  Airdrie",
+          "notes": "OMHA 2026-2027 - U13B vs  Airdrie"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-11T11:45:00-07:00",
           "end": "2026-10-11T14:00:00-07:00",
-          "label": "U18 fem",
-          "notes": "OMHA 2026-2027 - U18 fem"
+          "label": "U18 fem vs Stettler",
+          "notes": "OMHA 2026-2027 - U18 fem vs Stettler"
         },
         {
           "type": "game",
@@ -51,6 +51,13 @@
           "end": "2026-10-11T19:00:00-07:00",
           "label": "U18AA vs Bow Valley",
           "notes": "OMHA 2026-2027 - U18AA vs Bow Valley"
+        },
+        {
+          "type": "public_skate",
+          "start": "2026-10-11T19:15:00-07:00",
+          "end": "2026-10-11T20:30:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating"
         },
         {
           "type": "practice",
@@ -219,6 +226,13 @@
           "end": "2026-10-15T23:15:00-07:00",
           "label": "SIR 2026/2027",
           "notes": "SIR 2026/2027"
+        },
+        {
+          "type": "practice",
+          "start": "2026-10-16T06:30:00-07:00",
+          "end": "2026-10-16T07:30:00-07:00",
+          "label": "HC",
+          "notes": "HC"
         },
         {
           "type": "game",
