@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-12T09:39:21.210798Z",
+  "generated_at": "2026-10-19T09:30:30.896123Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena",
@@ -15,8 +15,8 @@
       "start": "2026-10-18T09:00:00-07:00",
       "end": "2026-10-18T10:30:00-07:00",
       "type": "games",
-      "label": "Springbank Tournament - Game 10",
-      "notes": "Springbank Tournament - Game 10",
+      "label": "Springbank Tournament - 5th Seed vs 6th Seed",
+      "notes": "Springbank Tournament - 5th Seed vs 6th Seed",
       "color": "#EF4444",
       "type_display": "Games"
     },
@@ -24,8 +24,8 @@
       "start": "2026-10-18T10:30:00-07:00",
       "end": "2026-10-18T12:00:00-07:00",
       "type": "games",
-      "label": "Springbank Tournament - Game 11",
-      "notes": "Springbank Tournament - Game 11",
+      "label": "Springbank Tournament - 3rd Seed vs 4th Seed",
+      "notes": "Springbank Tournament - 3rd Seed vs 4th Seed",
       "color": "#EF4444",
       "type_display": "Games"
     },
@@ -33,8 +33,8 @@
       "start": "2026-10-18T12:15:00-07:00",
       "end": "2026-10-18T13:45:00-07:00",
       "type": "games",
-      "label": "Springbank Tournament - Game 12",
-      "notes": "Springbank Tournament - Game 12",
+      "label": "Springbank Tournament - 1st Seed vs 2nd Seed",
+      "notes": "Springbank Tournament - 1st Seed vs 2nd Seed",
       "color": "#EF4444",
       "type_display": "Games"
     },
