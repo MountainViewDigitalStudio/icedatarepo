@@ -4,28 +4,28 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-10-18",
   "week_end": "2026-10-24",
-  "last_updated": "2026-10-12T02:37:48.008584-07:00",
+  "last_updated": "2026-10-19T02:28:35.564458-07:00",
   "slots": [
     {
       "start": "2026-10-18T09:00:00-07:00",
       "end": "2026-10-18T10:30:00-07:00",
-      "type": "other",
-      "label": "Springbank Tournament - Game 10",
-      "notes": "Springbank Tournament - Game 10"
+      "type": "game",
+      "label": "Springbank Tournament - 5th Seed vs 6th Seed",
+      "notes": "Springbank Tournament - 5th Seed vs 6th Seed"
     },
     {
       "start": "2026-10-18T10:30:00-07:00",
       "end": "2026-10-18T12:00:00-07:00",
-      "type": "other",
-      "label": "Springbank Tournament - Game 11",
-      "notes": "Springbank Tournament - Game 11"
+      "type": "game",
+      "label": "Springbank Tournament - 3rd Seed vs 4th Seed",
+      "notes": "Springbank Tournament - 3rd Seed vs 4th Seed"
     },
     {
       "start": "2026-10-18T12:15:00-07:00",
       "end": "2026-10-18T13:45:00-07:00",
-      "type": "other",
-      "label": "Springbank Tournament - Game 12",
-      "notes": "Springbank Tournament - Game 12"
+      "type": "game",
+      "label": "Springbank Tournament - 1st Seed vs 2nd Seed",
+      "notes": "Springbank Tournament - 1st Seed vs 2nd Seed"
     },
     {
       "start": "2026-10-18T18:00:00-07:00",

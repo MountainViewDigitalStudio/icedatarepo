@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-10-11",
   "week_end": "2026-10-17",
-  "last_updated": "2026-10-12T02:37:47.513344-07:00",
+  "last_updated": "2026-10-19T02:28:34.624080-07:00",
   "slots": [
     {
       "start": "2026-10-11T18:00:00-07:00",
@@ -133,6 +133,13 @@
       "notes": "Recovery Alberta Meeting"
     },
     {
+      "start": "2026-10-15T15:30:00-07:00",
+      "end": "2026-10-15T17:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Skate Club Meeting"
+    },
+    {
       "start": "2026-10-16T07:00:00-07:00",
       "end": "2026-10-16T08:00:00-07:00",
       "type": "other",
@@ -142,16 +149,16 @@
     {
       "start": "2026-10-16T14:00:00-07:00",
       "end": "2026-10-16T15:30:00-07:00",
-      "type": "other",
-      "label": "Springbank Tournament - Game 1",
-      "notes": "Springbank Tournament - Game 1"
+      "type": "game",
+      "label": "Springbank Tournament - Glenlake vs Sherwood Park",
+      "notes": "Springbank Tournament - Glenlake vs Sherwood Park"
     },
     {
       "start": "2026-10-16T15:30:00-07:00",
       "end": "2026-10-16T17:00:00-07:00",
-      "type": "other",
-      "label": "Springbank Tournament - Game 2",
-      "notes": "Springbank Tournament - Game 2"
+      "type": "game",
+      "label": "Springbank Tournament - Springbank vs KC Edmonton",
+      "notes": "Springbank Tournament - Springbank vs KC Edmonton"
     },
     {
       "start": "2026-10-16T17:00:00-07:00",
@@ -163,9 +170,9 @@
     {
       "start": "2026-10-16T18:30:00-07:00",
       "end": "2026-10-16T20:00:00-07:00",
-      "type": "other",
-      "label": "Springbank Tournament - Game 3",
-      "notes": "Springbank Tournament - Game 3"
+      "type": "game",
+      "label": "Springbank Tournament - Taber vs Spruce Grove",
+      "notes": "Springbank Tournament - Taber vs Spruce Grove"
     },
     {
       "start": "2026-10-16T21:00:00-07:00",
@@ -177,44 +184,44 @@
     {
       "start": "2026-10-17T09:30:00-07:00",
       "end": "2026-10-17T11:00:00-07:00",
-      "type": "other",
-      "label": "Springbank Tournament - Game 4",
-      "notes": "Springbank Tournament - Game 4"
+      "type": "game",
+      "label": "Springbank Tournament - Glenlake vs KC Edmonton",
+      "notes": "Springbank Tournament - Glenlake vs KC Edmonton"
     },
     {
       "start": "2026-10-17T11:00:00-07:00",
       "end": "2026-10-17T12:30:00-07:00",
-      "type": "other",
-      "label": "Springbank Tournament - Game 5",
-      "notes": "Springbank Tournament - Game 5"
+      "type": "game",
+      "label": "Springbank Tournament - Springbank vs Spruce Grove",
+      "notes": "Springbank Tournament - Springbank vs Spruce Grove"
     },
     {
       "start": "2026-10-17T12:30:00-07:00",
       "end": "2026-10-17T14:00:00-07:00",
-      "type": "other",
-      "label": "Springbank Tournament - Game 6",
-      "notes": "Springbank Tournament - Game 6"
+      "type": "game",
+      "label": "Springbank Tournament - Taber vs Sherwood Park",
+      "notes": "Springbank Tournament - Taber vs Sherwood Park"
     },
     {
       "start": "2026-10-17T14:00:00-07:00",
       "end": "2026-10-17T15:30:00-07:00",
-      "type": "other",
-      "label": "Springbank Tournament - Game 7",
-      "notes": "Springbank Tournament - Game 7"
+      "type": "game",
+      "label": "Springbank Tournament - Glenlake vs Spruce Grove",
+      "notes": "Springbank Tournament - Glenlake vs Spruce Grove"
     },
     {
       "start": "2026-10-17T15:30:00-07:00",
       "end": "2026-10-17T17:00:00-07:00",
-      "type": "other",
-      "label": "Springbank Tournament - Game 8",
-      "notes": "Springbank Tournament - Game 8"
+      "type": "game",
+      "label": "Springbank Tournament - Springbank vs Sherwood Park",
+      "notes": "Springbank Tournament - Springbank vs Sherwood Park"
     },
     {
       "start": "2026-10-17T17:00:00-07:00",
       "end": "2026-10-17T18:30:00-07:00",
-      "type": "other",
-      "label": "Springbank Tournament - Game 9",
-      "notes": "Springbank Tournament - Game 9"
+      "type": "game",
+      "label": "Springbank Tournament - Taber vs KC Edmonton",
+      "notes": "Springbank Tournament - Taber vs KC Edmonton"
     }
   ]
 }
