@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-12T09:38:10.374660Z",
+  "generated_at": "2026-10-19T09:28:51.083549Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -43,14 +43,14 @@
           "start": "2026-10-04T16:45:00-07:00",
           "end": "2026-10-04T18:00:00-07:00",
           "label": "Town Cancelled",
-          "notes": "Thrive Hockey - Town Cancelled"
+          "notes": "Thrive Hockey Inv - Town Cancelled"
         },
         {
           "type": "practice",
           "start": "2026-10-04T18:15:00-07:00",
           "end": "2026-10-04T19:30:00-07:00",
           "label": "Town Cancelled",
-          "notes": "Thrive Hockey - Town Cancelled"
+          "notes": "Thrive Hockey Inv - Town Cancelled"
         },
         {
           "type": "practice",
@@ -112,8 +112,8 @@
           "type": "practice",
           "start": "2026-10-05T21:45:00-07:00",
           "end": "2026-10-05T23:00:00-07:00",
-          "label": "Berreth Hockey",
-          "notes": "Berreth Hockey"
+          "label": "Berreth Hockey PD",
+          "notes": "Berreth Hockey PD"
         },
         {
           "type": "practice",
@@ -126,15 +126,15 @@
           "type": "practice",
           "start": "2026-10-06T11:00:00-07:00",
           "end": "2026-10-06T12:00:00-07:00",
-          "label": "Grizzlys Sept 2026- March 2027",
-          "notes": "Grizzlys Sept 2026- March 2027 - Practice"
+          "label": "Grizzlys Oct 2026- March 2027",
+          "notes": "Grizzlys Oct 2026- March 2027 - Practice"
         },
         {
           "type": "practice",
           "start": "2026-10-06T12:15:00-07:00",
           "end": "2026-10-06T13:15:00-07:00",
-          "label": "Grizzlys Sept 2026- March 2027",
-          "notes": "Grizzlys Sept 2026- March 2027 - Practice"
+          "label": "Grizzlys Oct 2026- March 2027",
+          "notes": "Grizzlys Oct 2026- March 2027 - Practice"
         },
         {
           "type": "practice",
@@ -196,8 +196,8 @@
           "type": "practice",
           "start": "2026-10-07T11:00:00-07:00",
           "end": "2026-10-07T12:15:00-07:00",
-          "label": "Grizzlys Sept 2026- March 2027",
-          "notes": "Grizzlys Sept 2026- March 2027 - Practice"
+          "label": "Grizzlys Oct 2026- March 2027",
+          "notes": "Grizzlys Oct 2026- March 2027 - Practice"
         },
         {
           "type": "practice",
@@ -252,15 +252,15 @@
           "type": "practice",
           "start": "2026-10-08T11:00:00-07:00",
           "end": "2026-10-08T11:45:00-07:00",
-          "label": "Grizzlys Sept 2026- March 2027",
-          "notes": "Grizzlys Sept 2026- March 2027 - Practice"
+          "label": "Grizzlys Oct 2026- March 2027",
+          "notes": "Grizzlys Oct 2026- March 2027 - Practice"
         },
         {
           "type": "practice",
           "start": "2026-10-08T12:00:00-07:00",
           "end": "2026-10-08T12:45:00-07:00",
-          "label": "Grizzlys Sept 2026- March 2027",
-          "notes": "Grizzlys Sept 2026- March 2027 - Practice"
+          "label": "Grizzlys Oct 2026- March 2027",
+          "notes": "Grizzlys Oct 2026- March 2027 - Practice"
         },
         {
           "type": "practice",
@@ -308,15 +308,15 @@
           "type": "practice",
           "start": "2026-10-09T11:00:00-07:00",
           "end": "2026-10-09T11:45:00-07:00",
-          "label": "Grizzlys Sept 2026- March 2027",
-          "notes": "Grizzlys Sept 2026- March 2027 - Practice"
+          "label": "Grizzlys Oct 2026- March 2027",
+          "notes": "Grizzlys Oct 2026- March 2027 - Practice"
         },
         {
           "type": "practice",
           "start": "2026-10-09T12:00:00-07:00",
           "end": "2026-10-09T12:45:00-07:00",
-          "label": "Grizzlys Sept 2026- March 2027",
-          "notes": "Grizzlys Sept 2026- March 2027 - Practice"
+          "label": "Grizzlys Oct 2026- March 2027",
+          "notes": "Grizzlys Oct 2026- March 2027 - Practice"
         },
         {
           "type": "public_skate",

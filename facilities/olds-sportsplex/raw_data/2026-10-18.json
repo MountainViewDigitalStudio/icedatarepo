@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-12T09:38:10.374660Z",
+  "generated_at": "2026-10-19T09:28:51.083549Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -18,18 +18,18 @@
       "name": "Main Ice Surface",
       "slots": [
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-18T08:00:00-07:00",
           "end": "2026-10-18T09:45:00-07:00",
-          "label": "U11 fem",
-          "notes": "OMHA 2026-2027 - U11 fem"
+          "label": "U11 fem vs West  Central",
+          "notes": "OMHA 2026-2027 - U11 fem vs West  Central"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-18T10:15:00-07:00",
           "end": "2026-10-18T12:15:00-07:00",
-          "label": "U13",
-          "notes": "OMHA 2026-2027 - U13"
+          "label": "U13A fem vs Cochrane",
+          "notes": "OMHA 2026-2027 - U13A fem vs Cochrane"
         },
         {
           "type": "game",
@@ -46,18 +46,18 @@
           "notes": "OMHA 2026-2027 - U15AA vs Red Deer"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-18T17:30:00-07:00",
           "end": "2026-10-18T19:30:00-07:00",
-          "label": "U15",
-          "notes": "OMHA 2026-2027 - U15"
+          "label": "U15B vs Blindman Valley",
+          "notes": "OMHA 2026-2027 - U15B vs Blindman Valley"
         },
         {
           "type": "game",
           "start": "2026-10-18T19:45:00-07:00",
           "end": "2026-10-18T21:15:00-07:00",
           "label": "Hawks vs Brutes",
-          "notes": "Hawks Games 2026/2027 - Hawks vs Brutes"
+          "notes": "Hawks Games OCT NOV DEC 2026 inv - Hawks vs Brutes"
         },
         {
           "type": "practice",
@@ -70,8 +70,15 @@
           "type": "practice",
           "start": "2026-10-19T11:00:00-07:00",
           "end": "2026-10-19T12:15:00-07:00",
-          "label": "Grizzlys Sept 2026- March 2027",
-          "notes": "Grizzlys Sept 2026- March 2027 - Practice"
+          "label": "Grizzlys Oct 2026- March 2027",
+          "notes": "Grizzlys Oct 2026- March 2027 - Practice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-10-19T14:00:00-07:00",
+          "end": "2026-10-19T15:00:00-07:00",
+          "label": "U13C",
+          "notes": "OMHA 2026-2027 - U13C"
         },
         {
           "type": "practice",
@@ -126,15 +133,22 @@
           "type": "practice",
           "start": "2026-10-19T21:45:00-07:00",
           "end": "2026-10-19T23:00:00-07:00",
-          "label": "Berreth Hockey",
-          "notes": "Berreth Hockey"
+          "label": "Berreth Hockey PD",
+          "notes": "Berreth Hockey PD"
+        },
+        {
+          "type": "practice",
+          "start": "2026-10-20T06:15:00-07:00",
+          "end": "2026-10-20T07:30:00-07:00",
+          "label": "Broncos Hockey 2026/2027 Practices",
+          "notes": "Broncos Hockey 2026/2027 Practices"
         },
         {
           "type": "game",
           "start": "2026-10-20T11:00:00-07:00",
           "end": "2026-10-20T12:00:00-07:00",
           "label": "Pre- Game Skate",
-          "notes": "Grizzlys Sept 2026- March 2027 - Pre- Game Skate"
+          "notes": "Grizzlys Oct 2026- March 2027 - Pre- Game Skate"
         },
         {
           "type": "practice",
@@ -155,7 +169,7 @@
           "start": "2026-10-20T18:30:00-07:00",
           "end": "2026-10-20T21:30:00-07:00",
           "label": "Grizzlys vs Fort Mac",
-          "notes": "Grizzlys Sept 2026- March 2027 - Grizzlys vs Fort Mac"
+          "notes": "Grizzlys Oct 2026- March 2027 - Grizzlys vs Fort Mac"
         },
         {
           "type": "practice",
@@ -231,15 +245,15 @@
           "type": "practice",
           "start": "2026-10-22T11:00:00-07:00",
           "end": "2026-10-22T11:45:00-07:00",
-          "label": "Grizzlys Sept 2026- March 2027",
-          "notes": "Grizzlys Sept 2026- March 2027 - Practice"
+          "label": "Grizzlys Oct 2026- March 2027",
+          "notes": "Grizzlys Oct 2026- March 2027 - Practice"
         },
         {
           "type": "practice",
           "start": "2026-10-22T12:00:00-07:00",
           "end": "2026-10-22T12:45:00-07:00",
-          "label": "Grizzlys Sept 2026- March 2027",
-          "notes": "Grizzlys Sept 2026- March 2027 - Practice"
+          "label": "Grizzlys Oct 2026- March 2027",
+          "notes": "Grizzlys Oct 2026- March 2027 - Practice"
         },
         {
           "type": "practice",
@@ -266,15 +280,15 @@
           "type": "practice",
           "start": "2026-10-22T21:45:00-07:00",
           "end": "2026-10-22T23:15:00-07:00",
-          "label": "SIR 2026/2027",
-          "notes": "SIR 2026/2027"
+          "label": "SIR Oct 2026 inv",
+          "notes": "SIR Oct 2026 inv"
         },
         {
           "type": "game",
           "start": "2026-10-23T11:00:00-07:00",
           "end": "2026-10-23T12:00:00-07:00",
           "label": "Pre- Game Skate",
-          "notes": "Grizzlys Sept 2026- March 2027 - Pre- Game Skate"
+          "notes": "Grizzlys Oct 2026- March 2027 - Pre- Game Skate"
         },
         {
           "type": "practice",
@@ -295,7 +309,7 @@
           "start": "2026-10-23T18:30:00-07:00",
           "end": "2026-10-23T21:30:00-07:00",
           "label": "Grizzlys vs Calgary",
-          "notes": "Grizzlys Sept 2026- March 2027 - Grizzlys vs Calgary"
+          "notes": "Grizzlys Oct 2026- March 2027 - Grizzlys vs Calgary"
         },
         {
           "type": "practice",
@@ -312,11 +326,11 @@
           "notes": "OMHA 2026-2027 - U11AA vs Airdrie"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-24T11:45:00-07:00",
           "end": "2026-10-24T13:45:00-07:00",
-          "label": "U13",
-          "notes": "OMHA 2026-2027 - U13"
+          "label": "U13C vs Innisfail",
+          "notes": "OMHA 2026-2027 - U13C vs Innisfail"
         },
         {
           "type": "game",
@@ -345,18 +359,18 @@
       "name": "Auxiliary Ice Surface",
       "slots": [
         {
-          "type": "practice",
-          "start": "2026-10-18T08:45:00-07:00",
+          "type": "game",
+          "start": "2026-10-18T08:15:00-07:00",
           "end": "2026-10-18T09:30:00-07:00",
-          "label": "Pre Hock",
-          "notes": "OMHA 2026-2027 - Pre Hock"
+          "label": "8:15-9:30 U7Y vs U7B /  8:45-9:30 Pre Hockey",
+          "notes": "OMHA 2026-2027 - 8:15-9:30 U7Y vs U7B /  8:45-9:30 Pre Hockey"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-18T09:45:00-07:00",
           "end": "2026-10-18T11:45:00-07:00",
-          "label": "U13 Female",
-          "notes": "OMHA 2026-2027 - U13 Female"
+          "label": "U13A fem vs West  Central",
+          "notes": "OMHA 2026-2027 - U13A fem vs West  Central"
         },
         {
           "type": "public_skate",
@@ -366,32 +380,32 @@
           "notes": "Public Skating"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-18T13:30:00-07:00",
           "end": "2026-10-18T15:30:00-07:00",
-          "label": "U13",
-          "notes": "OMHA 2026-2027 - U13"
+          "label": "U13B vs Delburne",
+          "notes": "OMHA 2026-2027 - U13B vs Delburne"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-18T15:45:00-07:00",
           "end": "2026-10-18T17:45:00-07:00",
-          "label": "U15",
-          "notes": "OMHA 2026-2027 - U15"
+          "label": "U15A vs Chestermere",
+          "notes": "OMHA 2026-2027 - U15A vs Chestermere"
         },
         {
           "type": "practice",
           "start": "2026-10-18T18:00:00-07:00",
           "end": "2026-10-18T19:30:00-07:00",
-          "label": "Wilde 2026-2027",
-          "notes": "Wilde 2026-2027"
+          "label": "Wilde Oct,Nov,Dec  2026 inv",
+          "notes": "Wilde Oct,Nov,Dec  2026 inv"
         },
         {
           "type": "game",
           "start": "2026-10-18T20:00:00-07:00",
           "end": "2026-10-18T21:30:00-07:00",
           "label": "Panthers vs. Bowden Barons",
-          "notes": "Panthers Games 2026/2027 - Panthers vs. Bowden Barons"
+          "notes": "Panthers Games Oct NOv Dec 2026 inv - Panthers vs. Bowden Barons"
         },
         {
           "type": "practice",
@@ -399,13 +413,6 @@
           "end": "2026-10-19T07:45:00-07:00",
           "label": "Grizzlys Breakfast Club 2026/2027",
           "notes": "Grizzlys Breakfast Club 2026/2027"
-        },
-        {
-          "type": "practice",
-          "start": "2026-10-19T09:00:00-07:00",
-          "end": "2026-10-19T10:15:00-07:00",
-          "label": "Broncos 3X3 & Skills",
-          "notes": "Broncos 3X3 & Skills"
         },
         {
           "type": "practice",
@@ -417,16 +424,16 @@
         {
           "type": "practice",
           "start": "2026-10-19T12:00:00-07:00",
-          "end": "2026-10-19T13:00:00-07:00",
-          "label": "Broncos 3X3 & Skills",
-          "notes": "Broncos 3X3 & Skills"
+          "end": "2026-10-19T13:30:00-07:00",
+          "label": "Sticks and Pucks 2026/2027",
+          "notes": "Sticks and Pucks 2026/2027"
         },
         {
-          "type": "practice",
-          "start": "2026-10-19T13:30:00-07:00",
-          "end": "2026-10-19T14:45:00-07:00",
-          "label": "Broncos 3X3 & Skills",
-          "notes": "Broncos 3X3 & Skills"
+          "type": "public_skate",
+          "start": "2026-10-19T13:45:00-07:00",
+          "end": "2026-10-19T15:30:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating"
         },
         {
           "type": "practice",
@@ -555,11 +562,11 @@
           "notes": "OMHA 2026-2027 - U18A"
         },
         {
-          "type": "game",
+          "type": "practice",
           "start": "2026-10-21T21:45:00-07:00",
           "end": "2026-10-21T23:15:00-07:00",
-          "label": "04 Hockey 2026-2027 Games",
-          "notes": "04 Hockey 2026-2027 Games"
+          "label": "04 Hockey Oct Nov Dec 2026 Inv",
+          "notes": "04 Hockey Oct Nov Dec 2026 Inv"
         },
         {
           "type": "practice",
@@ -674,11 +681,11 @@
           "notes": "OMHA 2026-2027 - U7 Yellow/"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-23T17:45:00-07:00",
           "end": "2026-10-23T19:45:00-07:00",
-          "label": "U13",
-          "notes": "OMHA 2026-2027 - U13"
+          "label": "U13A vs Red Deer",
+          "notes": "OMHA 2026-2027 - U13A vs Red Deer"
         },
         {
           "type": "game",
@@ -709,11 +716,11 @@
           "notes": "OMHA 2026-2027 - U15"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-24T15:15:00-07:00",
           "end": "2026-10-24T17:15:00-07:00",
-          "label": "U13",
-          "notes": "OMHA 2026-2027 - U13"
+          "label": "U13A vs Sylvan Lake",
+          "notes": "OMHA 2026-2027 - U13A vs Sylvan Lake"
         },
         {
           "type": "practice",
@@ -723,11 +730,11 @@
           "notes": "OMHA 2026-2027 - U15 fem"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-24T19:45:00-07:00",
           "end": "2026-10-24T22:00:00-07:00",
-          "label": "U18",
-          "notes": "OMHA 2026-2027 - U18"
+          "label": "U18A vs Duchess",
+          "notes": "OMHA 2026-2027 - U18A vs Duchess"
         }
       ]
     }
