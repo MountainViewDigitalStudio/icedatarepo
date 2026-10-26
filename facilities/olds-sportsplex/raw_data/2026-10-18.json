@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-19T09:28:51.083549Z",
+  "generated_at": "2026-10-26T09:30:45.577061Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -173,6 +173,13 @@
         },
         {
           "type": "practice",
+          "start": "2026-10-20T21:45:00-07:00",
+          "end": "2026-10-20T23:00:00-07:00",
+          "label": "Gosling PD",
+          "notes": "Gosling PD"
+        },
+        {
+          "type": "practice",
           "start": "2026-10-21T06:15:00-07:00",
           "end": "2026-10-21T07:30:00-07:00",
           "label": "Broncos Hockey 2026/2027 Practices",
@@ -312,11 +319,11 @@
           "notes": "Grizzlys Oct 2026- March 2027 - Grizzlys vs Calgary"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-24T08:00:00-07:00",
           "end": "2026-10-24T09:15:00-07:00",
-          "label": "U9",
-          "notes": "OMHA 2026-2027 - U9"
+          "label": "U7 Red vs U7 Black",
+          "notes": "OMHA 2026-2027 - U7 Red vs U7 Black"
         },
         {
           "type": "game",
@@ -347,11 +354,11 @@
           "notes": "OMHA 2026-2027 - U18AA vs East Kootenay"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-24T19:15:00-07:00",
           "end": "2026-10-24T21:30:00-07:00",
-          "label": "U18 fem",
-          "notes": "OMHA 2026-2027 - U18 fem"
+          "label": "U18A vs Duchess",
+          "notes": "OMHA 2026-2027 - U18A vs Duchess"
         }
       ]
     },
@@ -698,22 +705,22 @@
           "type": "practice",
           "start": "2026-10-24T08:30:00-07:00",
           "end": "2026-10-24T10:30:00-07:00",
-          "label": "U11",
-          "notes": "OMHA 2026-2027 - U11"
+          "label": "OMHA",
+          "notes": "OMHA 2026-2027 - OMHA"
         },
         {
           "type": "practice",
           "start": "2026-10-24T10:45:00-07:00",
           "end": "2026-10-24T12:45:00-07:00",
-          "label": "U11",
-          "notes": "OMHA 2026-2027 - U11"
+          "label": "OMHA",
+          "notes": "OMHA 2026-2027 - OMHA"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-24T13:00:00-07:00",
           "end": "2026-10-24T15:00:00-07:00",
-          "label": "U15",
-          "notes": "OMHA 2026-2027 - U15"
+          "label": "U15C vs Renegades",
+          "notes": "OMHA 2026-2027 - U15C vs Renegades"
         },
         {
           "type": "game",
@@ -723,18 +730,18 @@
           "notes": "OMHA 2026-2027 - U13A vs Sylvan Lake"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-24T17:30:00-07:00",
           "end": "2026-10-24T19:30:00-07:00",
-          "label": "U15 fem",
-          "notes": "OMHA 2026-2027 - U15 fem"
+          "label": "U15B female vs Wheatand",
+          "notes": "OMHA 2026-2027 - U15B female vs Wheatand"
         },
         {
-          "type": "game",
+          "type": "practice",
           "start": "2026-10-24T19:45:00-07:00",
           "end": "2026-10-24T22:00:00-07:00",
-          "label": "U18A vs Duchess",
-          "notes": "OMHA 2026-2027 - U18A vs Duchess"
+          "label": "OMHA",
+          "notes": "OMHA 2026-2027 - OMHA"
         }
       ]
     }
