@@ -4,14 +4,35 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-10-25",
   "week_end": "2026-10-31",
-  "last_updated": "2026-10-19T02:28:36.119421-07:00",
+  "last_updated": "2026-10-26T02:30:27.455131-07:00",
   "slots": [
     {
-      "start": "2026-10-25T08:00:00-07:00",
+      "start": "2026-10-25T13:30:00-07:00",
+      "end": "2026-10-25T15:30:00-07:00",
+      "type": "game",
+      "label": "U11 Games & Tournaments - U11T3G vs Delburne",
+      "notes": "U11 Games & Tournaments - U11T3G vs Delburne"
+    },
+    {
+      "start": "2026-10-25T15:30:00-07:00",
+      "end": "2026-10-25T15:45:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "U11 Games & Tournaments - FLOOD"
+    },
+    {
+      "start": "2026-10-25T15:45:00-07:00",
       "end": "2026-10-25T17:45:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Weekend  Unassigned - CAHL",
-      "notes": "Weekend Hockey - Unassigned - CAHL"
+      "type": "game",
+      "label": "U13 Games & tournaments - U13T6R vs Stettler",
+      "notes": "U13 Games & tournaments - U13T6R vs Stettler"
+    },
+    {
+      "start": "2026-10-25T17:45:00-07:00",
+      "end": "2026-10-25T18:00:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "U13 Games & tournaments - FLOOD"
     },
     {
       "start": "2026-10-25T18:00:00-07:00",
@@ -43,45 +64,80 @@
     },
     {
       "start": "2026-10-26T16:45:00-07:00",
-      "end": "2026-10-26T18:00:00-07:00",
+      "end": "2026-10-26T17:45:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U9 Practice",
       "notes": "Minor Hockey Practices - U9 Practice"
     },
     {
+      "start": "2026-10-26T17:45:00-07:00",
+      "end": "2026-10-26T18:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD"
+    },
+    {
       "start": "2026-10-26T18:00:00-07:00",
-      "end": "2026-10-26T19:15:00-07:00",
+      "end": "2026-10-26T19:00:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U11A Practices",
       "notes": "Minor Hockey Practices - U11A Practices"
     },
     {
+      "start": "2026-10-26T19:00:00-07:00",
+      "end": "2026-10-26T19:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD"
+    },
+    {
       "start": "2026-10-26T19:15:00-07:00",
-      "end": "2026-10-26T20:30:00-07:00",
+      "end": "2026-10-26T20:15:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U13A Practices",
       "notes": "Minor Hockey Practices - U13A Practices"
     },
     {
+      "start": "2026-10-26T20:15:00-07:00",
+      "end": "2026-10-26T20:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD"
+    },
+    {
       "start": "2026-10-26T20:30:00-07:00",
-      "end": "2026-10-26T22:00:00-07:00",
+      "end": "2026-10-26T21:45:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U18 Practice",
       "notes": "Minor Hockey Practices - U18 Practice"
     },
     {
-      "start": "2026-10-27T15:45:00-07:00",
-      "end": "2026-10-27T16:15:00-07:00",
+      "start": "2026-10-26T21:45:00-07:00",
+      "end": "2026-10-26T22:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD"
+    },
+    {
+      "start": "2026-10-27T15:30:00-07:00",
+      "end": "2026-10-27T16:00:00-07:00",
       "type": "rental",
       "label": "Ice Rental",
       "notes": "Caroline Skate Club - Pre Skate"
     },
     {
-      "start": "2026-10-27T16:30:00-07:00",
+      "start": "2026-10-27T16:15:00-07:00",
       "end": "2026-10-27T17:15:00-07:00",
       "type": "rental",
       "label": "Ice Rental",
       "notes": "Caroline Skate Club - Learn to Skate"
+    },
+    {
+      "start": "2026-10-27T17:15:00-07:00",
+      "end": "2026-10-27T17:30:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD"
     },
     {
       "start": "2026-10-27T17:30:00-07:00",
@@ -91,6 +147,13 @@
       "notes": "Caroline Skate Club - Preliminary Fun Skate"
     },
     {
+      "start": "2026-10-27T18:45:00-07:00",
+      "end": "2026-10-27T19:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD"
+    },
+    {
       "start": "2026-10-27T19:00:00-07:00",
       "end": "2026-10-27T20:30:00-07:00",
       "type": "rental",
@@ -98,11 +161,25 @@
       "notes": "Caroline Skate Club - Junior Fun Skate"
     },
     {
+      "start": "2026-10-27T20:30:00-07:00",
+      "end": "2026-10-27T20:45:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD"
+    },
+    {
       "start": "2026-10-27T20:45:00-07:00",
-      "end": "2026-10-27T22:00:00-07:00",
+      "end": "2026-10-27T21:45:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U15 Practice",
       "notes": "Minor Hockey Practices - U15 Practice"
+    },
+    {
+      "start": "2026-10-27T21:45:00-07:00",
+      "end": "2026-10-27T22:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD"
     },
     {
       "start": "2026-10-28T15:45:00-07:00",
@@ -120,17 +197,31 @@
     },
     {
       "start": "2026-10-28T17:45:00-07:00",
-      "end": "2026-10-28T19:00:00-07:00",
+      "end": "2026-10-28T18:45:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U11B Practice",
       "notes": "Minor Hockey Practices - U11B Practice"
     },
     {
+      "start": "2026-10-28T18:45:00-07:00",
+      "end": "2026-10-28T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD"
+    },
+    {
       "start": "2026-10-28T19:00:00-07:00",
-      "end": "2026-10-28T20:15:00-07:00",
+      "end": "2026-10-28T20:00:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U13B Practices",
       "notes": "Minor Hockey Practices - U13B Practices"
+    },
+    {
+      "start": "2026-10-28T20:00:00-07:00",
+      "end": "2026-10-28T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD"
     },
     {
       "start": "2026-10-28T20:15:00-07:00",
@@ -147,18 +238,25 @@
       "notes": "Recovery Alberta Meeting"
     },
     {
-      "start": "2026-10-29T15:45:00-07:00",
-      "end": "2026-10-29T16:15:00-07:00",
+      "start": "2026-10-29T15:30:00-07:00",
+      "end": "2026-10-29T16:00:00-07:00",
       "type": "rental",
       "label": "Ice Rental",
       "notes": "Caroline Skate Club - Pre Skate"
     },
     {
-      "start": "2026-10-29T16:30:00-07:00",
+      "start": "2026-10-29T16:15:00-07:00",
       "end": "2026-10-29T17:15:00-07:00",
       "type": "rental",
       "label": "Ice Rental",
       "notes": "Caroline Skate Club - Learn to Skate"
+    },
+    {
+      "start": "2026-10-29T17:15:00-07:00",
+      "end": "2026-10-29T17:30:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD"
     },
     {
       "start": "2026-10-29T17:30:00-07:00",
@@ -168,11 +266,25 @@
       "notes": "Caroline Skate Club - Preliminary Fun Skate"
     },
     {
+      "start": "2026-10-29T18:45:00-07:00",
+      "end": "2026-10-29T19:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD"
+    },
+    {
       "start": "2026-10-29T19:00:00-07:00",
       "end": "2026-10-29T21:00:00-07:00",
       "type": "rental",
       "label": "Ice Rental",
       "notes": "Caroline Skate Club - Junior Fun Skate"
+    },
+    {
+      "start": "2026-10-29T21:00:00-07:00",
+      "end": "2026-10-29T21:15:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD"
     },
     {
       "start": "2026-10-30T07:00:00-07:00",
