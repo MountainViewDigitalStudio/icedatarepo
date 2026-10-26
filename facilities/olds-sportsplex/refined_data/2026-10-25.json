@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-19T09:30:30.868438Z",
+  "generated_at": "2026-10-26T09:36:05.464222Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -25,13 +25,13 @@
           "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-10-25T10:45:00-07:00",
           "end": "2026-10-25T12:00:00-07:00",
-          "label": "U9",
-          "notes": "OMHA 2026-2027 - U9",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U9B vs Spruceview U9 fem vs Crossfield",
+          "notes": "OMHA 2026-2027 - U9B vs Spruceview U9 fem vs Crossfield",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "games",
@@ -55,8 +55,8 @@
           "type": "games",
           "start": "2026-10-25T17:15:00-07:00",
           "end": "2026-10-25T19:30:00-07:00",
-          "label": "U18B vs Wetaskiwin",
-          "notes": "OMHA 2026-2027 - U18B vs Wetaskiwin",
+          "label": "U15AA vs Central Alberta Selects",
+          "notes": "OMHA 2026-2027 - U15AA vs Central Alberta Selects",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -68,15 +68,6 @@
           "notes": "Hawks Games OCT NOV DEC 2026 inv - Hawks vsNighthawks",
           "color": "#EF4444",
           "type_display": "Games"
-        },
-        {
-          "type": "other",
-          "start": "2026-10-25T21:30:00-07:00",
-          "end": "2026-10-25T23:00:00-07:00",
-          "label": "Wilde Oct,Nov,Dec  2026 inv",
-          "notes": "Wilde Oct,Nov,Dec  2026 inv",
-          "color": "#64748B",
-          "type_display": "Other"
         },
         {
           "type": "practice",
@@ -492,8 +483,8 @@
           "type": "games",
           "start": "2026-10-25T09:45:00-07:00",
           "end": "2026-10-25T11:45:00-07:00",
-          "label": "U11 fem vs Central  Alberta",
-          "notes": "OMHA 2026-2027 - U11 fem vs Central  Alberta",
+          "label": "U11 female vs Central  Alberta",
+          "notes": "OMHA 2026-2027 - U11 female vs Central  Alberta",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -507,31 +498,31 @@
           "type_display": "Public / Family"
         },
         {
-          "type": "games",
+          "type": "other",
           "start": "2026-10-25T13:30:00-07:00",
           "end": "2026-10-25T15:45:00-07:00",
-          "label": "U15AA vs Central Alberta Selects",
-          "notes": "OMHA 2026-2027 - U15AA vs Central Alberta Selects",
-          "color": "#EF4444",
-          "type_display": "Games"
-        },
-        {
-          "type": "practice",
-          "start": "2026-10-25T16:00:00-07:00",
-          "end": "2026-10-25T18:00:00-07:00",
-          "label": "U15",
-          "notes": "OMHA 2026-2027 - U15",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "OMHA",
+          "notes": "OMHA 2026-2027 - OMHA",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "games",
-          "start": "2026-10-25T18:00:00-07:00",
-          "end": "2026-10-25T19:30:00-07:00",
-          "label": "Stingers vs",
-          "notes": "Stingers Hockey- Games Oct Nov Dec  2026 inv - Stingers vs",
+          "start": "2026-10-25T16:00:00-07:00",
+          "end": "2026-10-25T18:00:00-07:00",
+          "label": "U15B vs West 39",
+          "notes": "OMHA 2026-2027 - U15B vs West 39",
           "color": "#EF4444",
           "type_display": "Games"
+        },
+        {
+          "type": "other",
+          "start": "2026-10-25T18:15:00-07:00",
+          "end": "2026-10-25T19:30:00-07:00",
+          "label": "Wilde Oct,Nov,Dec  2026 inv",
+          "notes": "Wilde Oct,Nov,Dec  2026 inv",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "games",
@@ -876,13 +867,13 @@
           "type_display": "Practice / Other"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-10-31T08:45:00-07:00",
           "end": "2026-10-31T10:00:00-07:00",
-          "label": "U9",
-          "notes": "OMHA 2026-2027 - U9",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U9A vs Sylvan Lake / U9B vs Chestermere",
+          "notes": "OMHA 2026-2027 - U9A vs Sylvan Lake / U9B vs Chestermere",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "practice",

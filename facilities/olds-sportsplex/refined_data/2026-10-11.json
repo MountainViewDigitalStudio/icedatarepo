@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-19T09:30:30.866415Z",
+  "generated_at": "2026-10-26T09:36:05.461289Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -843,8 +843,8 @@
           "type": "practice",
           "start": "2026-10-17T17:15:00-07:00",
           "end": "2026-10-17T19:15:00-07:00",
-          "label": "Glaciers Female Practice",
-          "notes": "Glaciers Female Practice",
+          "label": "Glaciers Female Practice PD",
+          "notes": "Glaciers Female Practice PD",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },

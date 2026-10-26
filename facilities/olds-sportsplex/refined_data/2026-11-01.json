@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-19T09:30:30.869443Z",
+  "generated_at": "2026-10-26T09:36:05.465275Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -20,7 +20,7 @@
           "start": "2026-11-01T08:30:00-07:00",
           "end": "2026-11-01T09:45:00-07:00",
           "label": "U7",
-          "notes": "OMHA November 2026 - March 2027 - U7",
+          "notes": "OMHA November 2026 - U7",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -29,7 +29,7 @@
           "start": "2026-11-01T10:00:00-07:00",
           "end": "2026-11-01T12:00:00-07:00",
           "label": "U11",
-          "notes": "OMHA November 2026 - March 2027 - U11",
+          "notes": "OMHA November 2026 - U11",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -38,7 +38,7 @@
           "start": "2026-11-01T12:15:00-07:00",
           "end": "2026-11-01T14:15:00-07:00",
           "label": "U15 Female",
-          "notes": "OMHA November 2026 - March 2027 - U15 Female",
+          "notes": "OMHA November 2026 - U15 Female",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -47,7 +47,7 @@
           "start": "2026-11-01T14:30:00-07:00",
           "end": "2026-11-01T16:45:00-07:00",
           "label": "U18",
-          "notes": "OMHA November 2026 - March 2027 - U18",
+          "notes": "OMHA November 2026 - U18",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -56,7 +56,7 @@
           "start": "2026-11-01T17:00:00-07:00",
           "end": "2026-11-01T19:30:00-07:00",
           "label": "U18AA vs Okotoks",
-          "notes": "OMHA November 2026 - March 2027 - U18AA vs Okotoks",
+          "notes": "OMHA November 2026 - U18AA vs Okotoks",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -68,15 +68,6 @@
           "notes": "Hawks Games OCT NOV DEC 2026 inv - Hawks vs Barons",
           "color": "#EF4444",
           "type_display": "Games"
-        },
-        {
-          "type": "other",
-          "start": "2026-11-01T21:30:00-07:00",
-          "end": "2026-11-01T23:00:00-07:00",
-          "label": "Wilde Oct,Nov,Dec  2026 inv",
-          "notes": "Wilde Oct,Nov,Dec  2026 inv",
-          "color": "#64748B",
-          "type_display": "Other"
         },
         {
           "type": "practice",
@@ -101,7 +92,7 @@
           "start": "2026-11-02T16:00:00-07:00",
           "end": "2026-11-02T16:45:00-07:00",
           "label": "U9C/U9 Female",
-          "notes": "OMHA November 2026 - March 2027 - U9C/U9 Female",
+          "notes": "OMHA November 2026 - U9C/U9 Female",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -110,7 +101,7 @@
           "start": "2026-11-02T16:45:00-07:00",
           "end": "2026-11-02T17:45:00-07:00",
           "label": "U11C",
-          "notes": "OMHA November 2026 - March 2027 - U11C",
+          "notes": "OMHA November 2026 - U11C",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -119,7 +110,7 @@
           "start": "2026-11-02T18:00:00-07:00",
           "end": "2026-11-02T19:00:00-07:00",
           "label": "U11A",
-          "notes": "OMHA November 2026 - March 2027 - U11A",
+          "notes": "OMHA November 2026 - U11A",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -128,7 +119,7 @@
           "start": "2026-11-02T19:15:00-07:00",
           "end": "2026-11-02T20:15:00-07:00",
           "label": "U13B fem",
-          "notes": "OMHA November 2026 - March 2027 - U13B fem",
+          "notes": "OMHA November 2026 - U13B fem",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -137,7 +128,7 @@
           "start": "2026-11-02T20:30:00-07:00",
           "end": "2026-11-02T21:30:00-07:00",
           "label": "U18 Female",
-          "notes": "OMHA November 2026 - March 2027 - U18 Female",
+          "notes": "OMHA November 2026 - U18 Female",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -182,7 +173,7 @@
           "start": "2026-11-03T16:00:00-07:00",
           "end": "2026-11-03T17:45:00-07:00",
           "label": "4:00-4:45 U7 Yellow/ Black/Red 4:45-5:45 U13A",
-          "notes": "OMHA November 2026 - March 2027 - 4:00-4:45 U7 Yellow/ Black/Red 4:45-5:45 U13A",
+          "notes": "OMHA November 2026 - 4:00-4:45 U7 Yellow/ Black/Red 4:45-5:45 U13A",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -191,7 +182,7 @@
           "start": "2026-11-03T18:00:00-07:00",
           "end": "2026-11-03T19:00:00-07:00",
           "label": "U15C",
-          "notes": "OMHA November 2026 - March 2027 - U15C",
+          "notes": "OMHA November 2026 - U15C",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -200,7 +191,7 @@
           "start": "2026-11-03T19:15:00-07:00",
           "end": "2026-11-03T20:15:00-07:00",
           "label": "U15AA",
-          "notes": "OMHA November 2026 - March 2027 - U15AA",
+          "notes": "OMHA November 2026 - U15AA",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -209,7 +200,7 @@
           "start": "2026-11-03T20:30:00-07:00",
           "end": "2026-11-03T21:30:00-07:00",
           "label": "U15A",
-          "notes": "OMHA November 2026 - March 2027 - U15A",
+          "notes": "OMHA November 2026 - U15A",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -245,7 +236,7 @@
           "start": "2026-11-04T16:00:00-07:00",
           "end": "2026-11-04T16:45:00-07:00",
           "label": "U9C/ U9 fem",
-          "notes": "OMHA November 2026 - March 2027 - U9C/ U9 fem",
+          "notes": "OMHA November 2026 - U9C/ U9 fem",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -254,7 +245,7 @@
           "start": "2026-11-04T17:00:00-07:00",
           "end": "2026-11-04T18:00:00-07:00",
           "label": "U13AA",
-          "notes": "OMHA November 2026 - March 2027 - U13AA",
+          "notes": "OMHA November 2026 - U13AA",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -299,7 +290,7 @@
           "start": "2026-11-05T16:00:00-07:00",
           "end": "2026-11-05T16:45:00-07:00",
           "label": "U9A/ U9B",
-          "notes": "OMHA November 2026 - March 2027 - U9A/ U9B",
+          "notes": "OMHA November 2026 - U9A/ U9B",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -308,7 +299,7 @@
           "start": "2026-11-05T17:00:00-07:00",
           "end": "2026-11-05T17:45:00-07:00",
           "label": "U13B/ U13C",
-          "notes": "OMHA November 2026 - March 2027 - U13B/ U13C",
+          "notes": "OMHA November 2026 - U13B/ U13C",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -317,7 +308,7 @@
           "start": "2026-11-05T18:00:00-07:00",
           "end": "2026-11-05T18:45:00-07:00",
           "label": "U13A fem/ U13B fem",
-          "notes": "OMHA November 2026 - March 2027 - U13A fem/ U13B fem",
+          "notes": "OMHA November 2026 - U13A fem/ U13B fem",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -325,8 +316,8 @@
           "type": "practice",
           "start": "2026-11-05T19:00:00-07:00",
           "end": "2026-11-05T20:00:00-07:00",
-          "label": "U15B/ U15C",
-          "notes": "OMHA November 2026 - March 2027 - U15B/ U15C",
+          "label": "U15A U15C",
+          "notes": "OMHA November 2026 - U15A U15C",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -335,7 +326,7 @@
           "start": "2026-11-05T20:15:00-07:00",
           "end": "2026-11-05T21:30:00-07:00",
           "label": "U18 AA",
-          "notes": "OMHA November 2026 - March 2027 - U18 AA",
+          "notes": "OMHA November 2026 - U18 AA",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -398,7 +389,7 @@
           "start": "2026-11-07T08:45:00-07:00",
           "end": "2026-11-07T10:45:00-07:00",
           "label": "U11",
-          "notes": "OMHA November 2026 - March 2027 - U11",
+          "notes": "OMHA November 2026 - U11",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -407,7 +398,7 @@
           "start": "2026-11-07T11:00:00-07:00",
           "end": "2026-11-07T13:00:00-07:00",
           "label": "U13 fem",
-          "notes": "OMHA November 2026 - March 2027 - U13 fem",
+          "notes": "OMHA November 2026 - U13 fem",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -425,7 +416,7 @@
           "start": "2026-11-07T16:45:00-07:00",
           "end": "2026-11-07T19:00:00-07:00",
           "label": "U18 fem",
-          "notes": "OMHA November 2026 - March 2027 - U18 fem",
+          "notes": "OMHA November 2026 - U18 fem",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -434,7 +425,7 @@
           "start": "2026-11-07T19:15:00-07:00",
           "end": "2026-11-07T21:45:00-07:00",
           "label": "U18AA vs CNHA Black",
-          "notes": "OMHA November 2026 - March 2027 - U18AA vs CNHA Black",
+          "notes": "OMHA November 2026 - U18AA vs CNHA Black",
           "color": "#EF4444",
           "type_display": "Games"
         }
@@ -448,7 +439,7 @@
           "start": "2026-11-01T08:45:00-07:00",
           "end": "2026-11-01T09:30:00-07:00",
           "label": "Pre- Hockey",
-          "notes": "OMHA November 2026 - March 2027 - Pre- Hockey",
+          "notes": "OMHA November 2026 - Pre- Hockey",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -457,7 +448,7 @@
           "start": "2026-11-01T09:45:00-07:00",
           "end": "2026-11-01T11:45:00-07:00",
           "label": "U13",
-          "notes": "OMHA November 2026 - March 2027 - U13",
+          "notes": "OMHA November 2026 - U13",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -475,7 +466,7 @@
           "start": "2026-11-01T13:30:00-07:00",
           "end": "2026-11-01T15:30:00-07:00",
           "label": "U15",
-          "notes": "OMHA November 2026 - March 2027 - U15",
+          "notes": "OMHA November 2026 - U15",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -484,18 +475,18 @@
           "start": "2026-11-01T15:45:00-07:00",
           "end": "2026-11-01T17:45:00-07:00",
           "label": "U13",
-          "notes": "OMHA November 2026 - March 2027 - U13",
+          "notes": "OMHA November 2026 - U13",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
         {
-          "type": "games",
+          "type": "other",
           "start": "2026-11-01T18:00:00-07:00",
           "end": "2026-11-01T19:30:00-07:00",
-          "label": "Stingers vs",
-          "notes": "Stingers Hockey- Games Oct Nov Dec  2026 inv - Stingers vs",
-          "color": "#EF4444",
-          "type_display": "Games"
+          "label": "Wilde Oct,Nov,Dec  2026 inv",
+          "notes": "Wilde Oct,Nov,Dec  2026 inv",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "games",
@@ -547,7 +538,7 @@
           "start": "2026-11-02T20:00:00-07:00",
           "end": "2026-11-02T21:00:00-07:00",
           "label": "U15B",
-          "notes": "OMHA November 2026 - March 2027 - U15B",
+          "notes": "OMHA November 2026 - U15B",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -556,7 +547,7 @@
           "start": "2026-11-02T21:15:00-07:00",
           "end": "2026-11-02T22:15:00-07:00",
           "label": "U18B",
-          "notes": "OMHA November 2026 - March 2027 - U18B",
+          "notes": "OMHA November 2026 - U18B",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -565,7 +556,7 @@
           "start": "2026-11-03T06:45:00-07:00",
           "end": "2026-11-03T07:45:00-07:00",
           "label": "U11B",
-          "notes": "OMHA November 2026 - March 2027 - U11B",
+          "notes": "OMHA November 2026 - U11B",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -592,7 +583,7 @@
           "start": "2026-11-03T16:00:00-07:00",
           "end": "2026-11-03T17:30:00-07:00",
           "label": "4:00-4:45 U9A/ U9B 4:45-5:30 U11 fem",
-          "notes": "OMHA November 2026 - March 2027 - 4:00-4:45 U9A/ U9B 4:45-5:30 U11 fem",
+          "notes": "OMHA November 2026 - 4:00-4:45 U9A/ U9B 4:45-5:30 U11 fem",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -601,7 +592,7 @@
           "start": "2026-11-03T17:45:00-07:00",
           "end": "2026-11-03T18:30:00-07:00",
           "label": "U13B",
-          "notes": "OMHA November 2026 - March 2027 - U13B",
+          "notes": "OMHA November 2026 - U13B",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -610,7 +601,7 @@
           "start": "2026-11-03T18:45:00-07:00",
           "end": "2026-11-03T19:30:00-07:00",
           "label": "U15A fem",
-          "notes": "OMHA November 2026 - March 2027 - U15A fem",
+          "notes": "OMHA November 2026 - U15A fem",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -619,7 +610,7 @@
           "start": "2026-11-03T19:45:00-07:00",
           "end": "2026-11-03T20:30:00-07:00",
           "label": "U15B fem",
-          "notes": "OMHA November 2026 - March 2027 - U15B fem",
+          "notes": "OMHA November 2026 - U15B fem",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -628,7 +619,7 @@
           "start": "2026-11-03T20:45:00-07:00",
           "end": "2026-11-03T21:45:00-07:00",
           "label": "U18A",
-          "notes": "OMHA November 2026 - March 2027 - U18A",
+          "notes": "OMHA November 2026 - U18A",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -637,7 +628,7 @@
           "start": "2026-11-04T06:45:00-07:00",
           "end": "2026-11-04T07:45:00-07:00",
           "label": "U11C",
-          "notes": "OMHA November 2026 - March 2027 - U11C",
+          "notes": "OMHA November 2026 - U11C",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -672,8 +663,8 @@
           "type": "practice",
           "start": "2026-11-04T20:00:00-07:00",
           "end": "2026-11-04T21:30:00-07:00",
-          "label": "8:30-9:00 U15A fem 9:00-9:30 U15AF/U15BF 9:30-10:00 U15B fem",
-          "notes": "OMHA November 2026 - March 2027 - 8:30-9:00 U15A fem 9:00-9:30 U15AF/U15BF 9:30-10:00 U15B fem",
+          "label": "8:00-8:30 U15A fem 8:30-9:00 U15AF/U15BF 9:00-9:30 U15B fem",
+          "notes": "OMHA November 2026 - 8:00-8:30 U15A fem 8:30-9:00 U15AF/U15BF 9:00-9:30 U15B fem",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -691,7 +682,7 @@
           "start": "2026-11-05T06:45:00-07:00",
           "end": "2026-11-05T07:45:00-07:00",
           "label": "U13A",
-          "notes": "OMHA November 2026 - March 2027 - U13A",
+          "notes": "OMHA November 2026 - U13A",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -718,7 +709,7 @@
           "start": "2026-11-05T16:00:00-07:00",
           "end": "2026-11-05T17:30:00-07:00",
           "label": "U11B  4:45-5:30 U11A/ U11 fem",
-          "notes": "OMHA November 2026 - March 2027 - U11B  4:45-5:30 U11A/ U11 fem",
+          "notes": "OMHA November 2026 - U11B  4:45-5:30 U11A/ U11 fem",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -727,7 +718,7 @@
           "start": "2026-11-05T17:45:00-07:00",
           "end": "2026-11-05T18:30:00-07:00",
           "label": "U18B",
-          "notes": "OMHA November 2026 - March 2027 - U18B",
+          "notes": "OMHA November 2026 - U18B",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -736,25 +727,25 @@
           "start": "2026-11-05T18:45:00-07:00",
           "end": "2026-11-05T19:45:00-07:00",
           "label": "U11AA",
-          "notes": "OMHA November 2026 - March 2027 - U11AA",
+          "notes": "OMHA November 2026 - U11AA",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2026-11-05T20:00:00-07:00",
-          "end": "2026-11-05T21:00:00-07:00",
-          "label": "U18 fem",
-          "notes": "OMHA November 2026 - March 2027 - U18 fem",
+          "end": "2026-11-05T20:45:00-07:00",
+          "label": "U18A",
+          "notes": "OMHA November 2026 - U18A",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
         {
           "type": "practice",
-          "start": "2026-11-05T21:15:00-07:00",
-          "end": "2026-11-05T22:15:00-07:00",
-          "label": "U18A",
-          "notes": "OMHA November 2026 - March 2027 - U18A",
+          "start": "2026-11-05T21:00:00-07:00",
+          "end": "2026-11-05T22:00:00-07:00",
+          "label": "U18 fem",
+          "notes": "OMHA November 2026 - U18 fem",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -781,7 +772,7 @@
           "start": "2026-11-06T16:00:00-07:00",
           "end": "2026-11-06T16:45:00-07:00",
           "label": "U7 Black U7 Yellow",
-          "notes": "OMHA November 2026 - March 2027 - U7 Black U7 Yellow",
+          "notes": "OMHA November 2026 - U7 Black U7 Yellow",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -790,7 +781,7 @@
           "start": "2026-11-06T16:45:00-07:00",
           "end": "2026-11-06T17:30:00-07:00",
           "label": "U7 Red",
-          "notes": "OMHA November 2026 - March 2027 - U7 Red",
+          "notes": "OMHA November 2026 - U7 Red",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -799,7 +790,7 @@
           "start": "2026-11-06T17:45:00-07:00",
           "end": "2026-11-06T19:45:00-07:00",
           "label": "U13",
-          "notes": "OMHA November 2026 - March 2027 - U13",
+          "notes": "OMHA November 2026 - U13",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -808,7 +799,7 @@
           "start": "2026-11-06T20:00:00-07:00",
           "end": "2026-11-06T22:15:00-07:00",
           "label": "U18",
-          "notes": "OMHA November 2026 - March 2027 - U18",
+          "notes": "OMHA November 2026 - U18",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -816,8 +807,8 @@
           "type": "practice",
           "start": "2026-11-07T08:15:00-07:00",
           "end": "2026-11-07T09:30:00-07:00",
-          "label": "U13",
-          "notes": "OMHA November 2026 - March 2027 - U13",
+          "label": "U9",
+          "notes": "OMHA November 2026 - U9",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -826,7 +817,7 @@
           "start": "2026-11-07T09:45:00-07:00",
           "end": "2026-11-07T11:45:00-07:00",
           "label": "U13",
-          "notes": "OMHA November 2026 - March 2027 - U13",
+          "notes": "OMHA November 2026 - U13",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -835,7 +826,7 @@
           "start": "2026-11-07T12:00:00-07:00",
           "end": "2026-11-07T14:00:00-07:00",
           "label": "U13",
-          "notes": "OMHA November 2026 - March 2027 - U13",
+          "notes": "OMHA November 2026 - U13",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -844,7 +835,7 @@
           "start": "2026-11-07T14:15:00-07:00",
           "end": "2026-11-07T16:15:00-07:00",
           "label": "U15",
-          "notes": "OMHA November 2026 - March 2027 - U15",
+          "notes": "OMHA November 2026 - U15",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -853,7 +844,7 @@
           "start": "2026-11-07T16:30:00-07:00",
           "end": "2026-11-07T18:30:00-07:00",
           "label": "U15",
-          "notes": "OMHA November 2026 - March 2027 - U15",
+          "notes": "OMHA November 2026 - U15",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -862,7 +853,7 @@
           "start": "2026-11-07T18:45:00-07:00",
           "end": "2026-11-07T21:00:00-07:00",
           "label": "U18",
-          "notes": "OMHA November 2026 - March 2027 - U18",
+          "notes": "OMHA November 2026 - U18",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         }

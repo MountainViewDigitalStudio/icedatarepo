@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-19T09:30:30.895536Z",
+  "generated_at": "2026-10-26T09:36:05.495789Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena",
@@ -31,7 +31,7 @@
     },
     {
       "start": "2026-10-12T16:45:00-07:00",
-      "end": "2026-10-12T18:00:00-07:00",
+      "end": "2026-10-12T17:45:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U9 Practice",
       "notes": "Minor Hockey Practices - U9 Practice",
@@ -39,8 +39,17 @@
       "type_display": "Practice / Other"
     },
     {
+      "start": "2026-10-12T17:45:00-07:00",
+      "end": "2026-10-12T18:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
       "start": "2026-10-12T18:00:00-07:00",
-      "end": "2026-10-12T19:15:00-07:00",
+      "end": "2026-10-12T19:00:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U11A Practices",
       "notes": "Minor Hockey Practices - U11A Practices",
@@ -48,8 +57,17 @@
       "type_display": "Practice / Other"
     },
     {
+      "start": "2026-10-12T19:00:00-07:00",
+      "end": "2026-10-12T19:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
       "start": "2026-10-12T19:15:00-07:00",
-      "end": "2026-10-12T20:30:00-07:00",
+      "end": "2026-10-12T20:15:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U13A Practices",
       "notes": "Minor Hockey Practices - U13A Practices",
@@ -57,8 +75,17 @@
       "type_display": "Practice / Other"
     },
     {
+      "start": "2026-10-12T20:15:00-07:00",
+      "end": "2026-10-12T20:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
       "start": "2026-10-12T20:30:00-07:00",
-      "end": "2026-10-12T22:00:00-07:00",
+      "end": "2026-10-12T21:45:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U18 Practice",
       "notes": "Minor Hockey Practices - U18 Practice",
@@ -66,11 +93,29 @@
       "type_display": "Practice / Other"
     },
     {
+      "start": "2026-10-12T21:45:00-07:00",
+      "end": "2026-10-12T22:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
       "start": "2026-10-13T20:45:00-07:00",
-      "end": "2026-10-13T22:00:00-07:00",
+      "end": "2026-10-13T21:45:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U15 Practice",
       "notes": "Minor Hockey Practices - U15 Practice",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-10-13T21:45:00-07:00",
+      "end": "2026-10-13T22:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
     },
@@ -87,8 +132,8 @@
       "start": "2026-10-14T13:00:00-07:00",
       "end": "2026-10-14T19:00:00-07:00",
       "type": "other",
-      "label": "Community & Agricultural Services - Meeting",
-      "notes": "Community & Agricultural Services - Meeting",
+      "label": "Seniors Housing results",
+      "notes": "Seniors Housing results",
       "color": "#64748B",
       "type_display": "Other"
     },
@@ -96,8 +141,8 @@
       "start": "2026-10-14T13:00:00-07:00",
       "end": "2026-10-14T19:00:00-07:00",
       "type": "other",
-      "label": "Community & Agricultural Services - Meeting",
-      "notes": "Community & Agricultural Services - Meeting",
+      "label": "Seniors Housing results",
+      "notes": "Seniors Housing results",
       "color": "#64748B",
       "type_display": "Other"
     },
@@ -130,7 +175,7 @@
     },
     {
       "start": "2026-10-14T17:45:00-07:00",
-      "end": "2026-10-14T19:00:00-07:00",
+      "end": "2026-10-14T18:45:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U11B Practice",
       "notes": "Minor Hockey Practices - U11B Practice",
@@ -138,8 +183,17 @@
       "type_display": "Practice / Other"
     },
     {
+      "start": "2026-10-14T18:45:00-07:00",
+      "end": "2026-10-14T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
       "start": "2026-10-14T19:00:00-07:00",
-      "end": "2026-10-14T20:15:00-07:00",
+      "end": "2026-10-14T20:00:00-07:00",
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U13B Practices",
       "notes": "Minor Hockey Practices - U13B Practices",
@@ -152,6 +206,15 @@
       "type": "practice",
       "label": "Hockey - Minor Hockey Meeting",
       "notes": "Minor Hockey Meeting",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-10-14T20:00:00-07:00",
+      "end": "2026-10-14T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
     },
