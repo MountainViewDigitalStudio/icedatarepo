@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-26T09:36:05.462733Z",
+  "generated_at": "2026-11-02T09:19:34.492905Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -903,13 +903,13 @@
           "type_display": "Other"
         },
         {
-          "type": "other",
+          "type": "games",
           "start": "2026-10-24T10:45:00-07:00",
           "end": "2026-10-24T12:45:00-07:00",
-          "label": "OMHA",
-          "notes": "OMHA 2026-2027 - OMHA",
-          "color": "#64748B",
-          "type_display": "Other"
+          "label": "U11C vs Didsbury",
+          "notes": "OMHA 2026-2027 - U11C vs Didsbury",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "games",

@@ -1,10 +1,9 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-26T09:36:05.497961Z",
+  "generated_at": "2026-11-02T09:19:34.527312Z",
   "facility": {
     "id": "kurt-browning-arena",
-    "name": "Kurt Browning Arena",
-    "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+    "name": "Kurt Browning Arena"
   },
   "week": {
     "start_date": "2026-11-01",
@@ -31,12 +30,21 @@
     },
     {
       "start": "2026-11-01T14:00:00-07:00",
-      "end": "2026-11-01T15:45:00-07:00",
+      "end": "2026-11-01T15:30:00-07:00",
       "type": "rentals",
       "label": "Hayley Ames Birthday Party - Birthday Ice Rental",
       "notes": "Hayley Ames Birthday Party - Birthday Ice Rental",
       "color": "#F97316",
       "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-01T15:30:00-07:00",
+      "end": "2026-11-01T15:45:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "Hayley Ames Birthday Party - Flood",
+      "color": "#6B7280",
+      "type_display": "Maintenance"
     },
     {
       "start": "2026-11-01T15:30:00-07:00",
@@ -357,8 +365,8 @@
       "start": "2026-11-05T21:15:00-07:00",
       "end": "2026-11-05T22:45:00-07:00",
       "type": "games",
-      "label": "Men's Rec League",
-      "notes": "Men's Rec League",
+      "label": "Men's Rec League Wranglers Jr",
+      "notes": "Men's Rec League Wranglers Jr",
       "color": "#EF4444",
       "type_display": "Games"
     },

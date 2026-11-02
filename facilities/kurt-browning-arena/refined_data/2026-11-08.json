@@ -1,10 +1,9 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-26T09:36:05.498584Z",
+  "generated_at": "2026-11-02T09:19:34.528035Z",
   "facility": {
     "id": "kurt-browning-arena",
-    "name": "Kurt Browning Arena",
-    "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+    "name": "Kurt Browning Arena"
   },
   "week": {
     "start_date": "2026-11-08",
@@ -291,6 +290,24 @@
       "type_display": "Other"
     },
     {
+      "start": "2026-11-12T12:00:00-07:00",
+      "end": "2026-11-12T12:45:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Jenna Murphy Private Ice Rental",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-12T12:45:00-07:00",
+      "end": "2026-11-12T13:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Jenna Murphy Private Ice Rental",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
       "start": "2026-11-12T14:00:00-07:00",
       "end": "2026-11-12T15:00:00-07:00",
       "type": "public",
@@ -366,8 +383,8 @@
       "start": "2026-11-12T21:15:00-07:00",
       "end": "2026-11-12T22:45:00-07:00",
       "type": "games",
-      "label": "Men's Rec League",
-      "notes": "Men's Rec League",
+      "label": "Men's Rec League Wranglers Jr",
+      "notes": "Men's Rec League Wranglers Jr",
       "color": "#EF4444",
       "type_display": "Games"
     },
@@ -381,15 +398,6 @@
       "type_display": "Shinny / Stick & Puck"
     },
     {
-      "start": "2026-11-13T18:15:00-07:00",
-      "end": "2026-11-13T21:00:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Weekend  Unassigned - U7 Colts",
-      "notes": "Weekend Hockey - Unassigned - U7 Colts",
-      "color": "#8B5CF6",
-      "type_display": "Practice / Other"
-    },
-    {
       "start": "2026-11-13T21:00:00-07:00",
       "end": "2026-11-13T22:15:00-07:00",
       "type": "games",
@@ -399,13 +407,85 @@
       "type_display": "Games"
     },
     {
-      "start": "2026-11-14T08:00:00-07:00",
-      "end": "2026-11-14T21:00:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Weekend  Unassigned - U7 Colts",
-      "notes": "Weekend Hockey - Unassigned - U7 Colts",
-      "color": "#8B5CF6",
-      "type_display": "Practice / Other"
+      "start": "2026-11-14T09:00:00-07:00",
+      "end": "2026-11-14T10:00:00-07:00",
+      "type": "games",
+      "label": "U7 Tournament - Caroline Colts Vs Olds Grizzlys & Cochrane Ice Wolves Vs Airdrie Blizzard",
+      "notes": "U7 Tournament - Caroline Colts Vs Olds Grizzlys & Cochrane Ice Wolves Vs Airdrie Blizzard",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-14T09:00:00-07:00",
+      "end": "2026-11-14T16:00:00-07:00",
+      "type": "games",
+      "label": "U7 Tournament",
+      "notes": "U7 Tournament",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-14T10:00:00-07:00",
+      "end": "2026-11-14T10:15:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U7 Tournament - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-14T10:30:00-07:00",
+      "end": "2026-11-14T11:30:00-07:00",
+      "type": "games",
+      "label": "U7 Tournament - Airdrie Dust Devils Vs Cochrane Screaming Eagles & Cochrane Green Goblins Vs Okotoks Fyers",
+      "notes": "U7 Tournament - Airdrie Dust Devils Vs Cochrane Screaming Eagles & Cochrane Green Goblins Vs Okotoks Fyers",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-14T11:30:00-07:00",
+      "end": "2026-11-14T11:45:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U7 Tournament - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-14T12:00:00-07:00",
+      "end": "2026-11-14T13:00:00-07:00",
+      "type": "games",
+      "label": "U7 Tournament - Olds Grizzlys Vs Cochrane Ice Wolves & Caroline Colts Vs Airdrie Blizzard",
+      "notes": "U7 Tournament - Olds Grizzlys Vs Cochrane Ice Wolves & Caroline Colts Vs Airdrie Blizzard",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-14T13:00:00-07:00",
+      "end": "2026-11-14T13:15:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U7 Tournament - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-14T13:30:00-07:00",
+      "end": "2026-11-14T14:30:00-07:00",
+      "type": "games",
+      "label": "U7 Tournament - Okotoks Flyers Vs Cochrane Screaming Eagles & Airdrie Dust Devils Vs Cochrane Green Goblins",
+      "notes": "U7 Tournament - Okotoks Flyers Vs Cochrane Screaming Eagles & Airdrie Dust Devils Vs Cochrane Green Goblins",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-14T14:30:00-07:00",
+      "end": "2026-11-14T14:45:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U7 Tournament - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
     }
   ]
 }

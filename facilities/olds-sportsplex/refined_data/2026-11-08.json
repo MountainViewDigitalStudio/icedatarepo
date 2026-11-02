@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-26T09:36:05.466289Z",
+  "generated_at": "2026-11-02T09:19:34.496198Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -332,15 +332,6 @@
         },
         {
           "type": "other",
-          "start": "2026-11-12T08:30:00-07:00",
-          "end": "2026-11-12T09:30:00-07:00",
-          "label": "Longhorns",
-          "notes": "Longhorns",
-          "color": "#64748B",
-          "type_display": "Other"
-        },
-        {
-          "type": "other",
           "start": "2026-11-12T09:45:00-07:00",
           "end": "2026-11-12T10:45:00-07:00",
           "label": "Longhorns",
@@ -555,8 +546,8 @@
           "type": "other",
           "start": "2026-11-08T07:30:00-07:00",
           "end": "2026-11-08T08:30:00-07:00",
-          "label": "Airdrie Stars",
-          "notes": "Airdrie Stars",
+          "label": "Airdrie Stars PD",
+          "notes": "Airdrie Stars PD",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -836,15 +827,6 @@
           "end": "2026-11-11T22:00:00-07:00",
           "label": "U18A",
           "notes": "OMHA November 2026 - U18A",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
-        },
-        {
-          "type": "practice",
-          "start": "2026-11-12T06:45:00-07:00",
-          "end": "2026-11-12T07:45:00-07:00",
-          "label": "U15A",
-          "notes": "OMHA November 2026 - U15A",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },

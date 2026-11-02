@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-26T09:36:05.465275Z",
+  "generated_at": "2026-11-02T09:19:34.495227Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -16,40 +16,40 @@
       "name": "Main Ice Surface",
       "slots": [
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-01T08:30:00-07:00",
           "end": "2026-11-01T09:45:00-07:00",
-          "label": "U7",
-          "notes": "OMHA November 2026 - U7",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U7 Black vs U7 Yellow",
+          "notes": "OMHA November 2026 - U7 Black vs U7 Yellow",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-01T10:00:00-07:00",
           "end": "2026-11-01T12:00:00-07:00",
-          "label": "U11",
-          "notes": "OMHA November 2026 - U11",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U11A vs Strathmore",
+          "notes": "OMHA November 2026 - U11A vs Strathmore",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-01T12:15:00-07:00",
           "end": "2026-11-01T14:15:00-07:00",
-          "label": "U15 Female",
-          "notes": "OMHA November 2026 - U15 Female",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U15B Female vs Cochrane",
+          "notes": "OMHA November 2026 - U15B Female vs Cochrane",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-01T14:30:00-07:00",
           "end": "2026-11-01T16:45:00-07:00",
-          "label": "U18",
-          "notes": "OMHA November 2026 - U18",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U18A  vs Fort  Macleod",
+          "notes": "OMHA November 2026 - U18A  vs Fort  Macleod",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "games",
@@ -306,7 +306,7 @@
         {
           "type": "practice",
           "start": "2026-11-05T18:00:00-07:00",
-          "end": "2026-11-05T18:45:00-07:00",
+          "end": "2026-11-05T19:00:00-07:00",
           "label": "U13A fem/ U13B fem",
           "notes": "OMHA November 2026 - U13A fem/ U13B fem",
           "color": "#8B5CF6",
@@ -314,16 +314,16 @@
         },
         {
           "type": "practice",
-          "start": "2026-11-05T19:00:00-07:00",
-          "end": "2026-11-05T20:00:00-07:00",
-          "label": "U15A U15C",
-          "notes": "OMHA November 2026 - U15A U15C",
+          "start": "2026-11-05T19:15:00-07:00",
+          "end": "2026-11-05T20:15:00-07:00",
+          "label": "U15A",
+          "notes": "OMHA November 2026 - U15A",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
         {
           "type": "practice",
-          "start": "2026-11-05T20:15:00-07:00",
+          "start": "2026-11-05T20:30:00-07:00",
           "end": "2026-11-05T21:30:00-07:00",
           "label": "U18 AA",
           "notes": "OMHA November 2026 - U18 AA",
@@ -444,13 +444,13 @@
           "type_display": "Other"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-01T09:45:00-07:00",
           "end": "2026-11-01T11:45:00-07:00",
-          "label": "U13",
-          "notes": "OMHA November 2026 - U13",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U13A vs  Lacombe",
+          "notes": "OMHA November 2026 - U13A vs  Lacombe",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "public",
@@ -462,22 +462,22 @@
           "type_display": "Public / Family"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-01T13:30:00-07:00",
           "end": "2026-11-01T15:30:00-07:00",
-          "label": "U15",
-          "notes": "OMHA November 2026 - U15",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U15C vs Blackfalds",
+          "notes": "OMHA November 2026 - U15C vs Blackfalds",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-01T15:45:00-07:00",
           "end": "2026-11-01T17:45:00-07:00",
-          "label": "U13",
-          "notes": "OMHA November 2026 - U13",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U13B vs Bashaw",
+          "notes": "OMHA November 2026 - U13B vs Bashaw",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "other",
@@ -735,8 +735,8 @@
           "type": "practice",
           "start": "2026-11-05T20:00:00-07:00",
           "end": "2026-11-05T20:45:00-07:00",
-          "label": "U18A",
-          "notes": "OMHA November 2026 - U18A",
+          "label": "U18C",
+          "notes": "OMHA November 2026 - U18C",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
