@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-26T09:30:45.577061Z",
+  "generated_at": "2026-11-02T09:17:47.110436Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -336,8 +336,8 @@
           "type": "practice",
           "start": "2026-10-31T08:30:00-07:00",
           "end": "2026-10-31T10:30:00-07:00",
-          "label": "U11 fem",
-          "notes": "OMHA 2026-2027 - U11 fem"
+          "label": "OMHA",
+          "notes": "OMHA 2026-2027 - OMHA"
         },
         {
           "type": "game",
@@ -347,18 +347,18 @@
           "notes": "OMHA 2026-2027 - U13AA vs Bow Valley"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-31T13:15:00-07:00",
-          "end": "2026-10-31T15:30:00-07:00",
-          "label": "U15",
-          "notes": "OMHA 2026-2027 - U15"
+          "end": "2026-10-31T15:15:00-07:00",
+          "label": "U15B vs Blackfalds",
+          "notes": "OMHA 2026-2027 - U15B vs Blackfalds"
         },
         {
-          "type": "practice",
-          "start": "2026-10-31T15:45:00-07:00",
-          "end": "2026-10-31T18:00:00-07:00",
-          "label": "U18",
-          "notes": "OMHA 2026-2027 - U18"
+          "type": "game",
+          "start": "2026-10-31T15:30:00-07:00",
+          "end": "2026-10-31T17:30:00-07:00",
+          "label": "U15A vs Canmore",
+          "notes": "OMHA 2026-2027 - U15A vs Canmore"
         },
         {
           "type": "game",
@@ -521,6 +521,13 @@
         },
         {
           "type": "practice",
+          "start": "2026-10-27T21:30:00-07:00",
+          "end": "2026-10-27T22:45:00-07:00",
+          "label": "Gosling",
+          "notes": "Gosling"
+        },
+        {
+          "type": "practice",
           "start": "2026-10-28T06:45:00-07:00",
           "end": "2026-10-28T07:45:00-07:00",
           "label": "U18B",
@@ -667,18 +674,18 @@
           "notes": "OMHA 2026-2027 - U7 Black"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-30T17:45:00-07:00",
           "end": "2026-10-30T19:45:00-07:00",
-          "label": "U15 fem",
-          "notes": "OMHA 2026-2027 - U15 fem"
+          "label": "U15A fem vs Cochrane",
+          "notes": "OMHA 2026-2027 - U15A fem vs Cochrane"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-30T20:00:00-07:00",
           "end": "2026-10-30T22:00:00-07:00",
-          "label": "U15",
-          "notes": "OMHA 2026-2027 - U15"
+          "label": "U15C vs Okotoks",
+          "notes": "OMHA 2026-2027 - U15C vs Okotoks"
         },
         {
           "type": "game",
@@ -688,39 +695,39 @@
           "notes": "OMHA 2026-2027 - U9A vs Sylvan Lake / U9B vs Chestermere"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-31T10:15:00-07:00",
           "end": "2026-10-31T12:15:00-07:00",
-          "label": "U11",
-          "notes": "OMHA 2026-2027 - U11"
+          "label": "U11B vs Sundre",
+          "notes": "OMHA 2026-2027 - U11B vs Sundre"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-10-31T12:30:00-07:00",
           "end": "2026-10-31T14:30:00-07:00",
-          "label": "U13",
-          "notes": "OMHA 2026-2027 - U13"
+          "label": "U13C vs Blackfalds",
+          "notes": "OMHA 2026-2027 - U13C vs Blackfalds"
         },
         {
           "type": "practice",
           "start": "2026-10-31T14:45:00-07:00",
           "end": "2026-10-31T16:45:00-07:00",
-          "label": "U13",
-          "notes": "OMHA 2026-2027 - U13"
+          "label": "OMHA",
+          "notes": "OMHA 2026-2027 - OMHA"
         },
         {
           "type": "practice",
           "start": "2026-10-31T17:00:00-07:00",
           "end": "2026-10-31T19:00:00-07:00",
-          "label": "U15",
-          "notes": "OMHA 2026-2027 - U15"
+          "label": "OMHA",
+          "notes": "OMHA 2026-2027 - OMHA"
         },
         {
           "type": "practice",
           "start": "2026-10-31T19:15:00-07:00",
           "end": "2026-10-31T21:30:00-07:00",
-          "label": "U18",
-          "notes": "OMHA 2026-2027 - U18"
+          "label": "OMHA",
+          "notes": "OMHA 2026-2027 - OMHA"
         }
       ]
     }
