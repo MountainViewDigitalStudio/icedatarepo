@@ -1,0 +1,381 @@
+{
+  "facility_name": "Kurt Browning Arena",
+  "facility_id": "kurt-browning-arena",
+  "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
+  "week_start": "2026-11-15",
+  "week_end": "2026-11-21",
+  "last_updated": "2026-11-02T02:17:52.147825-07:00",
+  "slots": [
+    {
+      "start": "2026-11-15T09:00:00-07:00",
+      "end": "2026-11-15T10:00:00-07:00",
+      "type": "other",
+      "label": "U7 Tournament - Okotoks Flyers Vs Airdrie Blizzard & Cochrane Screaming Eagles Vs Olds Grizzlys",
+      "notes": "U7 Tournament - Okotoks Flyers Vs Airdrie Blizzard & Cochrane Screaming Eagles Vs Olds Grizzlys"
+    },
+    {
+      "start": "2026-11-15T10:30:00-07:00",
+      "end": "2026-11-15T11:30:00-07:00",
+      "type": "other",
+      "label": "U7 Tournament - Caroline Colts Vs Cochrane Green Goblins & Airdrie Dust Devils Vs Cochrane Ice Wolves",
+      "notes": "U7 Tournament - Caroline Colts Vs Cochrane Green Goblins & Airdrie Dust Devils Vs Cochrane Ice Wolves"
+    },
+    {
+      "start": "2026-11-15T11:30:00-07:00",
+      "end": "2026-11-15T11:45:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "U7 Tournament - Flood"
+    },
+    {
+      "start": "2026-11-15T18:00:00-07:00",
+      "end": "2026-11-15T19:00:00-07:00",
+      "type": "public_skate",
+      "label": "Public Skating",
+      "notes": "Public Skating"
+    },
+    {
+      "start": "2026-11-15T19:15:00-07:00",
+      "end": "2026-11-15T20:15:00-07:00",
+      "type": "other",
+      "label": "GMen Adult League",
+      "notes": "GMen Adult League"
+    },
+    {
+      "start": "2026-11-15T20:30:00-07:00",
+      "end": "2026-11-15T22:00:00-07:00",
+      "type": "other",
+      "label": "Stray Cats Adult League",
+      "notes": "Stray Cats Adult League"
+    },
+    {
+      "start": "2026-11-16T15:45:00-07:00",
+      "end": "2026-11-16T16:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U5/U7 Practice",
+      "notes": "Minor Hockey Practices - U5/U7 Practice"
+    },
+    {
+      "start": "2026-11-16T16:45:00-07:00",
+      "end": "2026-11-16T17:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U9 Practice",
+      "notes": "Minor Hockey Practices - U9 Practice"
+    },
+    {
+      "start": "2026-11-16T17:45:00-07:00",
+      "end": "2026-11-16T18:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD"
+    },
+    {
+      "start": "2026-11-16T18:00:00-07:00",
+      "end": "2026-11-16T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U11A Practices",
+      "notes": "Minor Hockey Practices - U11A Practices"
+    },
+    {
+      "start": "2026-11-16T18:00:00-07:00",
+      "end": "2026-11-16T20:00:00-07:00",
+      "type": "other",
+      "label": "Monthly Meeting Ag Board 2026 - AGM Meeting",
+      "notes": "Monthly Meeting Ag Board 2026 - AGM Meeting"
+    },
+    {
+      "start": "2026-11-16T19:00:00-07:00",
+      "end": "2026-11-16T19:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD"
+    },
+    {
+      "start": "2026-11-16T19:15:00-07:00",
+      "end": "2026-11-16T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U13A Practices",
+      "notes": "Minor Hockey Practices - U13A Practices"
+    },
+    {
+      "start": "2026-11-16T20:15:00-07:00",
+      "end": "2026-11-16T20:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD"
+    },
+    {
+      "start": "2026-11-16T20:30:00-07:00",
+      "end": "2026-11-16T21:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U18 Practice",
+      "notes": "Minor Hockey Practices - U18 Practice"
+    },
+    {
+      "start": "2026-11-16T21:45:00-07:00",
+      "end": "2026-11-16T22:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD"
+    },
+    {
+      "start": "2026-11-17T15:30:00-07:00",
+      "end": "2026-11-17T16:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Pre Skate"
+    },
+    {
+      "start": "2026-11-17T16:15:00-07:00",
+      "end": "2026-11-17T17:15:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Learn to Skate"
+    },
+    {
+      "start": "2026-11-17T17:15:00-07:00",
+      "end": "2026-11-17T17:30:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD"
+    },
+    {
+      "start": "2026-11-17T17:30:00-07:00",
+      "end": "2026-11-17T18:45:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Preliminary Fun Skate"
+    },
+    {
+      "start": "2026-11-17T18:45:00-07:00",
+      "end": "2026-11-17T19:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD"
+    },
+    {
+      "start": "2026-11-17T19:00:00-07:00",
+      "end": "2026-11-17T20:30:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Junior Fun Skate"
+    },
+    {
+      "start": "2026-11-17T20:30:00-07:00",
+      "end": "2026-11-17T20:45:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD"
+    },
+    {
+      "start": "2026-11-17T20:45:00-07:00",
+      "end": "2026-11-17T21:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U15 Practice",
+      "notes": "Minor Hockey Practices - U15 Practice"
+    },
+    {
+      "start": "2026-11-17T21:45:00-07:00",
+      "end": "2026-11-17T22:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD"
+    },
+    {
+      "start": "2026-11-18T07:00:00-07:00",
+      "end": "2026-11-18T09:00:00-07:00",
+      "type": "other",
+      "label": "Monthly Meetings-Taqa",
+      "notes": "Monthly Meetings-Taqa"
+    },
+    {
+      "start": "2026-11-18T15:00:00-07:00",
+      "end": "2026-11-18T20:00:00-07:00",
+      "type": "other",
+      "label": "Cattle Mens Show - Cattlemen's Tradeshow",
+      "notes": "Cattle Mens Show - Cattlemen's Tradeshow"
+    },
+    {
+      "start": "2026-11-18T15:45:00-07:00",
+      "end": "2026-11-18T16:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U5/U7 Practice",
+      "notes": "Minor Hockey Practices - U5/U7 Practice"
+    },
+    {
+      "start": "2026-11-18T16:45:00-07:00",
+      "end": "2026-11-18T17:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U9 Practice",
+      "notes": "Minor Hockey Practices - U9 Practice"
+    },
+    {
+      "start": "2026-11-18T17:45:00-07:00",
+      "end": "2026-11-18T18:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U11B Practice",
+      "notes": "Minor Hockey Practices - U11B Practice"
+    },
+    {
+      "start": "2026-11-18T18:45:00-07:00",
+      "end": "2026-11-18T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD"
+    },
+    {
+      "start": "2026-11-18T19:00:00-07:00",
+      "end": "2026-11-18T20:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U13B Practices",
+      "notes": "Minor Hockey Practices - U13B Practices"
+    },
+    {
+      "start": "2026-11-18T20:00:00-07:00",
+      "end": "2026-11-18T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD"
+    },
+    {
+      "start": "2026-11-18T20:15:00-07:00",
+      "end": "2026-11-18T21:30:00-07:00",
+      "type": "other",
+      "label": "Good Timers Adult League",
+      "notes": "Good Timers Adult League"
+    },
+    {
+      "start": "2026-11-19T08:00:00-07:00",
+      "end": "2026-11-19T16:30:00-07:00",
+      "type": "other",
+      "label": "Cattle Mens Show - Cattlemen's Tradeshow",
+      "notes": "Cattle Mens Show - Cattlemen's Tradeshow"
+    },
+    {
+      "start": "2026-11-19T15:30:00-07:00",
+      "end": "2026-11-19T16:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Pre Skate"
+    },
+    {
+      "start": "2026-11-19T16:15:00-07:00",
+      "end": "2026-11-19T17:15:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Learn to Skate"
+    },
+    {
+      "start": "2026-11-19T17:15:00-07:00",
+      "end": "2026-11-19T17:30:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD"
+    },
+    {
+      "start": "2026-11-19T17:30:00-07:00",
+      "end": "2026-11-19T18:45:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Preliminary Fun Skate"
+    },
+    {
+      "start": "2026-11-19T18:45:00-07:00",
+      "end": "2026-11-19T19:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD"
+    },
+    {
+      "start": "2026-11-19T19:00:00-07:00",
+      "end": "2026-11-19T21:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Junior Fun Skate"
+    },
+    {
+      "start": "2026-11-19T19:00:00-07:00",
+      "end": "2026-11-19T21:00:00-07:00",
+      "type": "other",
+      "label": "Dance West Meeting",
+      "notes": "Dance West Meeting"
+    },
+    {
+      "start": "2026-11-19T21:00:00-07:00",
+      "end": "2026-11-19T21:15:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD"
+    },
+    {
+      "start": "2026-11-19T21:15:00-07:00",
+      "end": "2026-11-19T22:45:00-07:00",
+      "type": "other",
+      "label": "Men's Rec League Wranglers Jr",
+      "notes": "Men's Rec League Wranglers Jr"
+    },
+    {
+      "start": "2026-11-20T07:00:00-07:00",
+      "end": "2026-11-20T08:00:00-07:00",
+      "type": "other",
+      "label": "Skills and Drills - Skills and Drills",
+      "notes": "Skills and Drills - Skills and Drills"
+    },
+    {
+      "start": "2026-11-20T10:00:00-07:00",
+      "end": "2026-11-20T20:00:00-07:00",
+      "type": "other",
+      "label": "Special Markets - Hall",
+      "notes": "Special Markets - Hall"
+    },
+    {
+      "start": "2026-11-20T16:00:00-07:00",
+      "end": "2026-11-20T17:30:00-07:00",
+      "type": "other",
+      "label": "Trails West Tournament - TW White v TW Red",
+      "notes": "Trails West Tournament - TW White v TW Red"
+    },
+    {
+      "start": "2026-11-20T17:45:00-07:00",
+      "end": "2026-11-20T19:15:00-07:00",
+      "type": "other",
+      "label": "Trails West Tournament - Wolverines v Springbank",
+      "notes": "Trails West Tournament - Wolverines v Springbank"
+    },
+    {
+      "start": "2026-11-21T09:00:00-07:00",
+      "end": "2026-11-21T10:30:00-07:00",
+      "type": "other",
+      "label": "Trails West Tournament - Springbank v TW White",
+      "notes": "Trails West Tournament - Springbank v TW White"
+    },
+    {
+      "start": "2026-11-21T10:45:00-07:00",
+      "end": "2026-11-21T12:15:00-07:00",
+      "type": "other",
+      "label": "Trails West Tournament - TW Red v. Wolverines",
+      "notes": "Trails West Tournament - TW Red v. Wolverines"
+    },
+    {
+      "start": "2026-11-21T12:00:00-07:00",
+      "end": "2026-11-21T02:00:00-07:00",
+      "type": "other",
+      "label": "Puzzle Competition",
+      "notes": "Puzzle Competition"
+    },
+    {
+      "start": "2026-11-21T13:15:00-07:00",
+      "end": "2026-11-21T14:45:00-07:00",
+      "type": "other",
+      "label": "Trails West Tournament - TW White v Wolverines",
+      "notes": "Trails West Tournament - TW White v Wolverines"
+    },
+    {
+      "start": "2026-11-21T15:00:00-07:00",
+      "end": "2026-11-21T16:30:00-07:00",
+      "type": "other",
+      "label": "Trails West Tournament - TW Red v Springbank",
+      "notes": "Trails West Tournament - TW Red v Springbank"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-11-01",
   "week_end": "2026-11-07",
-  "last_updated": "2026-10-26T02:30:27.968804-07:00",
+  "last_updated": "2026-11-02T02:17:51.374617-07:00",
   "slots": [
     {
       "start": "2026-11-01T09:00:00-07:00",
@@ -22,10 +22,17 @@
     },
     {
       "start": "2026-11-01T14:00:00-07:00",
-      "end": "2026-11-01T15:45:00-07:00",
+      "end": "2026-11-01T15:30:00-07:00",
       "type": "other",
       "label": "Hayley Ames Birthday Party - Birthday Ice Rental",
       "notes": "Hayley Ames Birthday Party - Birthday Ice Rental"
+    },
+    {
+      "start": "2026-11-01T15:30:00-07:00",
+      "end": "2026-11-01T15:45:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "Hayley Ames Birthday Party - Flood"
     },
     {
       "start": "2026-11-01T15:30:00-07:00",
@@ -276,8 +283,8 @@
       "start": "2026-11-05T21:15:00-07:00",
       "end": "2026-11-05T22:45:00-07:00",
       "type": "other",
-      "label": "Men's Rec League",
-      "notes": "Men's Rec League"
+      "label": "Men's Rec League Wranglers Jr",
+      "notes": "Men's Rec League Wranglers Jr"
     },
     {
       "start": "2026-11-06T07:00:00-07:00",
