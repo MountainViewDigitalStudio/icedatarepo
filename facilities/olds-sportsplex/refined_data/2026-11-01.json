@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-11-02T09:19:34.495227Z",
+  "generated_at": "2026-11-09T09:19:27.581800Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -73,8 +73,8 @@
           "type": "practice",
           "start": "2026-11-02T11:00:00-07:00",
           "end": "2026-11-02T12:00:00-07:00",
-          "label": "Grizzlys Oct 2026- March 2027",
-          "notes": "Grizzlys Oct 2026- March 2027 - Practice",
+          "label": "Grizzlys Nov 2026- March 2027",
+          "notes": "Grizzlys Nov 2026- March 2027 - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -82,8 +82,8 @@
           "type": "practice",
           "start": "2026-11-02T12:15:00-07:00",
           "end": "2026-11-02T13:15:00-07:00",
-          "label": "Grizzlys Oct 2026- March 2027",
-          "notes": "Grizzlys Oct 2026- March 2027 - Practice",
+          "label": "Grizzlys Nov 2026- March 2027",
+          "notes": "Grizzlys Nov 2026- March 2027 - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -154,8 +154,8 @@
           "type": "practice",
           "start": "2026-11-03T11:00:00-07:00",
           "end": "2026-11-03T11:45:00-07:00",
-          "label": "Grizzlys Oct 2026- March 2027",
-          "notes": "Grizzlys Oct 2026- March 2027 - Practice",
+          "label": "Grizzlys Nov 2026- March 2027",
+          "notes": "Grizzlys Nov 2026- March 2027 - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -163,8 +163,8 @@
           "type": "practice",
           "start": "2026-11-03T12:00:00-07:00",
           "end": "2026-11-03T12:45:00-07:00",
-          "label": "Grizzlys Oct 2026- March 2027",
-          "notes": "Grizzlys Oct 2026- March 2027 - Practice",
+          "label": "Grizzlys Nov 2026- March 2027",
+          "notes": "Grizzlys Nov 2026- March 2027 - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -205,6 +205,15 @@
           "type_display": "Practice / Other"
         },
         {
+          "type": "other",
+          "start": "2026-11-03T21:45:00-07:00",
+          "end": "2026-11-03T23:15:00-07:00",
+          "label": "Gosling PD",
+          "notes": "Gosling PD",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
           "type": "practice",
           "start": "2026-11-04T06:15:00-07:00",
           "end": "2026-11-04T07:30:00-07:00",
@@ -227,7 +236,7 @@
           "start": "2026-11-04T11:00:00-07:00",
           "end": "2026-11-04T12:00:00-07:00",
           "label": "Pre- game skate",
-          "notes": "Grizzlys Oct 2026- March 2027 - Pre- game skate",
+          "notes": "Grizzlys Nov 2026- March 2027 - Pre- game skate",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -254,7 +263,7 @@
           "start": "2026-11-04T18:30:00-07:00",
           "end": "2026-11-04T21:30:00-07:00",
           "label": "Grizzlys vs Canmore",
-          "notes": "Grizzlys Oct 2026- March 2027 - Grizzlys vs Canmore",
+          "notes": "Grizzlys Nov 2026- March 2027 - Grizzlys vs Canmore",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -280,8 +289,8 @@
           "type": "practice",
           "start": "2026-11-05T12:00:00-07:00",
           "end": "2026-11-05T13:15:00-07:00",
-          "label": "Grizzlys Oct 2026- March 2027",
-          "notes": "Grizzlys Oct 2026- March 2027 - Practice",
+          "label": "Grizzlys Nov 2026- March 2027",
+          "notes": "Grizzlys Nov 2026- March 2027 - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -343,8 +352,8 @@
           "type": "practice",
           "start": "2026-11-06T11:00:00-07:00",
           "end": "2026-11-06T11:45:00-07:00",
-          "label": "Grizzlys Oct 2026- March 2027",
-          "notes": "Grizzlys Oct 2026- March 2027 - Practice",
+          "label": "Grizzlys Nov 2026- March 2027",
+          "notes": "Grizzlys Nov 2026- March 2027 - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -352,8 +361,8 @@
           "type": "practice",
           "start": "2026-11-06T12:00:00-07:00",
           "end": "2026-11-06T12:45:00-07:00",
-          "label": "Grizzlys Oct 2026- March 2027",
-          "notes": "Grizzlys Oct 2026- March 2027 - Practice",
+          "label": "Grizzlys Nov 2026- March 2027",
+          "notes": "Grizzlys Nov 2026- March 2027 - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -385,22 +394,22 @@
           "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-07T08:45:00-07:00",
           "end": "2026-11-07T10:45:00-07:00",
-          "label": "U11",
-          "notes": "OMHA November 2026 - U11",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U11A vs Airdrie",
+          "notes": "OMHA November 2026 - U11A vs Airdrie",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-07T11:00:00-07:00",
           "end": "2026-11-07T13:00:00-07:00",
-          "label": "U13 fem",
-          "notes": "OMHA November 2026 - U13 fem",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U13B fem vs West Central",
+          "notes": "OMHA November 2026 - U13B fem vs West Central",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "games",
@@ -412,13 +421,13 @@
           "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-07T16:45:00-07:00",
           "end": "2026-11-07T19:00:00-07:00",
-          "label": "U18 fem",
-          "notes": "OMHA November 2026 - U18 fem",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U18 fem vs Okotoks",
+          "notes": "OMHA November 2026 - U18 fem vs Okotoks",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "games",
@@ -786,76 +795,76 @@
           "type_display": "Practice / Other"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-06T17:45:00-07:00",
           "end": "2026-11-06T19:45:00-07:00",
-          "label": "U13",
-          "notes": "OMHA November 2026 - U13",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U13B vs Chestermere",
+          "notes": "OMHA November 2026 - U13B vs Chestermere",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-06T20:00:00-07:00",
           "end": "2026-11-06T22:15:00-07:00",
-          "label": "U18",
-          "notes": "OMHA November 2026 - U18",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U18B vs Wetaskiwin",
+          "notes": "OMHA November 2026 - U18B vs Wetaskiwin",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-07T08:15:00-07:00",
           "end": "2026-11-07T09:30:00-07:00",
-          "label": "U9",
-          "notes": "OMHA November 2026 - U9",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U9C vs Lacombe U9 fem vs Big Valley",
+          "notes": "OMHA November 2026 - U9C vs Lacombe U9 fem vs Big Valley",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-07T09:45:00-07:00",
           "end": "2026-11-07T11:45:00-07:00",
-          "label": "U13",
-          "notes": "OMHA November 2026 - U13",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U13C vs Strathmore",
+          "notes": "OMHA November 2026 - U13C vs Strathmore",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "other",
           "start": "2026-11-07T12:00:00-07:00",
           "end": "2026-11-07T14:00:00-07:00",
-          "label": "U13",
-          "notes": "OMHA November 2026 - U13",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "OMHA",
+          "notes": "OMHA November 2026 - OMHA",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-07T14:15:00-07:00",
           "end": "2026-11-07T16:15:00-07:00",
-          "label": "U15",
-          "notes": "OMHA November 2026 - U15",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U15A  vs Sylvan  Lake",
+          "notes": "OMHA November 2026 - U15A  vs Sylvan  Lake",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-07T16:30:00-07:00",
           "end": "2026-11-07T18:30:00-07:00",
-          "label": "U15",
-          "notes": "OMHA November 2026 - U15",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U15B vs Innisfail",
+          "notes": "OMHA November 2026 - U15B vs Innisfail",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-07T18:45:00-07:00",
           "end": "2026-11-07T21:00:00-07:00",
-          "label": "U18",
-          "notes": "OMHA November 2026 - U18",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U15C vs Blackfalds",
+          "notes": "OMHA November 2026 - U15C vs Blackfalds",
+          "color": "#EF4444",
+          "type_display": "Games"
         }
       ]
     }

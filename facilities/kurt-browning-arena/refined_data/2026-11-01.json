@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-11-02T09:19:34.527312Z",
+  "generated_at": "2026-11-09T09:19:27.611385Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena"
@@ -155,6 +155,24 @@
       "type_display": "Practice / Other"
     },
     {
+      "start": "2026-11-03T12:30:00-07:00",
+      "end": "2026-11-03T13:30:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Cody Private Ice Booking",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-03T13:30:00-07:00",
+      "end": "2026-11-03T13:45:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Cody Private Ice Booking",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
       "start": "2026-11-03T15:30:00-07:00",
       "end": "2026-11-03T16:00:00-07:00",
       "type": "rentals",
@@ -236,6 +254,33 @@
       "type_display": "Practice / Other"
     },
     {
+      "start": "2026-11-04T07:00:00-07:00",
+      "end": "2026-11-04T08:00:00-07:00",
+      "type": "other",
+      "label": "Caroline Minor - Special Event Bookings",
+      "notes": "Caroline Minor - Special Event Bookings",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-11-04T07:00:00-07:00",
+      "end": "2026-11-04T08:00:00-07:00",
+      "type": "other",
+      "label": "Caroline Minor - Special Event Bookings",
+      "notes": "Caroline Minor - Special Event Bookings",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-11-04T07:00:00-07:00",
+      "end": "2026-11-04T08:00:00-07:00",
+      "type": "other",
+      "label": "Caroline Minor - Special Event Bookings",
+      "notes": "Caroline Minor - Special Event Bookings",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
       "start": "2026-11-04T15:45:00-07:00",
       "end": "2026-11-04T16:45:00-07:00",
       "type": "practice",
@@ -308,6 +353,15 @@
       "type_display": "Rentals"
     },
     {
+      "start": "2026-11-05T15:30:00-07:00",
+      "end": "2026-11-05T21:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Viewing Area Only",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
       "start": "2026-11-05T16:15:00-07:00",
       "end": "2026-11-05T17:15:00-07:00",
       "type": "skating_club",
@@ -315,6 +369,15 @@
       "notes": "Caroline Skate Club - Learn to Skate",
       "color": "#06B6D4",
       "type_display": "Skating Club / Programs"
+    },
+    {
+      "start": "2026-11-05T17:00:00-07:00",
+      "end": "2026-11-05T19:00:00-07:00",
+      "type": "other",
+      "label": "Monthly Meeting Ag Board 2026 - Ag Society Meeting",
+      "notes": "Monthly Meeting Ag Board 2026 - Ag Society Meeting",
+      "color": "#64748B",
+      "type_display": "Other"
     },
     {
       "start": "2026-11-05T17:15:00-07:00",
@@ -398,13 +461,31 @@
       "type_display": "Shinny / Stick & Puck"
     },
     {
-      "start": "2026-11-06T18:15:00-07:00",
+      "start": "2026-11-06T18:00:00-07:00",
       "end": "2026-11-06T21:00:00-07:00",
-      "type": "other",
-      "label": "Hockey - Weekend  Unassigned - CAHL",
-      "notes": "Weekend Hockey - Unassigned - CAHL",
-      "color": "#64748B",
-      "type_display": "Other"
+      "type": "games",
+      "label": "Hockey - Hockey Games Viewing Only - Viewing Area Only",
+      "notes": "Hockey Games Viewing Only - Viewing Area Only",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-06T18:15:00-07:00",
+      "end": "2026-11-06T20:45:00-07:00",
+      "type": "games",
+      "label": "U18 Games & Tournaments - U18T3 Vs Maskwasis",
+      "notes": "U18 Games & Tournaments - U18T3 Vs Maskwasis",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-06T20:45:00-07:00",
+      "end": "2026-11-06T21:00:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U18 Games & Tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
     },
     {
       "start": "2026-11-06T21:00:00-07:00",
@@ -416,13 +497,67 @@
       "type_display": "Games"
     },
     {
-      "start": "2026-11-07T08:00:00-07:00",
-      "end": "2026-11-07T09:00:00-07:00",
-      "type": "other",
-      "label": "Hockey - Weekend  Unassigned - CAHL",
-      "notes": "Weekend Hockey - Unassigned - CAHL",
-      "color": "#64748B",
-      "type_display": "Other"
+      "start": "2026-11-07T10:00:00-07:00",
+      "end": "2026-11-07T14:00:00-07:00",
+      "type": "games",
+      "label": "Hockey - Hockey Games Viewing Only - Viewing Area Only",
+      "notes": "Hockey Games Viewing Only - Viewing Area Only",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-07T10:15:00-07:00",
+      "end": "2026-11-07T11:30:00-07:00",
+      "type": "games",
+      "label": "U9 Games & Tournaments - U9B Vs Canmore",
+      "notes": "U9 Games & Tournaments - U9B Vs Canmore",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-07T11:30:00-07:00",
+      "end": "2026-11-07T11:45:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U9 Games & Tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-07T11:45:00-07:00",
+      "end": "2026-11-07T13:45:00-07:00",
+      "type": "games",
+      "label": "U11 Games & Tournaments - U11T5 Vs Maskwacis",
+      "notes": "U11 Games & Tournaments - U11T5 Vs Maskwacis",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-07T13:45:00-07:00",
+      "end": "2026-11-07T14:00:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U11 Games & Tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-07T14:00:00-07:00",
+      "end": "2026-11-07T16:15:00-07:00",
+      "type": "games",
+      "label": "West Central Tigers Games - U18AA",
+      "notes": "West Central Tigers Games - U18AA",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-07T16:15:00-07:00",
+      "end": "2026-11-07T16:30:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "West Central Tigers Games - FLOOD",
+      "color": "#EF4444",
+      "type_display": "Games"
     }
   ]
 }

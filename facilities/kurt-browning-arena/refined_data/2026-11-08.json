@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-11-02T09:19:34.528035Z",
+  "generated_at": "2026-11-09T09:19:27.611948Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena"
@@ -11,13 +11,85 @@
   },
   "slots": [
     {
-      "start": "2026-11-08T08:00:00-07:00",
+      "start": "2026-11-08T09:30:00-07:00",
+      "end": "2026-11-08T18:00:00-07:00",
+      "type": "games",
+      "label": "Hockey - Hockey Games Viewing Only - Viewing Area Only",
+      "notes": "Hockey Games Viewing Only - Viewing Area Only",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-08T09:45:00-07:00",
+      "end": "2026-11-08T11:45:00-07:00",
+      "type": "games",
+      "label": "U13 Games & tournaments - U13T6 Vs Indus",
+      "notes": "U13 Games & tournaments - U13T6 Vs Indus",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-08T11:45:00-07:00",
+      "end": "2026-11-08T12:00:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U13 Games & tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-08T12:00:00-07:00",
+      "end": "2026-11-08T13:15:00-07:00",
+      "type": "games",
+      "label": "U9 Games & Tournaments - U9B Vs Bieseker",
+      "notes": "U9 Games & Tournaments - U9B Vs Bieseker",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-08T13:15:00-07:00",
+      "end": "2026-11-08T13:30:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U9 Games & Tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-08T13:30:00-07:00",
+      "end": "2026-11-08T15:30:00-07:00",
+      "type": "games",
+      "label": "U11 Games & Tournaments - U11T3 Vs Wataskiwin",
+      "notes": "U11 Games & Tournaments - U11T3 Vs Wataskiwin",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-08T15:30:00-07:00",
+      "end": "2026-11-08T15:45:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U11 Games & Tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-08T15:45:00-07:00",
       "end": "2026-11-08T17:45:00-07:00",
-      "type": "other",
-      "label": "Hockey - Weekend  Unassigned - CAHL",
-      "notes": "Weekend Hockey - Unassigned - CAHL",
-      "color": "#64748B",
-      "type_display": "Other"
+      "type": "games",
+      "label": "U13 Games & tournaments - U13T3 Vs Sundre",
+      "notes": "U13 Games & tournaments - U13T3 Vs Sundre",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-08T17:45:00-07:00",
+      "end": "2026-11-08T18:00:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U13 Games & tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
     },
     {
       "start": "2026-11-08T18:00:00-07:00",
@@ -27,6 +99,15 @@
       "notes": "Public Skating",
       "color": "#10B981",
       "type_display": "Public / Family"
+    },
+    {
+      "start": "2026-11-08T18:00:00-07:00",
+      "end": "2026-11-08T21:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Meeting",
+      "notes": "Minor Hockey Meeting",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
     },
     {
       "start": "2026-11-08T19:15:00-07:00",
@@ -47,6 +128,15 @@
       "type_display": "Games"
     },
     {
+      "start": "2026-11-09T15:30:00-07:00",
+      "end": "2026-11-09T21:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - Viewing Area",
+      "notes": "Minor Hockey Practices - Viewing Area",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
       "start": "2026-11-09T15:45:00-07:00",
       "end": "2026-11-09T16:45:00-07:00",
       "type": "practice",
@@ -63,15 +153,6 @@
       "notes": "Minor Hockey Practices - U9 Practice",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
-    },
-    {
-      "start": "2026-11-09T17:00:00-07:00",
-      "end": "2026-11-09T20:00:00-07:00",
-      "type": "other",
-      "label": "Monthly Meeting Ag Board 2026 - Ag Society Meeting",
-      "notes": "Monthly Meeting Ag Board 2026 - Ag Society Meeting",
-      "color": "#64748B",
-      "type_display": "Other"
     },
     {
       "start": "2026-11-09T17:45:00-07:00",
@@ -146,6 +227,15 @@
       "type_display": "Rentals"
     },
     {
+      "start": "2026-11-10T15:30:00-07:00",
+      "end": "2026-11-10T21:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Viewing Area Only",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
       "start": "2026-11-10T16:15:00-07:00",
       "end": "2026-11-10T17:15:00-07:00",
       "type": "skating_club",
@@ -214,6 +304,15 @@
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - FLOOD",
       "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-11T15:30:00-07:00",
+      "end": "2026-11-11T21:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - Viewing Area",
+      "notes": "Minor Hockey Practices - Viewing Area",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
     },
@@ -322,6 +421,15 @@
       "type": "rentals",
       "label": "Ice Rental",
       "notes": "Caroline Skate Club - Pre Skate",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-12T15:30:00-07:00",
+      "end": "2026-11-12T21:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Viewing Area Only",
       "color": "#F97316",
       "type_display": "Rentals"
     },

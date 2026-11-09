@@ -1,0 +1,464 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-11-09T09:19:27.613074Z",
+  "facility": {
+    "id": "kurt-browning-arena",
+    "name": "Kurt Browning Arena"
+  },
+  "week": {
+    "start_date": "2026-11-22",
+    "end_date": "2026-11-28"
+  },
+  "slots": [
+    {
+      "start": "2026-11-22T09:00:00-07:00",
+      "end": "2026-11-22T10:30:00-07:00",
+      "type": "games",
+      "label": "Trails West Tournament - Game 7",
+      "notes": "Trails West Tournament - Game 7",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-22T10:45:00-07:00",
+      "end": "2026-11-22T12:15:00-07:00",
+      "type": "games",
+      "label": "Trails West Tournament - Game 8",
+      "notes": "Trails West Tournament - Game 8",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-22T15:00:00-07:00",
+      "end": "2026-11-22T16:30:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Private Event",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-22T16:30:00-07:00",
+      "end": "2026-11-22T16:45:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Private Event",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-22T16:30:00-07:00",
+      "end": "2026-11-22T17:30:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Private Event",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-22T18:00:00-07:00",
+      "end": "2026-11-22T19:00:00-07:00",
+      "type": "public",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "start": "2026-11-22T19:15:00-07:00",
+      "end": "2026-11-22T20:15:00-07:00",
+      "type": "games",
+      "label": "GMen Adult League",
+      "notes": "GMen Adult League",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-23T15:30:00-07:00",
+      "end": "2026-11-23T21:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - Viewing Area",
+      "notes": "Minor Hockey Practices - Viewing Area",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-23T15:45:00-07:00",
+      "end": "2026-11-23T16:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U5/U7 Practice",
+      "notes": "Minor Hockey Practices - U5/U7 Practice",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-23T16:45:00-07:00",
+      "end": "2026-11-23T17:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U9 Practice",
+      "notes": "Minor Hockey Practices - U9 Practice",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-23T17:45:00-07:00",
+      "end": "2026-11-23T18:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-23T18:00:00-07:00",
+      "end": "2026-11-23T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U11A Practices",
+      "notes": "Minor Hockey Practices - U11A Practices",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-23T19:00:00-07:00",
+      "end": "2026-11-23T19:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-23T19:15:00-07:00",
+      "end": "2026-11-23T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U13A Practices",
+      "notes": "Minor Hockey Practices - U13A Practices",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-23T20:15:00-07:00",
+      "end": "2026-11-23T20:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-23T20:30:00-07:00",
+      "end": "2026-11-23T21:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U18 Practice",
+      "notes": "Minor Hockey Practices - U18 Practice",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-23T21:45:00-07:00",
+      "end": "2026-11-23T22:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-24T15:30:00-07:00",
+      "end": "2026-11-24T16:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Pre Skate",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-24T15:30:00-07:00",
+      "end": "2026-11-24T21:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Viewing Area Only",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-24T16:15:00-07:00",
+      "end": "2026-11-24T17:15:00-07:00",
+      "type": "skating_club",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Learn to Skate",
+      "color": "#06B6D4",
+      "type_display": "Skating Club / Programs"
+    },
+    {
+      "start": "2026-11-24T17:15:00-07:00",
+      "end": "2026-11-24T17:30:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-24T17:30:00-07:00",
+      "end": "2026-11-24T18:45:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Preliminary Fun Skate",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-24T18:45:00-07:00",
+      "end": "2026-11-24T19:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-24T19:00:00-07:00",
+      "end": "2026-11-24T20:30:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Junior Fun Skate",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-24T20:30:00-07:00",
+      "end": "2026-11-24T20:45:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-24T20:45:00-07:00",
+      "end": "2026-11-24T21:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U15 Practice",
+      "notes": "Minor Hockey Practices - U15 Practice",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-24T21:45:00-07:00",
+      "end": "2026-11-24T22:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-25T15:30:00-07:00",
+      "end": "2026-11-25T21:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - Viewing Area",
+      "notes": "Minor Hockey Practices - Viewing Area",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-25T15:45:00-07:00",
+      "end": "2026-11-25T16:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U5/U7 Practice",
+      "notes": "Minor Hockey Practices - U5/U7 Practice",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-25T16:45:00-07:00",
+      "end": "2026-11-25T17:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U9 Practice",
+      "notes": "Minor Hockey Practices - U9 Practice",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-25T17:45:00-07:00",
+      "end": "2026-11-25T18:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U11B Practice",
+      "notes": "Minor Hockey Practices - U11B Practice",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-25T18:45:00-07:00",
+      "end": "2026-11-25T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-25T19:00:00-07:00",
+      "end": "2026-11-25T20:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U13B Practices",
+      "notes": "Minor Hockey Practices - U13B Practices",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-25T20:00:00-07:00",
+      "end": "2026-11-25T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-25T20:15:00-07:00",
+      "end": "2026-11-25T21:30:00-07:00",
+      "type": "games",
+      "label": "Hockey - Cowboy Adult League - Cowboy Mens Hockey",
+      "notes": "Cowboy Adult League - Cowboy Mens Hockey",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-26T09:00:00-07:00",
+      "end": "2026-11-26T12:00:00-07:00",
+      "type": "other",
+      "label": "Recovery Alberta Meeting",
+      "notes": "Recovery Alberta Meeting",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-11-26T15:30:00-07:00",
+      "end": "2026-11-26T16:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Pre Skate",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-26T15:30:00-07:00",
+      "end": "2026-11-26T21:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Viewing Area Only",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-26T16:15:00-07:00",
+      "end": "2026-11-26T17:15:00-07:00",
+      "type": "skating_club",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Learn to Skate",
+      "color": "#06B6D4",
+      "type_display": "Skating Club / Programs"
+    },
+    {
+      "start": "2026-11-26T17:15:00-07:00",
+      "end": "2026-11-26T17:30:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-26T17:30:00-07:00",
+      "end": "2026-11-26T18:45:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Preliminary Fun Skate",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-26T18:45:00-07:00",
+      "end": "2026-11-26T19:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-26T19:00:00-07:00",
+      "end": "2026-11-26T21:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Junior Fun Skate",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-26T21:00:00-07:00",
+      "end": "2026-11-26T21:15:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-11-26T21:15:00-07:00",
+      "end": "2026-11-26T22:45:00-07:00",
+      "type": "games",
+      "label": "Men's Rec League Wranglers Jr",
+      "notes": "Men's Rec League Wranglers Jr",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-27T07:00:00-07:00",
+      "end": "2026-11-27T08:00:00-07:00",
+      "type": "practice",
+      "label": "Skills and Drills - Skills and Drills",
+      "notes": "Skills and Drills - Skills and Drills",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-27T17:00:00-07:00",
+      "end": "2026-11-27T18:00:00-07:00",
+      "type": "shinny",
+      "label": "Sticks & Pucks",
+      "notes": "Sticks & Pucks",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "start": "2026-11-27T18:15:00-07:00",
+      "end": "2026-11-27T21:00:00-07:00",
+      "type": "other",
+      "label": "Hockey - Weekend  Unassigned - CAHL",
+      "notes": "Weekend Hockey - Unassigned - CAHL",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-11-27T21:00:00-07:00",
+      "end": "2026-11-27T22:15:00-07:00",
+      "type": "games",
+      "label": "Stauffer Pond Scratchers Adult League",
+      "notes": "Stauffer Pond Scratchers Adult League",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-28T08:00:00-07:00",
+      "end": "2026-11-28T21:00:00-07:00",
+      "type": "other",
+      "label": "Hockey - Weekend  Unassigned - CAHL",
+      "notes": "Weekend Hockey - Unassigned - CAHL",
+      "color": "#64748B",
+      "type_display": "Other"
+    }
+  ]
+}

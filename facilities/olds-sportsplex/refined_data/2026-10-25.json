@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-11-02T09:19:34.494170Z",
+  "generated_at": "2026-11-09T09:19:27.580860Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -73,8 +73,8 @@
           "type": "practice",
           "start": "2026-10-26T06:15:00-07:00",
           "end": "2026-10-26T07:30:00-07:00",
-          "label": "Broncos Hockey 2026/2027 Practices",
-          "notes": "Broncos Hockey 2026/2027 Practices - Practice",
+          "label": "Broncos Hockey Oct 2026 Practices inv",
+          "notes": "Broncos Hockey Oct 2026 Practices inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -82,8 +82,8 @@
           "type": "practice",
           "start": "2026-10-26T11:00:00-07:00",
           "end": "2026-10-26T12:00:00-07:00",
-          "label": "Grizzlys Oct 2026- March 2027",
-          "notes": "Grizzlys Oct 2026- March 2027 - Practice",
+          "label": "Grizzlys Oct 2026  inv",
+          "notes": "Grizzlys Oct 2026  inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -91,8 +91,8 @@
           "type": "practice",
           "start": "2026-10-26T12:15:00-07:00",
           "end": "2026-10-26T13:15:00-07:00",
-          "label": "Grizzlys Oct 2026- March 2027",
-          "notes": "Grizzlys Oct 2026- March 2027 - Practice",
+          "label": "Grizzlys Oct 2026  inv",
+          "notes": "Grizzlys Oct 2026  inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -163,8 +163,8 @@
           "type": "practice",
           "start": "2026-10-27T06:15:00-07:00",
           "end": "2026-10-27T07:30:00-07:00",
-          "label": "Broncos Hockey 2026/2027 Practices",
-          "notes": "Broncos Hockey 2026/2027 Practices - Practice",
+          "label": "Broncos Hockey Oct 2026 Practices inv",
+          "notes": "Broncos Hockey Oct 2026 Practices inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -172,8 +172,8 @@
           "type": "practice",
           "start": "2026-10-27T11:00:00-07:00",
           "end": "2026-10-27T11:45:00-07:00",
-          "label": "Grizzlys Oct 2026- March 2027",
-          "notes": "Grizzlys Oct 2026- March 2027 - Practice",
+          "label": "Grizzlys Oct 2026  inv",
+          "notes": "Grizzlys Oct 2026  inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -181,8 +181,8 @@
           "type": "practice",
           "start": "2026-10-27T12:00:00-07:00",
           "end": "2026-10-27T12:45:00-07:00",
-          "label": "Grizzlys Oct 2026- March 2027",
-          "notes": "Grizzlys Oct 2026- March 2027 - Practice",
+          "label": "Grizzlys Oct 2026  inv",
+          "notes": "Grizzlys Oct 2026  inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -244,8 +244,8 @@
           "type": "practice",
           "start": "2026-10-28T06:15:00-07:00",
           "end": "2026-10-28T07:30:00-07:00",
-          "label": "Broncos Hockey 2026/2027 Practices",
-          "notes": "Broncos Hockey 2026/2027 Practices - Practice",
+          "label": "Broncos Hockey Oct 2026 Practices inv",
+          "notes": "Broncos Hockey Oct 2026 Practices inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -262,8 +262,8 @@
           "type": "practice",
           "start": "2026-10-28T11:00:00-07:00",
           "end": "2026-10-28T12:15:00-07:00",
-          "label": "Grizzlys Oct 2026- March 2027",
-          "notes": "Grizzlys Oct 2026- March 2027 - Practice",
+          "label": "Grizzlys Oct 2026  inv",
+          "notes": "Grizzlys Oct 2026  inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -334,8 +334,8 @@
           "type": "practice",
           "start": "2026-10-29T11:00:00-07:00",
           "end": "2026-10-29T11:45:00-07:00",
-          "label": "Grizzlys Oct 2026- March 2027",
-          "notes": "Grizzlys Oct 2026- March 2027 - Practice",
+          "label": "Grizzlys Oct 2026  inv",
+          "notes": "Grizzlys Oct 2026  inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -343,8 +343,8 @@
           "type": "practice",
           "start": "2026-10-29T12:00:00-07:00",
           "end": "2026-10-29T12:45:00-07:00",
-          "label": "Grizzlys Oct 2026- March 2027",
-          "notes": "Grizzlys Oct 2026- March 2027 - Practice",
+          "label": "Grizzlys Oct 2026  inv",
+          "notes": "Grizzlys Oct 2026  inv - Practice",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -389,7 +389,7 @@
           "start": "2026-10-30T11:00:00-07:00",
           "end": "2026-10-30T12:00:00-07:00",
           "label": "Pre-Game Skate",
-          "notes": "Grizzlys Oct 2026- March 2027 - Pre-Game Skate",
+          "notes": "Grizzlys Oct 2026  inv - Pre-Game Skate",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -416,7 +416,7 @@
           "start": "2026-10-30T18:30:00-07:00",
           "end": "2026-10-30T21:30:00-07:00",
           "label": "Grizzlys vs Whitecourt",
-          "notes": "Grizzlys Oct 2026- March 2027 - Grizzlys vs Whitecourt",
+          "notes": "Grizzlys Oct 2026  inv - Grizzlys vs Whitecourt",
           "color": "#EF4444",
           "type_display": "Games"
         },
@@ -461,7 +461,7 @@
           "start": "2026-10-31T18:30:00-07:00",
           "end": "2026-10-31T21:30:00-07:00",
           "label": "Grizzlys vs Lloyd",
-          "notes": "Grizzlys Oct 2026- March 2027 - Grizzlys vs Lloyd",
+          "notes": "Grizzlys Oct 2026  inv - Grizzlys vs Lloyd",
           "color": "#EF4444",
           "type_display": "Games"
         }
