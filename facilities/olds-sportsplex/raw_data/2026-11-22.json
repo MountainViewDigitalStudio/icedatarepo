@@ -1,0 +1,679 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-11-09T09:17:43.304189Z",
+  "facility": {
+    "id": "olds-sportsplex",
+    "name": "Olds Sportsplex",
+    "city": "Olds",
+    "address": "5133 52 St, Olds, AB",
+    "source_url": "https://app.univerusrec.com/oldsrecreationpub/calendars/facilities/index.asp"
+  },
+  "week": {
+    "start_date": "2026-11-22",
+    "end_date": "2026-11-28",
+    "sunday": "2026-11-22"
+  },
+  "ice_surfaces": {
+    "main": {
+      "name": "Main Ice Surface",
+      "slots": [
+        {
+          "type": "practice",
+          "start": "2026-11-22T08:15:00-07:00",
+          "end": "2026-11-22T09:30:00-07:00",
+          "label": "U9",
+          "notes": "OMHA November 2026 - U9"
+        },
+        {
+          "type": "game",
+          "start": "2026-11-22T09:45:00-07:00",
+          "end": "2026-11-22T12:00:00-07:00",
+          "label": "5 vs 6",
+          "notes": "Grizzlys U18AA Tournament - 5 vs 6"
+        },
+        {
+          "type": "game",
+          "start": "2026-11-22T12:15:00-07:00",
+          "end": "2026-11-22T14:45:00-07:00",
+          "label": "1st vs 2nd",
+          "notes": "Grizzlys U18AA Tournament - 1st vs 2nd"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-22T15:00:00-07:00",
+          "end": "2026-11-22T17:00:00-07:00",
+          "label": "U15",
+          "notes": "OMHA November 2026 - U15"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-22T17:15:00-07:00",
+          "end": "2026-11-22T19:30:00-07:00",
+          "label": "U18",
+          "notes": "OMHA November 2026 - U18"
+        },
+        {
+          "type": "game",
+          "start": "2026-11-22T19:45:00-07:00",
+          "end": "2026-11-22T21:15:00-07:00",
+          "label": "Hawks vs Coyotes",
+          "notes": "Hawks Games OCT NOV DEC 2026 inv - Hawks vs Coyotes"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-22T21:30:00-07:00",
+          "end": "2026-11-22T23:00:00-07:00",
+          "label": "Wilde Oct,Nov,Dec  2026 inv",
+          "notes": "Wilde Oct,Nov,Dec  2026 inv"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-23T06:15:00-07:00",
+          "end": "2026-11-23T07:30:00-07:00",
+          "label": "Broncos Hockey 2026/2027 Practices",
+          "notes": "Broncos Hockey 2026/2027 Practices"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-23T11:00:00-07:00",
+          "end": "2026-11-23T11:45:00-07:00",
+          "label": "Grizzlys Nov 2026- March 2027",
+          "notes": "Grizzlys Nov 2026- March 2027 - Practice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-23T12:00:00-07:00",
+          "end": "2026-11-23T12:45:00-07:00",
+          "label": "Grizzlys Nov 2026- March 2027",
+          "notes": "Grizzlys Nov 2026- March 2027 - Practice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-23T16:00:00-07:00",
+          "end": "2026-11-23T16:45:00-07:00",
+          "label": "U9C/ U9 fem",
+          "notes": "OMHA November 2026 - U9C/ U9 fem"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-23T16:45:00-07:00",
+          "end": "2026-11-23T17:30:00-07:00",
+          "label": "U11B/ U11C",
+          "notes": "OMHA November 2026 - U11B/ U11C"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-23T17:45:00-07:00",
+          "end": "2026-11-23T19:15:00-07:00",
+          "label": "5:45-6:15 U13A fem 6:15-6:45 U13AF/U13BF 6:45-7:15 U13B fem",
+          "notes": "OMHA November 2026 - 5:45-6:15 U13A fem 6:15-6:45 U13AF/U13BF 6:45-7:15 U13B fem"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-23T19:30:00-07:00",
+          "end": "2026-11-23T20:15:00-07:00",
+          "label": "U15B",
+          "notes": "OMHA November 2026 - U15B"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-23T20:30:00-07:00",
+          "end": "2026-11-23T21:30:00-07:00",
+          "label": "U18 fem",
+          "notes": "OMHA November 2026 - U18 fem"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-23T21:45:00-07:00",
+          "end": "2026-11-23T23:00:00-07:00",
+          "label": "Berreth Hockey",
+          "notes": "Berreth Hockey"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-24T06:15:00-07:00",
+          "end": "2026-11-24T07:30:00-07:00",
+          "label": "Broncos Hockey 2026/2027 Practices",
+          "notes": "Broncos Hockey 2026/2027 Practices - Practice"
+        },
+        {
+          "type": "game",
+          "start": "2026-11-24T11:00:00-07:00",
+          "end": "2026-11-24T12:00:00-07:00",
+          "label": "Pre-Game Skate",
+          "notes": "Grizzlys Nov 2026- March 2027 - Pre-Game Skate"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-24T16:00:00-07:00",
+          "end": "2026-11-24T16:45:00-07:00",
+          "label": "U7 Yellow/ Black/Red",
+          "notes": "OMHA November 2026 - U7 Yellow/ Black/Red"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-24T17:00:00-07:00",
+          "end": "2026-11-24T18:00:00-07:00",
+          "label": "U15AA",
+          "notes": "OMHA November 2026 - U15AA"
+        },
+        {
+          "type": "game",
+          "start": "2026-11-24T18:30:00-07:00",
+          "end": "2026-11-24T21:30:00-07:00",
+          "label": "Grizzlys vs Bonnyville",
+          "notes": "Grizzlys Nov 2026- March 2027 - Grizzlys vs Bonnyville"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-24T19:00:00-07:00",
+          "end": "2026-11-24T21:00:00-07:00",
+          "label": "Olds Lacrosse Association Board Meeting",
+          "notes": "Olds Lacrosse Association Board Meeting"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-25T06:15:00-07:00",
+          "end": "2026-11-25T07:30:00-07:00",
+          "label": "Broncos Hockey 2026/2027 Practices",
+          "notes": "Broncos Hockey 2026/2027 Practices - Practice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-25T08:00:00-07:00",
+          "end": "2026-11-25T21:00:00-07:00",
+          "label": "Backpack Program",
+          "notes": "Backpack Program"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-25T12:00:00-07:00",
+          "end": "2026-11-25T13:15:00-07:00",
+          "label": "Grizzlys Nov 2026- March 2027",
+          "notes": "Grizzlys Nov 2026- March 2027 - Practice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-25T16:00:00-07:00",
+          "end": "2026-11-25T17:30:00-07:00",
+          "label": "4:00-4:45 U9C/ U9 fem 4:45-5:30 U11C/ U13A",
+          "notes": "OMHA November 2026 - 4:00-4:45 U9C/ U9 fem 4:45-5:30 U11C/ U13A"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-25T17:45:00-07:00",
+          "end": "2026-11-25T19:15:00-07:00",
+          "label": "5:45-6:30 U13A fem  6:30-7:15 U13B fem",
+          "notes": "OMHA November 2026 - 5:45-6:30 U13A fem  6:30-7:15 U13B fem"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-25T19:30:00-07:00",
+          "end": "2026-11-25T20:30:00-07:00",
+          "label": "U13AA",
+          "notes": "OMHA November 2026 - U13AA"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-25T20:45:00-07:00",
+          "end": "2026-11-25T21:45:00-07:00",
+          "label": "U15A fem",
+          "notes": "OMHA November 2026 - U15A fem"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-26T06:15:00-07:00",
+          "end": "2026-11-26T07:30:00-07:00",
+          "label": "Broncos Hockey 2026/2027 Practices",
+          "notes": "Broncos Hockey 2026/2027 Practices - Practice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-26T08:00:00-07:00",
+          "end": "2026-11-26T21:00:00-07:00",
+          "label": "Backpack Program",
+          "notes": "Backpack Program"
+        },
+        {
+          "type": "game",
+          "start": "2026-11-26T11:00:00-07:00",
+          "end": "2026-11-26T12:00:00-07:00",
+          "label": "Pre-Game Skate",
+          "notes": "Grizzlys Nov 2026- March 2027 - Pre-Game Skate"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-26T16:00:00-07:00",
+          "end": "2026-11-26T16:45:00-07:00",
+          "label": "U9A/ U9B",
+          "notes": "OMHA November 2026 - U9A/ U9B"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-26T17:00:00-07:00",
+          "end": "2026-11-26T18:00:00-07:00",
+          "label": "U13B/ U15B",
+          "notes": "OMHA November 2026 - U13B/ U15B"
+        },
+        {
+          "type": "game",
+          "start": "2026-11-26T18:30:00-07:00",
+          "end": "2026-11-26T21:30:00-07:00",
+          "label": "Grizzlys vs Fort Mac",
+          "notes": "Grizzlys Nov 2026- March 2027 - Grizzlys vs Fort Mac"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-26T21:45:00-07:00",
+          "end": "2026-11-26T23:15:00-07:00",
+          "label": "SIR Nov 2026",
+          "notes": "SIR Nov 2026"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-27T10:30:00-07:00",
+          "end": "2026-11-27T11:30:00-07:00",
+          "label": "PA Training 1 room",
+          "notes": "Olds Figure Skating Club 2026/27 - PA Training 1 room"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-27T12:00:00-07:00",
+          "end": "2026-11-27T13:15:00-07:00",
+          "label": "Grizzlys Nov 2026- March 2027",
+          "notes": "Grizzlys Nov 2026- March 2027 - Practice"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-27T13:30:00-07:00",
+          "end": "2026-11-27T14:30:00-07:00",
+          "label": "Longhorns",
+          "notes": "Longhorns"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-27T14:45:00-07:00",
+          "end": "2026-11-27T15:45:00-07:00",
+          "label": "Longhorns",
+          "notes": "Longhorns"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-27T16:00:00-07:00",
+          "end": "2026-11-27T17:30:00-07:00",
+          "label": "4:00-4:45 U7 Black U7 Red 4:45-5:30 U7 Yellow",
+          "notes": "OMHA November 2026 - 4:00-4:45 U7 Black U7 Red 4:45-5:30 U7 Yellow"
+        },
+        {
+          "type": "game",
+          "start": "2026-11-27T17:45:00-07:00",
+          "end": "2026-11-27T19:45:00-07:00",
+          "label": "U11AA vs Strathmore",
+          "notes": "OMHA November 2026 - U11AA vs Strathmore"
+        },
+        {
+          "type": "game",
+          "start": "2026-11-27T20:00:00-07:00",
+          "end": "2026-11-27T22:30:00-07:00",
+          "label": "U18AA vs Red Deer",
+          "notes": "OMHA November 2026 - U18AA vs Red Deer"
+        },
+        {
+          "type": "game",
+          "start": "2026-11-28T08:00:00-07:00",
+          "end": "2026-11-28T09:15:00-07:00",
+          "label": "U7 Red vs Cremona Blue U7 Yellow vs Cremona Black",
+          "notes": "OMHA November 2026 - U7 Red vs Cremona Blue U7 Yellow vs Cremona Black"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-28T09:30:00-07:00",
+          "end": "2026-11-28T11:30:00-07:00",
+          "label": "U13",
+          "notes": "OMHA November 2026 - U13"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-28T11:45:00-07:00",
+          "end": "2026-11-28T13:00:00-07:00",
+          "label": "U9",
+          "notes": "OMHA November 2026 - U9"
+        },
+        {
+          "type": "game",
+          "start": "2026-11-28T13:15:00-07:00",
+          "end": "2026-11-28T15:30:00-07:00",
+          "label": "U13AA vs Wheatland",
+          "notes": "OMHA November 2026 - U13AA vs Wheatland"
+        },
+        {
+          "type": "game",
+          "start": "2026-11-28T15:45:00-07:00",
+          "end": "2026-11-28T18:00:00-07:00",
+          "label": "U18AA vs CBHA  Rangers",
+          "notes": "OMHA November 2026 - U18AA vs CBHA  Rangers"
+        },
+        {
+          "type": "game",
+          "start": "2026-11-28T18:30:00-07:00",
+          "end": "2026-11-28T21:30:00-07:00",
+          "label": "Grizzlys Vs Canmore",
+          "notes": "Grizzlys Nov 2026- March 2027 - Grizzlys Vs Canmore"
+        }
+      ]
+    },
+    "auxiliary": {
+      "name": "Auxiliary Ice Surface",
+      "slots": [
+        {
+          "type": "practice",
+          "start": "2026-11-22T09:30:00-07:00",
+          "end": "2026-11-22T11:30:00-07:00",
+          "label": "OMHA",
+          "notes": "OMHA November 2026 - OMHA"
+        },
+        {
+          "type": "game",
+          "start": "2026-11-22T12:00:00-07:00",
+          "end": "2026-11-22T14:15:00-07:00",
+          "label": "3rd vs 4th",
+          "notes": "Grizzlys U18AA Tournament - 3rd vs 4th"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-22T14:45:00-07:00",
+          "end": "2026-11-22T16:45:00-07:00",
+          "label": "U11 Female",
+          "notes": "OMHA November 2026 - U11 Female"
+        },
+        {
+          "type": "game",
+          "start": "2026-11-22T18:00:00-07:00",
+          "end": "2026-11-22T19:30:00-07:00",
+          "label": "Stingers vs Nighthawks",
+          "notes": "Stingers Hockey- Games Oct Nov Dec  2026 inv - Stingers vs Nighthawks"
+        },
+        {
+          "type": "game",
+          "start": "2026-11-22T20:00:00-07:00",
+          "end": "2026-11-22T21:30:00-07:00",
+          "label": "Panthers vs. Spruceview Flames",
+          "notes": "Panthers Games Oct NOv Dec 2026 inv - Panthers vs. Spruceview Flames"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-23T06:45:00-07:00",
+          "end": "2026-11-23T07:45:00-07:00",
+          "label": "Grizzlys Breakfast Club 2026/2027",
+          "notes": "Grizzlys Breakfast Club 2026/2027"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-23T12:00:00-07:00",
+          "end": "2026-11-23T13:00:00-07:00",
+          "label": "Sticks and Pucks 2026/2027",
+          "notes": "Sticks and Pucks 2026/2027"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-23T15:45:00-07:00",
+          "end": "2026-11-23T16:45:00-07:00",
+          "label": "CanSkate Rooms 3 & 4, STAR Room 5",
+          "notes": "Olds Figure Skating Club 2026/27 - CanSkate Rooms 3 & 4, STAR Room 5"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-23T17:00:00-07:00",
+          "end": "2026-11-23T19:45:00-07:00",
+          "label": "STAR, Room 5",
+          "notes": "Olds Figure Skating Club 2026/27 - STAR, Room 5"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-23T20:00:00-07:00",
+          "end": "2026-11-23T21:00:00-07:00",
+          "label": "U15A",
+          "notes": "OMHA November 2026 - U15A"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-23T21:15:00-07:00",
+          "end": "2026-11-23T22:15:00-07:00",
+          "label": "U18A",
+          "notes": "OMHA November 2026 - U18A"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-24T06:45:00-07:00",
+          "end": "2026-11-24T07:45:00-07:00",
+          "label": "U18B",
+          "notes": "OMHA November 2026 - U18B"
+        },
+        {
+          "type": "public_skate",
+          "start": "2026-11-24T12:00:00-07:00",
+          "end": "2026-11-24T13:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-24T13:30:00-07:00",
+          "end": "2026-11-24T14:30:00-07:00",
+          "label": "Grizzlys Academy",
+          "notes": "Grizzlys Academy"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-24T16:00:00-07:00",
+          "end": "2026-11-24T17:30:00-07:00",
+          "label": "4:00-4:45 U9A/ U9B 4:45-5:30 U11A/ U11 fem",
+          "notes": "OMHA November 2026 - 4:00-4:45 U9A/ U9B 4:45-5:30 U11A/ U11 fem"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-24T17:45:00-07:00",
+          "end": "2026-11-24T19:15:00-07:00",
+          "label": "U13B 6:15-6:45 U13B/U13C 6:45-7:15 U13C",
+          "notes": "OMHA November 2026 - U13B 6:15-6:45 U13B/U13C 6:45-7:15 U13C"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-24T19:30:00-07:00",
+          "end": "2026-11-24T20:15:00-07:00",
+          "label": "U13A",
+          "notes": "OMHA November 2026 - U13A"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-24T20:30:00-07:00",
+          "end": "2026-11-24T21:30:00-07:00",
+          "label": "U15C",
+          "notes": "OMHA November 2026 - U15C"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-25T06:45:00-07:00",
+          "end": "2026-11-25T07:45:00-07:00",
+          "label": "U11A",
+          "notes": "OMHA November 2026 - U11A"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-25T12:00:00-07:00",
+          "end": "2026-11-25T13:00:00-07:00",
+          "label": "Sticks and Pucks 2026/2027",
+          "notes": "Sticks and Pucks 2026/2027"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-25T15:45:00-07:00",
+          "end": "2026-11-25T16:45:00-07:00",
+          "label": "CanSkate Rooms 3 & 4, STAR Room 5",
+          "notes": "Olds Figure Skating Club 2026/27 - CanSkate Rooms 3 & 4, STAR Room 5"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-25T17:00:00-07:00",
+          "end": "2026-11-25T19:45:00-07:00",
+          "label": "STAR, Room 5",
+          "notes": "Olds Figure Skating Club 2026/27 - STAR, Room 5"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-25T20:00:00-07:00",
+          "end": "2026-11-25T21:00:00-07:00",
+          "label": "U15B fem",
+          "notes": "OMHA November 2026 - U15B fem"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-25T21:15:00-07:00",
+          "end": "2026-11-25T22:15:00-07:00",
+          "label": "U18A",
+          "notes": "OMHA November 2026 - U18A"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-26T06:45:00-07:00",
+          "end": "2026-11-26T07:45:00-07:00",
+          "label": "U11B",
+          "notes": "OMHA November 2026 - U11B"
+        },
+        {
+          "type": "public_skate",
+          "start": "2026-11-26T12:00:00-07:00",
+          "end": "2026-11-26T13:00:00-07:00",
+          "label": "Public Skating",
+          "notes": "Public Skating"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-26T13:30:00-07:00",
+          "end": "2026-11-26T14:30:00-07:00",
+          "label": "Grizzlys Academy",
+          "notes": "Grizzlys Academy"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-26T16:00:00-07:00",
+          "end": "2026-11-26T17:30:00-07:00",
+          "label": "4:00-4:45 U11 fem  4:45-5:30 U13C",
+          "notes": "OMHA November 2026 - 4:00-4:45 U11 fem  4:45-5:30 U13C"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-26T17:45:00-07:00",
+          "end": "2026-11-26T18:30:00-07:00",
+          "label": "U15A",
+          "notes": "OMHA November 2026 - U15A"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-26T18:45:00-07:00",
+          "end": "2026-11-26T19:30:00-07:00",
+          "label": "U11AA",
+          "notes": "OMHA November 2026 - U11AA"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-26T19:45:00-07:00",
+          "end": "2026-11-26T20:45:00-07:00",
+          "label": "U18AA",
+          "notes": "OMHA November 2026 - U18AA"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-26T21:00:00-07:00",
+          "end": "2026-11-26T22:00:00-07:00",
+          "label": "U18B",
+          "notes": "OMHA November 2026 - U18B"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-27T06:45:00-07:00",
+          "end": "2026-11-27T07:45:00-07:00",
+          "label": "Grizzlys Breakfast Club 2026/2027",
+          "notes": "Grizzlys Breakfast Club 2026/2027"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-27T12:00:00-07:00",
+          "end": "2026-11-27T13:30:00-07:00",
+          "label": "Skate with Buddy and Friends (OFC)",
+          "notes": "Skate with Buddy and Friends (OFC)"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-27T13:45:00-07:00",
+          "end": "2026-11-27T14:45:00-07:00",
+          "label": "Longhorns",
+          "notes": "Longhorns"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-27T15:45:00-07:00",
+          "end": "2026-11-27T17:15:00-07:00",
+          "label": "STAR",
+          "notes": "Olds Figure Skating Club 2026/27 - STAR"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-27T17:30:00-07:00",
+          "end": "2026-11-27T19:30:00-07:00",
+          "label": "U11",
+          "notes": "OMHA November 2026 - U11"
+        },
+        {
+          "type": "game",
+          "start": "2026-11-27T19:45:00-07:00",
+          "end": "2026-11-27T22:00:00-07:00",
+          "label": "U15AA vs Bow Valley",
+          "notes": "OMHA November 2026 - U15AA vs Bow Valley"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-28T08:15:00-07:00",
+          "end": "2026-11-28T10:15:00-07:00",
+          "label": "U11 fem",
+          "notes": "OMHA November 2026 - U11 fem"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-28T10:30:00-07:00",
+          "end": "2026-11-28T12:30:00-07:00",
+          "label": "U11",
+          "notes": "OMHA November 2026 - U11"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-28T12:45:00-07:00",
+          "end": "2026-11-28T14:45:00-07:00",
+          "label": "U15",
+          "notes": "OMHA November 2026 - U15"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-28T15:00:00-07:00",
+          "end": "2026-11-28T17:00:00-07:00",
+          "label": "U15 fem",
+          "notes": "OMHA November 2026 - U15 fem"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-28T17:15:00-07:00",
+          "end": "2026-11-28T19:30:00-07:00",
+          "label": "U15",
+          "notes": "OMHA November 2026 - U15"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-28T19:45:00-07:00",
+          "end": "2026-11-28T22:00:00-07:00",
+          "label": "U18",
+          "notes": "OMHA November 2026 - U18"
+        }
+      ]
+    }
+  }
+}

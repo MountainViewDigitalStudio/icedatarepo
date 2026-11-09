@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-11-02T09:17:47.110436Z",
+  "generated_at": "2026-11-09T09:17:43.304189Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -21,29 +21,29 @@
           "type": "practice",
           "start": "2026-11-08T08:00:00-07:00",
           "end": "2026-11-08T09:00:00-07:00",
-          "label": "U7",
-          "notes": "OMHA November 2026 - U7"
+          "label": "Airdrie Stars PD",
+          "notes": "Airdrie Stars PD"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-11-08T09:15:00-07:00",
           "end": "2026-11-08T10:30:00-07:00",
-          "label": "U9",
-          "notes": "OMHA November 2026 - U9"
+          "label": "U9C  vs  Hanna",
+          "notes": "OMHA November 2026 - U9C  vs  Hanna"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-11-08T10:45:00-07:00",
           "end": "2026-11-08T12:45:00-07:00",
-          "label": "U11",
-          "notes": "OMHA November 2026 - U11"
+          "label": "U11B vs Rocky",
+          "notes": "OMHA November 2026 - U11B vs Rocky"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-11-08T13:00:00-07:00",
           "end": "2026-11-08T14:15:00-07:00",
-          "label": "U9 U7",
-          "notes": "OMHA November 2026 - U9 U7"
+          "label": "U9A vs Carstasirs",
+          "notes": "OMHA November 2026 - U9A vs Carstasirs"
         },
         {
           "type": "game",
@@ -53,11 +53,11 @@
           "notes": "OMHA November 2026 - U15AA vs Airdrie"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-11-08T17:00:00-07:00",
           "end": "2026-11-08T19:15:00-07:00",
-          "label": "U18",
-          "notes": "OMHA November 2026 - U18"
+          "label": "U18A vs Renegades",
+          "notes": "OMHA November 2026 - U18A vs Renegades"
         },
         {
           "type": "game",
@@ -78,7 +78,7 @@
           "start": "2026-11-09T11:00:00-07:00",
           "end": "2026-11-09T12:00:00-07:00",
           "label": "Pre- Game Skate",
-          "notes": "Grizzlys Oct 2026- March 2027 - Pre- Game Skate"
+          "notes": "Grizzlys Nov 2026- March 2027 - Pre- Game Skate"
         },
         {
           "type": "practice",
@@ -140,15 +140,15 @@
           "type": "practice",
           "start": "2026-11-10T12:00:00-07:00",
           "end": "2026-11-10T13:00:00-07:00",
-          "label": "Grizzlys Oct 2026- March 2027",
-          "notes": "Grizzlys Oct 2026- March 2027 - Practice"
+          "label": "Grizzlys Nov 2026- March 2027",
+          "notes": "Grizzlys Nov 2026- March 2027 - Practice"
         },
         {
           "type": "practice",
           "start": "2026-11-10T13:15:00-07:00",
           "end": "2026-11-10T14:15:00-07:00",
-          "label": "Grizzlys Oct 2026- March 2027",
-          "notes": "Grizzlys Oct 2026- March 2027 - Practice"
+          "label": "Grizzlys Nov 2026- March 2027",
+          "notes": "Grizzlys Nov 2026- March 2027 - Practice"
         },
         {
           "type": "practice",
@@ -181,6 +181,13 @@
         {
           "type": "practice",
           "start": "2026-11-11T08:00:00-07:00",
+          "end": "2026-11-11T09:15:00-07:00",
+          "label": "U15A Team",
+          "notes": "OMHA November 2026 - U15A Team"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-11T08:00:00-07:00",
           "end": "2026-11-11T21:00:00-07:00",
           "label": "Backpack Program",
           "notes": "Backpack Program"
@@ -196,8 +203,8 @@
           "type": "practice",
           "start": "2026-11-11T11:00:00-07:00",
           "end": "2026-11-11T12:15:00-07:00",
-          "label": "Grizzlys Oct 2026- March 2027",
-          "notes": "Grizzlys Oct 2026- March 2027 - Practice"
+          "label": "Grizzlys Nov 2026- March 2027",
+          "notes": "Grizzlys Nov 2026- March 2027 - Practice"
         },
         {
           "type": "practice",
@@ -243,8 +250,8 @@
         },
         {
           "type": "practice",
-          "start": "2026-11-11T20:45:00-07:00",
-          "end": "2026-11-11T21:45:00-07:00",
+          "start": "2026-11-11T20:30:00-07:00",
+          "end": "2026-11-11T21:30:00-07:00",
           "label": "U18 fem",
           "notes": "OMHA November 2026 - U18 fem"
         },
@@ -273,15 +280,15 @@
           "type": "practice",
           "start": "2026-11-12T11:00:00-07:00",
           "end": "2026-11-12T11:45:00-07:00",
-          "label": "Grizzlys Oct 2026- March 2027",
-          "notes": "Grizzlys Oct 2026- March 2027 - Practice"
+          "label": "Grizzlys Nov 2026- March 2027",
+          "notes": "Grizzlys Nov 2026- March 2027 - Practice"
         },
         {
           "type": "practice",
           "start": "2026-11-12T12:00:00-07:00",
           "end": "2026-11-12T12:45:00-07:00",
-          "label": "Grizzlys Oct 2026- March 2027",
-          "notes": "Grizzlys Oct 2026- March 2027 - Practice"
+          "label": "Grizzlys Nov 2026- March 2027",
+          "notes": "Grizzlys Nov 2026- March 2027 - Practice"
         },
         {
           "type": "practice",
@@ -344,7 +351,7 @@
           "start": "2026-11-13T11:00:00-07:00",
           "end": "2026-11-13T12:00:00-07:00",
           "label": "Pre-Game Skate",
-          "notes": "Grizzlys Oct 2026- March 2027 - Pre-Game Skate"
+          "notes": "Grizzlys Nov 2026- March 2027 - Pre-Game Skate"
         },
         {
           "type": "game",
@@ -430,13 +437,6 @@
       "slots": [
         {
           "type": "practice",
-          "start": "2026-11-08T07:30:00-07:00",
-          "end": "2026-11-08T08:30:00-07:00",
-          "label": "Airdrie Stars PD",
-          "notes": "Airdrie Stars PD"
-        },
-        {
-          "type": "practice",
           "start": "2026-11-08T08:45:00-07:00",
           "end": "2026-11-08T09:30:00-07:00",
           "label": "Pre Hock",
@@ -457,11 +457,11 @@
           "notes": "Public Skating"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-11-08T13:30:00-07:00",
           "end": "2026-11-08T15:30:00-07:00",
-          "label": "U13 fem",
-          "notes": "OMHA November 2026 - U13 fem"
+          "label": "U13B fem vs Wheatland",
+          "notes": "OMHA November 2026 - U13B fem vs Wheatland"
         },
         {
           "type": "game",
@@ -472,8 +472,8 @@
         },
         {
           "type": "game",
-          "start": "2026-11-08T18:00:00-07:00",
-          "end": "2026-11-08T19:30:00-07:00",
+          "start": "2026-11-08T18:15:00-07:00",
+          "end": "2026-11-08T19:45:00-07:00",
           "label": "Stingers vs Barons",
           "notes": "Stingers Hockey- Games Oct Nov Dec  2026 inv - Stingers vs Barons"
         },
@@ -574,6 +574,13 @@
           "end": "2026-11-10T21:15:00-07:00",
           "label": "U15B fem",
           "notes": "OMHA November 2026 - U15B fem"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-10T21:30:00-07:00",
+          "end": "2026-11-10T22:45:00-07:00",
+          "label": "Hardy PD",
+          "notes": "Hardy PD"
         },
         {
           "type": "practice",
@@ -745,13 +752,6 @@
         },
         {
           "type": "practice",
-          "start": "2026-11-13T10:45:00-07:00",
-          "end": "2026-11-13T11:45:00-07:00",
-          "label": "Longhorns",
-          "notes": "Longhorns"
-        },
-        {
-          "type": "practice",
           "start": "2026-11-13T12:00:00-07:00",
           "end": "2026-11-13T13:00:00-07:00",
           "label": "Sticks and Pucks 2026/2027",
@@ -779,11 +779,11 @@
           "notes": "Tournament OMHA U11/ U13 Female Nov 2026 - Stettler C vs Beaumont"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-11-14T08:00:00-07:00",
           "end": "2026-11-14T09:00:00-07:00",
-          "label": "U7",
-          "notes": "OMHA November 2026 - U7"
+          "label": "8:00-9:00 U7 Yellow vs Cremona U7 Black vs Sundre",
+          "notes": "OMHA November 2026 - 8:00-9:00 U7 Yellow vs Cremona U7 Black vs Sundre"
         },
         {
           "type": "game",
