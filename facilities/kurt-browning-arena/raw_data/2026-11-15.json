@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-11-15",
   "week_end": "2026-11-21",
-  "last_updated": "2026-11-02T02:17:52.147825-07:00",
+  "last_updated": "2026-11-09T02:17:29.279769-07:00",
   "slots": [
     {
       "start": "2026-11-15T09:00:00-07:00",
@@ -49,6 +49,13 @@
       "notes": "Stray Cats Adult League"
     },
     {
+      "start": "2026-11-16T15:30:00-07:00",
+      "end": "2026-11-16T21:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - Viewing Area",
+      "notes": "Minor Hockey Practices - Viewing Area"
+    },
+    {
       "start": "2026-11-16T15:45:00-07:00",
       "end": "2026-11-16T16:45:00-07:00",
       "type": "practice",
@@ -75,13 +82,6 @@
       "type": "practice",
       "label": "Hockey - Minor Hockey Practices - U11A Practices",
       "notes": "Minor Hockey Practices - U11A Practices"
-    },
-    {
-      "start": "2026-11-16T18:00:00-07:00",
-      "end": "2026-11-16T20:00:00-07:00",
-      "type": "other",
-      "label": "Monthly Meeting Ag Board 2026 - AGM Meeting",
-      "notes": "Monthly Meeting Ag Board 2026 - AGM Meeting"
     },
     {
       "start": "2026-11-16T19:00:00-07:00",
@@ -124,6 +124,13 @@
       "type": "rental",
       "label": "Ice Rental",
       "notes": "Caroline Skate Club - Pre Skate"
+    },
+    {
+      "start": "2026-11-17T15:30:00-07:00",
+      "end": "2026-11-17T21:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Viewing Area Only"
     },
     {
       "start": "2026-11-17T16:15:00-07:00",
@@ -196,6 +203,13 @@
       "notes": "Cattle Mens Show - Cattlemen's Tradeshow"
     },
     {
+      "start": "2026-11-18T15:30:00-07:00",
+      "end": "2026-11-18T21:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - Viewing Area",
+      "notes": "Minor Hockey Practices - Viewing Area"
+    },
+    {
       "start": "2026-11-18T15:45:00-07:00",
       "end": "2026-11-18T16:45:00-07:00",
       "type": "practice",
@@ -257,6 +271,13 @@
       "type": "rental",
       "label": "Ice Rental",
       "notes": "Caroline Skate Club - Pre Skate"
+    },
+    {
+      "start": "2026-11-19T15:30:00-07:00",
+      "end": "2026-11-19T21:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Viewing Area Only"
     },
     {
       "start": "2026-11-19T16:15:00-07:00",
