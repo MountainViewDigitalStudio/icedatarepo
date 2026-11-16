@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-11-15",
   "week_end": "2026-11-21",
-  "last_updated": "2026-11-09T02:17:29.279769-07:00",
+  "last_updated": "2026-11-16T02:19:02.578303-07:00",
   "slots": [
     {
       "start": "2026-11-15T09:00:00-07:00",
@@ -12,6 +12,13 @@
       "type": "other",
       "label": "U7 Tournament - Okotoks Flyers Vs Airdrie Blizzard & Cochrane Screaming Eagles Vs Olds Grizzlys",
       "notes": "U7 Tournament - Okotoks Flyers Vs Airdrie Blizzard & Cochrane Screaming Eagles Vs Olds Grizzlys"
+    },
+    {
+      "start": "2026-11-15T10:00:00-07:00",
+      "end": "2026-11-15T10:15:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "U7 Tournament - Flood"
     },
     {
       "start": "2026-11-15T10:30:00-07:00",
@@ -360,22 +367,22 @@
       "start": "2026-11-20T17:45:00-07:00",
       "end": "2026-11-20T19:15:00-07:00",
       "type": "other",
-      "label": "Trails West Tournament - Wolverines v Springbank",
-      "notes": "Trails West Tournament - Wolverines v Springbank"
+      "label": "Trails West Tournament - Whitemud West Vs Springbank Green",
+      "notes": "Trails West Tournament - Whitemud West Vs Springbank Green"
     },
     {
       "start": "2026-11-21T09:00:00-07:00",
       "end": "2026-11-21T10:30:00-07:00",
       "type": "other",
-      "label": "Trails West Tournament - Springbank v TW White",
-      "notes": "Trails West Tournament - Springbank v TW White"
+      "label": "Trails West Tournament - Springbank Green Vs TW White",
+      "notes": "Trails West Tournament - Springbank Green Vs TW White"
     },
     {
       "start": "2026-11-21T10:45:00-07:00",
       "end": "2026-11-21T12:15:00-07:00",
       "type": "other",
-      "label": "Trails West Tournament - TW Red v. Wolverines",
-      "notes": "Trails West Tournament - TW Red v. Wolverines"
+      "label": "Trails West Tournament - TW Red Vs. Whitemud West",
+      "notes": "Trails West Tournament - TW Red Vs. Whitemud West"
     },
     {
       "start": "2026-11-21T12:00:00-07:00",
@@ -388,15 +395,15 @@
       "start": "2026-11-21T13:15:00-07:00",
       "end": "2026-11-21T14:45:00-07:00",
       "type": "other",
-      "label": "Trails West Tournament - TW White v Wolverines",
-      "notes": "Trails West Tournament - TW White v Wolverines"
+      "label": "Trails West Tournament - TW White v Whitemud West",
+      "notes": "Trails West Tournament - TW White v Whitemud West"
     },
     {
       "start": "2026-11-21T15:00:00-07:00",
       "end": "2026-11-21T16:30:00-07:00",
       "type": "other",
-      "label": "Trails West Tournament - TW Red v Springbank",
-      "notes": "Trails West Tournament - TW Red v Springbank"
+      "label": "Trails West Tournament - TW Red Vs. Springbank Green",
+      "notes": "Trails West Tournament - TW Red Vs. Springbank Green"
     }
   ]
 }

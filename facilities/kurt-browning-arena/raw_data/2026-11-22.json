@@ -4,21 +4,21 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-11-22",
   "week_end": "2026-11-28",
-  "last_updated": "2026-11-09T02:17:29.489334-07:00",
+  "last_updated": "2026-11-16T02:19:02.906552-07:00",
   "slots": [
     {
       "start": "2026-11-22T09:00:00-07:00",
       "end": "2026-11-22T10:30:00-07:00",
       "type": "other",
-      "label": "Trails West Tournament - Game 7",
-      "notes": "Trails West Tournament - Game 7"
+      "label": "Trails West Tournament - B Finals",
+      "notes": "Trails West Tournament - B Finals"
     },
     {
       "start": "2026-11-22T10:45:00-07:00",
       "end": "2026-11-22T12:15:00-07:00",
       "type": "other",
-      "label": "Trails West Tournament - Game 8",
-      "notes": "Trails West Tournament - Game 8"
+      "label": "Trails West Tournament - A Finals",
+      "notes": "Trails West Tournament - A Finals"
     },
     {
       "start": "2026-11-22T15:00:00-07:00",
