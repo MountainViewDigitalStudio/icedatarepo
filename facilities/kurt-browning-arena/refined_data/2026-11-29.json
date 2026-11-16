@@ -1,0 +1,150 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-11-16T09:19:53.188008Z",
+  "facility": {
+    "id": "kurt-browning-arena",
+    "name": "Kurt Browning Arena",
+    "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+  },
+  "week": {
+    "start_date": "2026-11-29",
+    "end_date": "2026-12-05"
+  },
+  "slots": [
+    {
+      "start": "2026-11-29T08:00:00-07:00",
+      "end": "2026-11-29T17:45:00-07:00",
+      "type": "other",
+      "label": "Hockey - Weekend  Unassigned - CAHL",
+      "notes": "Weekend Hockey - Unassigned - CAHL",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-11-29T18:00:00-07:00",
+      "end": "2026-11-29T19:00:00-07:00",
+      "type": "public",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "start": "2026-11-29T19:15:00-07:00",
+      "end": "2026-11-29T20:15:00-07:00",
+      "type": "games",
+      "label": "GMen Adult League",
+      "notes": "GMen Adult League",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-29T20:30:00-07:00",
+      "end": "2026-11-29T22:00:00-07:00",
+      "type": "games",
+      "label": "Stray Cats Adult League",
+      "notes": "Stray Cats Adult League",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-30T15:30:00-07:00",
+      "end": "2026-11-30T21:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - Viewing Area",
+      "notes": "Minor Hockey Practices - Viewing Area",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-30T15:45:00-07:00",
+      "end": "2026-11-30T16:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U5/U7 Practice",
+      "notes": "Minor Hockey Practices - U5/U7 Practice",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-30T16:45:00-07:00",
+      "end": "2026-11-30T17:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U9 Practice",
+      "notes": "Minor Hockey Practices - U9 Practice",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-30T17:45:00-07:00",
+      "end": "2026-11-30T18:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-30T18:00:00-07:00",
+      "end": "2026-11-30T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U11A Practices",
+      "notes": "Minor Hockey Practices - U11A Practices",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-30T18:00:00-07:00",
+      "end": "2026-11-30T21:00:00-07:00",
+      "type": "other",
+      "label": "Monthly Meeting Ag Board 2026 - AGM Meeting",
+      "notes": "Monthly Meeting Ag Board 2026 - AGM Meeting",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-11-30T19:00:00-07:00",
+      "end": "2026-11-30T19:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-30T19:15:00-07:00",
+      "end": "2026-11-30T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U13A Practices",
+      "notes": "Minor Hockey Practices - U13A Practices",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-30T20:15:00-07:00",
+      "end": "2026-11-30T20:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-30T20:30:00-07:00",
+      "end": "2026-11-30T21:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U18 Practice",
+      "notes": "Minor Hockey Practices - U18 Practice",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-30T21:45:00-07:00",
+      "end": "2026-11-30T22:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    }
+  ]
+}

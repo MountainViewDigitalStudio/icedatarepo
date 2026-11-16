@@ -1,9 +1,10 @@
 {
   "version": "1.0",
-  "generated_at": "2026-11-09T09:19:27.611948Z",
+  "generated_at": "2026-11-16T09:19:53.186381Z",
   "facility": {
     "id": "kurt-browning-arena",
-    "name": "Kurt Browning Arena"
+    "name": "Kurt Browning Arena",
+    "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
   },
   "week": {
     "start_date": "2026-11-08",
@@ -216,6 +217,15 @@
       "notes": "Minor Hockey Practices - FLOOD",
       "color": "#8B5CF6",
       "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-11-10T13:00:00-07:00",
+      "end": "2026-11-10T16:00:00-07:00",
+      "type": "other",
+      "label": "Celebration of Life - Patsy Stange",
+      "notes": "Celebration of Life - Patsy Stange",
+      "color": "#64748B",
+      "type_display": "Other"
     },
     {
       "start": "2026-11-10T15:30:00-07:00",
@@ -497,6 +507,24 @@
       "type_display": "Games"
     },
     {
+      "start": "2026-11-13T15:00:00-07:00",
+      "end": "2026-11-13T16:00:00-07:00",
+      "type": "public",
+      "label": "Public Skating",
+      "notes": "PD Day Public Skating - PD Day Public Sakte",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "start": "2026-11-13T16:00:00-07:00",
+      "end": "2026-11-13T16:15:00-07:00",
+      "type": "public",
+      "label": "Public Skating",
+      "notes": "PD Day Public Skating - FLOOD",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
       "start": "2026-11-13T17:00:00-07:00",
       "end": "2026-11-13T18:00:00-07:00",
       "type": "shinny",
@@ -545,8 +573,8 @@
       "start": "2026-11-14T10:30:00-07:00",
       "end": "2026-11-14T11:30:00-07:00",
       "type": "games",
-      "label": "U7 Tournament - Airdrie Dust Devils Vs Cochrane Screaming Eagles & Cochrane Green Goblins Vs Okotoks Fyers",
-      "notes": "U7 Tournament - Airdrie Dust Devils Vs Cochrane Screaming Eagles & Cochrane Green Goblins Vs Okotoks Fyers",
+      "label": "U7 Tournament - Airdrie Dust Devils Vs Cochrane Screaming Eagles & Cochrane Green Goblins Vs Okotoks Flyers",
+      "notes": "U7 Tournament - Airdrie Dust Devils Vs Cochrane Screaming Eagles & Cochrane Green Goblins Vs Okotoks Flyers",
       "color": "#EF4444",
       "type_display": "Games"
     },

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-11-09T09:19:27.662178Z",
+  "generated_at": "2026-11-16T09:19:53.243321Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
@@ -33,7 +33,8 @@
       "label": "Public Skating",
       "notes": "Public Skating",
       "color": "#10B981",
-      "type_display": "Public / Family"
+      "type_display": "Public / Family",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     },
     {
       "facility_id": "olds-sportsplex",
@@ -105,7 +106,8 @@
       "label": "Public Skating",
       "notes": "PD Day Public Skating - PD Day Public Sakte",
       "color": "#10B981",
-      "type_display": "Public / Family"
+      "type_display": "Public / Family",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     },
     {
       "facility_id": "olds-sportsplex",
@@ -123,13 +125,40 @@
       "facility_id": "kurt-browning-arena",
       "facility_name": "Kurt Browning Arena",
       "city": null,
+      "type": "public",
+      "start": "2026-11-13T15:00:00-07:00",
+      "end": "2026-11-13T16:00:00-07:00",
+      "label": "Public Skating",
+      "notes": "PD Day Public Skating - PD Day Public Sakte",
+      "color": "#10B981",
+      "type_display": "Public / Family",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
+      "type": "public",
+      "start": "2026-11-13T16:00:00-07:00",
+      "end": "2026-11-13T16:15:00-07:00",
+      "label": "Public Skating",
+      "notes": "PD Day Public Skating - FLOOD",
+      "color": "#10B981",
+      "type_display": "Public / Family",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+    },
+    {
+      "facility_id": "kurt-browning-arena",
+      "facility_name": "Kurt Browning Arena",
+      "city": null,
       "type": "shinny",
       "start": "2026-11-13T17:00:00-07:00",
       "end": "2026-11-13T18:00:00-07:00",
       "label": "Sticks & Pucks",
       "notes": "Sticks & Pucks",
       "color": "#3B82F6",
-      "type_display": "Shinny / Stick & Puck"
+      "type_display": "Shinny / Stick & Puck",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     }
   ]
 }

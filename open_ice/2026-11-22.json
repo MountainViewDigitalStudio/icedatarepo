@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-11-09T09:19:27.662462Z",
+  "generated_at": "2026-11-16T09:19:53.243608Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
@@ -21,7 +21,8 @@
       "label": "Public Skating",
       "notes": "Public Skating",
       "color": "#10B981",
-      "type_display": "Public / Family"
+      "type_display": "Public / Family",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     },
     {
       "facility_id": "olds-sportsplex",
@@ -81,7 +82,8 @@
       "label": "Sticks & Pucks",
       "notes": "Sticks & Pucks",
       "color": "#3B82F6",
-      "type_display": "Shinny / Stick & Puck"
+      "type_display": "Shinny / Stick & Puck",
+      "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
     }
   ]
 }

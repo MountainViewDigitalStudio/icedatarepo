@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-11-09T09:19:27.584218Z",
+  "generated_at": "2026-11-16T09:19:53.161730Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -77,15 +77,6 @@
           "notes": "Wilde Oct,Nov,Dec  2026 inv",
           "color": "#64748B",
           "type_display": "Other"
-        },
-        {
-          "type": "practice",
-          "start": "2026-11-23T06:15:00-07:00",
-          "end": "2026-11-23T07:30:00-07:00",
-          "label": "Broncos Hockey 2026/2027 Practices",
-          "notes": "Broncos Hockey 2026/2027 Practices",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
         },
         {
           "type": "practice",
@@ -502,7 +493,7 @@
           "start": "2026-11-22T20:00:00-07:00",
           "end": "2026-11-22T21:30:00-07:00",
           "label": "Panthers vs. Spruceview Flames",
-          "notes": "Panthers Games Oct NOv Dec 2026 inv - Panthers vs. Spruceview Flames",
+          "notes": "Panthers Games Oct Nov Dec 2026 inv - Panthers vs. Spruceview Flames",
           "color": "#EF4444",
           "type_display": "Games"
         },
