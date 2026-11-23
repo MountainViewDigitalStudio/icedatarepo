@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-11-16T09:19:53.187493Z",
+  "generated_at": "2026-11-23T09:19:43.499141Z",
   "facility": {
     "id": "kurt-browning-arena",
     "name": "Kurt Browning Arena",
@@ -28,6 +28,24 @@
       "notes": "Trails West Tournament - A Finals",
       "color": "#EF4444",
       "type_display": "Games"
+    },
+    {
+      "start": "2026-11-22T13:00:00-07:00",
+      "end": "2026-11-22T14:00:00-07:00",
+      "type": "shinny",
+      "label": "Sticks & Pucks",
+      "notes": "Sticks & Pucks",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "start": "2026-11-22T14:00:00-07:00",
+      "end": "2026-11-22T14:15:00-07:00",
+      "type": "shinny",
+      "label": "Sticks & Pucks",
+      "notes": "Sticks & Pucks",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
     },
     {
       "start": "2026-11-22T15:00:00-07:00",
@@ -75,13 +93,13 @@
       "type_display": "Games"
     },
     {
-      "start": "2026-11-23T15:30:00-07:00",
+      "start": "2026-11-23T08:00:00-07:00",
       "end": "2026-11-23T21:00:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Minor Hockey Practices - Viewing Area",
-      "notes": "Minor Hockey Practices - Viewing Area",
-      "color": "#8B5CF6",
-      "type_display": "Practice / Other"
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Skate Room Reno's",
+      "color": "#F97316",
+      "type_display": "Rentals"
     },
     {
       "start": "2026-11-23T15:45:00-07:00",
@@ -165,20 +183,20 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-11-24T15:30:00-07:00",
-      "end": "2026-11-24T16:00:00-07:00",
+      "start": "2026-11-24T08:00:00-07:00",
+      "end": "2026-11-24T21:00:00-07:00",
       "type": "rentals",
       "label": "Ice Rental",
-      "notes": "Caroline Skate Club - Pre Skate",
+      "notes": "Skate Room Reno's",
       "color": "#F97316",
       "type_display": "Rentals"
     },
     {
       "start": "2026-11-24T15:30:00-07:00",
-      "end": "2026-11-24T21:00:00-07:00",
+      "end": "2026-11-24T16:00:00-07:00",
       "type": "rentals",
       "label": "Ice Rental",
-      "notes": "Caroline Skate Club - Viewing Area Only",
+      "notes": "Caroline Skate Club - Pre Skate",
       "color": "#F97316",
       "type_display": "Rentals"
     },
@@ -255,13 +273,13 @@
       "type_display": "Practice / Other"
     },
     {
-      "start": "2026-11-25T15:30:00-07:00",
+      "start": "2026-11-25T08:00:00-07:00",
       "end": "2026-11-25T21:00:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Minor Hockey Practices - Viewing Area",
-      "notes": "Minor Hockey Practices - Viewing Area",
-      "color": "#8B5CF6",
-      "type_display": "Practice / Other"
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Skate Room Reno's",
+      "color": "#F97316",
+      "type_display": "Rentals"
     },
     {
       "start": "2026-11-25T15:45:00-07:00",
@@ -341,15 +359,6 @@
       "type": "rentals",
       "label": "Ice Rental",
       "notes": "Caroline Skate Club - Pre Skate",
-      "color": "#F97316",
-      "type_display": "Rentals"
-    },
-    {
-      "start": "2026-11-26T15:30:00-07:00",
-      "end": "2026-11-26T21:00:00-07:00",
-      "type": "rentals",
-      "label": "Ice Rental",
-      "notes": "Caroline Skate Club - Viewing Area Only",
       "color": "#F97316",
       "type_display": "Rentals"
     },
@@ -436,12 +445,21 @@
     },
     {
       "start": "2026-11-27T18:15:00-07:00",
-      "end": "2026-11-27T21:00:00-07:00",
-      "type": "other",
-      "label": "Hockey - Weekend  Unassigned - CAHL",
-      "notes": "Weekend Hockey - Unassigned - CAHL",
-      "color": "#64748B",
-      "type_display": "Other"
+      "end": "2026-11-27T20:30:00-07:00",
+      "type": "games",
+      "label": "U15 Games & Tournaments - U15 Chiefs Vs Strathmore",
+      "notes": "U15 Games & Tournaments - U15 Chiefs Vs Strathmore",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-27T20:30:00-07:00",
+      "end": "2026-11-27T20:45:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U15 Games & Tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
     },
     {
       "start": "2026-11-27T21:00:00-07:00",
@@ -453,13 +471,94 @@
       "type_display": "Games"
     },
     {
-      "start": "2026-11-28T08:00:00-07:00",
-      "end": "2026-11-28T21:00:00-07:00",
-      "type": "other",
-      "label": "Hockey - Weekend  Unassigned - CAHL",
-      "notes": "Weekend Hockey - Unassigned - CAHL",
-      "color": "#64748B",
-      "type_display": "Other"
+      "start": "2026-11-28T10:45:00-07:00",
+      "end": "2026-11-28T12:00:00-07:00",
+      "type": "games",
+      "label": "U9 Games & Tournaments - U9B Colts Vs Sundre",
+      "notes": "U9 Games & Tournaments - U9B Colts Vs Sundre",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-28T12:00:00-07:00",
+      "end": "2026-11-28T12:15:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U9 Games & Tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-28T12:15:00-07:00",
+      "end": "2026-11-28T14:15:00-07:00",
+      "type": "games",
+      "label": "U11 Games & Tournaments - U11A Chiefs Vs Stettler",
+      "notes": "U11 Games & Tournaments - U11A Chiefs Vs Stettler",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-28T14:15:00-07:00",
+      "end": "2026-11-28T14:30:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U11 Games & Tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-28T14:30:00-07:00",
+      "end": "2026-11-28T16:30:00-07:00",
+      "type": "games",
+      "label": "U13 Games & tournaments - U13B Chiefs Vs New Sarepta",
+      "notes": "U13 Games & tournaments - U13B Chiefs Vs New Sarepta",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-28T16:30:00-07:00",
+      "end": "2026-11-28T16:45:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U13 Games & tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-28T16:45:00-07:00",
+      "end": "2026-11-28T19:00:00-07:00",
+      "type": "games",
+      "label": "U15 Games & Tournaments - U15 Chiefs Vs Blackfalds",
+      "notes": "U15 Games & Tournaments - U15 Chiefs Vs Blackfalds",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-28T19:00:00-07:00",
+      "end": "2026-11-28T19:15:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U15 Games & Tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-28T19:15:00-07:00",
+      "end": "2026-11-28T21:45:00-07:00",
+      "type": "games",
+      "label": "U18 Games & Tournaments - U18 Chiefs Vs Strathmore",
+      "notes": "U18 Games & Tournaments - U18 Chiefs Vs Strathmore",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-11-28T21:45:00-07:00",
+      "end": "2026-11-28T22:00:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U18 Games & Tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
     }
   ]
 }

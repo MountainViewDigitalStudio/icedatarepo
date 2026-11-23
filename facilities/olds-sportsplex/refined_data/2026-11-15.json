@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-11-16T09:19:53.160997Z",
+  "generated_at": "2026-11-23T09:19:43.454790Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -223,6 +223,15 @@
           "type_display": "Practice / Other"
         },
         {
+          "type": "other",
+          "start": "2026-11-17T21:45:00-07:00",
+          "end": "2026-11-17T23:00:00-07:00",
+          "label": "Gosling",
+          "notes": "Gosling",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
           "type": "practice",
           "start": "2026-11-18T06:15:00-07:00",
           "end": "2026-11-18T07:30:00-07:00",
@@ -253,8 +262,8 @@
           "type": "practice",
           "start": "2026-11-18T17:45:00-07:00",
           "end": "2026-11-18T19:15:00-07:00",
-          "label": "U13A fem/ 6:15-6:45 U13AF/U13BF 6:45-7:15 U13BF",
-          "notes": "OMHA November 2026 - U13A fem/ 6:15-6:45 U13AF/U13BF 6:45-7:15 U13BF",
+          "label": "5:45-6:15 U13A fem/ 6:15-6:45 U13AF/U13BF 6:45-7:15 U13BF",
+          "notes": "OMHA November 2026 - 5:45-6:15 U13A fem/ 6:15-6:45 U13AF/U13BF 6:45-7:15 U13BF",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -430,13 +439,13 @@
           "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-21T20:15:00-07:00",
-          "end": "2026-11-21T22:30:00-07:00",
-          "label": "U18",
-          "notes": "OMHA November 2026 - U18",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "end": "2026-11-21T22:15:00-07:00",
+          "label": "U15C vs West Country",
+          "notes": "OMHA November 2026 - U15C vs West Country",
+          "color": "#EF4444",
+          "type_display": "Games"
         }
       ]
     },
@@ -690,8 +699,8 @@
           "type": "practice",
           "start": "2026-11-19T16:00:00-07:00",
           "end": "2026-11-19T17:30:00-07:00",
-          "label": "U9A/ U9B 4:45-5:30 U11A",
-          "notes": "OMHA November 2026 - U9A/ U9B 4:45-5:30 U11A",
+          "label": "4:00-4:45 U9A/ U9B,  4:45-5:30 U11A",
+          "notes": "OMHA November 2026 - 4:00-4:45 U9A/ U9B,  4:45-5:30 U11A",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -699,15 +708,15 @@
           "type": "practice",
           "start": "2026-11-19T17:45:00-07:00",
           "end": "2026-11-19T19:30:00-07:00",
-          "label": "5:45-6:30 U13C  6:30-7:30 U11AA",
-          "notes": "OMHA November 2026 - 5:45-6:30 U13C  6:30-7:30 U11AA",
+          "label": "5:45-6:30 U13C,  6:30-7:30 U11AA",
+          "notes": "OMHA November 2026 - 5:45-6:30 U13C,  6:30-7:30 U11AA",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2026-11-19T19:45:00-07:00",
-          "end": "2026-11-19T20:30:00-07:00",
+          "end": "2026-11-19T20:45:00-07:00",
           "label": "U15A",
           "notes": "OMHA November 2026 - U15A",
           "color": "#8B5CF6",
@@ -732,6 +741,15 @@
           "type_display": "Other"
         },
         {
+          "type": "shinny",
+          "start": "2026-11-20T12:00:00-07:00",
+          "end": "2026-11-20T13:00:00-07:00",
+          "label": "Sticks and Pucks 2026/2027",
+          "notes": "Sticks and Pucks 2026/2027",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
           "type": "games",
           "start": "2026-11-20T13:15:00-07:00",
           "end": "2026-11-20T15:30:00-07:00",
@@ -750,22 +768,22 @@
           "type_display": "Skating Club / Programs"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-20T17:30:00-07:00",
           "end": "2026-11-20T19:30:00-07:00",
-          "label": "U13",
-          "notes": "OMHA November 2026 - U13",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
-        },
-        {
-          "type": "games",
-          "start": "2026-11-20T19:45:00-07:00",
-          "end": "2026-11-20T22:00:00-07:00",
-          "label": "U18 fem vs Cochrane",
-          "notes": "OMHA November 2026 - U18 fem vs Cochrane",
+          "label": "U13B vs Delburne",
+          "notes": "OMHA November 2026 - U13B vs Delburne",
           "color": "#EF4444",
           "type_display": "Games"
+        },
+        {
+          "type": "other",
+          "start": "2026-11-20T19:45:00-07:00",
+          "end": "2026-11-20T22:00:00-07:00",
+          "label": "OMHA",
+          "notes": "OMHA November 2026 - OMHA",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "games",
@@ -777,31 +795,31 @@
           "type_display": "Games"
         },
         {
-          "type": "other",
+          "type": "games",
           "start": "2026-11-21T11:30:00-07:00",
           "end": "2026-11-21T13:30:00-07:00",
-          "label": "OMHA",
-          "notes": "OMHA November 2026 - OMHA",
-          "color": "#64748B",
-          "type_display": "Other"
-        },
-        {
-          "type": "other",
-          "start": "2026-11-21T13:45:00-07:00",
-          "end": "2026-11-21T15:45:00-07:00",
-          "label": "OMHA",
-          "notes": "OMHA November 2026 - OMHA",
-          "color": "#64748B",
-          "type_display": "Other"
+          "label": "U13C vs West Country",
+          "notes": "OMHA November 2026 - U13C vs West Country",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "practice",
-          "start": "2026-11-21T16:00:00-07:00",
-          "end": "2026-11-21T17:15:00-07:00",
-          "label": "U9",
-          "notes": "OMHA November 2026 - U9",
+          "start": "2026-11-21T13:45:00-07:00",
+          "end": "2026-11-21T15:15:00-07:00",
+          "label": "North Stars Hockey Academy Practice PD",
+          "notes": "North Stars Hockey Academy Practice PD",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-11-21T16:00:00-07:00",
+          "end": "2026-11-21T17:15:00-07:00",
+          "label": "OMHA no teams",
+          "notes": "OMHA November 2026 - OMHA no teams",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "games",
@@ -813,13 +831,13 @@
           "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-21T20:00:00-07:00",
           "end": "2026-11-21T22:00:00-07:00",
-          "label": "U15",
-          "notes": "OMHA November 2026 - U15",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U15A vs Blackfalds",
+          "notes": "OMHA November 2026 - U15A vs Blackfalds",
+          "color": "#EF4444",
+          "type_display": "Games"
         }
       ]
     }

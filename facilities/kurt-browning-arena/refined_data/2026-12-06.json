@@ -1,0 +1,582 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-11-23T09:19:43.500251Z",
+  "facility": {
+    "id": "kurt-browning-arena",
+    "name": "Kurt Browning Arena",
+    "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp"
+  },
+  "week": {
+    "start_date": "2026-12-06",
+    "end_date": "2026-12-12"
+  },
+  "slots": [
+    {
+      "start": "2026-12-06T08:00:00-07:00",
+      "end": "2026-12-06T14:00:00-07:00",
+      "type": "other",
+      "label": "Hockey - Weekend  Unassigned - CAHL",
+      "notes": "Weekend Hockey - Unassigned - CAHL",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-12-06T14:00:00-07:00",
+      "end": "2026-12-06T16:15:00-07:00",
+      "type": "games",
+      "label": "West Central Tigers Games - U18AA",
+      "notes": "West Central Tigers Games - U18AA",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-06T16:15:00-07:00",
+      "end": "2026-12-06T16:30:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "West Central Tigers Games - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-06T16:30:00-07:00",
+      "end": "2026-12-06T18:00:00-07:00",
+      "type": "other",
+      "label": "Hockey - Weekend  Unassigned - CAHL",
+      "notes": "Weekend Hockey - Unassigned - CAHL",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-12-06T18:00:00-07:00",
+      "end": "2026-12-06T19:00:00-07:00",
+      "type": "public",
+      "label": "Public Skating",
+      "notes": "Public Skating",
+      "color": "#10B981",
+      "type_display": "Public / Family"
+    },
+    {
+      "start": "2026-12-06T19:15:00-07:00",
+      "end": "2026-12-06T20:15:00-07:00",
+      "type": "games",
+      "label": "GMen Adult League",
+      "notes": "GMen Adult League",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-07T15:30:00-07:00",
+      "end": "2026-12-07T21:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - Viewing Area",
+      "notes": "Minor Hockey Practices - Viewing Area",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-07T15:45:00-07:00",
+      "end": "2026-12-07T16:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U5/U7 Practice",
+      "notes": "Minor Hockey Practices - U5/U7 Practice",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-07T16:45:00-07:00",
+      "end": "2026-12-07T17:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U9 Practice",
+      "notes": "Minor Hockey Practices - U9 Practice",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-07T17:45:00-07:00",
+      "end": "2026-12-07T18:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-07T18:00:00-07:00",
+      "end": "2026-12-07T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U11A Practices",
+      "notes": "Minor Hockey Practices - U11A Practices",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-07T19:00:00-07:00",
+      "end": "2026-12-07T19:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-07T19:15:00-07:00",
+      "end": "2026-12-07T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U13A Practices",
+      "notes": "Minor Hockey Practices - U13A Practices",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-07T20:15:00-07:00",
+      "end": "2026-12-07T20:30:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-07T20:30:00-07:00",
+      "end": "2026-12-07T21:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U18 Practice",
+      "notes": "Minor Hockey Practices - U18 Practice",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-07T21:45:00-07:00",
+      "end": "2026-12-07T22:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-08T15:30:00-07:00",
+      "end": "2026-12-08T16:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Pre Skate",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-12-08T16:15:00-07:00",
+      "end": "2026-12-08T17:15:00-07:00",
+      "type": "skating_club",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Learn to Skate",
+      "color": "#06B6D4",
+      "type_display": "Skating Club / Programs"
+    },
+    {
+      "start": "2026-12-08T17:15:00-07:00",
+      "end": "2026-12-08T17:30:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-12-08T17:30:00-07:00",
+      "end": "2026-12-08T18:45:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Preliminary Fun Skate",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-12-08T18:45:00-07:00",
+      "end": "2026-12-08T19:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-12-08T19:00:00-07:00",
+      "end": "2026-12-08T20:30:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Junior Fun Skate",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-12-08T20:30:00-07:00",
+      "end": "2026-12-08T20:45:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-12-08T20:45:00-07:00",
+      "end": "2026-12-08T21:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U15 Practice",
+      "notes": "Minor Hockey Practices - U15 Practice",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-08T21:45:00-07:00",
+      "end": "2026-12-08T22:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-09T07:00:00-07:00",
+      "end": "2026-12-09T09:00:00-07:00",
+      "type": "other",
+      "label": "Monthly Meetings-Taqa",
+      "notes": "Monthly Meetings-Taqa",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-12-09T15:30:00-07:00",
+      "end": "2026-12-09T21:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - Viewing Area",
+      "notes": "Minor Hockey Practices - Viewing Area",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-09T15:45:00-07:00",
+      "end": "2026-12-09T16:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U5/U7 Practice",
+      "notes": "Minor Hockey Practices - U5/U7 Practice",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-09T16:45:00-07:00",
+      "end": "2026-12-09T17:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U9 Practice",
+      "notes": "Minor Hockey Practices - U9 Practice",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-09T17:45:00-07:00",
+      "end": "2026-12-09T18:45:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U11B Practice",
+      "notes": "Minor Hockey Practices - U11B Practice",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-09T18:45:00-07:00",
+      "end": "2026-12-09T19:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-09T19:00:00-07:00",
+      "end": "2026-12-09T20:00:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - U13B Practices",
+      "notes": "Minor Hockey Practices - U13B Practices",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-09T20:00:00-07:00",
+      "end": "2026-12-09T20:15:00-07:00",
+      "type": "practice",
+      "label": "Hockey - Minor Hockey Practices - FLOOD",
+      "notes": "Minor Hockey Practices - FLOOD",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-09T20:15:00-07:00",
+      "end": "2026-12-09T21:30:00-07:00",
+      "type": "games",
+      "label": "Hockey - Cowboy Adult League - Cowboy Mens Hockey",
+      "notes": "Cowboy Adult League - Cowboy Mens Hockey",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-10T09:00:00-07:00",
+      "end": "2026-12-10T12:00:00-07:00",
+      "type": "other",
+      "label": "Recovery Alberta Meeting",
+      "notes": "Recovery Alberta Meeting",
+      "color": "#64748B",
+      "type_display": "Other"
+    },
+    {
+      "start": "2026-12-10T15:30:00-07:00",
+      "end": "2026-12-10T16:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Pre Skate",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-12-10T16:15:00-07:00",
+      "end": "2026-12-10T17:15:00-07:00",
+      "type": "skating_club",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Learn to Skate",
+      "color": "#06B6D4",
+      "type_display": "Skating Club / Programs"
+    },
+    {
+      "start": "2026-12-10T17:15:00-07:00",
+      "end": "2026-12-10T17:30:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-12-10T17:30:00-07:00",
+      "end": "2026-12-10T18:45:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Preliminary Fun Skate",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-12-10T18:45:00-07:00",
+      "end": "2026-12-10T19:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-12-10T19:00:00-07:00",
+      "end": "2026-12-10T21:00:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - Junior Fun Skate",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-12-10T21:00:00-07:00",
+      "end": "2026-12-10T21:15:00-07:00",
+      "type": "rentals",
+      "label": "Ice Rental",
+      "notes": "Caroline Skate Club - FLOOD",
+      "color": "#F97316",
+      "type_display": "Rentals"
+    },
+    {
+      "start": "2026-12-11T07:00:00-07:00",
+      "end": "2026-12-11T08:00:00-07:00",
+      "type": "practice",
+      "label": "Skills and Drills - Skills and Drills",
+      "notes": "Skills and Drills - Skills and Drills",
+      "color": "#8B5CF6",
+      "type_display": "Practice / Other"
+    },
+    {
+      "start": "2026-12-11T12:00:00-07:00",
+      "end": "2026-12-11T14:15:00-07:00",
+      "type": "games",
+      "label": "U18 Games & Tournaments - West Country Chiefs Vs Stettler U18B",
+      "notes": "U18 Games & Tournaments - West Country Chiefs Vs Stettler U18B",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-11T14:15:00-07:00",
+      "end": "2026-12-11T14:30:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U18 Games & Tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-11T14:30:00-07:00",
+      "end": "2026-12-11T16:45:00-07:00",
+      "type": "games",
+      "label": "U18 Games & Tournaments - Leduc Roughnecks Vs KC706 Sabres",
+      "notes": "U18 Games & Tournaments - Leduc Roughnecks Vs KC706 Sabres",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-11T16:45:00-07:00",
+      "end": "2026-12-11T17:00:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U18 Games & Tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-11T17:00:00-07:00",
+      "end": "2026-12-11T18:00:00-07:00",
+      "type": "shinny",
+      "label": "Sticks & Pucks",
+      "notes": "Sticks & Pucks",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
+    },
+    {
+      "start": "2026-12-11T18:15:00-07:00",
+      "end": "2026-12-11T20:30:00-07:00",
+      "type": "games",
+      "label": "U18 Games & Tournaments - Seera SE704 Vs SWZ 705",
+      "notes": "U18 Games & Tournaments - Seera SE704 Vs SWZ 705",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-11T20:30:00-07:00",
+      "end": "2026-12-11T20:45:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U18 Games & Tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-11T21:00:00-07:00",
+      "end": "2026-12-11T22:15:00-07:00",
+      "type": "games",
+      "label": "Stauffer Pond Scratchers Adult League",
+      "notes": "Stauffer Pond Scratchers Adult League",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-12T08:00:00-07:00",
+      "end": "2026-12-12T10:00:00-07:00",
+      "type": "games",
+      "label": "U18 Games & Tournaments - Stettler U18B Vs Leduc Roughnecks",
+      "notes": "U18 Games & Tournaments - Stettler U18B Vs Leduc Roughnecks",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-12T10:00:00-07:00",
+      "end": "2026-12-12T10:15:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U18 Games & Tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-12T10:15:00-07:00",
+      "end": "2026-12-12T12:15:00-07:00",
+      "type": "games",
+      "label": "U18 Games & Tournaments - KC706 Sabres Vs Seera SE704",
+      "notes": "U18 Games & Tournaments - KC706 Sabres Vs Seera SE704",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-12T12:15:00-07:00",
+      "end": "2026-12-12T12:30:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U18 Games & Tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-12T12:30:00-07:00",
+      "end": "2026-12-12T14:30:00-07:00",
+      "type": "games",
+      "label": "U18 Games & Tournaments - SWZ 705 Vs West Country Chiefs",
+      "notes": "U18 Games & Tournaments - SWZ 705 Vs West Country Chiefs",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-12T14:30:00-07:00",
+      "end": "2026-12-12T14:45:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U18 Games & Tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-12T14:45:00-07:00",
+      "end": "2026-12-12T16:45:00-07:00",
+      "type": "games",
+      "label": "U18 Games & Tournaments - Seera SE704 Vs Stettler U18B",
+      "notes": "U18 Games & Tournaments - Seera SE704 Vs Stettler U18B",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-12T16:45:00-07:00",
+      "end": "2026-12-12T17:00:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U18 Games & Tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-12T17:00:00-07:00",
+      "end": "2026-12-12T19:00:00-07:00",
+      "type": "games",
+      "label": "U18 Games & Tournaments - Leduc Roughnecks Vs SWZ 705",
+      "notes": "U18 Games & Tournaments - Leduc Roughnecks Vs SWZ 705",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-12T19:00:00-07:00",
+      "end": "2026-12-12T19:15:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U18 Games & Tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-12T19:15:00-07:00",
+      "end": "2026-12-12T21:15:00-07:00",
+      "type": "games",
+      "label": "U18 Games & Tournaments - West Country Chiefs Vs KC706 Sabres",
+      "notes": "U18 Games & Tournaments - West Country Chiefs Vs KC706 Sabres",
+      "color": "#EF4444",
+      "type_display": "Games"
+    },
+    {
+      "start": "2026-12-12T21:15:00-07:00",
+      "end": "2026-12-12T21:30:00-07:00",
+      "type": "games",
+      "label": "Maintenance",
+      "notes": "U18 Games & Tournaments - Flood",
+      "color": "#EF4444",
+      "type_display": "Games"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-11-16T09:19:53.243496Z",
+  "generated_at": "2026-11-23T09:19:43.562142Z",
   "facility": {
     "id": "open-ice",
     "name": "Open Ice (Public & Shinny)"
@@ -83,6 +83,18 @@
       "notes": "Public Skating",
       "color": "#10B981",
       "type_display": "Public / Family"
+    },
+    {
+      "facility_id": "olds-sportsplex",
+      "facility_name": "Olds Sportsplex",
+      "city": null,
+      "type": "shinny",
+      "start": "2026-11-20T12:00:00-07:00",
+      "end": "2026-11-20T13:00:00-07:00",
+      "label": "Sticks and Pucks 2026/2027",
+      "notes": "Sticks and Pucks 2026/2027",
+      "color": "#3B82F6",
+      "type_display": "Shinny / Stick & Puck"
     }
   ]
 }

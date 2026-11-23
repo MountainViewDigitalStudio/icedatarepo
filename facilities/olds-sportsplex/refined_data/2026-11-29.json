@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-11-16T09:19:53.162507Z",
+  "generated_at": "2026-11-23T09:19:43.456750Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -16,49 +16,49 @@
       "name": "Main Ice Surface",
       "slots": [
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-29T08:45:00-07:00",
           "end": "2026-11-29T10:00:00-07:00",
-          "label": "U9",
-          "notes": "OMHA November 2026 - U9",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U9B vs Didsbury U9C vs Renegades",
+          "notes": "OMHA November 2026 - U9B vs Didsbury U9C vs Renegades",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "games",
           "start": "2026-11-29T10:15:00-07:00",
           "end": "2026-11-29T12:15:00-07:00",
-          "label": "U13B fem\t vs\t Medicine\t Hat",
-          "notes": "OMHA November 2026 - U13B fem\t vs\t Medicine\t Hat",
+          "label": "U13B female vs Medicine Hat",
+          "notes": "OMHA November 2026 - U13B female vs Medicine Hat",
           "color": "#EF4444",
           "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-29T12:30:00-07:00",
           "end": "2026-11-29T14:30:00-07:00",
-          "label": "U15 fem",
-          "notes": "OMHA November 2026 - U15 fem",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U15A fem vs West Central",
+          "notes": "OMHA November 2026 - U15A fem vs West Central",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-29T14:45:00-07:00",
-          "end": "2026-11-29T17:00:00-07:00",
-          "label": "U18",
-          "notes": "OMHA November 2026 - U18",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "end": "2026-11-29T16:45:00-07:00",
+          "label": "U15C vs Lacombe",
+          "notes": "OMHA November 2026 - U15C vs Lacombe",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "practice",
-          "start": "2026-11-29T17:15:00-07:00",
-          "end": "2026-11-29T19:30:00-07:00",
-          "label": "U15",
-          "notes": "OMHA November 2026 - U15",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "type": "games",
+          "start": "2026-11-29T17:00:00-07:00",
+          "end": "2026-11-29T19:15:00-07:00",
+          "label": "U18A vs Red Deer",
+          "notes": "OMHA November 2026 - U18A vs Red Deer",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "games",
@@ -97,6 +97,15 @@
           "type_display": "Practice / Other"
         },
         {
+          "type": "shinny",
+          "start": "2026-11-30T13:00:00-07:00",
+          "end": "2026-11-30T14:00:00-07:00",
+          "label": "Sticks and Pucks 2026/2027",
+          "notes": "Sticks and Pucks 2026/2027",
+          "color": "#3B82F6",
+          "type_display": "Shinny / Stick & Puck"
+        },
+        {
           "type": "practice",
           "start": "2026-11-30T16:00:00-07:00",
           "end": "2026-11-30T16:45:00-07:00",
@@ -108,18 +117,45 @@
         {
           "type": "practice",
           "start": "2026-11-30T16:45:00-07:00",
-          "end": "2026-11-30T17:45:00-07:00",
-          "label": "U11 fem",
-          "notes": "OMHA November 2026 - U11 fem",
+          "end": "2026-11-30T17:30:00-07:00",
+          "label": "U11 Female",
+          "notes": "OMHA November 2026 - U11 Female",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
         {
           "type": "practice",
           "start": "2026-11-30T17:45:00-07:00",
-          "end": "2026-11-30T18:30:00-07:00",
-          "label": "5:45-6:15 U13A fem 6:15-6:45 U13AF/U13BF 6:45-7:15 U13B fem",
-          "notes": "OMHA November 2026 - 5:45-6:15 U13A fem 6:15-6:45 U13AF/U13BF 6:45-7:15 U13B fem",
+          "end": "2026-11-30T18:15:00-07:00",
+          "label": "U13A female",
+          "notes": "OMHA November 2026 - U13A female",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-30T18:15:00-07:00",
+          "end": "2026-11-30T18:45:00-07:00",
+          "label": "U13AF/U13BF",
+          "notes": "OMHA November 2026 - U13AF/U13BF",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-30T18:45:00-07:00",
+          "end": "2026-11-30T19:15:00-07:00",
+          "label": "U13B Female",
+          "notes": "OMHA November 2026 - U13B Female",
+          "color": "#8B5CF6",
+          "type_display": "Practice / Other"
+        },
+        {
+          "type": "practice",
+          "start": "2026-11-30T19:30:00-07:00",
+          "end": "2026-11-30T20:15:00-07:00",
+          "label": "U15A",
+          "notes": "OMHA November 2026 - U15A",
           "color": "#8B5CF6",
           "type_display": "Practice / Other"
         },
@@ -158,6 +194,24 @@
           "notes": "Grizzlys Nov 2026- March 2027 - Pre-Game Skate",
           "color": "#EF4444",
           "type_display": "Games"
+        },
+        {
+          "type": "other",
+          "start": "2026-12-01T12:45:00-07:00",
+          "end": "2026-12-01T13:30:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-12-01T14:15:00-07:00",
+          "end": "2026-12-01T15:00:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "practice",
@@ -201,6 +255,42 @@
           "end": "2026-12-02T21:00:00-07:00",
           "label": "Backpack Program",
           "notes": "Backpack Program",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-12-02T09:00:00-07:00",
+          "end": "2026-12-02T09:30:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-12-02T11:45:00-07:00",
+          "end": "2026-12-02T12:15:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-12-02T12:45:00-07:00",
+          "end": "2026-12-02T13:30:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-12-02T14:15:00-07:00",
+          "end": "2026-12-02T15:00:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
           "color": "#64748B",
           "type_display": "Other"
         },
@@ -277,6 +367,24 @@
           "type_display": "Practice / Other"
         },
         {
+          "type": "other",
+          "start": "2026-12-03T12:45:00-07:00",
+          "end": "2026-12-03T13:30:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-12-03T14:15:00-07:00",
+          "end": "2026-12-03T15:00:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
           "type": "practice",
           "start": "2026-12-03T16:00:00-07:00",
           "end": "2026-12-03T18:15:00-07:00",
@@ -320,6 +428,33 @@
           "notes": "Grizzlys Nov 2026- March 2027 - Pre-Game Skate",
           "color": "#EF4444",
           "type_display": "Games"
+        },
+        {
+          "type": "other",
+          "start": "2026-12-04T11:45:00-07:00",
+          "end": "2026-12-04T12:15:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-12-04T12:45:00-07:00",
+          "end": "2026-12-04T13:30:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-12-04T14:15:00-07:00",
+          "end": "2026-12-04T15:00:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "skating_club",
@@ -411,19 +546,19 @@
           "type": "other",
           "start": "2026-11-29T08:45:00-07:00",
           "end": "2026-11-29T09:30:00-07:00",
-          "label": "Pre Hock",
-          "notes": "OMHA November 2026 - Pre Hock",
+          "label": "Pre Hockey",
+          "notes": "OMHA November 2026 - Pre Hockey",
           "color": "#64748B",
           "type_display": "Other"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-29T09:45:00-07:00",
           "end": "2026-11-29T11:45:00-07:00",
-          "label": "U11 fem",
-          "notes": "OMHA November 2026 - U11 fem",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U11 fem vs West Central",
+          "notes": "OMHA November 2026 - U11 fem vs West Central",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "public",
@@ -435,22 +570,22 @@
           "type_display": "Public / Family"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-29T13:30:00-07:00",
           "end": "2026-11-29T15:30:00-07:00",
-          "label": "U13",
-          "notes": "OMHA November 2026 - U13",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U13A vs New  Sarepta",
+          "notes": "OMHA November 2026 - U13A vs New  Sarepta",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
-          "type": "practice",
+          "type": "games",
           "start": "2026-11-29T15:45:00-07:00",
           "end": "2026-11-29T17:45:00-07:00",
-          "label": "U13",
-          "notes": "OMHA November 2026 - U13",
-          "color": "#8B5CF6",
-          "type_display": "Practice / Other"
+          "label": "U13C vs Sylvan Lake",
+          "notes": "OMHA November 2026 - U13C vs Sylvan Lake",
+          "color": "#EF4444",
+          "type_display": "Games"
         },
         {
           "type": "other",
@@ -480,13 +615,40 @@
           "type_display": "Other"
         },
         {
-          "type": "shinny",
-          "start": "2026-11-30T12:00:00-07:00",
-          "end": "2026-11-30T13:00:00-07:00",
-          "label": "Sticks and Pucks 2026/2027",
-          "notes": "Sticks and Pucks 2026/2027",
-          "color": "#3B82F6",
-          "type_display": "Shinny / Stick & Puck"
+          "type": "other",
+          "start": "2026-11-30T09:00:00-07:00",
+          "end": "2026-11-30T09:30:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-11-30T11:45:00-07:00",
+          "end": "2026-11-30T12:15:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-11-30T12:45:00-07:00",
+          "end": "2026-11-30T13:30:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-11-30T14:15:00-07:00",
+          "end": "2026-11-30T15:00:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "skating_club",
@@ -534,9 +696,27 @@
           "type_display": "Practice / Other"
         },
         {
+          "type": "other",
+          "start": "2026-12-01T09:00:00-07:00",
+          "end": "2026-12-01T09:30:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-12-01T11:45:00-07:00",
+          "end": "2026-12-01T12:15:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
           "type": "public",
-          "start": "2026-12-01T12:00:00-07:00",
-          "end": "2026-12-01T13:00:00-07:00",
+          "start": "2026-12-01T12:15:00-07:00",
+          "end": "2026-12-01T13:15:00-07:00",
           "label": "Public Skating",
           "notes": "Public Skating",
           "color": "#10B981",
@@ -660,9 +840,27 @@
           "type_display": "Practice / Other"
         },
         {
+          "type": "other",
+          "start": "2026-12-03T09:00:00-07:00",
+          "end": "2026-12-03T09:30:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
+          "type": "other",
+          "start": "2026-12-03T11:45:00-07:00",
+          "end": "2026-12-03T12:15:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
           "type": "public",
-          "start": "2026-12-03T12:00:00-07:00",
-          "end": "2026-12-03T13:00:00-07:00",
+          "start": "2026-12-03T12:15:00-07:00",
+          "end": "2026-12-03T13:15:00-07:00",
           "label": "Public Skating",
           "notes": "Public Skating",
           "color": "#10B981",
@@ -732,6 +930,15 @@
           "type_display": "Other"
         },
         {
+          "type": "other",
+          "start": "2026-12-04T09:00:00-07:00",
+          "end": "2026-12-04T09:30:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
+        },
+        {
           "type": "shinny",
           "start": "2026-12-04T12:00:00-07:00",
           "end": "2026-12-04T13:00:00-07:00",
@@ -739,6 +946,15 @@
           "notes": "Sticks and Pucks 2026/2027",
           "color": "#3B82F6",
           "type_display": "Shinny / Stick & Puck"
+        },
+        {
+          "type": "other",
+          "start": "2026-12-04T14:15:00-07:00",
+          "end": "2026-12-04T15:00:00-07:00",
+          "label": "OHS",
+          "notes": "Olds High School - OHS",
+          "color": "#64748B",
+          "type_display": "Other"
         },
         {
           "type": "practice",
