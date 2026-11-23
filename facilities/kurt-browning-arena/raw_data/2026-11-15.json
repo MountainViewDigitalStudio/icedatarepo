@@ -4,35 +4,35 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-11-15",
   "week_end": "2026-11-21",
-  "last_updated": "2026-11-16T02:19:02.578303-07:00",
+  "last_updated": "2026-11-23T02:18:13.933104-07:00",
   "slots": [
     {
       "start": "2026-11-15T09:00:00-07:00",
       "end": "2026-11-15T10:00:00-07:00",
       "type": "other",
-      "label": "U7 Tournament - Okotoks Flyers Vs Airdrie Blizzard & Cochrane Screaming Eagles Vs Olds Grizzlys",
-      "notes": "U7 Tournament - Okotoks Flyers Vs Airdrie Blizzard & Cochrane Screaming Eagles Vs Olds Grizzlys"
+      "label": "U7 Games/Tournament - Okotoks Flyers Vs Airdrie Blizzard & Cochrane Screaming Eagles Vs Olds Grizzlys",
+      "notes": "U7 Games/Tournament - Okotoks Flyers Vs Airdrie Blizzard & Cochrane Screaming Eagles Vs Olds Grizzlys"
     },
     {
       "start": "2026-11-15T10:00:00-07:00",
       "end": "2026-11-15T10:15:00-07:00",
       "type": "maintenance",
       "label": "Maintenance",
-      "notes": "U7 Tournament - Flood"
+      "notes": "U7 Games/Tournament - Flood"
     },
     {
       "start": "2026-11-15T10:30:00-07:00",
       "end": "2026-11-15T11:30:00-07:00",
       "type": "other",
-      "label": "U7 Tournament - Caroline Colts Vs Cochrane Green Goblins & Airdrie Dust Devils Vs Cochrane Ice Wolves",
-      "notes": "U7 Tournament - Caroline Colts Vs Cochrane Green Goblins & Airdrie Dust Devils Vs Cochrane Ice Wolves"
+      "label": "U7 Games/Tournament - Caroline Colts Vs Cochrane Green Goblins & Airdrie Dust Devils Vs Cochrane Ice Wolves",
+      "notes": "U7 Games/Tournament - Caroline Colts Vs Cochrane Green Goblins & Airdrie Dust Devils Vs Cochrane Ice Wolves"
     },
     {
       "start": "2026-11-15T11:30:00-07:00",
       "end": "2026-11-15T11:45:00-07:00",
       "type": "maintenance",
       "label": "Maintenance",
-      "notes": "U7 Tournament - Flood"
+      "notes": "U7 Games/Tournament - Flood"
     },
     {
       "start": "2026-11-15T18:00:00-07:00",
@@ -131,13 +131,6 @@
       "type": "rental",
       "label": "Ice Rental",
       "notes": "Caroline Skate Club - Pre Skate"
-    },
-    {
-      "start": "2026-11-17T15:30:00-07:00",
-      "end": "2026-11-17T21:00:00-07:00",
-      "type": "rental",
-      "label": "Ice Rental",
-      "notes": "Caroline Skate Club - Viewing Area Only"
     },
     {
       "start": "2026-11-17T16:15:00-07:00",
@@ -278,13 +271,6 @@
       "type": "rental",
       "label": "Ice Rental",
       "notes": "Caroline Skate Club - Pre Skate"
-    },
-    {
-      "start": "2026-11-19T15:30:00-07:00",
-      "end": "2026-11-19T21:00:00-07:00",
-      "type": "rental",
-      "label": "Ice Rental",
-      "notes": "Caroline Skate Club - Viewing Area Only"
     },
     {
       "start": "2026-11-19T16:15:00-07:00",

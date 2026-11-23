@@ -4,7 +4,7 @@
   "source_url": "https://app.univerusrec.com/carolinehubpub/calendars/index.asp",
   "week_start": "2026-11-22",
   "week_end": "2026-11-28",
-  "last_updated": "2026-11-16T02:19:02.906552-07:00",
+  "last_updated": "2026-11-23T02:18:14.099406-07:00",
   "slots": [
     {
       "start": "2026-11-22T09:00:00-07:00",
@@ -19,6 +19,20 @@
       "type": "other",
       "label": "Trails West Tournament - A Finals",
       "notes": "Trails West Tournament - A Finals"
+    },
+    {
+      "start": "2026-11-22T13:00:00-07:00",
+      "end": "2026-11-22T14:00:00-07:00",
+      "type": "other",
+      "label": "Sticks & Pucks",
+      "notes": "Sticks & Pucks"
+    },
+    {
+      "start": "2026-11-22T14:00:00-07:00",
+      "end": "2026-11-22T14:15:00-07:00",
+      "type": "other",
+      "label": "Sticks & Pucks",
+      "notes": "Sticks & Pucks"
     },
     {
       "start": "2026-11-22T15:00:00-07:00",
@@ -56,11 +70,11 @@
       "notes": "GMen Adult League"
     },
     {
-      "start": "2026-11-23T15:30:00-07:00",
+      "start": "2026-11-23T08:00:00-07:00",
       "end": "2026-11-23T21:00:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Minor Hockey Practices - Viewing Area",
-      "notes": "Minor Hockey Practices - Viewing Area"
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Skate Room Reno's"
     },
     {
       "start": "2026-11-23T15:45:00-07:00",
@@ -126,18 +140,18 @@
       "notes": "Minor Hockey Practices - FLOOD"
     },
     {
+      "start": "2026-11-24T08:00:00-07:00",
+      "end": "2026-11-24T21:00:00-07:00",
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Skate Room Reno's"
+    },
+    {
       "start": "2026-11-24T15:30:00-07:00",
       "end": "2026-11-24T16:00:00-07:00",
       "type": "rental",
       "label": "Ice Rental",
       "notes": "Caroline Skate Club - Pre Skate"
-    },
-    {
-      "start": "2026-11-24T15:30:00-07:00",
-      "end": "2026-11-24T21:00:00-07:00",
-      "type": "rental",
-      "label": "Ice Rental",
-      "notes": "Caroline Skate Club - Viewing Area Only"
     },
     {
       "start": "2026-11-24T16:15:00-07:00",
@@ -196,11 +210,11 @@
       "notes": "Minor Hockey Practices - FLOOD"
     },
     {
-      "start": "2026-11-25T15:30:00-07:00",
+      "start": "2026-11-25T08:00:00-07:00",
       "end": "2026-11-25T21:00:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Minor Hockey Practices - Viewing Area",
-      "notes": "Minor Hockey Practices - Viewing Area"
+      "type": "rental",
+      "label": "Ice Rental",
+      "notes": "Skate Room Reno's"
     },
     {
       "start": "2026-11-25T15:45:00-07:00",
@@ -264,13 +278,6 @@
       "type": "rental",
       "label": "Ice Rental",
       "notes": "Caroline Skate Club - Pre Skate"
-    },
-    {
-      "start": "2026-11-26T15:30:00-07:00",
-      "end": "2026-11-26T21:00:00-07:00",
-      "type": "rental",
-      "label": "Ice Rental",
-      "notes": "Caroline Skate Club - Viewing Area Only"
     },
     {
       "start": "2026-11-26T16:15:00-07:00",
@@ -337,10 +344,17 @@
     },
     {
       "start": "2026-11-27T18:15:00-07:00",
-      "end": "2026-11-27T21:00:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Weekend  Unassigned - CAHL",
-      "notes": "Weekend Hockey - Unassigned - CAHL"
+      "end": "2026-11-27T20:30:00-07:00",
+      "type": "other",
+      "label": "U15 Games & Tournaments - U15 Chiefs Vs Strathmore",
+      "notes": "U15 Games & Tournaments - U15 Chiefs Vs Strathmore"
+    },
+    {
+      "start": "2026-11-27T20:30:00-07:00",
+      "end": "2026-11-27T20:45:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "U15 Games & Tournaments - Flood"
     },
     {
       "start": "2026-11-27T21:00:00-07:00",
@@ -350,11 +364,74 @@
       "notes": "Stauffer Pond Scratchers Adult League"
     },
     {
-      "start": "2026-11-28T08:00:00-07:00",
-      "end": "2026-11-28T21:00:00-07:00",
-      "type": "practice",
-      "label": "Hockey - Weekend  Unassigned - CAHL",
-      "notes": "Weekend Hockey - Unassigned - CAHL"
+      "start": "2026-11-28T10:45:00-07:00",
+      "end": "2026-11-28T12:00:00-07:00",
+      "type": "other",
+      "label": "U9 Games & Tournaments - U9B Colts Vs Sundre",
+      "notes": "U9 Games & Tournaments - U9B Colts Vs Sundre"
+    },
+    {
+      "start": "2026-11-28T12:00:00-07:00",
+      "end": "2026-11-28T12:15:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "U9 Games & Tournaments - Flood"
+    },
+    {
+      "start": "2026-11-28T12:15:00-07:00",
+      "end": "2026-11-28T14:15:00-07:00",
+      "type": "other",
+      "label": "U11 Games & Tournaments - U11A Chiefs Vs Stettler",
+      "notes": "U11 Games & Tournaments - U11A Chiefs Vs Stettler"
+    },
+    {
+      "start": "2026-11-28T14:15:00-07:00",
+      "end": "2026-11-28T14:30:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "U11 Games & Tournaments - Flood"
+    },
+    {
+      "start": "2026-11-28T14:30:00-07:00",
+      "end": "2026-11-28T16:30:00-07:00",
+      "type": "other",
+      "label": "U13 Games & tournaments - U13B Chiefs Vs New Sarepta",
+      "notes": "U13 Games & tournaments - U13B Chiefs Vs New Sarepta"
+    },
+    {
+      "start": "2026-11-28T16:30:00-07:00",
+      "end": "2026-11-28T16:45:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "U13 Games & tournaments - Flood"
+    },
+    {
+      "start": "2026-11-28T16:45:00-07:00",
+      "end": "2026-11-28T19:00:00-07:00",
+      "type": "other",
+      "label": "U15 Games & Tournaments - U15 Chiefs Vs Blackfalds",
+      "notes": "U15 Games & Tournaments - U15 Chiefs Vs Blackfalds"
+    },
+    {
+      "start": "2026-11-28T19:00:00-07:00",
+      "end": "2026-11-28T19:15:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "U15 Games & Tournaments - Flood"
+    },
+    {
+      "start": "2026-11-28T19:15:00-07:00",
+      "end": "2026-11-28T21:45:00-07:00",
+      "type": "other",
+      "label": "U18 Games & Tournaments - U18 Chiefs Vs Strathmore",
+      "notes": "U18 Games & Tournaments - U18 Chiefs Vs Strathmore"
+    },
+    {
+      "start": "2026-11-28T21:45:00-07:00",
+      "end": "2026-11-28T22:00:00-07:00",
+      "type": "maintenance",
+      "label": "Maintenance",
+      "notes": "U18 Games & Tournaments - Flood"
     }
   ]
 }
