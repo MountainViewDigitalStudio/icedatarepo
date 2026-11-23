@@ -7,12 +7,12 @@
     "source_url": "https://app.univerusrec.com/oldsrecreationpub/calendars/facilities/index.asp"
   },
   "available_weeks": [
-    "2026-11-01",
     "2026-11-08",
     "2026-11-15",
     "2026-11-22",
-    "2026-11-29"
+    "2026-11-29",
+    "2026-12-06"
   ],
-  "current_week": "2026-11-15",
-  "generated_at": "2026-11-16T09:19:12.981218Z"
+  "current_week": "2026-11-22",
+  "generated_at": "2026-11-23T09:18:27.642342Z"
 }

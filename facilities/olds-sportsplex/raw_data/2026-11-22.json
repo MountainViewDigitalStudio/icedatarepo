@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-11-16T09:19:12.981218Z",
+  "generated_at": "2026-11-23T09:18:27.642342Z",
   "facility": {
     "id": "olds-sportsplex",
     "name": "Olds Sportsplex",
@@ -18,11 +18,11 @@
       "name": "Main Ice Surface",
       "slots": [
         {
-          "type": "practice",
-          "start": "2026-11-22T08:15:00-07:00",
+          "type": "game",
+          "start": "2026-11-22T08:00:00-07:00",
           "end": "2026-11-22T09:30:00-07:00",
-          "label": "U9",
-          "notes": "OMHA November 2026 - U9"
+          "label": "U11B vs Airdrie",
+          "notes": "OMHA November 2026 - U11B vs Airdrie"
         },
         {
           "type": "game",
@@ -39,18 +39,18 @@
           "notes": "Grizzlys U18AA Tournament - 1st vs 2nd"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-11-22T15:00:00-07:00",
           "end": "2026-11-22T17:00:00-07:00",
-          "label": "U15",
-          "notes": "OMHA November 2026 - U15"
+          "label": "U15C vs Strathmore",
+          "notes": "OMHA November 2026 - U15C vs Strathmore"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-11-22T17:15:00-07:00",
           "end": "2026-11-22T19:30:00-07:00",
-          "label": "U18",
-          "notes": "OMHA November 2026 - U18"
+          "label": "U18B vs Innisfail",
+          "notes": "OMHA November 2026 - U18B vs Innisfail"
         },
         {
           "type": "game",
@@ -278,17 +278,10 @@
         },
         {
           "type": "practice",
-          "start": "2026-11-27T13:30:00-07:00",
-          "end": "2026-11-27T14:30:00-07:00",
-          "label": "Longhorns",
-          "notes": "Longhorns"
-        },
-        {
-          "type": "practice",
           "start": "2026-11-27T14:45:00-07:00",
           "end": "2026-11-27T15:45:00-07:00",
-          "label": "Longhorns",
-          "notes": "Longhorns"
+          "label": "U15 Female Longhorns",
+          "notes": "Longhorns - U15 Female Longhorns"
         },
         {
           "type": "practice",
@@ -319,18 +312,18 @@
           "notes": "OMHA November 2026 - U7 Red vs Cremona Blue U7 Yellow vs Cremona Black"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-11-28T09:30:00-07:00",
           "end": "2026-11-28T11:30:00-07:00",
-          "label": "U13",
-          "notes": "OMHA November 2026 - U13"
+          "label": "U13B vs Innisfail",
+          "notes": "OMHA November 2026 - U13B vs Innisfail"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-11-28T11:45:00-07:00",
           "end": "2026-11-28T13:00:00-07:00",
-          "label": "U9",
-          "notes": "OMHA November 2026 - U9"
+          "label": "U9A vs Sundre U9B vs Blndman Valley",
+          "notes": "OMHA November 2026 - U9A vs Sundre U9B vs Blndman Valley"
         },
         {
           "type": "game",
@@ -360,10 +353,17 @@
       "slots": [
         {
           "type": "practice",
-          "start": "2026-11-22T09:30:00-07:00",
-          "end": "2026-11-22T11:30:00-07:00",
-          "label": "OMHA",
-          "notes": "OMHA November 2026 - OMHA"
+          "start": "2026-11-22T08:00:00-07:00",
+          "end": "2026-11-22T09:30:00-07:00",
+          "label": "OMHA no teams",
+          "notes": "OMHA November 2026 - OMHA no teams"
+        },
+        {
+          "type": "game",
+          "start": "2026-11-22T09:45:00-07:00",
+          "end": "2026-11-22T11:45:00-07:00",
+          "label": "U11A vs Okotoks",
+          "notes": "OMHA November 2026 - U11A vs Okotoks"
         },
         {
           "type": "game",
@@ -373,11 +373,11 @@
           "notes": "Grizzlys U18AA Tournament - 3rd vs 4th"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-11-22T14:45:00-07:00",
-          "end": "2026-11-22T16:45:00-07:00",
-          "label": "U11 Female",
-          "notes": "OMHA November 2026 - U11 Female"
+          "end": "2026-11-22T17:00:00-07:00",
+          "label": "U18 fem vs Cochrane",
+          "notes": "OMHA November 2026 - U18 fem vs Cochrane"
         },
         {
           "type": "game",
@@ -591,17 +591,17 @@
         },
         {
           "type": "practice",
+          "start": "2026-11-27T10:45:00-07:00",
+          "end": "2026-11-27T11:45:00-07:00",
+          "label": "Sticks and Pucks 2026/2027",
+          "notes": "Sticks and Pucks 2026/2027"
+        },
+        {
+          "type": "practice",
           "start": "2026-11-27T12:00:00-07:00",
           "end": "2026-11-27T13:30:00-07:00",
           "label": "Skate with Buddy and Friends (OFC)",
           "notes": "Skate with Buddy and Friends (OFC)"
-        },
-        {
-          "type": "practice",
-          "start": "2026-11-27T13:45:00-07:00",
-          "end": "2026-11-27T14:45:00-07:00",
-          "label": "Longhorns",
-          "notes": "Longhorns"
         },
         {
           "type": "practice",
@@ -611,11 +611,11 @@
           "notes": "Olds Figure Skating Club 2026/27 - STAR"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-11-27T17:30:00-07:00",
           "end": "2026-11-27T19:30:00-07:00",
-          "label": "U11",
-          "notes": "OMHA November 2026 - U11"
+          "label": "U11A vs Sundre",
+          "notes": "OMHA November 2026 - U11A vs Sundre"
         },
         {
           "type": "game",
@@ -625,46 +625,46 @@
           "notes": "OMHA November 2026 - U15AA vs Bow Valley"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-11-28T08:15:00-07:00",
           "end": "2026-11-28T10:15:00-07:00",
-          "label": "U11 fem",
-          "notes": "OMHA November 2026 - U11 fem"
+          "label": "U11 fem vs Airdrie",
+          "notes": "OMHA November 2026 - U11 fem vs Airdrie"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-11-28T10:30:00-07:00",
           "end": "2026-11-28T12:30:00-07:00",
-          "label": "U11",
-          "notes": "OMHA November 2026 - U11"
+          "label": "U11B vs Chestermere",
+          "notes": "OMHA November 2026 - U11B vs Chestermere"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-11-28T12:45:00-07:00",
           "end": "2026-11-28T14:45:00-07:00",
-          "label": "U15",
-          "notes": "OMHA November 2026 - U15"
+          "label": "U15A vs Camrose",
+          "notes": "OMHA November 2026 - U15A vs Camrose"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-11-28T15:00:00-07:00",
           "end": "2026-11-28T17:00:00-07:00",
-          "label": "U15 fem",
-          "notes": "OMHA November 2026 - U15 fem"
+          "label": "U15A fem vs Stettler",
+          "notes": "OMHA November 2026 - U15A fem vs Stettler"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-11-28T17:15:00-07:00",
           "end": "2026-11-28T19:30:00-07:00",
-          "label": "U15",
-          "notes": "OMHA November 2026 - U15"
+          "label": "U15B vs Rocky",
+          "notes": "OMHA November 2026 - U15B vs Rocky"
         },
         {
-          "type": "practice",
+          "type": "game",
           "start": "2026-11-28T19:45:00-07:00",
           "end": "2026-11-28T22:00:00-07:00",
-          "label": "U18",
-          "notes": "OMHA November 2026 - U18"
+          "label": "U18B vs EWAA",
+          "notes": "OMHA November 2026 - U18B vs EWAA"
         }
       ]
     }
